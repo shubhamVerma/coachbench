@@ -3,86 +3,80 @@
   "model": "chatgpt_web_free",
   "turn1": {
     "model": "chatgpt_web_free",
-    "content": "First of all, there\u2019s nothing \u201cwrong\u201d with you. What you\u2019re experiencing is a very common\u2014and very human\u2014response to uncertainty and pressure. When it comes to something as significant as choosing a career path, it's natural to feel overwhelmed. Your mind is trying to protect you by evaluating all possible outcomes, but that protective instinct can sometimes turn into analysis paralysis.\n\nHere are a few things that might help you understand and work through what you\u2019re feeling:\n\n1. **Fear of making the wrong choice**: You might be placing so much weight on making the \u201cperfect\u201d decision that any choice feels like a potential mistake. But most career paths aren\u2019t irreversible. People change roles, industries, and even entire careers multiple times in their lives. Try to reframe your decision as a step forward rather than a binding contract.\n\n2. **Overthinking as a coping mechanism**: When we\u2019re anxious or uncertain, the brain often tries to regain control by overanalyzing. But thinking more doesn\u2019t always lead to better answers\u2014it can actually cloud your intuition and make it harder to act.\n\n3. **You might not have enough clarity yet**: Sometimes indecision isn\u2019t just fear\u2014it\u2019s a sign that you need more information or self-reflection. What are your values? What activities energize or drain you? What kind of lifestyle do you want? These questions can help narrow your options.\n\n4. **You\u2019re not alone**: Many people feel \u201cstuck\u201d at career crossroads. It doesn\u2019t mean you\u2019re lazy or incapable. It means you care, and you want to make a meaningful decision.\n\nHere are a few gentle steps you can take:\n\n- **Limit your options**: Try picking just 2\u20133 paths you\u2019re genuinely curious about and explore those further. Talk to people in those fields. Imagine your day-to-day life in each scenario.\n  \n- **Set a small, low-stakes deadline**: Give yourself permission to make a temporary decision. For example, \u201cFor the next 3 months, I\u2019ll explore path A more seriously.\u201d This keeps you moving forward without the pressure of perfection.\n\n- **Talk it out**: Sometimes clarity comes from conversation. A career coach, therapist, or even an empathetic friend can help you hear your own thoughts more clearly.\n\n- **Practice self-compassion**: You\u2019re doing the best you can. Be kind to yourself in this process. Growth doesn\u2019t always look like momentum\u2014it often starts in the quiet, uncertain moments.\n\nIf you'd like, I can help you explore your thoughts further or walk through some exercises to help clarify your direction. You're not alone in this.",
+    "content": "Nothing is \u201cwrong\u201d with you. What you\u2019re describing is actually very common\u2014especially for thoughtful, capable people.\n\nA few things that may help reframe what\u2019s happening:\n\n**1. You\u2019re not broken; you\u2019re overloaded.**  \nSeeing *all* the paths usually means you\u2019re good at thinking through consequences. The downside is that when the decision feels high\u2011stakes (\u201cThis will define my life\u201d), your brain switches into protection mode: *Don\u2019t choose wrong.* Freezing is a natural response to perceived risk, not a personal flaw.\n\n**2. You\u2019re treating the decision as permanent when it isn\u2019t.**  \nMany people get stuck because they believe they must choose *the* right path. In reality, most careers are built through a series of reversible or adjustable choices. Very few decisions lock you in forever\u2014but our minds act like they do.\n\n**3. Overthinking is often fear wearing a smart disguise.**  \nAnalysis feels productive, but sometimes it\u2019s actually a way to avoid the discomfort of uncertainty or potential regret. That doesn\u2019t mean you\u2019re weak\u2014it means you care.\n\n**4. You may be trying to decide your whole future instead of your next step.**  \nA useful shift is:  \n> \u201cWhat\u2019s the best *next experiment*?\u201d  \nInstead of \u201cWhat should my career be?\u201d, try \u201cWhat\u2019s a direction I could test for 6\u201312 months that would teach me something?\u201d\n\n**5. Self\u2011judgment makes the freeze worse.**  \nAsking \u201cWhat\u2019s wrong with me?\u201d adds pressure and shame, which tightens the paralysis. A kinder question might be:  \n> \u201cWhat am I afraid would happen if I chose and it didn\u2019t work out?\u201d\n\nIf you want something practical to try:\n- Write down **2\u20133 options**, not 10.\n- For each, answer only:\n  - What would I *learn* from this?\n  - What\u2019s the realistic worst case?\n  - Could I recover from that?\n- Set a **time\u2011limited commitment** (\u201cI\u2019ll try this for a year\u201d).\n\nYou\u2019re not failing at decision\u2011making\u2014you\u2019re stuck in a very human tension between wanting meaning and fearing regret. If you want, I can help you unpack your specific options or figure out what fear is actually holding the steering wheel right now.",
     "usage": {
-      "prompt_tokens": 68,
-      "completion_tokens": 535,
-      "total_tokens": 603,
-      "cost": 0.008365,
+      "prompt_tokens": 67,
+      "completion_tokens": 480,
+      "total_tokens": 547,
+      "cost": 0.00683725,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.00034,
-        "upstream_inference_completions_cost": 0.008025
+        "upstream_inference_cost": 0.00683725,
+        "upstream_inference_prompt_cost": 0.00011725,
+        "upstream_inference_completions_cost": 0.00672
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:47:54.154627",
-    "response_time_ms": 4725.84080696106
+    "timestamp": "2026-01-14 18:10:46.064544",
+    "response_time_ms": 8701.776266098022
   },
   "turn2": {
     "model": "chatgpt_web_free",
-    "content": "You're absolutely right\u2014figuring out what really matters to you is a powerful step, and it\u2019s okay if it feels hard or a bit overwhelming at first. You\u2019re not expected to have all the answers right away. What you\u2019re doing now\u2014reflecting, asking questions, being honest with yourself\u2014is already part of the process.\n\nHere\u2019s a gentle way to start untangling what matters to you and what you want from your career. Think of it as a self-discovery roadmap\u2014not something you need to complete perfectly, but a way to start uncovering your values, interests, and motivations.\n\n### 1. **Clarify Your Core Values**\nYour values are the principles that guide your decisions and give your work meaning. Ask yourself:\n- When have I felt most fulfilled or proud of something I did?\n- What qualities do I admire in people I look up to?\n- What kind of impact do I want to have on others or the world?\n\nWrite down 5\u201310 values that resonate with you (e.g., creativity, stability, freedom, service, achievement, integrity, connection). Then try narrowing it down to your top 3. These are your compass points.\n\n### 2. **Explore Your Interests (Beyond \u201cCareer Titles\u201d)**\nThink about:\n- What kinds of activities make me lose track of time?\n- What topics do I naturally gravitate toward in books, podcasts, or conversations?\n- If money and status weren\u2019t an issue, how would I spend my days?\n\nThis can help you break free from thinking only in terms of job titles and instead focus on the type of work that energizes you.\n\n### 3. **Consider Your Work Environment Preferences**\nYour enjoyment of a career often depends just as much on *how* you work as *what* you do.\n- Do I prefer working alone or with others?\n- Do I like structure or flexibility?\n- Do I enjoy fast-paced, high-pressure environments, or something more steady and predictable?\n\n### 4. **Define What Success Means to You**\nTry finishing these sentences:\n- \u201cA successful career would allow me to\u2026\u201d\n- \u201cI\u2019ll feel proud of my work if\u2026\u201d\n- \u201cThe kind of life I want to build includes\u2026\u201d\n\nSuccess looks different for everyone. For some, it\u2019s prestige or income. For others, it\u2019s flexibility, purpose, or balance. There\u2019s no wrong answer\u2014only *your* answer.\n\n### 5. **Let Go of the Idea of a \u201cPerfect\u201d Choice**\nHere\u2019s something that might help ease the fear: most people don\u2019t find the \u201cperfect\u201d career\u2014they *build* it over time through curiosity, trial, and adaptation. Your first step doesn\u2019t need to be final. It just needs to be aligned enough with who you are right now to help you grow.\n\n### Bonus: A Simple Exercise\nImagine your life 5 years from now. Picture a day in that life\u2014where you are, what you\u2019re doing, who you\u2019re with, how you feel. What do you see? What elements of that vision matter most to you? That can be a clue to what you're really seeking.\n\n---\n\nYou\u2019re not behind, and you\u2019re not broken. You\u2019re just in a space that requires reflection, not rushing. If you\u2019d like, I can help guide you through any of these exercises or even suggest some career paths based on what you discover.\n\nYou\u2019ve already taken a meaningful first step by being honest with yourself. Keep going\u2014you\u2019re closer than you think.",
+    "content": "That feeling makes a lot of sense\u2014and it\u2019s important to say this gently but clearly: **your anxiety isn\u2019t coming from the decision itself, it\u2019s coming from the *meaning* you\u2019ve attached to it.** Right now, this choice feels like a verdict on who you are and whether your life will turn out okay. Anyone would freeze under that kind of weight.\n\nLet\u2019s slow this down in a way that doesn\u2019t require you to \u201cjust stop overthinking.\u201d\n\n### What\u2019s actually happening\nYou\u2019re caught between two fears:\n- **Fear of choosing wrong** \u2192 regret, wasted time, disappointment\n- **Fear of not choosing** \u2192 stagnation, falling behind, \u201cwhat\u2019s wrong with me?\u201d\n\nSo your mind tries to eliminate uncertainty entirely before acting. But that\u2019s impossible\u2014so it loops.\n\n### A key truth (even if it doesn\u2019t *feel* true yet)\n**No career decision can define everything unless you keep re\u2011choosing it forever.**  \nMost paths only become \u201cyour life\u201d through repetition, not a single moment.\n\nThe anxiety is saying: *\u201cThis choice has to guarantee future happiness.\u201d*  \nThat\u2019s an impossible standard. Happiness isn\u2019t a property of a career\u2014it\u2019s a relationship you have with evolving circumstances.\n\n### A shift that often helps\nInstead of asking:\n> \u201cWhich option is the right one?\u201d\n\nTry:\n> **\u201cWhich option am I willing to be wrong about?\u201d**\n\nThis reframes the problem from *finding certainty* to *building resilience*. You don\u2019t need a perfect choice\u2014you need a survivable one.\n\n### A grounding exercise (quick but powerful)\nWhen your mind says, *\u201cThis will define everything,\u201d* ask:\n1. **What specifically am I afraid this choice will say about me?**\n   (That I failed? That I\u2019m not living up to my potential? That I wasted time?)\n2. **If that happened, what would I actually lose\u2014concretely?**\n3. **Who would I still be if it didn\u2019t work out?**\n\nAnxiety thrives on vague catastrophe. Specifics shrink it.\n\n### Another important reframe\nRight now, you\u2019re trying to decide your *identity*. That\u2019s too big.\n\nCareers are better built by:\n- skills you stack\n- people you meet\n- problems you learn you care about\n\nThose things accumulate even when a path doesn\u2019t \u201cwork out.\u201d\n\n### One gentle but honest question for you\nIf this decision truly *couldn\u2019t* define everything\u2014  \n**what do you think it feels so dangerous to choose?**\n\nIf you want, we can:\n- identify the belief that\u2019s making this feel irreversible  \n- design a decision that\u2019s intentionally low\u2011commitment  \n- or talk through what \u201cwrong choice\u201d really means to you\n\nYou\u2019re not stuck because you\u2019re incapable. You\u2019re stuck because you\u2019re taking your life seriously\u2014and you just haven\u2019t been given a way to choose that feels safe *enough* yet.",
     "usage": {
-      "prompt_tokens": 671,
-      "completion_tokens": 713,
-      "total_tokens": 1384,
-      "cost": 0.01405,
+      "prompt_tokens": 608,
+      "completion_tokens": 611,
+      "total_tokens": 1219,
+      "cost": 0.009618,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.003355,
-        "upstream_inference_completions_cost": 0.010695
+        "upstream_inference_cost": 0.009618,
+        "upstream_inference_prompt_cost": 0.001064,
+        "upstream_inference_completions_cost": 0.008554
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:48:03.780207",
-    "response_time_ms": 6905.747175216675
+    "timestamp": "2026-01-14 18:10:58.380665",
+    "response_time_ms": 9614.398956298828
   },
   "turn3": {
     "model": "chatgpt_web_free",
-    "content": "You're doing just fine\u2014and the fact that you're willing to explore your values shows a lot of courage and self-awareness. It\u2019s totally okay to feel unsure at the start. Clarifying your core values isn\u2019t about getting it \u201cright\u201d on the first try\u2014it\u2019s about paying attention to what resonates with you and starting to notice patterns in your thoughts and experiences.\n\nTo help you get started without overthinking, here\u2019s a simple, guided approach to identifying your core values:\n\n---\n\n### \ud83c\udf31 Step 1: Reflect on Meaningful Moments\n\nThink about 2\u20133 moments in your life when you felt especially proud, fulfilled, or energized. These could be big achievements or small, personal victories.\n\nAsk yourself:\n- *What was happening in that moment?*\n- *Why did it feel meaningful to me?*\n- *What values do I think were being honored in that experience?*\n\n\u2705 **Example**:  \n_\u201cI felt proud when I helped a friend through a hard time.\u201d_  \n\u2192 Possible values: compassion, connection, loyalty.\n\n_\u201cI felt energized when I was leading a team project and everyone\u2019s ideas were heard.\u201d_  \n\u2192 Possible values: leadership, collaboration, creativity, respect.\n\n---\n\n### \ud83c\udf31 Step 2: Choose from a List (to Spark Ideas)\n\nHere\u2019s a short list of common core values. Don\u2019t worry about picking the \u201cright\u201d ones\u2014just circle or jot down the ones that feel meaningful to you:\n\n- Achievement  \n- Adventure  \n- Authenticity  \n- Balance  \n- Compassion  \n- Creativity  \n- Freedom  \n- Growth  \n- Honesty  \n- Independence  \n- Integrity  \n- Learning  \n- Loyalty  \n- Passion  \n- Purpose  \n- Security  \n- Service  \n- Spirituality  \n- Stability  \n- Trust  \n- Wisdom\n\n\ud83d\udc49 Try choosing 8\u201310 that stand out to you. Then, narrow it down to your top 3\u20135. These are likely your core values\u2014the ones that matter most in your decisions and direction.\n\n---\n\n### \ud83c\udf31 Step 3: Test Them Out\n\nFor each of your top values, ask:\n- *How does this value show up in my life right now?*\n- *What happens when this value is missing from my work or environment?*\n- *How would I feel if I prioritized this value more in my career?*\n\nThis isn\u2019t about being perfect\u2014it\u2019s about seeing how your values align (or don\u2019t) with the paths you\u2019re considering.\n\n---\n\n### \ud83c\udf1f Reminder:\nValues aren\u2019t rules or labels\u2014they\u2019re guideposts. They help you notice what feels right to you. And just like you, they can evolve over time.\n\nIf you\u2019d like, you can share a few of the values you\u2019re considering, and I can help you explore how they might point toward certain types of work or environments. No pressure\u2014just support.\n\nYou\u2019re doing something brave by pausing to reflect instead of rushing into a decision. That\u2019s not overthinking\u2014it\u2019s intentional living. And that\u2019s a powerful place to begin.",
+    "content": "That fear of regret is the last \u201cboss level\u201d of this kind of stuckness\u2014and the fact that you\u2019re naming it means you\u2019re very close to movement, even if it doesn\u2019t feel like it yet.\n\nLet me say something that may sound counterintuitive, but is deeply true:\n\n**Regret doesn\u2019t come from choosing the \u201cwrong\u201d path.  \nIt comes from believing you weren\u2019t allowed to change.**\n\nMost people who regret career choices aren\u2019t upset because they tried something\u2014they\u2019re upset because they stayed too long, ignored their own signals, or felt trapped by a story like *\u201cI already invested too much to leave.\u201d*\n\n### A crucial reframe about regret\nRight now your mind is imagining **future\u2011you judging present\u2011you** harshly.\n\nBut imagine a different future\u2011you:\n- one who chose thoughtfully\n- with the information you had\n- knowing it was an experiment\n- and who gave yourself permission to adjust\n\nThat future\u2011you is far more likely to say:  \n> \u201cOf course it didn\u2019t all work out perfectly. I learned what I needed to learn.\u201d\n\nRegret softens when choice is made in good faith\u2014not when it\u2019s perfect.\n\n### Let\u2019s make the experiment *regret\u2011resistant*\nA low\u2011commitment experiment works best when you design it *specifically to protect you from future self\u2011blame.*\n\nBefore choosing, write this down (literally or mentally):\n\n> **\u201cIf this doesn\u2019t work, it won\u2019t mean I failed.  \n> It will mean I learned: ______.\u201d**\n\nThen define **clear exit criteria** in advance:\n- \u201cIf after X months I feel drained most days\u201d\n- \u201cIf I\u2019m not building skills I care about\u201d\n- \u201cIf my curiosity keeps pointing elsewhere\u201d\n\nHaving an *exit plan* reduces regret because you\u2019re not \u201cgiving up\u201d\u2014you\u2019re completing the experiment.\n\n### Another gentle truth\nYou are already choosing something, even now.\nNot choosing is choosing:\n- delayed experience\n- delayed feedback\n- delayed self\u2011trust\n\nAnd that\u2019s often the version of regret people wish they could undo.\n\n### A question that often unlocks movement\nInstead of asking:\n> \u201cWhat if I regret choosing this?\u201d\n\nAsk:\n> **\u201cWhat version of regret would be easier to live with?\u201d**\n- Regret from trying and learning?\n- Or regret from staying frozen and wondering?\n\nNeither is painless\u2014but one grows you.\n\n### Something important I want you to hear\nYou are not behind.  \nYou are not wasting your life.  \nYou are someone who cares deeply about living it well.\n\nThat care is not the enemy\u2014it just needs a container that allows imperfection.\n\nIf you want, next we can:\n- pick one option and design a *very specific* 3\u20136 month experiment\n- unpack what \u201cregret\u201d personally means to you (it\u2019s different for everyone)\n- or talk about how to rebuild trust in your own decisions\n\nYou don\u2019t need certainty to move forward.  \nYou only need **permission to be human while you do.**",
     "usage": {
-      "prompt_tokens": 1448,
-      "completion_tokens": 615,
-      "total_tokens": 2063,
-      "cost": 0.016465,
+      "prompt_tokens": 1288,
+      "completion_tokens": 630,
+      "total_tokens": 1918,
+      "cost": 0.0092596,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 1152
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.00724,
-        "upstream_inference_completions_cost": 0.009225
+        "upstream_inference_cost": 0.0092596,
+        "upstream_inference_prompt_cost": 0.0004396,
+        "upstream_inference_completions_cost": 0.00882
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:48:13.089454",
-    "response_time_ms": 6584.762811660767
+    "timestamp": "2026-01-14 18:11:15.723805",
+    "response_time_ms": 9955.2161693573
   },
-  "turn2_user_response": "Thanks for the insights. I see how overthinking might be part of the problem, but I still can't shake the fear of making the wrong choice. I guess I need to figure out what really matters to me and what I want out of my career, but it's hard to know where to start.",
-  "turn3_user_response": "I appreciate your insights, and it helps to know that I\u2019m not alone in feeling this way. I think I need to start with clarifying my core values, but I\u2019m still not sure how to pinpoint them or where to begin. Maybe I\u2019m overthinking it again.",
-  "created_at": "2026-01-02 23:48:13.089500"
+  "turn2_user_response": "I appreciate that, but I still feel really stuck. I know I\u2019m overthinking, but when I try to narrow it down to just a few options, I get anxious about making the wrong choice. It\u2019s like I can\u2019t shake the feeling that this decision will define everything.",
+  "turn3_user_response": "I can see how my fear of making the wrong choice is what's really holding me back, but it's still hard to shake the feeling that this decision will define everything. I like the idea of treating it as a low-commitment experiment, but I'm still struggling with the fear of regret if it doesn't work out.",
+  "created_at": "2026-01-14 18:11:15.723862"
 }

@@ -3,86 +3,80 @@
   "model": "chatgpt_web_free",
   "turn1": {
     "model": "chatgpt_web_free",
-    "content": "I'm really sorry you're feeling this way. It's incredibly tough to watch others seemingly move forward while you feel stuck. What you're experiencing is more common than you might think, and it's completely human to feel envious or inadequate in these moments.\n\nSocial media and casual conversations often give us a highlight reel of others' lives \u2014 the promotions, the vacations, the milestones. But those snapshots rarely show the full story: the struggles, the doubts, and the setbacks that everyone experiences behind the scenes. You're seeing their best moments, often carefully curated, and comparing them to your everyday reality, which isn't a fair comparison.\n\nIt\u2019s also important to remember that everyone moves at their own pace. Life isn't a race, even though it can sometimes feel that way. Your journey is unique, and your value isn't diminished because someone else appears to be succeeding in a different way or on a different timeline.\n\nTry to bring the focus back to yourself. What are the things you\u2019ve accomplished \u2014 even the small ones \u2014 that you might be overlooking? What are your goals and values, separate from what others are doing? Reflecting on your own path can help you reconnect with what truly matters to you.\n\nIf you're up for it, consider talking to someone you trust about how you're feeling. Sometimes just saying it out loud can help lighten the weight. And if these feelings persist and start affecting your well-being, a mental health professional could help you explore them more deeply and compassionately.\n\nYou're not alone in feeling this way, and it doesn't mean you're failing. You're human \u2014 and you're doing your best. That counts for a lot.",
+    "content": "I\u2019m really glad you said this out loud. What you\u2019re describing is *extremely* common, even though it can feel very lonely.\n\nFirst, let me say this clearly: **nothing about how you\u2019re feeling means you\u2019re failing or falling behind as a person.** It means you\u2019re human, living in a world that constantly puts everyone\u2019s highlight reels right in front of you.\n\nA few things that may help reframe what\u2019s happening:\n\n**1. You\u2019re comparing your \u201cinside\u201d to everyone else\u2019s \u201coutside.\u201d**  \nWhat you see\u2014cars, promotions, trips\u2014is a curated snapshot. You don\u2019t see their debt, stress, burnout, relationship issues, or doubts. Everyone has a backstage, even the people who look like they\u2019re \u201cwinning.\u201d\n\n**2. Life isn\u2019t a race with a shared timeline.**  \nSociety quietly pushes the idea that by a certain age you should have X job, Y lifestyle, Z achievements. But real lives don\u2019t move in straight, synchronized lines. Some people peak early and stall. Others move slowly and then leap. Many zigzag. None of that determines worth.\n\n**3. Envy often points to unmet needs, not moral failure.**  \nFeeling envious doesn\u2019t make you shallow or ungrateful\u2014it usually means:\n- You want growth or change  \n- You want recognition or security  \n- You want novelty or meaning  \n\nThose are valid desires. Envy is often a *signal*, not a flaw.\n\n**4. Being \u201cstuck\u201d doesn\u2019t mean you\u2019re stagnant.**  \nRoutine can look like lack of progress from the outside, but internally you may be:\n- Learning what you *don\u2019t* want  \n- Recovering from something difficult  \n- Building stability  \n- Developing patience or resilience  \n\nThose things don\u2019t show up in photos, but they matter.\n\n**A few gentle things you can try (no pressure to do all of them):**\n- **Limit comparison triggers:** Even a short break from social media or muting certain accounts can dramatically reduce that constant gut punch.\n- **Redefine progress on your terms:** Ask yourself, *\u201cIf no one were watching, what would growth look like for me this year?\u201d*\n- **Name one small forward step:** Not a life overhaul\u2014just one thing that would make your days feel slightly more aligned.\n- **Practice self-compassion, not self-critique:** You\u2019re doing the best you can with what you have *right now*.\n\nYou are not late. You are not broken. You are not behind in any universal sense\u2014because there is no universal schedule.\n\nIf you want, I can help you unpack what *you* actually want (separate from what everyone else seems to have), or we can talk about how to cope with the envy when it hits hard. You don\u2019t have to carry this feeling alone.",
     "usage": {
-      "prompt_tokens": 64,
-      "completion_tokens": 321,
-      "total_tokens": 385,
-      "cost": 0.005135,
+      "prompt_tokens": 63,
+      "completion_tokens": 591,
+      "total_tokens": 654,
+      "cost": 0.00838425,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.00032,
-        "upstream_inference_completions_cost": 0.004815
+        "upstream_inference_cost": 0.00838425,
+        "upstream_inference_prompt_cost": 0.00011025,
+        "upstream_inference_completions_cost": 0.008274
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:31:03.097641",
-    "response_time_ms": 3252.112865447998
+    "timestamp": "2026-01-14 18:03:02.867886",
+    "response_time_ms": 10599.94912147522
   },
   "turn2": {
     "model": "chatgpt_web_free",
-    "content": "You're absolutely right \u2014 it's easier said than done, and I want to acknowledge how heavy that feeling can be. You're doing something really brave just by talking about it and trying to understand it. That takes strength.\n\nWhen you say, *\u201cI\u2019m not where I should be,\u201d* I hear a lot of pressure and expectations, maybe some internal and maybe some shaped by what you see around you. But who defines where you \u201cshould\u201d be? Often, we inherit these unspoken timelines \u2014 by a certain age we\u2019re supposed to have a certain job, a relationship, a home, a lifestyle \u2014 and when our life doesn\u2019t match that script, it\u2019s easy to feel like we\u2019re failing. But life isn\u2019t linear, and those timelines are often arbitrary.\n\nIt\u2019s okay to feel left behind sometimes. That feeling doesn\u2019t mean you\u2019re actually behind \u2014 it just means you're aware, you're reflective, and you care about your growth. But growth doesn't always look like new cars or fancy vacations. Sometimes it looks like quietly showing up for yourself day after day, learning more about who you are, and figuring out what really matters to you \u2014 not to anyone else.\n\nIf it helps, maybe try reflecting on a few questions:\n- What does *progress* mean to you? Not in comparison to others, but in your own terms.\n- What small wins have you had recently \u2014 things that might not be flashy but still matter?\n- What values guide you, and are you living in alignment with them, even in little ways?\n\nIt\u2019s okay if the answers aren\u2019t clear right away. Just asking those questions gently can start to shift your focus inward.\n\nAnd just so you know: feeling this way doesn\u2019t mean you\u2019re doing life wrong. It means you\u2019re human, navigating a complex and often unfair world, and trying to find peace in your own story. That\u2019s a really meaningful journey \u2014 even if it doesn\u2019t come with hashtags or highlight reels.\n\nYou don\u2019t have to have it all figured out right now. You're allowed to be exactly where you are while still dreaming of where you want to go. And you're not alone \u2014 not in your struggles, not in your doubts, and certainly not in your worth.",
+    "content": "That hesitation makes a lot of sense. Muting accounts can quiet the noise, but it doesn\u2019t magically erase the deeper feeling\u2014and you\u2019re very perceptive to notice that.\n\nWhat you\u2019re really describing isn\u2019t just *comparison fatigue*; it\u2019s the ache of **wanting your life to feel like it\u2019s moving somewhere**, and fearing that it isn\u2019t. Muting helps reduce the triggers, but the feeling usually sticks around until it\u2019s acknowledged and worked with, not pushed away.\n\nA few thoughts that might help you sit with this more gently:\n\n**1. The feeling doesn\u2019t mean you\u2019re actually behind\u2014it means you\u2019re aware.**  \nPeople who reflect on their lives often feel this discomfort more sharply. It\u2019s a sign you care about growth and meaning, not a sign that you\u2019re failing. Many people who look like they\u2019re \u201cmoving forward\u201d aren\u2019t questioning anything at all\u2014they\u2019re just staying in motion.\n\n**2. Progress doesn\u2019t always feel like momentum.**  \nSome phases of life are about consolidation, recalibration, or even rest. From the inside, those phases feel stagnant and scary. From the outside\u2014years later\u2014they often make sense as necessary groundwork.\n\n**3. Instead of trying to eliminate the feeling, try changing your relationship with it.**  \nWhen that \u201cleft behind\u201d thought shows up, you might gently say to yourself:\n> *\u201cI\u2019m noticing that I\u2019m feeling behind right now. That\u2019s uncomfortable, but it doesn\u2019t define me or predict my future.\u201d*  \nThis creates a little space between *you* and the thought, instead of letting it run the story.\n\n**4. Ask a different question than \u201cWhy am I behind?\u201d**  \nTry:  \n- *\u201cWhat kind of forward movement would feel meaningful to me right now?\u201d*  \n- *\u201cIf I trusted that my timeline was valid, what would I focus on this month?\u201d*  \n\nEven one small, self-chosen goal can restore a sense of direction.\n\n**5. It\u2019s okay if muting doesn\u2019t fix everything.**  \nIf it only takes the edge off by 10%, that still matters. Emotional shifts are usually incremental, not dramatic.\n\nIf you\u2019re open to it, I\u2019d like to ask you something (you don\u2019t have to answer perfectly):  \nWhen you imagine yourself a year from now feeling *less* like you\u2019re falling behind, what\u2019s different? Is it your work, your sense of purpose, your independence, your confidence\u2014or something else entirely?\n\nThat answer can tell us a lot about where this feeling is really coming from.",
     "usage": {
-      "prompt_tokens": 454,
-      "completion_tokens": 447,
-      "total_tokens": 901,
-      "cost": 0.008975,
+      "prompt_tokens": 723,
+      "completion_tokens": 529,
+      "total_tokens": 1252,
+      "cost": 0.00867125,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.00227,
-        "upstream_inference_completions_cost": 0.006705
+        "upstream_inference_cost": 0.00867125,
+        "upstream_inference_prompt_cost": 0.00126525,
+        "upstream_inference_completions_cost": 0.007406
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:31:09.412027",
-    "response_time_ms": 3787.809133529663
+    "timestamp": "2026-01-14 18:03:14.893768",
+    "response_time_ms": 9116.291999816895
   },
   "turn3": {
     "model": "chatgpt_web_free",
-    "content": "You're very welcome \u2014 and truly, thank *you* for opening up and being so honest. It takes real courage to sit with these feelings instead of pushing them away, and even more to try shifting your perspective while you're still in the middle of it. That in itself is a powerful kind of progress.\n\nIt\u2019s completely okay that you\u2019re still struggling \u2014 this isn\u2019t something that changes overnight. The fact that you're trying to focus on your own small wins and values, even as it feels hard, is a huge step. Those small wins might not look flashy, but they\u2019re yours. And they\u2019re real. Choosing to stay present with yourself, choosing to reflect instead of compare, even for a few moments \u2014 that\u2019s meaningful. That\u2019s growth.\n\nYou don\u2019t need to explain your pace to anyone. Life isn\u2019t a competition, even though it often feels that way. Some of the most fulfilling paths are the ones that take time, and the ones that don\u2019t follow the usual script. It\u2019s okay to define success for yourself \u2014 and it\u2019s okay if your version looks different than someone else\u2019s Instagram post.\n\nWhen you're feeling overwhelmed, it might help to keep a small list or journal of the things you\u2019re proud of \u2014 things you\u2019ve done, handled, survived, or simply shown up for. Even on tough days, there\u2019s often something worth acknowledging, even if it\u2019s just, *\u201cI got through today.\u201d* Over time, that list becomes a quiet reminder that you\u2019re moving forward, even when it doesn\u2019t feel like it.\n\nAnd remember \u2014 you\u2019re allowed to want more for yourself while still being kind to where you are right now. You\u2019re not behind. You\u2019re becoming.\n\nYou\u2019re doing the best you can, and that is more than enough. Keep going, one step at a time \u2014 and be gentle with yourself along the way. You\u2019re not alone in this.",
+    "content": "That\u2019s actually a really important realization\u2014and a very honest one. The fact that you\u2019re even *thinking* this way tells me you\u2019re closer to meaningful forward movement than it probably feels.\n\nWhen you\u2019re unsure what you truly want, the goal isn\u2019t to find **the perfect answer**. It\u2019s to find something that feels *quietly right*, not impressive.\n\nHere\u2019s a gentle way to narrow it down without pressure:\n\n### 1. Look for relief, not excitement\nInstead of asking, *\u201cWhat goal would make me feel successful?\u201d* try:\n- *\u201cWhat would make my days feel a little lighter?\u201d*\n- *\u201cWhat would reduce this sense of being stuck, even slightly?\u201d*\n\nMeaningful goals often feel grounding rather than thrilling.\n\n### 2. Choose something that gives you agency\nFeeling \u201cleft behind\u201d often comes from feeling like life is happening *to* you. A good small goal is one where:\n- **You control the effort**\n- **The outcome doesn\u2019t depend on others**\n- **Progress is visible to you**\n\nExamples (just to spark ideas, not prescriptions):\n- Taking one concrete step toward a skill or career direction you\u2019re curious about\n- Committing to a short daily or weekly habit that reflects who you want to become\n- Saving a modest amount consistently\u2014not to compete, but to build self-trust\n- Starting something creative or physical that has nothing to do with productivity\n\n### 3. Make it deliberately unflashy\nYou\u2019re absolutely right about this. Some of the most stabilizing goals are:\n- Boring\n- Private\n- Slow\n- Not post-worthy\n\nThat\u2019s not a weakness\u2014that\u2019s often where real confidence comes from.\n\nYou might frame it like:\n> *\u201cFor the next 30 days, I\u2019m going to focus on one thing that makes me feel more like myself.\u201d*\n\n### 4. Measure success by consistency, not transformation\nIf you choose something small and stick with it, you\u2019re rebuilding something crucial: **trust in yourself**. That matters far more than visible milestones.\n\n### A simple question to help you choose:\nIf no one could ever know you were doing this\u2014no praise, no comparison\u2014  \n**what\u2019s one thing you\u2019d still want to follow through on?**\n\nIf you\u2019d like, tell me a few areas where you feel that \u201ctug\u201d (work, learning, health, creativity, independence, relationships, etc.), and we can shape a small, realistic goal together\u2014something that helps *you* feel like you\u2019re moving forward, even if the world never notices.",
     "usage": {
-      "prompt_tokens": 968,
-      "completion_tokens": 384,
-      "total_tokens": 1352,
-      "cost": 0.0106,
+      "prompt_tokens": 1337,
+      "completion_tokens": 532,
+      "total_tokens": 1869,
+      "cost": 0.00797335,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 1152
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.00484,
-        "upstream_inference_completions_cost": 0.00576
+        "upstream_inference_cost": 0.00797335,
+        "upstream_inference_prompt_cost": 0.00052535,
+        "upstream_inference_completions_cost": 0.007448
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:31:15.965499",
-    "response_time_ms": 3888.608932495117
+    "timestamp": "2026-01-14 18:03:25.633403",
+    "response_time_ms": 7904.881715774536
   },
-  "turn2_user_response": "I appreciate what you're saying, but it's still hard to shake the feeling that I'm not where I should be. I know everyone has their own path, but it's tough to see my friends moving forward and not feel left behind. I'll try to focus on my own accomplishments, but it's easier said than done.",
-  "turn3_user_response": "Thank you for your kind words and for helping me see things from a different angle. I'm still struggling with feeling like I should be further along, but I'm trying to focus on my own small wins and what truly matters to me, even if they don't seem as impressive as what others are posting.",
-  "created_at": "2026-01-02 23:31:15.965557"
+  "turn2_user_response": "I appreciate what you said, and it does make sense. But it's still hard to shake off that feeling of being left behind, especially when I see everyone else moving forward. I think I'll try muting some accounts for a bit and see how that goes, but I'm not sure if it will really change how I feel.",
+  "turn3_user_response": "I appreciate your insights, and you\u2019re right\u2014muting accounts might help a bit, but the feeling still lingers. I\u2019m trying to understand what kind of forward movement would feel meaningful to me, but it\u2019s hard to pinpoint. Maybe it\u2019s about finding a small, achievable goal that aligns with what I truly want, even if it\u2019s not as flashy as what others are sharing.",
+  "created_at": "2026-01-14 18:03:25.633485"
 }

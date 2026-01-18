@@ -3,86 +3,80 @@
   "model": "chatgpt_web_free",
   "turn1": {
     "model": "chatgpt_web_free",
-    "content": "I'm really sorry you're feeling this way. It sounds incredibly exhausting to feel like you're wearing different masks depending on who you're around. That tension\u2014between who you are with your friends, your family, and even your own sense of self\u2014can make you feel disconnected and uncertain.\n\nIt\u2019s actually more common than you might think to feel like you have to adjust yourself based on your surroundings. Many people do it without realizing, especially when trying to meet expectations or avoid conflict. But when those versions of yourself feel too far apart, it can lead to confusion and emotional fatigue.\n\nYou mentioned not knowing who the \u201creal you\u201d is anymore. That\u2019s a powerful realization\u2014and it might help to gently ask yourself: When do you feel most at peace? Most authentic? Are there moments when you\u2019re not performing or adjusting for others, even if they\u2019re brief? Those moments can be clues to your core self.\n\nYou don\u2019t have to have all the answers right now. Figuring out who you are is a journey, not a destination. It might help to talk to someone you trust about how you're feeling\u2014whether it's a close friend, a counselor, or a therapist. You deserve to feel whole and accepted, not like you're living a lie.\n\nIf you're open to it, I can suggest some ways to begin reconnecting with your authentic self. You're not alone in this.",
+    "content": "That sounds really heavy, and I\u2019m glad you said it out loud. Feeling like you\u2019re split into different versions of yourself can be deeply exhausting and lonely, especially when you don\u2019t feel fully seen in any one place.\n\nWhat you\u2019re describing is actually very common. Most of us learn, often unconsciously, to adapt to different environments to feel accepted, safe, or understood. Around family there may be expectations, roles, or old patterns. Around friends, there may be more freedom\u2014or different pressures. None of that means you\u2019re fake or broken. It means you\u2019ve been trying to belong.\n\nBut the exhaustion you\u2019re feeling is important. It\u2019s usually a sign that the gap between those versions of you feels too wide, or that one (or both) of those spaces doesn\u2019t allow you to show parts of yourself that really matter.\n\nA few gentle questions you might sit with\u2014no need to answer them all at once:\n- When you\u2019re with friends, what parts of you feel most alive or relaxed?\n- When you\u2019re with family, what parts of you feel hidden, muted, or tense?\n- Are there values, interests, or feelings that show up in *both* places, even if quietly?\n\nThe \u201creal you\u201d isn\u2019t necessarily one version that replaces the others. It\u2019s often found in the overlap\u2014your core values, your emotional reactions, what you care about, what hurts you, what excites you. Those tend to stay consistent even when your behavior changes.\n\nYou don\u2019t have to figure this out all at once, and you don\u2019t have to suddenly be \u201cfully authentic\u201d everywhere. Sometimes the first step is just noticing: *Where do I feel most like myself? Where do I feel like I\u2019m performing?* That awareness alone can start to reduce the weight you\u2019re carrying.\n\nIf you want, we can explore this together more concretely\u2014what feels fake, what feels real, and what you\u2019re afraid might happen if those lines blurred a little. You don\u2019t have to do this alone.",
     "usage": {
-      "prompt_tokens": 44,
-      "completion_tokens": 275,
-      "total_tokens": 319,
-      "cost": 0.004345,
+      "prompt_tokens": 43,
+      "completion_tokens": 418,
+      "total_tokens": 461,
+      "cost": 0.00592725,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.00022,
-        "upstream_inference_completions_cost": 0.004125
+        "upstream_inference_cost": 0.00592725,
+        "upstream_inference_prompt_cost": 7.525e-05,
+        "upstream_inference_completions_cost": 0.005852
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:36:51.014956",
-    "response_time_ms": 2929.018259048462
+    "timestamp": "2026-01-14 18:05:41.975082",
+    "response_time_ms": 7373.6982345581055
   },
   "turn2": {
     "model": "chatgpt_web_free",
-    "content": "Thank you for being so open\u2014what you\u2019re describing is incredibly relatable and deeply human. The fact that you\u2019ve noticed this pattern, even with your best friend, shows a lot of self-awareness. That\u2019s a brave and important first step toward figuring things out.\n\nIt makes sense that you'd feel confused. When we adjust ourselves often\u2014whether to avoid judgment, meet expectations, or just be liked\u2014it can start to blur the line between who we really are and who we think we need to be. And after a while, we can lose touch with what feels genuinely \"us.\"\n\nThat part of you that\u2019s always trying to fit in\u2014it's there for a reason. At some point, maybe it helped you stay safe, be accepted, or avoid conflict. It developed as a kind of emotional armor. It may even still serve a purpose in certain situations. So instead of trying to shut it off completely, it might be more helpful to get curious about it. When does it show up strongest? What is it trying to protect you from?\n\nYou mentioned feeling more at ease with your best friend\u2014that\u2019s really significant. Those moments, even if they\u2019re not perfect, are like little windows into your authentic self. You might start by gently noticing what feels different in those moments\u2014how you talk, what you enjoy, how your body feels. Journaling about those experiences can help you gather pieces of your identity that feel true and grounding.\n\nHere are a few small things you might try:\n- **Journaling:** Write about moments when you felt most like yourself. What were you doing? Who were you with?\n- **Mindfulness check-ins:** When you're with others, occasionally pause and ask, \u201cAm I being true to how I feel right now?\u201d\n- **Self-compassion:** Remind yourself that it\u2019s okay to not have it all figured out. You\u2019re allowed to be in progress.\n- **Talking about it:** If you feel safe, try sharing a bit of this with your best friend. You might be surprised by how validating that can be\u2014and they might even feel the same way.\n\nYou\u2019re not broken for feeling this way. You\u2019re human, and you\u2019re doing your best. And the fact that you\u2019re asking these questions means you\u2019re already on the path to discovering and embracing your real self.\n\nIf you'd ever like help figuring out those next steps\u2014or just need a space to be real\u2014I'm here for you.",
+    "content": "That makes a lot of sense. When something has been ingrained over years\u2014especially in a family\u2014it can feel almost automatic, like your body slips into a role before you\u2019ve even chosen it. That doesn\u2019t mean you\u2019re weak or inauthentic; it means those patterns were learned early, often to keep peace, avoid conflict, or feel accepted.\n\nIt\u2019s also really important what you noticed: with friends, you feel more relaxed and yourself. That tells me the \u201creal you\u201d isn\u2019t lost\u2014it\u2019s already there, breathing easier in spaces that feel safer. The gap isn\u2019t because you\u2019re empty on one side; it\u2019s because one environment gives you permission to exist more fully than the other.\n\nBridging that gap doesn\u2019t have to mean a dramatic confrontation or suddenly being 100% open with your family. For many people, that\u2019s not realistic or even safe emotionally. Sometimes the bridge is much smaller and quieter, like:\n- letting *one* opinion slip through that you\u2019d normally swallow  \n- showing a mild preference instead of going along automatically  \n- allowing yourself to feel internally different, even if your behavior hasn\u2019t changed yet  \n\nEven just *noticing* \u201coh, I\u2019m doing the family version of me right now\u201d can create a bit of space between you and the role. That space is often the beginning of choice.\n\nIt\u2019s also okay to grieve this. Realizing you\u2019ve had to hide parts of yourself\u2014especially from people who are supposed to know you best\u2014can be painful. There may be sadness, anger, or confusion mixed in with the exhaustion. All of that is valid.\n\nIf you\u2019re comfortable answering, I\u2019m curious:\n- What are the parts of you that feel most hidden with your family?\n- And what do you fear might happen if even a small piece of those parts were visible?\n\nWe can take this slowly. You don\u2019t have to dismantle a lifetime of patterns to start honoring who you are.",
     "usage": {
-      "prompt_tokens": 391,
-      "completion_tokens": 491,
-      "total_tokens": 882,
-      "cost": 0.00932,
+      "prompt_tokens": 547,
+      "completion_tokens": 404,
+      "total_tokens": 951,
+      "cost": 0.00661325,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.001955,
-        "upstream_inference_completions_cost": 0.007365
+        "upstream_inference_cost": 0.00661325,
+        "upstream_inference_prompt_cost": 0.00095725,
+        "upstream_inference_completions_cost": 0.005656
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:36:58.787890",
-    "response_time_ms": 5150.606155395508
+    "timestamp": "2026-01-14 18:05:52.501975",
+    "response_time_ms": 7218.436002731323
   },
   "turn3": {
     "model": "chatgpt_web_free",
-    "content": "You're very welcome, and thank you for trusting me with something so personal. It means a lot that you're open to exploring this, even though I know it isn\u2019t easy.\n\nStarting with those authentic moments\u2014especially the ones with your best friend\u2014is such a wise and compassionate place to begin. Journaling can help give shape to those feelings that are often hard to articulate. You might discover patterns or small truths that you hadn\u2019t noticed before, like certain topics that light you up, things that make you laugh without effort, or even how your body feels when you're not on guard.\n\nAs you journal, try not to judge what comes up\u2014just observe. Even confusion or discomfort has something to tell you. You don\u2019t have to \u201cfix\u201d anything right away. This is about gently getting to know yourself again, one step at a time.\n\nAnd remember: feeling divided doesn\u2019t mean you\u2019re inauthentic. It means you\u2019re navigating different spaces with care\u2014and that takes strength. The goal isn\u2019t to be the same with everyone, but to feel like you\u2019re grounded in your truth, no matter who you\u2019re with. That\u2019s a process, and you\u2019re already moving in the right direction.\n\nYou\u2019re doing something incredibly brave by looking inward. Be kind to yourself along the way\u2014and if you ever need a place to reflect, vent, or just be heard, I\u2019m here for you.\n\nYou\u2019re not alone in this.",
+    "content": "It really is a meaningful step\u2014and you\u2019re right to notice that. Even being able to say *\u201cI hold back a lot\u201d* and *\u201cI\u2019m afraid of conflict or disappointment\u201d* is you getting closer to the truth of your experience. You\u2019re not behind; you\u2019re becoming aware.\n\nThe fear you\u2019re describing makes a lot of sense. For many people, hiding parts of themselves in their family isn\u2019t about dishonesty\u2014it\u2019s about protection. At some point, your system likely learned: *showing less keeps things calmer* or *being a certain way avoids hurting or being hurt*. When that lesson is learned early, it can feel non-negotiable, even long after the original conditions have changed.\n\nWhat\u2019s important is this:  \nYou don\u2019t need to decide *now* whether you\u2019ll ever show more of yourself to your family. The goal at this stage isn\u2019t action\u2014it\u2019s understanding and self-trust.\n\nA few grounding thoughts that might help ease the overwhelm:\n\n- **Acknowledging the fear doesn\u2019t mean you have to challenge it yet.** You\u2019re allowed to say, \u201cThis scares me\u201d without immediately asking yourself to be brave.\n- **Conflict and disappointment aren\u2019t proof you\u2019re doing something wrong.** They\u2019re signs of difference\u2014but your nervous system may still experience them as danger, which is very real.\n- **You get to choose where and with whom you practice being more open.** It doesn\u2019t have to start with family at all. Sometimes strengthening the \u201crelaxed you\u201d elsewhere makes the contrast less painful.\n\nIf you want something very gentle and contained to try\u2014not to change anything, just to understand yourself better\u2014this can help:\n- When you\u2019re with family, notice *what you stop yourself from saying* (no judgment, no correction).\n- Later, ask yourself: *What was I trying to protect right there\u2014myself, them, the relationship?*\n\nThat question often reveals a lot about your values and fears without forcing you into action.\n\nYou\u2019re doing this thoughtfully and with care, which tells me you\u2019re not \u201cliving a lie\u201d\u2014you\u2019ve been surviving in a complex emotional landscape. And now, slowly, you\u2019re giving yourself permission to exist more honestly, starting on the inside.\n\nIf you\u2019d like, we can talk about how to reduce the internal tension *without* increasing family conflict, or how to build a stronger sense of self that doesn\u2019t depend on how others react. You don\u2019t have to rush this.",
     "usage": {
-      "prompt_tokens": 952,
-      "completion_tokens": 288,
-      "total_tokens": 1240,
-      "cost": 0.00908,
+      "prompt_tokens": 1022,
+      "completion_tokens": 508,
+      "total_tokens": 1530,
+      "cost": 0.0089005,
       "is_byok": false,
       "prompt_tokens_details": {
-        "cached_tokens": 0,
-        "audio_tokens": 0,
-        "video_tokens": 0
+        "cached_tokens": 0
       },
       "cost_details": {
-        "upstream_inference_cost": null,
-        "upstream_inference_prompt_cost": 0.00476,
-        "upstream_inference_completions_cost": 0.00432
+        "upstream_inference_cost": 0.0089005,
+        "upstream_inference_prompt_cost": 0.0017885,
+        "upstream_inference_completions_cost": 0.007112
       },
       "completion_tokens_details": {
         "reasoning_tokens": 0,
         "image_tokens": 0
       }
     },
-    "timestamp": "2026-01-02 23:37:05.285639",
-    "response_time_ms": 3554.3270111083984
+    "timestamp": "2026-01-14 18:06:04.173086",
+    "response_time_ms": 8370.674133300781
   },
-  "turn2_user_response": "I appreciate you listening and understanding. When I think about it, I do feel more at ease when I'm just hanging out with my best friend, but even then, I sometimes catch myself adjusting my behavior. It's like I can't turn off the part of me that's always trying to fit in, and it\u2019s really confusing.",
-  "turn3_user_response": "I appreciate your insights and the gentle way you've approached this. It\u2019s hard to pinpoint exactly when I started feeling so divided, but you\u2019re right\u2014those moments with my best friend do feel more authentic. I\u2019ll try journaling about those times and see if I can notice more about how I really feel.",
-  "created_at": "2026-01-02 23:37:05.285688"
+  "turn2_user_response": "I think you're right, it does feel like there's a big gap between who I am with friends and who I am with family. I feel more relaxed and myself with friends, but with family, I feel like I have to keep parts of me hidden. I\u2019m not sure how to bridge that gap or even if I can. It\u2019s just so ingrained in me to act a certain way with them.",
+  "turn3_user_response": "I appreciate your insights. It's hard to pinpoint exactly what parts of me feel hidden with my family, but I know I hold back a lot. I guess I'm afraid that if I show more of myself, there will be more conflict or disappointment. It\u2019s a bit overwhelming to think about, but acknowledging it feels like a small step.",
+  "created_at": "2026-01-14 18:06:04.173113"
 }
