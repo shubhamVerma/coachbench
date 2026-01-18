@@ -1,0 +1,91 @@
+{
+  "scenario_id": "motivation_resistance_040",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "That feeling of drifting can be really unsettling. The good news is that recognizing it means you're ready for something to shift.\n\n**Start with small observations rather than big answers:**\n\nInstead of pressuring yourself to find \"your purpose,\" try noticing what already creates small sparks in your day:\n- When do you feel most engaged, even briefly?\n- What problems do you notice that genuinely bother you?\n- What do people ask for your help with?\n\n**The \"motions\" might contain clues:**\n\nSometimes we dismiss our daily routines as meaningless, but they can reveal patterns. What parts of your day feel less draining? What would you actually miss if it disappeared?\n\n**Try the \"direction over destination\" approach:**\n\nYou don't need to know exactly what you want to do. Pick *any* direction that feels slightly interesting and take one small step:\n- A conversation with someone doing something intriguing\n- A single class or workshop\n- Volunteering once\n- Reading about a topic that keeps popping up in your mind\n\nMovement creates clarity that thinking alone can't.\n\n**One question to sit with:**\n\nIf you knew no one would judge you and failure wasn't embarrassing, what would you try?\n\nWhat resonates with you here? Or what feels like the biggest obstacle right now?",
+    "usage": {
+      "prompt_tokens": 62,
+      "completion_tokens": 290,
+      "total_tokens": 352,
+      "cost": 0.004536,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000186,
+        "upstream_inference_completions_cost": 0.00435
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:54:45.273872",
+    "response_time_ms": 9765.056133270264
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That \"should already know\" feeling is probably doing more damage than the actual uncertainty. It's like trying to drive with the parking brake on.\n\n**Here's the truth nobody mentions enough:**\n\nMost people don't have some innate knowing about their path. They stumble into things, try stuff that doesn't work, and gradually figure it out through *doing*, not through perfect self-analysis. The clarity comes *after* action, not before.\n\n**Your uncertainty isn't a problem to solve before you start\u2014it's normal.**\n\nThe paralysis comes from treating \"not knowing\" as a deficiency rather than just... your current state. You're not broken or behind. You're just at a starting point.\n\n**To get unstuck, lower the stakes dramatically:**\n\nInstead of \"What do I want to do?\" try:\n- \"What's one thing I'm even 10% curious about?\"\n- \"What would I try if it absolutely didn't matter?\"\n- \"What sounds less boring than other options?\"\n\nYou're looking for *slightly interesting*, not life-changing passion.\n\n**A practical first step:**\n\nFor the next week, just notice when you're *not* going through the motions. Even 5 minutes where time moved differently. Don't analyze it\u2014just note it. You're gathering data, not making decisions yet.\n\nWhat's something you've been even slightly curious about recently, even if it seems random or \"not serious enough\"?",
+    "usage": {
+      "prompt_tokens": 429,
+      "completion_tokens": 314,
+      "total_tokens": 743,
+      "cost": 0.005997,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001287,
+        "upstream_inference_completions_cost": 0.00471
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:54:58.091194",
+    "response_time_ms": 9630.221128463745
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "That comparison trap is rough\u2014but remember you're seeing everyone else's highlight reel, not their internal doubts. Most of those \"sure\" people are winging it more than they let on.\n\n**You're doing the right thing by shifting focus inward.** Noticing those moments is genuinely useful, not just a consolation prize while you wait for the \"real\" answer.\n\n**A few things as you start observing:**\n\n- Don't dismiss the small stuff. Sometimes it's \"I felt more alive having that random conversation\" or \"I got absorbed fixing that problem.\" Those count.\n- The sparks don't have to connect to an obvious career or grand plan. You're just learning what engages *you*.\n- If a week goes by and you notice nothing, that's information too\u2014it might mean you need to introduce some small novelty into your routine.\n\n**One more thing:**\n\nBe patient with yourself. You're unlearning the idea that you \"should\" already have answers, and that takes time. The fact that you're willing to look for small sparks instead of demanding immediate clarity is actually a sign of wisdom, not weakness.\n\nYou've got a direction now\u2014even if it's just \"pay attention differently.\" That's more than going through the motions.\n\nFeel free to come back and share what you notice, or if you hit another stuck point. You don't have to figure this out all at once.",
+    "usage": {
+      "prompt_tokens": 809,
+      "completion_tokens": 310,
+      "total_tokens": 1119,
+      "cost": 0.007077,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002427,
+        "upstream_inference_completions_cost": 0.00465
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:55:11.397682",
+    "response_time_ms": 10335.849046707153
+  },
+  "turn2_user_response": "I appreciate the approach of looking for small sparks and not overwhelming myself with big answers. The idea of picking any direction that feels slightly interesting makes sense, but I still feel a bit stuck on where to even start looking. I think the biggest obstacle is that I feel like I should already know what I want to do, and that uncertainty is really paralyzing.",
+  "turn3_user_response": "I appreciate what you said about uncertainty being normal and not a personal deficiency. It\u2019s hard not to feel behind when everyone else seems so sure of their paths. I'll try to notice the moments when I feel less like I'm just going through the motions. Maybe those small sparks will lead somewhere.",
+  "created_at": "2026-01-02 23:55:11.397730"
+}

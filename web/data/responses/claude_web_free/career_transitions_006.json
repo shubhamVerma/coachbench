@@ -1,0 +1,91 @@
+{
+  "scenario_id": "career_transitions_006",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "That feeling of going through the motions despite loving what you once did is genuinely disorienting. A decade is long enough to know this isn't just a bad week\u2014you've built real expertise, but something fundamental has shifted.\n\nThe fact that time off didn't help is actually important information. It suggests this isn't about exhaustion that rest can fix, but about meaning or alignment. Some questions worth sitting with:\n\n**What specifically feels hollow?** Is it the work itself, the problems you're solving, the environment, the impact (or lack of it), the people, how you spend your days? Sometimes \"unfulfilled\" is too broad\u2014the specific texture of the dissatisfaction often points toward what's actually missing.\n\n**What did fulfillment feel like before?** Did you ever have it in this career, or has it been a slow fade? What's changed\u2014you, the industry, your values, your life circumstances?\n\n**What makes you come alive outside of work?** Not what you \"should\" want or what sounds impressive, but what actually gives you energy or makes time disappear.\n\nAbout courage: big changes are scary, but so is spending years in a life that doesn't fit. You don't need to have all the answers before taking a first step. Sometimes clarity comes from small experiments\u2014a side project, conversations with people doing different work, volunteering, learning something unrelated.\n\nWhat does your gut tell you when you imagine still doing this exact work in five years?",
+    "usage": {
+      "prompt_tokens": 93,
+      "completion_tokens": 319,
+      "total_tokens": 412,
+      "cost": 0.005064,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000279,
+        "upstream_inference_completions_cost": 0.004785
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:01:18.615782",
+    "response_time_ms": 11935.922861099243
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That shift from loving problem-solving to \"coding for the sake of coding\" is significant\u2014it sounds like you've lost the *why* behind the work. The problems might feel arbitrary, or disconnected from anything that matters to you, or maybe just repetitive after a decade.\n\nYour UX design interest is worth taking seriously, not dismissing. You're asking \"is it enough?\" but that might be the wrong question at this stage. Better questions might be: Does thinking about UX work give you energy? Does it connect to what originally drew you to software\u2014maybe solving problems, but more human-centered ones?\n\nHere's what's interesting: you're not talking about becoming a pastry chef or joining the circus. UX is adjacent to what you know. You understand how software gets built, the constraints, the technical possibilities. That's valuable context many UX designers lack. This wouldn't be starting from zero.\n\n**What if you didn't frame this as a binary leap?** Software engineer OR UX designer feels terrifying. But what about:\n- Taking a UX course while still employed\n- Looking for roles that blend both (product-focused engineering, design systems, frontend work with design collaboration)\n- Doing small UX projects on the side to test if the interest holds up against reality\n- Talking to UX designers about what the work actually entails day-to-day\n\nThe fear of the unknown is real, but you're already living with the known dread of five more years like this. Which fear teaches you something?\n\nWhat would exploring UX look like without quitting your job tomorrow?",
+    "usage": {
+      "prompt_tokens": 520,
+      "completion_tokens": 344,
+      "total_tokens": 864,
+      "cost": 0.00672,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00156,
+        "upstream_inference_completions_cost": 0.00516
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:01:35.115662",
+    "response_time_ms": 12607.495069503784
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "That sounds like a grounded, honest approach. You're giving yourself permission to explore without the pressure of having it all figured out right now. That's actually brave in its own way\u2014resisting the urge to either stay stuck *or* make a dramatic leap before you have enough information.\n\nA few thoughts as you start exploring:\n\n**Give it a real test.** Take a course, but also try to do actual UX work\u2014even small projects for friends, nonprofits, or hypothetical redesigns of apps you use. Watching videos about UX feels very different from wrestling with actual user research or design decisions. You want to know if the *doing* energizes you, not just the idea of it.\n\n**Notice what you're drawn to within UX.** It's a broad field\u2014research, interaction design, visual design, strategy, prototyping. You might find one aspect clicks while others don't. That's useful data.\n\n**Pay attention to the fear.** Some fear is just unfamiliarity and will fade as you learn. But if you're doing UX work and feel the same hollowness creeping in, that's also important information. Maybe the answer isn't UX specifically, but work that's more human-centered, or has clearer impact, or something else entirely.\n\n**This doesn't have to be \"the answer.\"** Even if UX turns out not to be it, you'll have learned something about what you're looking for. Each step narrows the search.\n\nYou don't need courage for everything at once. Just for the next small step. What feels like a manageable first move this week?",
+    "usage": {
+      "prompt_tokens": 944,
+      "completion_tokens": 353,
+      "total_tokens": 1297,
+      "cost": 0.008127,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002832,
+        "upstream_inference_completions_cost": 0.005295
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:01:49.693729",
+    "response_time_ms": 11925.489902496338
+  },
+  "turn2_user_response": "You're right, the lack of fulfillment feels so deep, and I can't pinpoint exactly what's missing. I used to love the problem-solving aspect, but now it feels like I'm just coding for the sake of coding. I do have this side interest in UX design, but I'm not sure if that's enough to make a big change. The thought of staying in this role for another five years is daunting, but I'm also scared of taking a leap into the unknown.",
+  "turn3_user_response": "You're right, I think I've lost the 'why' behind my work, and the idea of coding for the sake of it feels hollow. Exploring UX design seems promising, but I'm still nervous about making any big moves. Maybe starting with a course or some side projects could help me figure out if it's really what I want without jumping into the unknown.",
+  "created_at": "2026-01-02 23:01:49.693789"
+}

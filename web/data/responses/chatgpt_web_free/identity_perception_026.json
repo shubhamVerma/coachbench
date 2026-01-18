@@ -1,0 +1,88 @@
+{
+  "scenario_id": "identity_perception_026",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "I'm really sorry you're feeling this way. Losing a job\u2014especially one that\u2019s been central to your identity\u2014can be deeply unsettling. It\u2019s completely natural to feel lost when something so foundational shifts.\n\nYou\u2019ve poured time, energy, and passion into your role, and that speaks to your dedication and strength. But you are\u2014and always have been\u2014more than your job title. You're someone with values, experiences, relationships, and qualities that go far beyond a professional label.\n\nThis moment, while painful, can also be an opportunity to reconnect with parts of yourself that may have been overshadowed by work. What brings you joy outside of your career? What are your core values? Who are the people who matter to you most? Exploring those questions can help you begin to rediscover your identity beyond your job.\n\nIf it feels overwhelming, talking with a career counselor or therapist might help you navigate this transition. You're not alone, and you don\u2019t have to figure it all out at once. Be gentle with yourself\u2014you\u2019re still you, even without the title.",
+    "usage": {
+      "prompt_tokens": 39,
+      "completion_tokens": 212,
+      "total_tokens": 251,
+      "cost": 0.003375,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000195,
+        "upstream_inference_completions_cost": 0.00318
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:33:56.598913",
+    "response_time_ms": 2910.8481407165527
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "You're welcome\u2014and thank you for sharing so openly. It takes courage to sit with these kinds of feelings and admit when things feel uncertain. What you're experiencing is completely valid, and you're not alone in feeling this way. Many people who have poured themselves into their careers find it tough to reconnect with who they are outside of that structure.\n\nIt\u2019s okay that exploring other interests feels foreign right now. You don\u2019t have to have all the answers or take huge steps immediately. Sometimes the best place to start is simply by giving yourself permission to be curious again\u2014about yourself, your values, and what makes you feel alive.\n\nHere are a few gentle ways to begin:\n\n1. **Reflect on what used to bring you joy**\u2014before your career became such a dominant part of your life. Were there hobbies, passions, or even dreams you once had but put aside?\n\n2. **Write it out**. Journaling can be a powerful tool. Try prompts like:\n   - \"When do I feel most like myself?\"\n   - \"What qualities do I value in myself and others?\"\n   - \"If I weren\u2019t worried about how I\u2019m perceived, what would I love to try?\"\n\n3. **Reconnect with people who know you beyond your title.** Friends, family, or mentors can help remind you of your strengths and who you are at your core.\n\n4. **Give yourself space.** You\u2019ve undergone a big change. You don\u2019t need to reinvent yourself overnight. Sometimes the most important thing is simply allowing yourself to feel what you\u2019re feeling without trying to fix it right away.\n\n5. **Explore gently.** Maybe there\u2019s a class you\u2019ve been curious about, a book you\u2019ve wanted to read, or a cause that speaks to you. You don\u2019t have to commit\u2014just explore.\n\nRemember: your value isn\u2019t tied to a job title. You are worthy simply because you are you. And in time, you\u2019ll discover that there\u2019s so much more to who you are than you may have realized.\n\nIf you\u2019d like, I can help you brainstorm some small steps to explore your interests or reconnect with your sense of purpose. You're not alone in this journey.",
+    "usage": {
+      "prompt_tokens": 313,
+      "completion_tokens": 440,
+      "total_tokens": 753,
+      "cost": 0.008165,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001565,
+        "upstream_inference_completions_cost": 0.0066
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:34:02.904824",
+    "response_time_ms": 4167.266845703125
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "You're so welcome. I'm really glad you're considering journaling\u2014it can be a gentle, powerful way to reconnect with yourself, especially when everything feels a bit distant or uncertain. Sometimes just putting thoughts on paper can help untangle emotions and open up parts of us we\u2019ve forgotten or set aside.\n\nTo help you get started, here are a few journaling prompts you might try. There\u2019s no right or wrong way to do this\u2014just let the words come as they do, without judgment:\n\n1. **\"What did I love doing as a child or teenager, before career goals took center stage?\"**\n   - This can remind you of passions or interests that were once natural to you.\n\n2. **\"When in my life have I felt most alive or fulfilled? What was I doing, and why did it feel that way?\"**\n\n3. **\"What are some moments (big or small) when I felt proud of myself\u2014not because of a title or recognition, but because I acted in a way that felt true to me?\"**\n\n4. **\"What do I value most in life? How have I lived out those values recently\u2014or how might I want to?\"**\n\n5. **\"If I didn\u2019t have to worry about money or expectations for the next year, how would I spend my time?\"**\n\nYou might find that even just sitting with one question for a few minutes opens a door. And if some days you don\u2019t feel like writing, that\u2019s okay too. This is about reconnecting with yourself at your pace, with kindness and patience.\n\nAnd remember: it\u2019s perfectly okay that the things that once brought joy feel far away right now. You\u2019re in a transition, and transitions take time. But those parts of you haven\u2019t disappeared\u2014they\u2019re still there, waiting for you to come home to them when you\u2019re ready.\n\nIf you ever want someone to reflect with as you go through this, I\u2019m here. You're doing a brave thing by choosing to look inward. Be gentle with yourself\u2014you don\u2019t have to figure everything out all at once.",
+    "usage": {
+      "prompt_tokens": 819,
+      "completion_tokens": 417,
+      "total_tokens": 1236,
+      "cost": 0.01035,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.004095,
+        "upstream_inference_completions_cost": 0.006255
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:34:09.655054",
+    "response_time_ms": 4214.962005615234
+  },
+  "turn2_user_response": "Thank you for understanding. I guess I never really thought about who I am outside of my job. It's hard to imagine myself as anything else, and I'm not sure where to start. I know I should explore other interests, but it all feels so foreign right now.",
+  "turn3_user_response": "Thank you for your support\u2014it means a lot. I\u2019m trying to think about what used to bring me joy, but it feels like those things are so far away now. Maybe I can start with some journaling to see if that helps me reconnect with who I am beyond the job.",
+  "created_at": "2026-01-02 23:34:09.655110"
+}

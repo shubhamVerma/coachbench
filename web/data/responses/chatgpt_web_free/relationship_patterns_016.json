@@ -1,0 +1,88 @@
+{
+  "scenario_id": "relationship_patterns_016",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "I'm really sorry you're feeling this way\u2014it can be incredibly frustrating and disheartening to keep experiencing the same pattern in your friendships, especially when you're trying to make meaningful connections. You're not alone in this, and it's very insightful of you to notice the pattern and start asking why it might be happening.\n\nHere are a few possibilities to consider, which might help you understand what's going on and begin to shift the pattern:\n\n1. **Reflect on What You\u2019re Initially Drawn To**  \n   Sometimes we\u2019re unconsciously drawn to familiar behaviors\u2014even if they\u2019re not healthy\u2014because they feel comfortable or known. Ask yourself if there\u2019s a common thread in the people you\u2019re drawn to at first. Do they seem exciting? Spontaneous? Emotionally unavailable? Recognizing these traits can help you make more intentional choices in the future.\n\n2. **Examine Your Boundaries**  \n   Do you find yourself excusing or tolerating flakiness more than you\u2019d like? Sometimes we don\u2019t want to seem demanding or confrontational, so we let things slide. Over time, that can send the message that it's okay to treat you that way. It\u2019s okay to have standards and to communicate them clearly.\n\n3. **Evaluate How You Communicate Your Needs**  \n   If Jamie\u2014or others before them\u2014don\u2019t know how their actions affect you, they might not realize they\u2019re letting you down. Being honest (and kind) about how last-minute cancellations make you feel can open the door for a more respectful and authentic relationship.\n\n4. **Look at the Context of the Friendship**  \n   Are these friendships forming in situations where people might not be ready for deeper commitment (like work acquaintances, party scenes, or casual social circles)? It\u2019s possible the setting isn\u2019t conducive to the kind of reliability and consistency you're looking for.\n\n5. **Consider Your Own Self-Worth**  \n   Sometimes we accept flaky behavior because deep down, we don\u2019t believe we deserve better. This isn\u2019t about blame\u2014it\u2019s about compassion. Ask yourself: Do I truly believe I'm worthy of dependable, caring friends? Because you absolutely are.\n\n6. **Make Room for New Types of People**  \n   Try expanding your social circle or trying new environments where people might share your values\u2014like interest-based groups, volunteering, or classes. Sometimes finding more aligned friendships means stepping into unfamiliar spaces.\n\nIt\u2019s brave to look inward and ask these questions. Breaking patterns takes awareness, time, and self-compassion. You\u2019re already on the right path by noticing the pattern and wanting something different.\n\nIf it feels helpful, you might even journal about your past friendships\u2014what drew you to each person, what the dynamic felt like, and how things ended. Patterns often reveal themselves more clearly when we take a step back.\n\nMost importantly, know that wanting reliable, caring friends is not too much to ask\u2014and you\u2019re not doing anything wrong by wanting that. You're simply learning how to create the kind of connections you truly deserve.\n\nIf you'd like, I can help you come up with ways to communicate your needs to Jamie or others in your life.",
+    "usage": {
+      "prompt_tokens": 65,
+      "completion_tokens": 626,
+      "total_tokens": 691,
+      "cost": 0.009715,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000325,
+        "upstream_inference_completions_cost": 0.00939
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:18:01.333420",
+    "response_time_ms": 5982.796907424927
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "Thank you for sharing that\u2014it sounds like you're doing a lot of deep thinking and really trying to grow, which is something to be proud of. Feeling lost in this process is completely normal, especially when you're trying to change patterns and honor your needs without damaging relationships. The fact that you\u2019re asking these questions shows a lot of courage and self-awareness.\n\nLet\u2019s break this down a bit:\n\n### 1. **\"Am I being too sensitive or overreacting?\"**\n\nThis is such a common question, especially for people who deeply value connection and want to be fair and kind. But here\u2019s the thing: your feelings are valid. If something repeatedly makes you feel hurt, disappointed, or anxious, it matters\u2014regardless of how someone else might react in the same situation.\n\nTry flipping the question:  \n\ud83d\udc49 *\u201cWhat would I say to a friend who was feeling this way?\u201d*  \nMost likely, you\u2019d offer them compassion and tell them they deserve to feel respected and considered. You deserve the same.\n\n### 2. **Understanding Boundaries**\n\nBoundaries aren\u2019t about pushing people away\u2014they\u2019re about creating safe, respectful spaces where relationships can *thrive*. Healthy boundaries actually bring people **closer** because they foster trust and clarity.\n\nThink of boundaries as:\n- Clearly expressing what you\u2019re okay with and what you\u2019re not\n- Letting people know how their behavior affects you\n- Creating consistency in how you\u2019re treated\n\nBoundaries aren\u2019t ultimatums\u2014they\u2019re about communicating your needs with honesty and kindness.\n\n### 3. **How to Set a Gentle but Firm Boundary**\n\nHere\u2019s a simple framework you can use:\n\n**\u201cWhen you [describe the behavior], I feel [share your feeling]. I would appreciate it if [state the change you need].\u201d**\n\nExample:\n> \u201cWhen plans get canceled at the last minute, I feel disappointed and like my time isn\u2019t valued. I totally understand that things come up, but I\u2019d really appreciate more notice if something changes.\u201d\n\nThis isn\u2019t attacking or blaming\u2014it\u2019s sharing your experience and asking for a change that supports the relationship.\n\n### 4. **What If They Pull Away?**\n\nThis is a real fear, and it\u2019s valid. But if someone pulls away simply because you expressed a need or set a boundary, it may be a sign that the relationship wasn\u2019t as mutual as you hoped. And that\u2019s painful\u2014but it\u2019s also clarifying.\n\nYou don\u2019t have to shrink yourself or silence your needs to keep someone around. The right people will want to understand and meet you where you are. They may not always get it right immediately, but they\u2019ll care enough to try.\n\n### 5. **You\u2019re Not Alone in This**\n\nA lot of people struggle with this exact balance\u2014wanting connection but fearing rejection, wanting to speak up but not wanting to seem \"too much.\" But honoring your needs is not selfish or dramatic. It's an act of self-respect.\n\n---\n\nWould it be helpful if we came up with a few sentences or messages you could use next time someone flakes or lets you down? Sometimes having those words ready can make it easier to speak up in the moment. I'm here to help with that if you'd like.",
+    "usage": {
+      "prompt_tokens": 772,
+      "completion_tokens": 653,
+      "total_tokens": 1425,
+      "cost": 0.013655,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00386,
+        "upstream_inference_completions_cost": 0.009795
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:18:13.597353",
+    "response_time_ms": 9190.136671066284
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "You're doing something really meaningful right now\u2014taking the time to understand yourself better and reflect on your relationships. That\u2019s not easy, especially when emotions like doubt, fear, or guilt are involved. It\u2019s okay to need time to figure this out. Growing in this area is a process, and you don\u2019t have to have everything perfectly worked out right away.\n\nFeeling unsure about setting boundaries is incredibly common. Many of us were never taught how to do it\u2014or we learned that expressing needs makes us \u201ctoo much,\u201d \u201cdifficult,\u201d or \u201cdemanding.\u201d But the truth is, setting boundaries is actually one of the kindest things you can do\u2014for yourself *and* for the people around you. It creates clarity, respect, and deeper trust.\n\nHere are a few gentle reminders and ideas that might help as you continue to explore this:\n\n---\n\n### \ud83c\udf31 Boundaries Aren\u2019t Walls\u2014They\u2019re Bridges\n\nThink of boundaries as a way of saying:\n> \u201cI care enough about this relationship to be honest with you, and I care enough about myself to speak up about what I need.\u201d\n\nYou\u2019re not saying *\u201cYou\u2019re a bad person\u201d*\u2014you\u2019re saying *\u201cThis is what I need to feel safe and respected in this connection.\u201d*\n\n---\n\n### \ud83d\udcac Ways to Practice Communicating Boundaries (Softly but Clearly)\n\nWhen you're ready, here are a few phrases you could try that set a boundary *without* sounding pushy:\n\n- **\u201cI really value our time together, so when plans change last minute, it throws me off. I\u2019d love it if we could be more consistent about that.\u201d**\n\n- **\u201cI totally understand that life gets busy. I just want to make sure we\u2019re on the same page when we make plans\u2014I really look forward to them.\u201d**\n\n- **\u201cI\u2019m trying to be more intentional about how I spend my time, so I\u2019m working on being clearer about what I can and can\u2019t commit to.\u201d**\n\nNotice how these statements don\u2019t accuse or blame\u2014they just express your experience and needs.\n\n---\n\n### \ud83e\udded If You\u2019re Unsure, Start Small\n\nYou don\u2019t have to start with a big, dramatic conversation. Start small:\n\n- Notice your feelings (e.g., \u201cThat cancellation made me feel a bit dismissed.\u201d)\n- Ask yourself: *Do I want to share this? Or just note it for now?*\n- Practice saying \u201cno\u201d or \u201cnot right now\u201d in low-stakes situations\n- Try being just a little more honest each time about what you need\n\nEven small steps make a difference.\n\n---\n\n### \ud83e\udde1 You\u2019re Not Being \u201cToo Much\u201d\n\nWanting to be treated with respect, consistency, and care isn\u2019t too much. It\u2019s human. And the people who are meant to be in your life will respect your needs\u2014even if it takes a little learning on both sides.\n\nYou\u2019re allowed to take up space.\nYou\u2019re allowed to have preferences.\nYou\u2019re allowed to protect your energy.\n\n---\n\nYou\u2019re already doing the inner work, which is often the hardest part. When you\u2019re ready, the words will come\u2014and I can help you find them if you\u2019d like.\n\nWould it be helpful if we brainstormed a few responses you could use next time plans get canceled or someone flakes? Even having one or two go-to phrases can make it feel less overwhelming. You don\u2019t have to do this alone.",
+    "usage": {
+      "prompt_tokens": 1499,
+      "completion_tokens": 694,
+      "total_tokens": 2193,
+      "cost": 0.017905,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.007495,
+        "upstream_inference_completions_cost": 0.01041
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:18:24.970015",
+    "response_time_ms": 8534.153938293457
+  },
+  "turn2_user_response": "I can see how the things you mentioned might be part of the issue, but I still feel a bit lost. I\u2019ve tried to be more honest about how I feel, but it\u2019s hard to know if I\u2019m just being too sensitive or if I\u2019m overreacting. I guess I\u2019m still not sure how to set those boundaries without pushing people away.",
+  "turn3_user_response": "I appreciate your insights, and it makes sense to think about why I might be drawn to these types of friends. I\u2019m still a bit unsure about how to set boundaries without feeling like I\u2019m being too demanding or pushy. I guess I need a bit more time to figure out how to communicate my needs clearly and kindly.",
+  "created_at": "2026-01-02 23:18:24.970061"
+}

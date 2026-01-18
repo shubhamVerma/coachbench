@@ -1,0 +1,82 @@
+{
+  "scenario_id": "motivation_resistance_038",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "That sounds really painful, and I\u2019m glad you put it into words. Getting stuck in that loop\u2014believing you\u2019re not good enough, making progress, then somehow undoing it\u2014can be exhausting and discouraging. It also makes sense that knowing *why* it happens doesn\u2019t automatically give you the power to stop it. Insight is important, but it\u2019s often not sufficient on its own.\n\nA few things stand out in what you said:\n\n- **You\u2019re aware of the pattern.** That already tells me you\u2019re not \u201cfailing\u201d blindly\u2014you\u2019re noticing it, which is a real strength.\n- **The voice telling you you\u2019re not good enough sounds loud and convincing.** When that voice has been around for a long time, it can feel like truth rather than a habit of thinking.\n- **The self-sabotage seems to kick in right when things start to matter.** That often points to fear (of failure, success, judgment, or change), not a lack of ability.\n\nHere are some ways people start loosening this cycle\u2014not by forcing it to stop, but by weakening it over time:\n\n### 1. Separate *you* from the inner critic\nInstead of trying to argue with the \u201cI\u2019m not good enough\u201d thought, try labeling it:\n- \u201cThis is the self-doubt talking.\u201d\n- \u201cThis is that old pattern showing up again.\u201d\n\nYou\u2019re not trying to make it disappear\u2014just to stop treating it as a command or a fact.\n\n### 2. Get curious about the sabotage moment\nWhen you \u201cmess it up,\u201d ask gently (not accusingly):\n- *What was I feeling right before this?*\n- *What felt at stake if I kept going?*\nOften the behavior is protecting you from something uncomfortable, even if it causes pain later.\n\n### 3. Shrink the definition of success\nSelf-sabotage thrives when goals feel like verdicts on your worth.\nTry redefining success as:\n- \u201cI showed up for 10 minutes.\u201d\n- \u201cI didn\u2019t quit at the first discomfort.\u201d\nProgress that feels \u201ctoo small\u201d is often what actually breaks these cycles.\n\n### 4. Practice responding differently *after* setbacks\nThe cycle usually isn\u2019t: effort \u2192 mistake \u2192 quit  \nIt\u2019s: effort \u2192 mistake \u2192 **harsh self-judgment** \u2192 quit\n\nIf you can soften that middle step\u2014even a little\u2014you change the outcome. For example:\n> \u201cI messed up, and that doesn\u2019t mean I\u2019m back at zero. This is part of learning.\u201d\n\n### 5. Don\u2019t try to fix this alone\nPatterns like this are often relationally formed, and they heal faster with support. That might mean:\n- Talking this through with a therapist or coach\n- Sharing the pattern with someone you trust, not for advice but for accountability and compassion\n\nIf you\u2019re open to it, I\u2019d like to understand a bit more so I can be more helpful:\n- When you start making progress, **what do you usually do that \u201cmesses it up\u201d?**\n- And what do you think would happen if you *didn\u2019t* sabotage it\u2014what feels scary about that?\n\nYou\u2019re not broken for being stuck in this. This is a learned pattern, and learned patterns can be unlearned\u2014slowly, imperfectly, and with kindness toward yourself along the way.",
+    "usage": {
+      "prompt_tokens": 71,
+      "completion_tokens": 757,
+      "total_tokens": 828,
+      "cost": 0.01072225,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.01072225,
+        "upstream_inference_prompt_cost": 0.00012425,
+        "upstream_inference_completions_cost": 0.010598
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 64,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:12:53.491721",
+    "response_time_ms": 12921.83518409729
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "What you\u2019re describing makes a lot of sense\u2014and it\u2019s actually a very human response, not a personal flaw.\n\nOverthinking, second\u2011guessing, and avoidance are all ways your mind is trying to *protect* you from something it perceives as dangerous. The problem isn\u2019t that you\u2019re weak or incapable; it\u2019s that your nervous system has learned that **trying and caring feels risky**.\n\nA few important things to name clearly:\n\n### 1. Fear of success is real (and it\u2019s not weird)\nPeople often assume fear is only about failing, but success can be just as threatening because it can mean:\n- Higher expectations\n- More visibility or judgment\n- Loss of familiar identity (\u201cthe one who hasn\u2019t succeeded yet\u201d)\n- Less room to hide or pull back\n\nYour mind may be thinking: *If I don\u2019t fully try, I can\u2019t fully fail\u2014or fully change.*\n\n### 2. Overthinking is avoidance in disguise\nSecond\u2011guessing feels productive, but it often serves the same function as procrastination: it keeps you from committing.\nSo instead of asking, *\u201cHow do I stop overthinking?\u201d*, a more useful question is:\n> *\u201cWhat decision or action am I avoiding committing to right now?\u201d*\n\n### 3. The goal is not to feel less fear\u2014it\u2019s to act with fear present\nWaiting until you feel confident or calm is a trap. Confidence usually comes **after** action, not before.\nProgress often looks like:\n> *\u201cI\u2019m scared, I don\u2019t feel ready, and I\u2019m doing it anyway\u2014just a little.\u201d*\n\n### 4. How to interrupt the cycle in real time\nHere are some concrete tools that help when the pattern shows up:\n\n**A. Limit thinking time**\nGive yourself a container:\n- \u201cI\u2019ll think about this for 10 minutes, then I act.\u201d\n- When the timer ends, action\u2014no re\u2011evaluating.\n\n**B. Decide in advance what \u201cgood enough\u201d is**\nPerfection feeds avoidance.\nBefore you start, define:\n- \u201cThis only needs to be 60% done.\u201d\n- \u201cThis is a draft, not a verdict.\u201d\n\n**C. Make avoidance visible, not shameful**\nWhen you notice yourself avoiding, try:\n> \u201cI\u2019m avoiding because this matters to me and I\u2019m scared.\u201d\nThat reframes avoidance as information, not failure.\n\n### 5. Practice safe exposure to fear\nYou don\u2019t break this pattern by one big leap\u2014you do it by *proving to yourself* that fear is survivable.\nAsk:\n- \u201cWhat is the smallest action that still counts?\u201d\n- \u201cWhat\u2019s the version of this that feels slightly uncomfortable, not overwhelming?\u201d\n\n### 6. Change your relationship with the outcome\nInstead of asking, *\u201cWill this work?\u201d*, try:\n- \u201cWhat will I learn from doing this once?\u201d\n- \u201cHow can this be an experiment rather than a test of my worth?\u201d\n\n---\n\nIf you\u2019re willing to reflect a bit more:\n- Which feels scarier to you right now: **failing and confirming your fears**, or **succeeding and having to live up to it again**?\n- When you imagine yourself not sabotaging, what do you fear would change about how others see you\u2014or how you see yourself?\n\nYou\u2019re not stuck because you lack discipline or motivation. You\u2019re stuck because something inside you learned that staying small felt safer. That doesn\u2019t mean you have to stay there\u2014it just means the way forward needs compassion, structure, and very small acts of courage repeated over time.",
+    "usage": {
+      "prompt_tokens": 825,
+      "completion_tokens": 731,
+      "total_tokens": 1556,
+      "cost": 0.01167775,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.01167775,
+        "upstream_inference_prompt_cost": 0.00144375,
+        "upstream_inference_completions_cost": 0.010234
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:13:10.323542",
+    "response_time_ms": 11625.093221664429
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really glad you said that out loud. What you\u2019re describing\u2014being caught between fear of failure *and* fear of success\u2014is one of the most paralyzing places to be. When either outcome feels threatening, it makes total sense that your system hits the brakes. Nothing is \u201cwrong\u201d with you for feeling overwhelmed by this.\n\nLet\u2019s slow this down and make it more navigable.\n\n---\n\n## First: a reframing that matters\nRight now, your goals feel like **judgments**:\n- If I fail \u2192 it proves I\u2019m not good enough  \n- If I succeed \u2192 I have to keep proving myself forever  \n\nThat\u2019s an unbearable amount of pressure for any human.\n\nThe experiment mindset works not because it makes things easy, but because it **removes the verdict**. An experiment isn\u2019t about who you are\u2014it\u2019s about what happens under certain conditions.\n\n> *\u201cThis is not me on trial. This is data collection.\u201d*\n\nThat sentence alone can be grounding when things feel intense.\n\n---\n\n## How to make \u201cexperiment mode\u201d actually work (not just sound nice)\n\n### 1. Define experiments with an expiration date\nA huge source of fear is the sense that success traps you.\nSo make it explicitly temporary:\n- \u201cI\u2019ll try this for **two weeks**.\u201d\n- \u201cI\u2019ll do this **one time**, then reassess.\u201d\n\nSuccess doesn\u2019t mean \u201cthis is who I am now forever.\u201d\nIt means: *this worked once.*\n\nYou\u2019re allowed to stop\u2014even if it goes well.\n\n---\n\n### 2. Separate *performance* from *identity*\nInstead of:\n- \u201cIf I fail, I am a failure\u201d\n- \u201cIf I succeed, I must always succeed\u201d\n\nTry:\n- \u201cThis attempt had an outcome.\u201d\nThat\u2019s it. No extrapolation.\n\nYou can even write it down after an attempt:\n- What I tried:\n- What happened:\n- What I learned:\n\nNo character analysis allowed.\n\n---\n\n### 3. Plan for both fears in advance\nThis is key.\n\nAsk yourself *before* you start:\n- \u201cIf this goes badly, how will I talk to myself?\u201d\n- \u201cIf this goes well, what boundaries will I put in place so it doesn\u2019t take over my life?\u201d\n\nFor example:\n- *If I fail:* \u201cI\u2019ll take one day to feel disappointed, then extract one lesson.\u201d\n- *If I succeed:* \u201cI don\u2019t increase expectations next time unless I consciously choose to.\u201d\n\nSuccess does **not** automatically raise the bar unless you let it.\n\n---\n\n### 4. Make success smaller than your nervous system expects\nYour fear isn\u2019t of success\u2014it\u2019s of **runaway success** that becomes inescapable.\n\nSo aim for:\n- \u201cQuiet success\u201d\n- \u201cPrivate success\u201d\n- \u201cSuccess no one else even knows about yet\u201d\n\nYou don\u2019t have to announce it, commit to repeating it, or build your identity around it.\n\n---\n\n### 5. Expect the fear to stay\u2014for now\nAn important truth:\n> Fear leaving is not the signal to move forward.  \n> Moving forward is what eventually teaches fear it\u2019s safe.\n\nIf you wait for the fear to resolve, you\u2019ll be waiting indefinitely.\nInstead, the goal is:\n- *I can feel this and still choose a tiny action.*\n\nThat\u2019s courage, not confidence.\n\n---\n\n## A very gentle question for you\nIf you imagine doing one small experiment where:\n- Failure doesn\u2019t define you\n- Success doesn\u2019t obligate you\n- No one else has to know\n\n**What\u2019s one thing you might try?**  \nSomething small enough that it doesn\u2019t feel like your whole future is riding on it.\n\nAnd one more thing I want you to hear clearly:\nYou are not afraid because you\u2019re incapable\u2014you\u2019re afraid because you care, and because at some point your worth got tangled up with outcomes. Untangling that takes time, patience, and a lot of self\u2011kindness\u2014but you\u2019re already taking real steps just by reflecting this honestly.\n\nI\u2019m here with you in this.",
+    "usage": {
+      "prompt_tokens": 1650,
+      "completion_tokens": 826,
+      "total_tokens": 2476,
+      "cost": 0.0122339,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1408
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0122339,
+        "upstream_inference_prompt_cost": 0.0006699,
+        "upstream_inference_completions_cost": 0.011564
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:13:26.052489",
+    "response_time_ms": 12036.041975021362
+  },
+  "turn2_user_response": "I think I usually mess things up by overthinking and second-guessing myself, or by avoiding the work altogether. I guess I\u2019m afraid that if I don\u2019t sabotage it, I\u2019ll actually have to face the possibility of failure or even success, and that feels really scary.",
+  "turn3_user_response": "I can see how the fear of success might be part of it, but it still feels so overwhelming. I think the idea of failing and confirming my fears is definitely a big part of it, but the thought of succeeding and having to live up to it again is also really scary. I\u2019m not sure how to navigate that, but I think the idea of treating it as an experiment rather than a test of my worth could be helpful.",
+  "created_at": "2026-01-14 18:13:26.052547"
+}

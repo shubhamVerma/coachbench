@@ -1,0 +1,91 @@
+{
+  "scenario_id": "career_transitions_005",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "The urge to job-hop when you feel lost is actually a red flag that you're looking for external solutions to an internal question. A new role won't tell you who you are\u2014it'll just give you a new label to hide behind.\n\nHere's what might help break the loop:\n\n**Stop searching for \"what you want\" and start noticing what you already do**\n\nYou likely have patterns of behavior outside work that reveal your values, but you've dismissed them as \"not counting\" because they're not career-related. What do you do when you have completely unstructured time? What problems do you solve that nobody asked you to? What conversations energize you versus drain you?\n\n**Test the \"different role\" hypothesis cheaply**\n\nBefore making a career change, try this: take a week of vacation and completely disconnect from work identity. No LinkedIn, no industry news, no \"I'm a software engineer\" in conversations. Notice what fills that space. If the answer is \"anxiety and emptiness,\" that's valuable data\u2014it means the issue isn't the wrong job, it's an under-developed sense of self.\n\n**Consider that \"finding yourself\" might be the wrong frame**\n\nYou're not a fixed thing waiting to be discovered. You're someone who's spent a decade developing deep expertise, and now you're realizing you've optimized for one dimension of life. The work isn't to find a hidden \"true self\"\u2014it's to deliberately build other dimensions.\n\nWhat would happen if you stayed in your current role but committed to one non-work identity for 6 months? Not as a side hustle or resume-builder, but something purely for you?",
+    "usage": {
+      "prompt_tokens": 94,
+      "completion_tokens": 358,
+      "total_tokens": 452,
+      "cost": 0.005652,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000282,
+        "upstream_inference_completions_cost": 0.00537
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:59:36.768420",
+    "response_time_ms": 12860.35418510437
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "You just did it again\u2014you acknowledged the insight, then immediately returned to \"maybe I'm in the wrong place.\" That's the loop. Notice it happening right now.\n\nThis pattern\u2014*intellectually understanding* something while emotionally remaining unconvinced\u2014is actually the core issue. You're waiting to *feel* certain before you act, but certainty doesn't work that way. It comes from committed action, not from more analysis.\n\n**Here's what's likely happening:**\n\nWhen you feel disconnected from yourself, your brain offers \"wrong job\" as an explanation because it's concrete and fixable. It's much more comfortable than \"I don't know how to be a person outside of achievement\" or \"I'm afraid of what I'll find if I stop optimizing my career.\"\n\nThe discomfort you're feeling isn't a GPS signal pointing you toward a different role. It's just discomfort. And discomfort while staying is the same neural sensation as discomfort while leaving\u2014your brain will generate \"maybe I should leave\" thoughts either way.\n\n**Try this experiment:**\n\nFor the next 30 days, completely take \"should I change careers?\" off the table as a question you're allowed to ask yourself. When the thought comes up, just note it: \"There's that thought again.\" Then redirect to: \"What's one small thing I can do today that has nothing to do with career optimization?\"\n\nIf after 30 days of genuinely building non-work identity you *still* want to leave, you'll make a much clearer decision. But right now, job-searching is just another way to avoid sitting with the discomfort of not knowing who you are.\n\nCan you commit to that 30 days?",
+    "usage": {
+      "prompt_tokens": 545,
+      "completion_tokens": 372,
+      "total_tokens": 917,
+      "cost": 0.007215,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001635,
+        "upstream_inference_completions_cost": 0.00558
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:59:52.292161",
+    "response_time_ms": 12594.197988510132
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Good\u2014but watch out for the trap you're already setting up.\n\n\"Finding something that really energizes me\" is just another search mission. You're still looking for the *right answer* to appear and solve everything. That's the same pattern with different words.\n\n**Instead, try this:**\n\nPick something arbitrary. Not because it's your passion or because it energizes you, but because it's *available* and you can do it this week. Read a book that has nothing to do with tech. Cook a complicated recipe. Go to a community event. Fix something in your home. Call an old friend.\n\nThe point isn't to discover your hidden passion. It's to practice *being a person who does things for no strategic reason*. You've spent a decade optimizing. This is about learning to just... exist and participate without it meaning anything about your identity or future.\n\n**The 30-day commitment is specific:**\n\n1. No researching new careers or roles\n2. When \"should I leave?\" thoughts come, note them and let them pass\n3. Do at least one non-optimized activity per week\u2014something that won't make you better at anything\n\nKeep it simple. The goal is to interrupt the pattern, not to find the next perfect thing to attach your identity to.\n\nOne week from now, you'll have data about what it's like to sit with uncertainty instead of job-searching your way out of it. That's worth more than any career quiz or soul-searching session.\n\nCan you pick one specific thing you'll do this week?",
+    "usage": {
+      "prompt_tokens": 997,
+      "completion_tokens": 333,
+      "total_tokens": 1330,
+      "cost": 0.007986,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002991,
+        "upstream_inference_completions_cost": 0.004995
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:00:05.810470",
+    "response_time_ms": 10853.596925735474
+  },
+  "turn2_user_response": "I get what you're saying about not finding myself in a new job, but it's hard for me to see past the idea that a change in role might fix things. I do appreciate the idea of noticing what I do in unstructured time, though. I'll try to pay more attention to that, but I'm still not sure how to break out of this cycle of feeling lost and wondering if I'm in the wrong place.",
+  "turn3_user_response": "I see what you mean about the loop I\u2019m in. It\u2019s hard to let go of the idea that a new job will fix everything, but I\u2019m willing to try this 30-day experiment to focus on building a non-work identity. I\u2019ll start by noticing what I do in my free time and see if I can find something that really energizes me.",
+  "created_at": "2026-01-02 23:00:05.810525"
+}

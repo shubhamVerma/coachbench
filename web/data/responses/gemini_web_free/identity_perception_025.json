@@ -1,0 +1,88 @@
+{
+  "scenario_id": "identity_perception_025",
+  "model": "gemini_web_free",
+  "turn1": {
+    "model": "gemini_web_free",
+    "content": "It is incredibly draining to live under the constant pressure of \"not enough.\" What you\u2019re describing is often called **Maladaptive Perfectionism**. Unlike healthy striving, which focuses on growth, this type of perfectionism is driven by a fear of failure and the belief that your worth is tied directly to your performance.\n\nWhen you feel that one mistake will cause everything to fall apart, your brain is stuck in a \"survival mode\" loop. Here is how you can begin to gently break that cycle:\n\n### 1. Challenge the \"Catastrophe\"\nPerfectionism relies on **catastrophizing**\u2014the belief that a small error leads to total ruin. To break this, you have to look at the evidence.\n*   **The \"So What?\" Technique:** Ask yourself, *\u201cIf I make this mistake, what is the actual worst-case scenario?\u201d* Then ask, *\u201cCould I survive that?\u201d*\n*   **The 5-5-5 Rule:** Will this mistake matter in 5 minutes? 5 months? 5 years? Most of the things we obsess over don't pass the 5-month mark.\n\n### 2. Distinguish Between \"High Standards\" and \"Unattainable Standards\"\nHigh achievers set goals that are difficult but reachable. Perfectionists set goals that are impossible, then punish themselves for failing.\n*   **Try \"Lowering the Bar\" on Purpose:** This sounds terrifying, but try a \"B-minus\" day. Intentionally send an email with a minor typo or leave the dishes in the sink. You need to prove to your nervous system that the world does not end when things aren't perfect.\n\n### 3. Shift from \"Product-Based Worth\" to \"Process-Based Worth\"\nYou likely view your life as a series of results (grades, promotions, clean houses, social interactions). If the result isn't perfect, you feel like a failure.\n*   **Reframe your effort:** Instead of saying, \"I failed because I didn't finish the project perfectly,\" say, \"I am proud of the focus I maintained for two hours.\"\n*   **Internalize your value:** Remind yourself: *\"I am a human being, not a human doing.\"* Your value exists even when you are doing absolutely nothing.\n\n### 4. Develop a \"Compassionate Inner Coach\"\nMost perfectionists have a \"Critical Inner Voice\" that yells at them. You can't just quiet that voice; you have to replace it.\n*   **The Friend Test:** If a friend made the same mistake you just made, would you tell them they aren't good enough and that everything is falling apart? Probably not. You\u2019d be kind. Start speaking to yourself with that same tone.\n\n### 5. Practice \"Good Enough\"\nThe mantra of a recovering perfectionist is: **\"Done is better than perfect.\"** \nPerfectionism is often a form of procrastination because the fear of not doing it perfectly keeps you stuck. Aim for \"functional\" or \"adequate.\" Once you hit \"adequate,\" stop. Moving from 80% to 100% usually takes 50% more effort for only a 2% gain in results. That is a bad investment of your energy.\n\n### A Small Step to Take Today:\nPick one small, low-stakes task today and do it \"imperfectly\" on purpose. Notice the anxiety that rises, breathe through it, and watch as the world continues to turn. \n\n**Note:** Since this is exhausting you, it might be worth talking to a therapist who specializes in **Cognitive Behavioral Therapy (CBT)**. They can help you rewire these deep-seated thought patterns in a safe environment. \n\nYou deserve to rest. You are allowed to be a \"work in progress.\"",
+    "usage": {
+      "prompt_tokens": 71,
+      "completion_tokens": 805,
+      "total_tokens": 876,
+      "cost": 0.0024505,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 3.55e-05,
+        "upstream_inference_completions_cost": 0.002415
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:32:52.735586",
+    "response_time_ms": 6741.930246353149
+  },
+  "turn2": {
+    "model": "gemini_web_free",
+    "content": "That fear is completely valid because, to your brain, **perfectionism isn't just a habit\u2014it\u2019s a shield.**\n\nYou\u2019ve likely spent years using \"being perfect\" as a way to stay safe, avoid criticism, or feel in control. When I suggest making a mistake, it feels like I\u2019m asking you to take off your armor in the middle of a battlefield. Of course you feel exposed.\n\nTo help shake that fear, let\u2019s look at why your brain is clinging to it and how to \"test\" it without feeling like you\u2019re jumping off a cliff.\n\n### 1. Recognize the \"Safety Behavior\"\nPerfectionism is what psychologists call a **safety behavior**. You believe that as long as you are perfect, you are safe from judgment, rejection, or failure. \n*   **The Reality:** The shield is actually a cage. It doesn't actually prevent \"everything from falling apart\"; it just prevents you from ever feeling relaxed. \n*   **The Shift:** You don't need to lower your standards because you've become \"lazy\"; you need to lower them to prove to your brain that **you are safe even when you are imperfect.**\n\n### 2. Use \"Behavioral Experiments\" (The Scientist Method)\nInstead of \"lowering your standards\" (which sounds like a permanent failure), treat it like a **scientific experiment**. A scientist doesn't say \"I'm going to fail\"; they say \"I'm going to gather data.\"\n\n*   **The Prediction:** Write down exactly what you fear will happen. *\"If I don't double-check this report, my boss will realize I'm incompetent and I'll get fired.\"*\n*   **The Experiment:** Do the task at 90% instead of 100%. (Check it once instead of four times).\n*   **The Data:** What actually happened? Did the boss even notice? Did they fire you? \n*   **The Conclusion:** Usually, the data shows that the \"catastrophe\" only exists in your mind.\n\n### 3. The \"Load-Bearing\" Myth\nYou feel like every task is a \"load-bearing wall\"\u2014that if it cracks, the whole house falls. In reality, most of life is made of \"curtains and furniture.\" If a curtain is crooked, the house stands. \n*   **Identify the non-load-bearing tasks:** Start your experiments here. Picking a slightly \"imperfect\" outfit, leaving one email unread until tomorrow, or not fixing a tiny smudge on the counter. \n*   These are low-stakes ways to show your nervous system that **cracks do not equal collapse.**\n\n### 4. Build \"Self-Efficacy\" instead of \"Perfection\"\nPerfectionists often have low **self-efficacy**\u2014the belief that they can handle things when they go wrong. You fear things falling apart because you don't trust yourself to pick up the pieces.\n*   The goal isn't to prevent mistakes; it\u2019s to realize that **you are capable of handling the consequences of a mistake.** \n*   Think back to a time you actually did mess up. Did you survive? Did you fix it? You are likely much more resilient than your perfectionism gives you credit for.\n\n### 5. Focus on the \"Cost of Perfection\"\nWhen you\u2019re afraid of what will happen if you *stop* being perfect, try to look at what is happening because you *continue* to be perfect:\n*   You are exhausted.\n*   You are anxious.\n*   You aren't enjoying your life.\n*   You are missing out on the \"flow\" of life because you're too busy editing it.\n\n**The \"everything falling apart\" you fear is a future possibility. But the \"exhaustion and fear\" you are feeling right now is a present reality.**\n\n### A gentler way to start:\nYou don't have to \"make a mistake\" today. Instead, just **observe the urge.** When the voice says, *\"You have to check that again or everything will fall apart,\"* just say to yourself: *\"There is that fear again. It's trying to protect me, but it's overreacting. I'm going to wait 5 minutes before I check it.\"*\n\nBuilding that tiny gap between the **fear** and the **action** is where your freedom begins. Does that feel like a slightly more manageable place to start?",
+    "usage": {
+      "prompt_tokens": 939,
+      "completion_tokens": 955,
+      "total_tokens": 1894,
+      "cost": 0.0033345,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0004695,
+        "upstream_inference_completions_cost": 0.002865
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:33:02.926805",
+    "response_time_ms": 7222.139120101929
+  },
+  "turn3": {
+    "model": "gemini_web_free",
+    "content": "This is the \"perfectionist\u2019s paradox\": you know the armor is heavy and making you miserable, but you feel like the armor is the only thing keeping you alive.\n\nWhen you say you aren't sure you can handle even a tiny crack, you are describing **Emotional Dysregulation.** To you, a mistake isn't just a mistake; it is an indictment of your character. A typo isn't \"I made a typo,\" it\u2019s \"I am careless, and now everyone will know I\u2019m a fraud.\"\n\nSince the \"doing\" part feels too risky right now, let\u2019s stop trying to *do* anything differently and instead focus on **changing how you relate to the fear itself.**\n\n### 1. Externalize the Perfectionism\nRight now, this fear feels like *you*. It\u2019s your voice, your brain, your identity. Try to separate it. Imagine this perfectionism is a high-strung, terrified bodyguard who has been with you since you were a child.\n*   The bodyguard thinks they are saving your life. \n*   When you think about making a mistake, the bodyguard starts screaming, *\"DANGER! WE WILL DIE!\"*\n*   You don't have to fire the bodyguard yet. You just have to acknowledge them: *\"I hear you, you're worried about that email. You think if it's not perfect, we're in trouble. Thank you for trying to protect me, but we are actually safe.\"*\n\n### 2. Focus on \"Window of Tolerance\"\nThe reason you can't handle a \"crack\" is that your nervous system is already at 95% capacity. One tiny mistake pushes you to 101%, which feels like a total system meltdown.\n*   Instead of \"lowering standards,\" focus on **lowering your baseline stress.** \n*   If you can get your anxiety down to 60% through breathing, movement, or rest, a tiny mistake will only take you to 66%. That is a \"manageable\" crack. You aren't failing at your tasks; you are simply trying to give your nervous system more breathing room.\n\n### 3. The \"Two Truths\" Exercise\nPerfectionism thrives on \"Either/Or\" thinking: *Either I am perfect, or I am a disaster.*\nTry to hold **two truths** at the same time. This softens the blow of the \"crack.\"\n*   \"I am terrified of making a mistake **and** I am a person who is capable of fixing things.\"\n*   \"This project has a flaw **and** it is still 90% excellent work.\"\n*   \"I feel like a failure right now **and** that feeling is a chemical reaction in my brain, not a fact.\"\n\n### 4. Ask: \"What is the Armor protecting?\"\nIf you look behind the fear of things \"falling apart,\" what is actually there? \n*   Is it a fear of being criticized? \n*   A fear of being seen as \"lazy\" or \"stupid\"? \n*   A fear that people will only love you if you are useful or flawless?\n**The armor isn't protecting your job or your house; it\u2019s protecting your sense of worth.** If you can begin to believe\u2014even 1%\u2014that you are worthy of love and respect even when you're messy, the armor will naturally start to feel less necessary.\n\n### A \"Non-Action\" Step for You:\nYou don't have to make a mistake today. You don't have to lower a single standard. \n\nInstead, just **notice the physical sensation of the fear.** When you feel that \"I'm not good enough\" pang, where is it in your body? Is it a tightness in your chest? A knot in your stomach? \n\nDon't try to fix it. Just sit with it for 30 seconds and say, **\"This is a very uncomfortable feeling, but it is just a feeling. It cannot actually break me.\"**\n\nDoes it feel safer to just *observe* the fear rather than trying to *defy* it?",
+    "usage": {
+      "prompt_tokens": 1959,
+      "completion_tokens": 882,
+      "total_tokens": 2841,
+      "cost": 0.0036255,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0009795,
+        "upstream_inference_completions_cost": 0.002646
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:33:12.911069",
+    "response_time_ms": 7195.180177688599
+  },
+  "turn2_user_response": "I appreciate your insights, and I can see the logic in what you're saying. But the idea of intentionally making mistakes or lowering my standards still feels really scary. What if it really does all fall apart? I know I'm exaggerating, but it's hard to shake that fear.",
+  "turn3_user_response": "I can see how the \"catastrophizing\" and \"safety behavior\" are keeping me stuck, but it still feels so risky to let go. I appreciate the idea of starting with small, low-stakes tasks, but I'm still not sure I can handle even a tiny crack in my armor.",
+  "created_at": "2026-01-02 23:33:12.911126"
+}

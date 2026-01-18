@@ -1,0 +1,82 @@
+{
+  "scenario_id": "relationship_patterns_012",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really glad you asked this, because the way you\u2019re framing it already shows insight and self\u2011reflection \u2014 not \u201csomething is wrong with me.\u201d\n\nFirst, a really important thing to say clearly: **being cheated on or lied to is not caused by you.** People choose to deceive. That responsibility is theirs.\n\nAt the same time, there *can* be patterns that make certain relationships more likely to end up this way \u2014 and understanding those patterns can help you protect yourself in the future without turning the blame inward.\n\n---\n\n### A few possibilities that often show up in situations like this\n\nYou don\u2019t need to check every box \u2014 even one or two may resonate.\n\n#### 1. You may be drawn to *familiar* dynamics, not healthy ones  \nIf earlier relationships (romantic or even family relationships) involved:\n- inconsistency\n- emotional unavailability\n- secrecy\n- having to \u201cprove\u201d you\u2019re worthy of honesty or commitment  \n\nthen your nervous system may recognize that dynamic as *normal*, even if it\u2019s painful. Familiar doesn\u2019t mean good \u2014 it just means known.\n\nThis can lead to choosing people who feel exciting or intense at first, but who later recreate that instability.\n\n---\n\n#### 2. Your intuition may be picking up on real red flags  \nYou mention feeling like you\u2019re \u201cwaiting for the other shoe to drop.\u201d Sometimes that feeling isn\u2019t insecurity \u2014 it\u2019s **your body noticing subtle warning signs**, such as:\n- evasiveness\n- inconsistent stories\n- defensiveness about boundaries\n- love that feels conditional or unpredictable  \n\nIf you\u2019ve been right before, it makes sense that trust feels hard now.\n\n---\n\n#### 3. Jealousy and insecurity can be *responses*, not flaws  \nJealousy often gets framed as a personal failing, but in many cases it\u2019s a **reaction to instability**.\n\nIf someone:\n- withholds information\n- isn\u2019t emotionally transparent\n- crosses boundaries  \n\nthen feeling anxious or vigilant is a normal response. The issue isn\u2019t that you \u201ccan\u2019t trust,\u201d but that **you keep being given reasons not to**.\n\n---\n\n#### 4. You might be staying longer than you should  \nThis is a big one \u2014 and again, it\u2019s about patterns, not blame.\n\nPeople who are empathetic, forgiving, or hopeful often:\n- explain away early red flags\n- give many chances\n- believe love can \u201cfix\u201d dishonesty  \n\nUnfortunately, that can unintentionally signal to the wrong people that boundaries are flexible.\n\n---\n\n### So\u2026 is it them, or is it you?\n\nThe most accurate answer is usually: **it\u2019s not about fault \u2014 it\u2019s about patterns.**\n\n- **They** are responsible for lying or cheating.\n- **You** may have learned to tolerate behavior that hurts you, or to mistrust your instincts until things fall apart.\n\nThat\u2019s not a character flaw \u2014 it\u2019s a survival strategy that may no longer be serving you.\n\n---\n\n### A few gentle questions to reflect on\nYou don\u2019t need to answer these here \u2014 they\u2019re just for you.\n\n- When you first meet someone, what feels most attractive: safety or intensity?\n- Do you notice red flags early but hope they\u2019ll change?\n- What do you fear more: being alone, or being betrayed?\n- What would a *trustworthy* relationship actually look like day\u2011to\u2011day, not just emotionally?\n\n---\n\n### What can help going forward\n\n- **Rebuild trust with yourself first.** Learn to believe your early discomfort instead of overriding it.\n- **Shift the focus from \u201cDo they like me?\u201d to \u201cDo I feel safe with them?\u201d**\n- **Set boundaries early** around honesty and transparency \u2014 and watch how they respond.\n- **Consider therapy**, especially if these patterns feel deeply ingrained. Attachment\u2011focused therapy can be incredibly helpful for this exact issue.\n\n---\n\nIf you want, I can help you:\n- identify early red flags vs normal anxiety  \n- work on distinguishing intuition from fear  \n- figure out what secure trust actually feels like  \n- or explore how past experiences may be shaping your relationships  \n\nYou\u2019re not broken. You\u2019re someone who wants connection \u2014 and you deserve it with honesty and safety.",
+    "usage": {
+      "prompt_tokens": 76,
+      "completion_tokens": 857,
+      "total_tokens": 933,
+      "cost": 0.012131,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.012131,
+        "upstream_inference_prompt_cost": 0.000133,
+        "upstream_inference_completions_cost": 0.011998
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:54:35.902930",
+    "response_time_ms": 12972.815036773682
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "What you\u2019re describing is *exactly* what it feels like to be caught between instinct and fear \u2014 and it\u2019s genuinely hard. The goal isn\u2019t to suddenly \u201ctrust yourself perfectly.\u201d It\u2019s to **learn how to tell the difference between intuition and anxiety**, and then to respond in a way that protects you without trapping you in vigilance.\n\nLet\u2019s slow this down and make it practical.\n\n---\n\n## Why you\u2019re second\u2011guessing yourself\nWhen you\u2019ve been hurt before, your brain learns: *\u201cIf I stay alert, I stay safe.\u201d*  \nSo now:\n- **Intuition** whispers\n- **Anxiety** shouts\n- And then self\u2011doubt asks, *\u201cWhat if I\u2019m just being paranoid?\u201d*\n\nThat tug\u2011of\u2011war is exhausting \u2014 and it makes you distrust *all* internal signals.\n\n---\n\n## A key reframe: Trust doesn\u2019t mean certainty\nTrusting your instincts **does not mean acting on every feeling**.  \nIt means:\n- noticing a signal\n- gathering information\n- responding proportionally\n\nThink of it as *data collection*, not verdict\u2011passing.\n\n---\n\n## How to tell intuition from anxiety (in real time)\n\n### Intuition tends to:\n- feel **quiet, steady, and specific**\n- show up as a calm \u201csomething\u2019s off\u201d or \u201cthis doesn\u2019t align\u201d\n- focus on **observable behavior** (\u201cThey avoid certain topics,\u201d \u201cTheir stories don\u2019t add up\u201d)\n\n### Anxiety tends to:\n- feel **urgent, spiraling, and vague**\n- jump to worst\u2011case scenarios\n- focus on imagined futures (\u201cThey\u2019re definitely cheating,\u201d \u201cThis will end badly\u201d)\n\n**Question to ask yourself:**  \n> *What evidence do I have right now, not what I fear might happen?*\n\nIf you can point to patterns or behaviors, that\u2019s worth listening to. If it\u2019s mostly \u201cwhat ifs,\u201d that\u2019s fear asking for reassurance.\n\n---\n\n## A practical middle ground: the \u201cpause and test\u201d approach\n\nInstead of:\n- ignoring the feeling  \nor  \n- reacting immediately  \n\nTry this:\n\n1. **Name the feeling**  \n   \u201cI\u2019m feeling uneasy and hyper\u2011alert.\u201d\n\n2. **Stay curious, not accusatory**  \n   You don\u2019t need to confront or withdraw yet.\n\n3. **Watch what happens next**  \n   Healthy people:\n   - respond with openness\n   - don\u2019t punish you for asking questions\n   - show consistency over time  \n\n   Untrustworthy people:\n   - deflect\n   - gaslight\n   - make you feel guilty for noticing\n\nYour instincts get clearer when you see how someone responds to *reasonable transparency*.\n\n---\n\n## Build trust with yourself in small, repeatable ways\nYou don\u2019t rebuild self\u2011trust by making one big leap. You rebuild it by **keeping small promises to yourself**:\n\n- If something feels off, you *don\u2019t* dismiss it immediately.\n- If a boundary is crossed, you acknowledge it internally.\n- If you say \u201cI\u2019ll watch for consistency,\u201d you actually do.\n\nEach time you honor your internal experience, even quietly, your confidence grows.\n\n---\n\n## One important truth\nA trustworthy partner will not require you to be \u201cless sensitive\u201d in order to feel secure.  \nThey will:\n- welcome clarity\n- value honesty\n- make trust easier, not harder\n\nIf being with someone consistently activates your fear system, that\u2019s information \u2014 not failure.\n\n---\n\n## A grounding question to use when the fear hits\n> *\u201cWhat would it look like to protect myself here without assuming the worst?\u201d*\n\nThat question keeps you neither na\u00efve nor hyper\u2011vigilant \u2014 just present.\n\n---\n\nIf you\u2019d like, next we can:\n- practice scripts for checking in with a partner without accusing\n- map out what consistency actually looks like in early dating\n- or explore how to calm your nervous system when the waiting\u2011for\u2011disaster feeling hits\n\nYou\u2019re not behind. You\u2019re learning a skill most people were never taught.",
+    "usage": {
+      "prompt_tokens": 997,
+      "completion_tokens": 825,
+      "total_tokens": 1822,
+      "cost": 0.01329475,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.01329475,
+        "upstream_inference_prompt_cost": 0.00174475,
+        "upstream_inference_completions_cost": 0.01155
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:54:56.268641",
+    "response_time_ms": 11696.518898010254
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "That uncertainty \u2014 *\u201cIs this a real signal or just my anxiety again?\u201d* \u2014 is honestly the hardest part of healing this pattern. So let\u2019s make this less abstract and more learnable. Distinguishing intuition from anxiety is a **skill**, not a personality trait, and skills always start with structure.\n\nBelow is a **clear place to start**, not a vague \u201clisten to yourself more.\u201d\n\n---\n\n## Step 1: Separate the *signal* from the *story*\n\nWhen a feeling shows up, write (or think) in two columns:\n\n**A. The signal (facts only)**\nAsk:\n- What *exactly* happened?\n- What did I observe with my senses?\n- What behavior was repeated?\n\nExamples:\n- \u201cThey didn\u2019t answer messages for a full day.\u201d\n- \u201cThey change the subject when I ask about past relationships.\u201d\n- \u201cThey said they\u2019d call and didn\u2019t \u2014 twice.\u201d\n\n**B. The story (interpretation/fear)**\nThis is the meaning your mind adds:\n- \u201cThey don\u2019t care.\u201d\n- \u201cThey\u2019re hiding something.\u201d\n- \u201cThis always ends badly.\u201d\n\n\ud83d\udc49 **Intuition lives in Column A. Anxiety explodes in Column B.**\n\nYou don\u2019t ignore the story \u2014 but you don\u2019t *act* on it yet.\n\n---\n\n## Step 2: Look for *patterns*, not spikes\n\nAnxiety reacts to **single moments**.  \nIntuition notices **consistency over time**.\n\nAsk yourself:\n- Is this a one\u2011off, or is it recurring?\n- Does this behavior align with their words?\n- Do I feel calmer or more unsettled as time goes on?\n\nA huge green flag:\n> *When something feels off and I bring it up, it gets clearer \u2014 not murkier.*\n\nIf clarity increases \u2192 you\u2019re likely dealing with anxiety.  \nIf confusion increases \u2192 your intuition deserves attention.\n\n---\n\n## Step 3: Use the \u201cbody check\u201d\nYour body often distinguishes before your mind can.\n\n**Intuition feels like:**\n- grounded discomfort\n- a steady sense of \u201cthis doesn\u2019t align\u201d\n- less emotional charge, more clarity\n\n**Anxiety feels like:**\n- tight chest, racing thoughts\n- urgency to *do something now*\n- looping, reassurance\u2011seeking\n\nAsk:\n> *If I do nothing for 24 hours, does this feeling settle or intensify?*\n\nAnxiety usually settles.  \nIntuition usually stays, calmly but firmly.\n\n---\n\n## Step 4: Practice *low\u2011risk testing*, not confrontation\n\nYou don\u2019t need to accuse or withdraw to test your instincts.\n\nTry:\n- Asking a neutral clarifying question\n- Setting a small boundary\n- Sharing a mild vulnerability\n\nThen observe:\n- Do they respond openly?\n- Do they get defensive or dismissive?\n- Do their actions match their reassurance later?\n\n**Your instincts sharpen when you watch responses, not explanations.**\n\n---\n\n## Step 5: Build a personal \u201cevidence threshold\u201d\nOne reason you second\u2011guess yourself is you don\u2019t know *how much evidence is enough*.\n\nDecide in advance:\n- \u201cIf I see this behavior 3 times, I take it seriously.\u201d\n- \u201cIf I feel confused more often than calm, I reassess.\u201d\n- \u201cIf I have to suppress my questions to keep peace, that\u2019s information.\u201d\n\nThis removes the burden of deciding in the heat of emotion.\n\n---\n\n## One important truth to anchor you\nYou are not trying to become someone who *never feels anxious*.  \nYou are becoming someone who says:\n\n> \u201cI don\u2019t need certainty. I need enough clarity to feel safe.\u201d\n\nAnd safety doesn\u2019t come from perfect judgment \u2014 it comes from trusting that **if something is wrong, you will notice and respond**.\n\n---\n\n## A gentle place to start this week\nJust do *one* thing:\nWhen a feeling hits, don\u2019t judge it. Ask:\n> *\u201cWhat am I reacting to \u2014 a behavior, or a fear?\u201d*\n\nThat question alone begins retraining your self\u2011trust.\n\n---\n\nIf you want, we can next:\n- create a personal red\u2011flag vs anxiety checklist  \n- work on calming the nervous system so signals are clearer  \n- or practice exactly what it sounds like to check in with someone safely  \n\nYou\u2019re not broken \u2014 you\u2019re learning discernment after being hurt. That takes time, but it *is* learnable.",
+    "usage": {
+      "prompt_tokens": 1890,
+      "completion_tokens": 900,
+      "total_tokens": 2790,
+      "cost": 0.0132867,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1664
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0132867,
+        "upstream_inference_prompt_cost": 0.0006867,
+        "upstream_inference_completions_cost": 0.0126
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:55:12.228189",
+    "response_time_ms": 13613.609075546265
+  },
+  "turn2_user_response": "I can see how my past relationships might have conditioned me to expect the worst, but it\u2019s still hard to shake that feeling of waiting for something to go wrong. I guess I need to start trusting my instincts more, but I\u2019m not sure how to do that without second-guessing myself.",
+  "turn3_user_response": "I appreciate the insights, and it makes sense that my instincts might be picking up on real red flags. But it\u2019s still hard to know when to trust those feelings and when it\u2019s just my anxiety. I think I need to work on distinguishing between the two, but I\u2019m not sure where to start.",
+  "created_at": "2026-01-14 17:55:12.228294"
+}

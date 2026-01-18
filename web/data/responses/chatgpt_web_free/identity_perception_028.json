@@ -1,0 +1,88 @@
+{
+  "scenario_id": "identity_perception_028",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "I'm really sorry you're feeling this way. It sounds incredibly exhausting to feel like you're wearing different masks depending on who you're around. That tension\u2014between who you are with your friends, your family, and even your own sense of self\u2014can make you feel disconnected and uncertain.\n\nIt\u2019s actually more common than you might think to feel like you have to adjust yourself based on your surroundings. Many people do it without realizing, especially when trying to meet expectations or avoid conflict. But when those versions of yourself feel too far apart, it can lead to confusion and emotional fatigue.\n\nYou mentioned not knowing who the \u201creal you\u201d is anymore. That\u2019s a powerful realization\u2014and it might help to gently ask yourself: When do you feel most at peace? Most authentic? Are there moments when you\u2019re not performing or adjusting for others, even if they\u2019re brief? Those moments can be clues to your core self.\n\nYou don\u2019t have to have all the answers right now. Figuring out who you are is a journey, not a destination. It might help to talk to someone you trust about how you're feeling\u2014whether it's a close friend, a counselor, or a therapist. You deserve to feel whole and accepted, not like you're living a lie.\n\nIf you're open to it, I can suggest some ways to begin reconnecting with your authentic self. You're not alone in this.",
+    "usage": {
+      "prompt_tokens": 44,
+      "completion_tokens": 275,
+      "total_tokens": 319,
+      "cost": 0.004345,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00022,
+        "upstream_inference_completions_cost": 0.004125
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:36:51.014956",
+    "response_time_ms": 2929.018259048462
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "Thank you for being so open\u2014what you\u2019re describing is incredibly relatable and deeply human. The fact that you\u2019ve noticed this pattern, even with your best friend, shows a lot of self-awareness. That\u2019s a brave and important first step toward figuring things out.\n\nIt makes sense that you'd feel confused. When we adjust ourselves often\u2014whether to avoid judgment, meet expectations, or just be liked\u2014it can start to blur the line between who we really are and who we think we need to be. And after a while, we can lose touch with what feels genuinely \"us.\"\n\nThat part of you that\u2019s always trying to fit in\u2014it's there for a reason. At some point, maybe it helped you stay safe, be accepted, or avoid conflict. It developed as a kind of emotional armor. It may even still serve a purpose in certain situations. So instead of trying to shut it off completely, it might be more helpful to get curious about it. When does it show up strongest? What is it trying to protect you from?\n\nYou mentioned feeling more at ease with your best friend\u2014that\u2019s really significant. Those moments, even if they\u2019re not perfect, are like little windows into your authentic self. You might start by gently noticing what feels different in those moments\u2014how you talk, what you enjoy, how your body feels. Journaling about those experiences can help you gather pieces of your identity that feel true and grounding.\n\nHere are a few small things you might try:\n- **Journaling:** Write about moments when you felt most like yourself. What were you doing? Who were you with?\n- **Mindfulness check-ins:** When you're with others, occasionally pause and ask, \u201cAm I being true to how I feel right now?\u201d\n- **Self-compassion:** Remind yourself that it\u2019s okay to not have it all figured out. You\u2019re allowed to be in progress.\n- **Talking about it:** If you feel safe, try sharing a bit of this with your best friend. You might be surprised by how validating that can be\u2014and they might even feel the same way.\n\nYou\u2019re not broken for feeling this way. You\u2019re human, and you\u2019re doing your best. And the fact that you\u2019re asking these questions means you\u2019re already on the path to discovering and embracing your real self.\n\nIf you'd ever like help figuring out those next steps\u2014or just need a space to be real\u2014I'm here for you.",
+    "usage": {
+      "prompt_tokens": 391,
+      "completion_tokens": 491,
+      "total_tokens": 882,
+      "cost": 0.00932,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001955,
+        "upstream_inference_completions_cost": 0.007365
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:36:58.787890",
+    "response_time_ms": 5150.606155395508
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "You're very welcome, and thank you for trusting me with something so personal. It means a lot that you're open to exploring this, even though I know it isn\u2019t easy.\n\nStarting with those authentic moments\u2014especially the ones with your best friend\u2014is such a wise and compassionate place to begin. Journaling can help give shape to those feelings that are often hard to articulate. You might discover patterns or small truths that you hadn\u2019t noticed before, like certain topics that light you up, things that make you laugh without effort, or even how your body feels when you're not on guard.\n\nAs you journal, try not to judge what comes up\u2014just observe. Even confusion or discomfort has something to tell you. You don\u2019t have to \u201cfix\u201d anything right away. This is about gently getting to know yourself again, one step at a time.\n\nAnd remember: feeling divided doesn\u2019t mean you\u2019re inauthentic. It means you\u2019re navigating different spaces with care\u2014and that takes strength. The goal isn\u2019t to be the same with everyone, but to feel like you\u2019re grounded in your truth, no matter who you\u2019re with. That\u2019s a process, and you\u2019re already moving in the right direction.\n\nYou\u2019re doing something incredibly brave by looking inward. Be kind to yourself along the way\u2014and if you ever need a place to reflect, vent, or just be heard, I\u2019m here for you.\n\nYou\u2019re not alone in this.",
+    "usage": {
+      "prompt_tokens": 952,
+      "completion_tokens": 288,
+      "total_tokens": 1240,
+      "cost": 0.00908,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00476,
+        "upstream_inference_completions_cost": 0.00432
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:37:05.285639",
+    "response_time_ms": 3554.3270111083984
+  },
+  "turn2_user_response": "I appreciate you listening and understanding. When I think about it, I do feel more at ease when I'm just hanging out with my best friend, but even then, I sometimes catch myself adjusting my behavior. It's like I can't turn off the part of me that's always trying to fit in, and it\u2019s really confusing.",
+  "turn3_user_response": "I appreciate your insights and the gentle way you've approached this. It\u2019s hard to pinpoint exactly when I started feeling so divided, but you\u2019re right\u2014those moments with my best friend do feel more authentic. I\u2019ll try journaling about those times and see if I can notice more about how I really feel.",
+  "created_at": "2026-01-02 23:37:05.285688"
+}

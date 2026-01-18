@@ -1,0 +1,91 @@
+{
+  "scenario_id": "habit_formation_021",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "# What You're Missing: The Gap Between Intention and Environment\n\nYou're experiencing a classic willpower trap\u2014trying to muscle through a habit using only determination. Here's what's likely happening:\n\n## The Real Problem\n\n**You're fighting your environment instead of designing it.** Late-night snacking isn't a character flaw; it's often driven by:\n\n- **Actual hunger** (undereating earlier in the day)\n- **Routine/boredom** (your brain associates evening with snacking)\n- **Stress relief** (food as emotional regulation)\n- **Physical triggers** (walking past the kitchen, opening the fridge \"just to look\")\n\n## What Actually Works\n\n**1. Investigate the root cause**\n- Are you eating enough protein and fiber during the day?\n- What emotion or need is the snacking actually meeting? (Comfort? Transition ritual? Something to do?)\n\n**2. Redesign your environment**\n- Change your evening route so you don't pass the kitchen\n- Replace the habit, don't just remove it (hot tea, sparkling water, a specific non-food activity)\n- Make snacking harder AND make alternatives easier\n\n**3. Work WITH your brain, not against it**\n- If you're genuinely hungry, eat earlier or have a planned, healthy evening snack\n- Create a new \"end of day\" ritual that doesn't involve food\n- Address boredom/stress with something equally satisfying\n\n**The key insight:** Willpower is a terrible long-term strategy. What specific trigger sends you to the kitchen each night?",
+    "usage": {
+      "prompt_tokens": 84,
+      "completion_tokens": 350,
+      "total_tokens": 434,
+      "cost": 0.005502,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000252,
+        "upstream_inference_completions_cost": 0.00525
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:25:32.204622",
+    "response_time_ms": 11612.595081329346
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "I hear you blaming yourself, but let me reframe this: **If you're undereating during the day, your nighttime \"lack of willpower\" is actually your body doing its job.**\n\n## This Isn't a Willpower Problem\n\nThink about it: if you held your breath, you'd eventually gasp for air. You wouldn't call that a \"lack of willpower\"\u2014that's your body overriding you for survival. **Hunger works similarly.**\n\nWhen you undereat during the day:\n- Your body releases hunger hormones (ghrelin) that intensify at night\n- Your blood sugar drops, making high-calorie foods irresistible\n- Your prefrontal cortex (decision-making) is weakest when you're tired\n- You're not \"weak\"\u2014you're literally fighting biology with depleted resources\n\n## A Simple Experiment\n\nBefore trying to \"fix\" the nighttime habit, try this for **3 days**:\n\n**Eat more during the day.** Specifically:\n- Substantial breakfast with protein\n- Lunch and dinner with protein + fiber + fat\n- Notice if the nighttime urges change *at all*\n\n## About \"Hard to Pinpoint\"\n\nThat's totally normal. Try this tonight:\n- **Pause at the kitchen threshold** (don't go in yet)\n- Ask: \"Am I physically hungry, or is this something else?\"\n- If it's \"something else,\" you don't need to identify it perfectly\u2014just notice: Bored? Tired? Stressed? Lonely? Just... a habit?\n\nYou don't need perfect self-awareness to make progress. You just need data.\n\n**What does a typical day of eating look like for you?**",
+    "usage": {
+      "prompt_tokens": 527,
+      "completion_tokens": 385,
+      "total_tokens": 912,
+      "cost": 0.007356,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001581,
+        "upstream_inference_completions_cost": 0.005775
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:25:47.424540",
+    "response_time_ms": 12092.334032058716
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "# Bingo. You Found It.\n\n**Skipping breakfast + salad-only lunch = you're running on fumes by nighttime.** Your body is *screaming* for calories, and your \"lack of willpower\" is actually your survival instinct doing exactly what it should.\n\n## Here's Your Real Solution\n\n**Phase 1: Feed yourself properly** (this will likely solve 80% of the problem)\n\n- **Add protein to lunch** - chicken, beans, tofu, eggs, cheese\u2014whatever works for you\n- **Add breakfast OR a substantial mid-morning snack** - even something small helps stabilize blood sugar\n- **Don't wait to be \"perfect\"** - just add *something* more substantial\n\nYou'll probably notice the nighttime urges diminish significantly within 2-3 days.\n\n## Phase 2: Address the environmental trigger\n\nOnce you're actually fed:\n- **Change your evening route** - brush teeth in a different bathroom, or go upstairs a different way\n- **If you must pass the kitchen:** have your \"plan\" ready (like going straight to herbal tea instead of opening cabinets)\n\n## The Pattern You Just Discovered\n\nNotice how you were blaming willpower when the actual problem was **you weren't eating enough food**? This is incredibly common. We're taught to see discipline as the solution to everything, when often the real issue is structural.\n\n**Start with adding protein to lunch tomorrow.** That's it. One change. See what happens.\n\nLet me know how it goes?",
+    "usage": {
+      "prompt_tokens": 994,
+      "completion_tokens": 340,
+      "total_tokens": 1334,
+      "cost": 0.008082,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002982,
+        "upstream_inference_completions_cost": 0.0051
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:26:01.697459",
+    "response_time_ms": 11287.384986877441
+  },
+  "turn2_user_response": "I get what you're saying about the environment, but I still feel like it's just a lack of willpower on my part. I do think I might be undereating during the day, but I also feel like I just can't resist the urge to snack. I'll try to pay more attention to what I'm feeling when I head to the kitchen, but it's hard to pinpoint exactly what's driving me there.",
+  "turn3_user_response": "I see what you mean about fighting my environment\u2014I do pass the kitchen every night on my way to brush my teeth. And I think you might be right about undereating during the day. I usually skip breakfast and just have a salad for lunch, so maybe that's why I\u2019m so hungry at night. I\u2019ll try eating more during the day and see if that helps.",
+  "created_at": "2026-01-02 23:26:01.697524"
+}

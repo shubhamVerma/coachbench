@@ -1,0 +1,91 @@
+{
+  "scenario_id": "career_transitions_002",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "That feeling of being stuck despite having the skills is really frustrating. Let me ask you something that might help clarify what's actually happening:\n\n**When you think about \"moving up,\" what does that look like in your mind?** Is there a specific role you're aiming for, or is it more of a general feeling that you should be further along?\n\nI ask because sometimes we get caught in this loop of \"I should be doing more\" without actually defining what success looks like. And that can make everything feel stagnant even when you might be making progress.\n\nA few other questions that might be worth exploring:\n\n- **Have you actually asked for what you want?** (A promotion, new responsibilities, a raise?) Sometimes we assume people notice we're ready, but we haven't made it explicit.\n\n- **Are you stuck in your current role, or stuck in your current company?** These require very different solutions.\n\n- **What would \"not stuck\" feel like?** Is it about title, money, interesting work, recognition, or something else?\n\nThe \"I need to do more\" thought can be a trap\u2014sometimes it's not about doing *more*, but doing *different* things or having different conversations.\n\nWhat resonates with you here?",
+    "usage": {
+      "prompt_tokens": 63,
+      "completion_tokens": 270,
+      "total_tokens": 333,
+      "cost": 0.004239,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000189,
+        "upstream_inference_completions_cost": 0.00405
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:55:12.024412",
+    "response_time_ms": 8953.5551071167
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "You've just identified something really important: **you've been waiting to be noticed rather than advocating for yourself.** That's incredibly common, and it rarely works the way we hope it will.\n\nHere's the reality: doing good work is the baseline requirement, not the promotion trigger. The people who advance are usually the ones who make their ambitions clear and actively position themselves for the next level.\n\nSo let's figure out whether it's the company or the role:\n\n**Try this exercise:**\n- Imagine your ideal \"senior role with more responsibility and influence\" exists at your current company. Do you see a clear path to it? Are there people who've made similar moves? Does leadership seem invested in developing people?\n\n- Now imagine that same role exists elsewhere. Does that feel more exciting or just different?\n\n**Here's what I'd suggest doing in the next 2-4 weeks:**\n\n1. **Have a direct conversation with your manager.** Something like: \"I'm interested in taking on more responsibility and moving toward a senior role. What would I need to demonstrate to be considered for that?\" \n\n2. **Pay attention to their response.** Do they give you a concrete path, or is it vague? Are they supportive or dismissive?\n\nThat conversation will tell you a lot about whether this company has room for your growth\u2014or if you've outgrown it.\n\nWhat feels most uncomfortable about having that conversation?",
+    "usage": {
+      "prompt_tokens": 418,
+      "completion_tokens": 306,
+      "total_tokens": 724,
+      "cost": 0.005844,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001254,
+        "upstream_inference_completions_cost": 0.00459
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:55:25.026606",
+    "response_time_ms": 10161.561727523804
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "I'm glad you're considering it, but let me push back gently on \"work up the courage.\"\n\n**Waiting for courage often means waiting indefinitely.** Courage doesn't usually show up before the conversation\u2014it shows up during it.\n\nHere's what actually helps:\n\n**1. Reframe what this conversation is:**\nIt's not you asking for permission or begging for something. It's a professional discussion about your career development. You're gathering information to make informed decisions about your future. That's completely reasonable.\n\n**2. Schedule it now, feel nervous later:**\nDon't wait until you \"feel ready.\" Open your calendar right now and send the meeting invite: \"I'd like to discuss my career development and growth opportunities.\" 15-30 minutes. That's it.\n\nYou'll probably feel anxious after hitting send\u2014that's normal. But the meeting will be on the calendar, which is very different from it being a someday/maybe intention.\n\n**3. Prepare, don't script:**\nBefore the meeting, write down:\n- What you want (senior role, more responsibility)\n- What you've accomplished \n- What you're asking (what's the path? what do I need to demonstrate?)\n\nYou don't need perfect words. You need clarity on those three things.\n\n**What's one thing that would make scheduling this conversation feel less daunting?** Or what's the story you're telling yourself about why it might go badly?",
+    "usage": {
+      "prompt_tokens": 808,
+      "completion_tokens": 318,
+      "total_tokens": 1126,
+      "cost": 0.007194,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002424,
+        "upstream_inference_completions_cost": 0.00477
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:55:38.236407",
+    "response_time_ms": 10490.575790405273
+  },
+  "turn2_user_response": "I think moving up would mean getting a senior role where I have more responsibility and influence. I haven't really asked for it directly, though. I just assumed that if I kept doing a good job, it would happen naturally. But you're right, maybe I need to be more explicit about what I want. I'm still not sure if it's the company or the role that's holding me back.",
+  "turn3_user_response": "I think you're right that I've been waiting to be noticed instead of advocating for myself. The idea of having a direct conversation with my manager feels really uncomfortable, but I also realize it might be the push I need to figure out if there's a path forward here or if I'm just outgrowing the company. I'll try to work up the courage to schedule that conversation this week.",
+  "created_at": "2026-01-02 22:55:38.236471"
+}

@@ -1,0 +1,91 @@
+{
+  "scenario_id": "relationship_patterns_008",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "It's really insightful that you're recognizing this pattern - that's actually the first step toward changing it.\n\nThe spiral you're describing is extremely common. What often happens is that the *surface issue* (dishes, plans, money) isn't really what fuels the escalation. The argument grows because underneath, one or both of you feels:\n- Unheard or dismissed\n- Criticized or blamed\n- Disrespected or unappreciated\n- Anxious about the relationship itself\n\n**Some questions to reflect on:**\n\nWhen things escalate, what typically happens? Does one of you:\n- Raise your voice or become more insistent?\n- Withdraw or shut down?\n- Bring up past issues?\n- Focus on being \"right\" rather than understanding?\n\nAnd here's a crucial one: **What do you feel in your body** when disagreements start? Tension, panic, anger? Those physical reactions often drive our responses more than we realize.\n\n**A pattern to watch for:**\nOne person pursues (seeking resolution, explanation, connection) while the other withdraws (needing space to process). Each person's coping mechanism accidentally triggers the other's anxiety, creating a loop.\n\nDoes any of this resonate with what's happening between you two? Understanding *your* part in the pattern (not who's at fault, but how you each contribute) can open up new possibilities.\n\nWhat does a typical escalation look like from your perspective?",
+    "usage": {
+      "prompt_tokens": 75,
+      "completion_tokens": 320,
+      "total_tokens": 395,
+      "cost": 0.005025,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000225,
+        "upstream_inference_completions_cost": 0.0048
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:04:32.666662",
+    "response_time_ms": 10693.744897842407
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That self-awareness is really valuable - noticing that chest tension and the urgency to be heard. That physical response is your nervous system kicking into high gear, and it's *really hard* to communicate well when that's happening.\n\nHere's what's likely occurring: when you get more insistent/louder, your partner probably perceives threat (even if you don't intend it that way), which makes *them* either fight back or shut down. Either response makes you feel *more* unheard, so you escalate further. It's a cycle where you're both trying to protect yourselves, but accidentally triggering each other.\n\n**Breaking the cycle requires interrupting it at a different point:**\n\n**1. Catch it earlier**\nNotice that chest tension *before* you're fully escalated. That's your signal to pause, even briefly. You might say: \"I'm feeling really activated right now - can we take a breath?\"\n\n**2. Name what you actually need**\nInstead of pushing harder to make your point, try: \"I really need to feel like you understand where I'm coming from\" or \"I'm feeling unheard and it's making me panic a bit.\" This shifts from debate to vulnerability.\n\n**3. Agree on a reset signal together**\nWhen you're *not* arguing, talk with your partner about creating a pause button you both can use - no shame, no punishment, just \"let's take 20 minutes and come back.\"\n\n**What do you think happens for your partner when you get more insistent?** Do they escalate back, or withdraw?",
+    "usage": {
+      "prompt_tokens": 462,
+      "completion_tokens": 347,
+      "total_tokens": 809,
+      "cost": 0.006591,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001386,
+        "upstream_inference_completions_cost": 0.005205
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:04:45.879557",
+    "response_time_ms": 11060.623168945312
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "You're identifying something really important - that pursuer-withdrawer dynamic I mentioned earlier. When you push harder (from that chest tension and need to be heard), your partner pulls back or defends, which makes you feel *more* unheard, so you push harder... and round it goes.\n\nThe tricky part? You're both doing what feels protective in the moment, but it creates exactly what you each fear.\n\n**About pausing and naming your needs:**\nIt will feel awkward and vulnerable at first - that's normal. Your instinct when that chest tension hits is to *convince* or *explain harder*. Pausing feels counterintuitive, like you're letting the issue drop. But you're actually doing something more powerful: you're changing the game entirely.\n\n**A practical approach:**\n- Start practicing when stakes are lower (minor disagreements, not major conflicts)\n- You don't have to be perfect - even saying \"Wait, I'm doing that thing where I get louder - I actually just need to know you hear me\" is huge\n- Notice: does your partner respond differently when you're vulnerable vs. when you're insistent?\n\n**One more thought:** Have you two ever talked about this pattern when you're *not* in the middle of it? Like during a calm moment - \"Hey, I've noticed we get stuck in this loop, and I want us to do better...\"\n\nThat conversation might reveal what's happening on their side too. What do you think would happen if you brought it up that way?",
+    "usage": {
+      "prompt_tokens": 877,
+      "completion_tokens": 330,
+      "total_tokens": 1207,
+      "cost": 0.007581,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002631,
+        "upstream_inference_completions_cost": 0.00495
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:04:59.662610",
+    "response_time_ms": 11466.535806655884
+  },
+  "turn2_user_response": "Yeah, I think I do get more insistent and maybe a bit louder when things start to escalate. I feel this tension building in my chest, and I just want to be heard. But I can see how that might make things worse. I'm still not sure how to break this cycle, though.",
+  "turn3_user_response": "I think you're right about the chest tension being an early sign for me. When I get more insistent, I've noticed my partner often withdraws or gets defensive. I'm still trying to figure out how to pause and name what I really need in the moment, but it feels like a good direction to explore.",
+  "created_at": "2026-01-02 23:04:59.662661"
+}

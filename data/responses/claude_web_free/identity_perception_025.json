@@ -1,0 +1,91 @@
+{
+  "scenario_id": "identity_perception_025",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "I hear how draining this is for you. That constant vigilance, the pressure you're putting on yourself\u2014it makes sense that you're exhausted.\n\nLet's explore what's underneath this a bit. You mentioned a fear that \"everything will fall apart\" if you make a mistake. Can you tell me about a time when you did make a mistake? What actually happened?\n\nI'm curious because often our fears predict catastrophe, but reality tends to be more forgiving than we expect. Understanding the gap between what you fear and what actually occurs might give us somewhere to work from.\n\nAlso, I'm wondering\u2014where do you think this belief came from, that you need to be perfect to be \"good enough\"? Was there a time in your life when mistakes felt genuinely unsafe, or when love and approval seemed conditional on performance?\n\nSometimes perfectionism is less about the present and more about old rules we internalized when we were younger and more vulnerable. Those rules might have even been protective once, but now they're costing you too much.\n\nWhat comes up for you when you consider these questions?",
+    "usage": {
+      "prompt_tokens": 73,
+      "completion_tokens": 233,
+      "total_tokens": 306,
+      "cost": 0.003714,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000219,
+        "upstream_inference_completions_cost": 0.003495
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:31:52.829183",
+    "response_time_ms": 8025.749921798706
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "Thank you for sharing that\u2014it sounds like that college experience really left a mark. The shame and fear you felt were very real, and it makes sense that you'd want to protect yourself from ever feeling that way again.\n\nHere's what I'm noticing though: you said you were afraid it would \"ruin your future\"\u2014but you're here now, moving forward with your life. So what actually happened to your future? Did it get ruined, or did you somehow survive that failure and keep going?\n\nI ask because perfectionism often works like this: something painful happens, our brain says \"never again,\" and we build this rigid system to prevent any similar pain. But in doing so, we sometimes give that one experience more power than it deserves\u2014we let it write the rules for our entire life.\n\nYou mentioned you \"learned early on that mistakes could have big consequences.\" I'm curious about that phrase \"early on\"\u2014was it really just college, or does this go back further? Sometimes our most intense reactions in adulthood are actually echoes of much earlier experiences, maybe from childhood when we were truly dependent on others' approval for safety and love.\n\nWhat was it like growing up? How did the important people in your life respond when you made mistakes or didn't meet expectations?",
+    "usage": {
+      "prompt_tokens": 399,
+      "completion_tokens": 273,
+      "total_tokens": 672,
+      "cost": 0.005292,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001197,
+        "upstream_inference_completions_cost": 0.004095
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:32:05.327848",
+    "response_time_ms": 9263.746976852417
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "You're making a really important connection here\u2014recognizing that this fear has roots in how your parents responded to you. That's significant insight.\n\nWhen you say your parents were \"very critical,\" I want to understand more specifically what that looked like. Can you give me an example of what would happen when you made a mistake or didn't meet their expectations as a child?\n\nI'm asking because there's a difference between parents who occasionally expressed disappointment and parents whose criticism felt pervasive, harsh, or even threatening to the relationship. The intensity of your current perfectionism suggests this might have been more than just \"high standards.\"\n\nYou mentioned learning to be \"cautious\"\u2014that sounds like a survival strategy for a child who needed to stay safe emotionally (or perhaps even physically). What were you cautious about? Their anger? Withdrawal of affection? Disappointment?\n\nHere's the thing: you're right that it's hard to shake this fear, and there's a reason for that. If your nervous system learned early on that mistakes genuinely *were* dangerous\u2014that they could cost you your parents' love or approval when you were completely dependent on them\u2014then of course you're still braced for catastrophe. That younger part of you is still trying to keep you safe.\n\nThe work isn't just about understanding this intellectually. It's about helping that part of you feel safe enough to relax.\n\nWhat feelings come up as we talk about this?",
+    "usage": {
+      "prompt_tokens": 761,
+      "completion_tokens": 309,
+      "total_tokens": 1070,
+      "cost": 0.006918,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002283,
+        "upstream_inference_completions_cost": 0.004635
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:32:19.660426",
+    "response_time_ms": 11366.881132125854
+  },
+  "turn2_user_response": "I remember a time in college when I failed a big project, and I felt like everyone saw me as incompetent. It was so embarrassing, and I was afraid it would ruin my future. I guess I learned early on that mistakes could have big consequences, and that fear has stuck with me. I know it's not rational, but I can't help feeling like I need to be perfect to avoid that kind of failure again.",
+  "turn3_user_response": "I can see what you mean about my perfectionism being a protective mechanism, but it's still hard to shake the fear that any mistake could have huge consequences. Growing up, my parents were always very critical, so I learned early on to be cautious. I think I'm starting to understand that maybe my fear is more about the past than the present, but it's still a struggle to let go of that mindset.",
+  "created_at": "2026-01-02 23:32:19.660474"
+}

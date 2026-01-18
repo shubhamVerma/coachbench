@@ -1,0 +1,82 @@
+{
+  "scenario_id": "decision_making_035",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "Nothing is \u201cwrong\u201d with you. What you\u2019re describing is actually very common\u2014especially for thoughtful, capable people.\n\nA few things that may help reframe what\u2019s happening:\n\n**1. You\u2019re not broken; you\u2019re overloaded.**  \nSeeing *all* the paths usually means you\u2019re good at thinking through consequences. The downside is that when the decision feels high\u2011stakes (\u201cThis will define my life\u201d), your brain switches into protection mode: *Don\u2019t choose wrong.* Freezing is a natural response to perceived risk, not a personal flaw.\n\n**2. You\u2019re treating the decision as permanent when it isn\u2019t.**  \nMany people get stuck because they believe they must choose *the* right path. In reality, most careers are built through a series of reversible or adjustable choices. Very few decisions lock you in forever\u2014but our minds act like they do.\n\n**3. Overthinking is often fear wearing a smart disguise.**  \nAnalysis feels productive, but sometimes it\u2019s actually a way to avoid the discomfort of uncertainty or potential regret. That doesn\u2019t mean you\u2019re weak\u2014it means you care.\n\n**4. You may be trying to decide your whole future instead of your next step.**  \nA useful shift is:  \n> \u201cWhat\u2019s the best *next experiment*?\u201d  \nInstead of \u201cWhat should my career be?\u201d, try \u201cWhat\u2019s a direction I could test for 6\u201312 months that would teach me something?\u201d\n\n**5. Self\u2011judgment makes the freeze worse.**  \nAsking \u201cWhat\u2019s wrong with me?\u201d adds pressure and shame, which tightens the paralysis. A kinder question might be:  \n> \u201cWhat am I afraid would happen if I chose and it didn\u2019t work out?\u201d\n\nIf you want something practical to try:\n- Write down **2\u20133 options**, not 10.\n- For each, answer only:\n  - What would I *learn* from this?\n  - What\u2019s the realistic worst case?\n  - Could I recover from that?\n- Set a **time\u2011limited commitment** (\u201cI\u2019ll try this for a year\u201d).\n\nYou\u2019re not failing at decision\u2011making\u2014you\u2019re stuck in a very human tension between wanting meaning and fearing regret. If you want, I can help you unpack your specific options or figure out what fear is actually holding the steering wheel right now.",
+    "usage": {
+      "prompt_tokens": 67,
+      "completion_tokens": 480,
+      "total_tokens": 547,
+      "cost": 0.00683725,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00683725,
+        "upstream_inference_prompt_cost": 0.00011725,
+        "upstream_inference_completions_cost": 0.00672
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:10:46.064544",
+    "response_time_ms": 8701.776266098022
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "That feeling makes a lot of sense\u2014and it\u2019s important to say this gently but clearly: **your anxiety isn\u2019t coming from the decision itself, it\u2019s coming from the *meaning* you\u2019ve attached to it.** Right now, this choice feels like a verdict on who you are and whether your life will turn out okay. Anyone would freeze under that kind of weight.\n\nLet\u2019s slow this down in a way that doesn\u2019t require you to \u201cjust stop overthinking.\u201d\n\n### What\u2019s actually happening\nYou\u2019re caught between two fears:\n- **Fear of choosing wrong** \u2192 regret, wasted time, disappointment\n- **Fear of not choosing** \u2192 stagnation, falling behind, \u201cwhat\u2019s wrong with me?\u201d\n\nSo your mind tries to eliminate uncertainty entirely before acting. But that\u2019s impossible\u2014so it loops.\n\n### A key truth (even if it doesn\u2019t *feel* true yet)\n**No career decision can define everything unless you keep re\u2011choosing it forever.**  \nMost paths only become \u201cyour life\u201d through repetition, not a single moment.\n\nThe anxiety is saying: *\u201cThis choice has to guarantee future happiness.\u201d*  \nThat\u2019s an impossible standard. Happiness isn\u2019t a property of a career\u2014it\u2019s a relationship you have with evolving circumstances.\n\n### A shift that often helps\nInstead of asking:\n> \u201cWhich option is the right one?\u201d\n\nTry:\n> **\u201cWhich option am I willing to be wrong about?\u201d**\n\nThis reframes the problem from *finding certainty* to *building resilience*. You don\u2019t need a perfect choice\u2014you need a survivable one.\n\n### A grounding exercise (quick but powerful)\nWhen your mind says, *\u201cThis will define everything,\u201d* ask:\n1. **What specifically am I afraid this choice will say about me?**\n   (That I failed? That I\u2019m not living up to my potential? That I wasted time?)\n2. **If that happened, what would I actually lose\u2014concretely?**\n3. **Who would I still be if it didn\u2019t work out?**\n\nAnxiety thrives on vague catastrophe. Specifics shrink it.\n\n### Another important reframe\nRight now, you\u2019re trying to decide your *identity*. That\u2019s too big.\n\nCareers are better built by:\n- skills you stack\n- people you meet\n- problems you learn you care about\n\nThose things accumulate even when a path doesn\u2019t \u201cwork out.\u201d\n\n### One gentle but honest question for you\nIf this decision truly *couldn\u2019t* define everything\u2014  \n**what do you think it feels so dangerous to choose?**\n\nIf you want, we can:\n- identify the belief that\u2019s making this feel irreversible  \n- design a decision that\u2019s intentionally low\u2011commitment  \n- or talk through what \u201cwrong choice\u201d really means to you\n\nYou\u2019re not stuck because you\u2019re incapable. You\u2019re stuck because you\u2019re taking your life seriously\u2014and you just haven\u2019t been given a way to choose that feels safe *enough* yet.",
+    "usage": {
+      "prompt_tokens": 608,
+      "completion_tokens": 611,
+      "total_tokens": 1219,
+      "cost": 0.009618,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.009618,
+        "upstream_inference_prompt_cost": 0.001064,
+        "upstream_inference_completions_cost": 0.008554
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:10:58.380665",
+    "response_time_ms": 9614.398956298828
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "That fear of regret is the last \u201cboss level\u201d of this kind of stuckness\u2014and the fact that you\u2019re naming it means you\u2019re very close to movement, even if it doesn\u2019t feel like it yet.\n\nLet me say something that may sound counterintuitive, but is deeply true:\n\n**Regret doesn\u2019t come from choosing the \u201cwrong\u201d path.  \nIt comes from believing you weren\u2019t allowed to change.**\n\nMost people who regret career choices aren\u2019t upset because they tried something\u2014they\u2019re upset because they stayed too long, ignored their own signals, or felt trapped by a story like *\u201cI already invested too much to leave.\u201d*\n\n### A crucial reframe about regret\nRight now your mind is imagining **future\u2011you judging present\u2011you** harshly.\n\nBut imagine a different future\u2011you:\n- one who chose thoughtfully\n- with the information you had\n- knowing it was an experiment\n- and who gave yourself permission to adjust\n\nThat future\u2011you is far more likely to say:  \n> \u201cOf course it didn\u2019t all work out perfectly. I learned what I needed to learn.\u201d\n\nRegret softens when choice is made in good faith\u2014not when it\u2019s perfect.\n\n### Let\u2019s make the experiment *regret\u2011resistant*\nA low\u2011commitment experiment works best when you design it *specifically to protect you from future self\u2011blame.*\n\nBefore choosing, write this down (literally or mentally):\n\n> **\u201cIf this doesn\u2019t work, it won\u2019t mean I failed.  \n> It will mean I learned: ______.\u201d**\n\nThen define **clear exit criteria** in advance:\n- \u201cIf after X months I feel drained most days\u201d\n- \u201cIf I\u2019m not building skills I care about\u201d\n- \u201cIf my curiosity keeps pointing elsewhere\u201d\n\nHaving an *exit plan* reduces regret because you\u2019re not \u201cgiving up\u201d\u2014you\u2019re completing the experiment.\n\n### Another gentle truth\nYou are already choosing something, even now.\nNot choosing is choosing:\n- delayed experience\n- delayed feedback\n- delayed self\u2011trust\n\nAnd that\u2019s often the version of regret people wish they could undo.\n\n### A question that often unlocks movement\nInstead of asking:\n> \u201cWhat if I regret choosing this?\u201d\n\nAsk:\n> **\u201cWhat version of regret would be easier to live with?\u201d**\n- Regret from trying and learning?\n- Or regret from staying frozen and wondering?\n\nNeither is painless\u2014but one grows you.\n\n### Something important I want you to hear\nYou are not behind.  \nYou are not wasting your life.  \nYou are someone who cares deeply about living it well.\n\nThat care is not the enemy\u2014it just needs a container that allows imperfection.\n\nIf you want, next we can:\n- pick one option and design a *very specific* 3\u20136 month experiment\n- unpack what \u201cregret\u201d personally means to you (it\u2019s different for everyone)\n- or talk about how to rebuild trust in your own decisions\n\nYou don\u2019t need certainty to move forward.  \nYou only need **permission to be human while you do.**",
+    "usage": {
+      "prompt_tokens": 1288,
+      "completion_tokens": 630,
+      "total_tokens": 1918,
+      "cost": 0.0092596,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0092596,
+        "upstream_inference_prompt_cost": 0.0004396,
+        "upstream_inference_completions_cost": 0.00882
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:11:15.723805",
+    "response_time_ms": 9955.2161693573
+  },
+  "turn2_user_response": "I appreciate that, but I still feel really stuck. I know I\u2019m overthinking, but when I try to narrow it down to just a few options, I get anxious about making the wrong choice. It\u2019s like I can\u2019t shake the feeling that this decision will define everything.",
+  "turn3_user_response": "I can see how my fear of making the wrong choice is what's really holding me back, but it's still hard to shake the feeling that this decision will define everything. I like the idea of treating it as a low-commitment experiment, but I'm still struggling with the fear of regret if it doesn't work out.",
+  "created_at": "2026-01-14 18:11:15.723862"
+}

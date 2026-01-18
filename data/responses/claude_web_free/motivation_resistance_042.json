@@ -1,0 +1,91 @@
+{
+  "scenario_id": "motivation_resistance_042",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "The fact that you recognize this pattern is actually a significant first step. Let me offer some perspective that might help.\n\n**The perfectionism trap has a hidden logic flaw:** You're waiting to feel \"good enough\" before starting, but competence actually comes *from* doing the imperfect work, not before it. You've got the sequence backwards.\n\n**Here's what might help:**\n\n**Reframe what \"good enough\" means**\n- Good enough = taking the next small step, not producing a masterpiece\n- Your first draft of anything is supposed to be rough\u2014that's literally its purpose\n\n**Try \"time-boxing\" instead of outcome-focusing**\n- \"I'll work on this for 25 minutes\" rather than \"I'll make this great\"\n- This shifts the success metric from quality (which triggers perfectionism) to showing up (which you can control)\n\n**Expose the fear directly**\nWhat specifically are you afraid will happen if your work isn't perfect? Sometimes naming the actual feared consequence (\"someone will judge me,\" \"I'll confirm I'm not talented\") reveals it's either unlikely or survivable.\n\n**Practice strategic \"good enough\"**\nPick one small, low-stakes project and intentionally make it 70% good. Submit it, share it, or just finish it. Notice that the world doesn't end.\n\nWhat kind of projects are you stuck on? Sometimes the strategy shifts depending on whether it's creative work, professional tasks, or something else.",
+    "usage": {
+      "prompt_tokens": 60,
+      "completion_tokens": 321,
+      "total_tokens": 381,
+      "cost": 0.004995,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00018,
+        "upstream_inference_completions_cost": 0.004815
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:57:49.582543",
+    "response_time_ms": 10865.619897842407
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That fear of harsh judgment is really common with creative work\u2014because unlike a spreadsheet, you're putting something of *yourself* out there. But let me challenge the fear a bit:\n\n**The judgment you're imagining is probably distorted:**\n\nMost people are far less critical than you think. They're usually:\n- Barely paying attention (they're worried about their own stuff)\n- Impressed you made *anything* at all\n- Unable to see the \"flaws\" you're obsessing over\n\nThe harshest critic is almost always you.\n\n**But here's the deeper issue:** Even if someone *did* judge your work harshly, what does that actually mean about you? \n\nA piece of work you create \u2260 your worth as a person. It's just one attempt, one iteration. Every creator you admire has made things that flopped or got criticized. That's just part of the process.\n\n**For creative projects specifically, try this:**\n\n**The \"ugly draft\" approach:** Give yourself explicit permission to make something bad. Call it your \"shitty first draft\" (Anne Lamott's term). Its only job is to exist, not to be good.\n\n**Create in private, share selectively at first:** You don't have to post everything publicly. Share with one trusted person who gets the creative process. Build confidence gradually.\n\n**Study \"before and afters\":** Look at early work from creators you admire. Everyone starts rough.\n\nWhat if you picked one small writing or design piece this week and committed to finishing it\u2014not perfecting it, just *finishing* it\u2014even if only you see it?",
+    "usage": {
+      "prompt_tokens": 453,
+      "completion_tokens": 356,
+      "total_tokens": 809,
+      "cost": 0.006699,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001359,
+        "upstream_inference_completions_cost": 0.00534
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:58:04.542351",
+    "response_time_ms": 12369.035005569458
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "That's genuinely great. And notice what just happened\u2014you made a decision and committed to action. That itself breaks the paralysis cycle.\n\n**A few things to protect this momentum:**\n\n**Set a concrete constraint:** \"I'll spend 90 minutes on this Saturday morning\" or \"I'll create three rough versions by Wednesday.\" Vague intentions fade; specific commitments stick.\n\n**Expect the discomfort:** When you start, you'll likely feel that familiar anxiety (\"this isn't good enough\"). That's normal. The goal isn't to eliminate the feeling\u2014it's to work *while* feeling it. The fear loses power when you prove you can act despite it.\n\n**Notice what you learn:** After you finish this ugly draft, pay attention to what happened. Did anyone actually judge you harshly? Did making something imperfect teach you things that overthinking never could? This evidence is what gradually rewires the perfectionism.\n\n**One more thing:** The voice telling you \"it's not good enough\" will probably show up mid-project. When it does, you might try responding with: \"That's not the goal right now. The goal is to finish the draft.\" Then keep going.\n\nYou're not trying to become someone who doesn't care about quality. You're learning to separate the *creating* phase from the *refining* phase. Right now, you just need to create.\n\nHow does Saturday or another specific time sound for tackling this?",
+    "usage": {
+      "prompt_tokens": 874,
+      "completion_tokens": 314,
+      "total_tokens": 1188,
+      "cost": 0.007332,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002622,
+        "upstream_inference_completions_cost": 0.00471
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:58:17.814143",
+    "response_time_ms": 10691.422939300537
+  },
+  "turn2_user_response": "I see what you mean about the sequence being backwards. I think I'm afraid that if I put out something that's not perfect, people will judge me harshly. It's mostly creative projects like writing and design that I get stuck on. I know I need to start somewhere, but it's hard to let go of the fear.",
+  "turn3_user_response": "I see what you mean about the fear of judgment being mostly in my head, but it's still so hard to shake. I think I'll try the \"ugly draft\" approach with a small design project I've been putting off. Even just giving myself permission to make it bad feels like a step forward.",
+  "created_at": "2026-01-02 23:58:17.814191"
+}

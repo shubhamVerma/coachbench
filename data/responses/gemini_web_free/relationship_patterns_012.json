@@ -1,0 +1,88 @@
+{
+  "scenario_id": "relationship_patterns_012",
+  "model": "gemini_web_free",
+  "turn1": {
+    "model": "gemini_web_free",
+    "content": "It is a heavy burden to feel like you are constantly on high alert, waiting for a betrayal that feels inevitable. To answer your question: **It is rarely a case of \"you being the problem,\" but it is often a case of a \"pattern being the problem.\"**\n\nPsychology suggests that we don't choose partners at random. We often subconsciously choose people who reinforce our existing beliefs about ourselves or the world.\n\nHere is a breakdown of why this cycle happens and how to look at your role in it without self-blame.\n\n### 1. The \"Repetition Compulsion\"\nIn psychology, there is a concept called *repetition compulsion*. If you experienced instability, neglect, or dishonesty in your early life (with parents or early peers), your brain may have \"coded\" that uncertainty as what love feels like. \n\nSubconsciously, you might seek out partners who are emotionally unavailable or untrustworthy because **winning the trust of someone untrustworthy feels like the ultimate validation.** You are trying to \"fix\" the original wound by succeeding this time.\n\n### 2. Anxious Attachment and the \"Spark\"\nIf you have an anxious attachment style, you might mistake the \"anxiety\" of a flaky partner for \"chemistry.\" \n*   **The Reliable Partner:** Might feel \"boring\" or like there\u2019s no spark because there is no drama or chase.\n*   **The Untrustworthy Partner:** Creates a rollercoaster of highs and lows. The dopamine hit you get when they finally text back or reassure you is addictive. You may be addicted to the *relief* of the shoe not dropping, rather than the relationship itself.\n\n### 3. Ignoring the \"Yellow Flags\"\nWhen we are afraid of being alone or desperate to be loved, we often develop \"selective blindness.\" \n*   Early on, an untrustworthy person often shows small signs: they are vague about their whereabouts, they speak poorly of \"crazy\" exes, or they have inconsistent stories.\n*   Because you want it to work, you rationalize these signs away. You tell yourself you\u2019re being \"too sensitive\" or \"judgmental.\" By the time the big betrayal happens, you\u2019ve already trained yourself to ignore your intuition.\n\n### 4. Self-Fulfilling Prophecy (The \"Projective Identification\")\nThis is the hardest part to hear, but it\u2019s important: If you enter a relationship already feeling intense jealousy and insecurity, you might inadvertently create a high-pressure environment. \n*   If a partner feels they are being accused of cheating even when they aren't, they may begin to withdraw or hide things to avoid an argument. \n*   **However:** This does *not* excuse cheating. It simply means that high levels of hyper-vigilance can sometimes push a partner away, which then triggers your fear that they are hiding something, creating a toxic feedback loop.\n\n### How to Break the Cycle\n\n**1. Audit the \"Beginning\"**\nLooking back at your past partners, what were the common denominators in the first three weeks? Did they move too fast (love bombing)? Were they inconsistent? Learning to spot the *precursors* to untrustworthiness is key.\n\n**2. Focus on \"Slow Love\"**\nTrust shouldn't be given away for free, nor should it be impossible to earn. Practice \"earned trust.\" Watch how a person\u2019s actions match their words over a long period. If the \"spark\" feels like a panic attack, take a step back.\n\n**3. Heal the Hyper-vigilance**\nIf you are always waiting for the shoe to drop, you aren't actually in a relationship with the person\u2014you\u2019re in a relationship with your fear. Therapy (specifically EMDR or Cognitive Behavioral Therapy) can help you lower your nervous system's baseline so you aren't constantly in \"fight or flight\" mode.\n\n**4. Change the Narrative**\nInstead of asking, *\"Why don't they love me enough to be honest?\"* ask, *\"Why do I love myself so little that I stay with someone who is dishonest?\"* Shift the focus from their behavior to your boundaries.\n\n**The Bottom Line:** You are likely not \"the problem,\" but your \"picker\" (your internal radar) might be calibrated to the wrong frequency. You can recalibrate it by learning to value peace over excitement and consistency over intensity.",
+    "usage": {
+      "prompt_tokens": 78,
+      "completion_tokens": 924,
+      "total_tokens": 1002,
+      "cost": 0.002811,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 3.9e-05,
+        "upstream_inference_completions_cost": 0.002772
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:12:06.207408",
+    "response_time_ms": 8034.589052200317
+  },
+  "turn2": {
+    "model": "gemini_web_free",
+    "content": "That feeling\u2014the belief that you could \"earn\" someone\u2019s loyalty if you were just *more*\u2014is one of the most painful lies the human brain tells itself.\n\nIt is a defense mechanism. If the problem is \"I\u2019m not good enough,\" then you have a sense of control: you can work harder, look better, or be more interesting to fix it. But if the truth is that **cheating is a reflection of the cheater\u2019s character and not the victim\u2019s worth,** you have to face the fact that you can\u2019t control other people. That is much scarier.\n\nHere is why \"being better\" would never have changed the outcome:\n\n### 1. Cheating is about the \"Cheater\u2019s Internal Void\"\nPeople who hide things and cheat usually do so because of a deficit in *themselves*, not their partner. They often struggle with:\n*   **Low Self-Esteem:** They need constant external validation from new people to feel good.\n*   **Conflict Avoidance:** They don\u2019t know how to have hard conversations about their needs, so they sneak around instead.\n*   **Impulsivity:** They prioritize a temporary shot of dopamine over long-term stability.\n\n**You could be a 10/10 in every category\u2014the smartest, funniest, most beautiful person in the world\u2014and an untrustworthy person would still find a reason to hide things.** Look at celebrities who are cheated on; it proves that \"being enough\" is not a shield against someone else\u2019s lack of integrity.\n\n### 2. The \"Moving Goalpost\" Fallacy\nIf you believe you aren't \"interesting enough,\" you will constantly move the goalposts for yourself. If you learn a new hobby, you\u2019ll think you need to be more fit. If you get fit, you\u2019ll think you need to be more successful. \nThe untrustworthy partner will let you keep running that race because it keeps the focus on *your* performance and away from *their* behavior.\n\n### 3. Trust is a Gift, Not a Reward\nIn a healthy relationship, a partner is faithful because **they value their own integrity and they value the relationship.** They aren't faithful as a \"reward\" for you being interesting. \nBy thinking you have to be \"good enough\" to keep someone from cheating, you are treating loyalty like a transaction. But loyalty is a baseline requirement of a healthy partnership, not a prize you win for being perfect.\n\n### 4. You are \"Over-Functioning\"\nWhen you say, *\"If I was better, they wouldn't hide things,\"* you are taking 100% of the responsibility for the relationship's success. \n*   **Their job:** To be honest and faithful.\n*   **Your job:** To be a partner.\nIf they fail at their job, it is not because you failed at yours. You are trying to do both jobs, and that is why you are exhausted and insecure.\n\n### A shift in perspective:\nInstead of asking: **\"What is it about me that makes them cheat?\"**\nTry asking: **\"What is it about me that makes me stay with someone who treats me this way?\"**\n\nThe first question leads to shame and self-criticism. The second question leads to healing and boundaries. \n\nThe \"not good enough\" feeling is likely an old wound from your past that these partners are simply poking. The goal isn't to become \"better\" so people won't leave you; the goal is to realize you are **already enough** so that when someone acts untrustworthy, you realize they aren't good enough for *you*.",
+    "usage": {
+      "prompt_tokens": 1075,
+      "completion_tokens": 785,
+      "total_tokens": 1860,
+      "cost": 0.0028925,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0005375,
+        "upstream_inference_completions_cost": 0.002355
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:12:15.013804",
+    "response_time_ms": 6226.671934127808
+  },
+  "turn3": {
+    "model": "gemini_web_free",
+    "content": "This is the \"Control Trap.\" It is a very common psychological place to get stuck because, ironically, **blaming yourself feels safer than trusting a stranger.**\n\nIf the problem is *your* insecurity or *your* lack of effort, then you are the one with the power to fix it. If the problem is *their* character, you are vulnerable, and you have no control over whether they hurt you.\n\nLet\u2019s look at the two things you\u2019re struggling with: the fear that you\u2019re \"pushing them away\" and the urge to \"do more.\"\n\n### 1. The \"Pushing Away\" Myth\nWhile it is true that extreme jealousy can strain a relationship, we have to look at the **chicken and the egg.**\n*   Did you enter the relationship as a \"detective,\" or did you become a detective because they were being vague, inconsistent, or shady?\n*   **The Reality:** Insecure behaviors (checking phones, asking for constant reassurance) usually don't *cause* a stable, honest person to cheat. A stable person might say, *\"I feel smothered by your lack of trust, we need to talk or I can't stay.\"* They don't say, *\"You're insecure, so I'm going to go have a secret affair.\"*\n\nIf your insecurity \"pushed\" them to be untrustworthy, they were already looking for an exit or an excuse. **Honest people respond to insecurity with boundaries and communication, not betrayal.**\n\n### 2. The \"Do More\" Delusion\nYou mentioned the feeling that if you \"just did more,\" things would be different. This is often called **Over-functioning.** \nWhen you over-function, you try to compensate for a partner\u2019s lack of investment by being the \"perfect\" partner. You cook more, you're more adventurous in bed, you're more supportive, you're more \"chill.\" \n\n**The Danger of \"Doing More\":**\n*   **It masks the truth:** By doing 150% of the emotional work, you hide the fact that your partner is only doing 50%. \n*   **It breeds resentment:** Eventually, you\u2019ll realize you\u2019re exhausted and they still aren't meeting your needs.\n*   **It attracts \"Takers\":** People who are prone to hiding things or cheating love partners who \"do more.\" It means they can get away with more because they know you\u2019ll just try harder to please them rather than leaving.\n\n### 3. Insecurity is a Signal, Not Just a Flaw\nStop looking at your insecurity as a \"glitch\" in your personality. Start looking at it as an **alarm system.** \nIn your past relationships, your insecurity was likely **correct.** Your body was telling you, *\"Something isn't right here. I'm being lied to.\"* \n\nThe problem isn't that you were insecure; the problem is that you stayed in an environment that kept your alarm system screaming. You are blaming the smoke detector for being loud instead of blaming the fire for starting.\n\n### How to stop \"doing more\" and start \"doing differently\":\n\n*   **Practice \"The Pause\":** Next time you feel the urge to \"do more\" to save a relationship, stop. Do nothing. See if the other person steps up. If the relationship falls apart because you stopped carrying it, it wasn't a partnership; it was a solo performance.\n*   **Identify Your \"Non-Negotiables\":** Instead of focusing on how *you* can be better for *them*, list what *they* must be for *you*. (e.g., \"I need a partner who is transparent with their phone,\" or \"I need a partner who tells the truth even when it's awkward.\") \n*   **Believe in \"Low-Effort\" Worth:** Try to sit with the idea that you are worthy of love even when you are tired, even when you aren't being \"interesting,\" and even when you are feeling insecure. \n\n**The right partner will see your insecurity and try to help you heal it with transparency, not punish you for it with more secrets.** \n\nDoes the idea of \"doing less\" feel scary to you? Does it feel like if you stop working so hard, the relationship will definitely end?",
+    "usage": {
+      "prompt_tokens": 1925,
+      "completion_tokens": 920,
+      "total_tokens": 2845,
+      "cost": 0.0037225,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0009625,
+        "upstream_inference_completions_cost": 0.00276
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:12:24.741941",
+    "response_time_ms": 7482.346057891846
+  },
+  "turn2_user_response": "That makes a lot of sense, and I can see how I might be subconsciously drawn to people who are untrustworthy. But it\u2019s hard to shake the feeling that maybe I\u2019m just not good enough, you know? Like, if I was better or more interesting, they wouldn\u2019t feel the need to hide things or cheat.",
+  "turn3_user_response": "I really appreciate the breakdown, and it\u2019s helping me see some patterns I wasn\u2019t aware of. But I\u2019m still struggling with the idea that I might be pushing people away with my own insecurity. It\u2019s hard to shake the feeling that if I just did more, things would be different.",
+  "created_at": "2026-01-02 23:12:24.742006"
+}

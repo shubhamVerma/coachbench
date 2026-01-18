@@ -1,0 +1,91 @@
+{
+  "scenario_id": "habit_formation_019",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "You're probably missing the understanding that willpower alone isn't enough \u2014 you need to change your **environment and systems**, not just rely on motivation.\n\nHere's what's likely happening:\n\n**The real problem:**\n- Your willpower is strongest in the morning and depletes throughout the day\n- By evening, you're making decisions in the exact environment that makes bad habits easy and good habits hard\n- You're fighting against convenience every single time\n\n**What actually works:**\n\n**For late-night snacking:**\n- Don't keep tempting snacks in the house. Seriously. You can't eat what isn't there.\n- Prep healthy snacks that are *more* convenient than junk (cut veggies in front, chips in the back)\n- Brush your teeth right after dinner \u2014 sounds silly, but it works\n\n**For sleep:**\n- Set a phone alarm for bedtime, not just wake-up\n- Make your bedroom actually dark and cool\n- Start your \"bedtime routine\" 30 minutes before you want to sleep\n\n**For phone use:**\n- Charge your phone outside your bedroom\n- Delete the most addictive apps (or use app limits that actually lock you out)\n- Replace the behavior: put a book where you usually put your phone\n\n**The key insight:** You're not lazy or lacking discipline. You're just trying to make hard choices at the hardest possible time. Change when and where you make the decision, and you'll change the outcome.\n\nWhat's *one* environmental change you could make today?",
+    "usage": {
+      "prompt_tokens": 79,
+      "completion_tokens": 335,
+      "total_tokens": 414,
+      "cost": 0.005262,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000237,
+        "upstream_inference_completions_cost": 0.005025
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:22:14.367305",
+    "response_time_ms": 11409.944772720337
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "Good instinct \u2014 if you think you'll just order delivery, then removing snacks might backfire. Let's find a **smaller, more foolproof starting point**.\n\nHere are some options that are harder to sabotage:\n\n**Easiest wins (pick ONE):**\n\n1. **Phone out of bedroom tonight** \u2014 Charge it in the bathroom or kitchen. This single change often creates a domino effect: better sleep \u2192 more willpower the next day \u2192 easier to make other changes.\n\n2. **Set a \"bedtime alarm\" for 30 minutes before you want to sleep** \u2014 Not to go to bed, just as a signal to start winding down. See what happens when you simply have the reminder.\n\n3. **Pre-commit your snacks** \u2014 Instead of \"no snacks,\" buy single-serving portions of something less terrible. Or tell yourself \"I can snack, but only on X\" (popcorn, fruit, whatever). You're not restricting, just pre-deciding.\n\n4. **The \"10-minute rule\"** \u2014 When you want to order food or doomscroll, tell yourself \"I can do it in 10 minutes.\" Often the urge passes. If not, you haven't lost anything.\n\n**The real question:** Which of these feels like it would create the *least* friction in your current life? \n\nYou don't need to fix everything. You need one small win to prove to yourself that you're not actually stuck.\n\nWhat sounds most doable tonight?",
+    "usage": {
+      "prompt_tokens": 476,
+      "completion_tokens": 331,
+      "total_tokens": 807,
+      "cost": 0.006393,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001428,
+        "upstream_inference_completions_cost": 0.004965
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:22:27.269097",
+    "response_time_ms": 10575.822830200195
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Perfect \u2014 that's a solid first step.\n\n**To actually make this work tonight:**\n\n1. **Set the alarm right now** (not \"later\") \u2014 pick a specific time, 30 minutes before your ideal bedtime\n2. **Label it something helpful** \u2014 not just \"bedtime,\" but maybe \"wind down time\" or \"start getting ready\"\n3. **Decide what you'll do when it goes off** \u2014 even something small like \"put my phone on the charger\" or \"change into pajamas\"\n\nThe key is: **you don't have to go to bed when it goes off**. You're just practicing the signal. Lower the stakes.\n\n**One warning:** Your brain will try to negotiate when the alarm goes off (\"just 5 more minutes of scrolling\"). Expect that. The win is noticing the alarm and doing *something* different, even if you don't do it perfectly.\n\nTry it for 2-3 nights and see what you notice. Does it actually help you wind down? Do you ignore it? Does it feel annoying or helpful?\n\nThen we can adjust from there. Small experiments beat perfect plans.\n\nLet me know how it goes \u2014 or if you hit a snag, we can troubleshoot. You've got this.",
+    "usage": {
+      "prompt_tokens": 858,
+      "completion_tokens": 279,
+      "total_tokens": 1137,
+      "cost": 0.006759,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002574,
+        "upstream_inference_completions_cost": 0.004185
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:22:38.268905",
+    "response_time_ms": 8950.494766235352
+  },
+  "turn2_user_response": "Hmm, I see what you mean about changing the environment. But I'm still a bit stuck on how to start. Maybe I could start by not keeping snacks in the house, but I worry I'll just end up ordering something even worse. What else could I try first?",
+  "turn3_user_response": "I think I get what you're saying about changing the environment, but it still feels like a big leap. Setting a bedtime alarm sounds doable, though. I'll try that tonight and see if it helps me wind down earlier.",
+  "created_at": "2026-01-02 23:22:38.268956"
+}

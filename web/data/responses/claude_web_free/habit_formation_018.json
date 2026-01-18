@@ -1,0 +1,91 @@
+{
+  "scenario_id": "habit_formation_018",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "That cycle of procrastination \u2192 guilt \u2192 stress \u2192 more procrastination is exhausting, and you're definitely not alone in experiencing it.\n\nHere's what might help break the pattern:\n\n**Understanding what's actually happening:**\nProcrastination usually isn't about laziness\u2014it's often about avoiding uncomfortable feelings (boredom, anxiety about doing it perfectly, fear of failure, or even fear of success). Recognizing *what* you're avoiding can be revealing.\n\n**Small shifts to try:**\n\n- **The 2-minute start**: Commit to just 2 minutes on the task. Often starting is the hardest part, and momentum builds once you're in motion.\n\n- **Separate planning from doing**: Sometimes we procrastinate because we're overwhelmed. Spend 5 minutes just breaking the task into tiny, specific steps\u2014then pick the easiest one.\n\n- **Notice the guilt pattern**: The guilt isn't actually motivating you\u2014it's just making you feel worse. Try acknowledging \"I'm procrastinating right now\" without the self-judgment, then gently redirect.\n\n- **Environment design**: Remove friction for starting (leave the document open, put your workout clothes out, etc.) and add friction for distractions.\n\n**A question to consider:** When you *do* manage to start something, what was different about that situation? Understanding your own patterns can reveal what actually works for you.\n\nWhat type of tasks do you find yourself avoiding most?",
+    "usage": {
+      "prompt_tokens": 60,
+      "completion_tokens": 320,
+      "total_tokens": 380,
+      "cost": 0.00498,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00018,
+        "upstream_inference_completions_cost": 0.0048
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:20:46.097684",
+    "response_time_ms": 10179.34536933899
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "You've identified something really important: **size and importance** are your procrastination triggers. That makes total sense\u2014our brains perceive big, important tasks as threats, which activates avoidance.\n\nThe fact that looming deadlines work for you is actually useful information. The deadline creates urgency that overrides the overwhelm. The goal is to recreate that \"get going\" feeling *without* the last-minute panic.\n\n**Here's why breaking things down might work better than you think:**\n\nWhen you look at \"write a report,\" your brain sees an enormous, vague mountain. But \"write 3 bullet points about the introduction\" is concrete and doable. The key is making the first step *absurdly* small\u2014smaller than feels necessary.\n\nFor example, with house cleaning:\n- Not: \"Clean the whole house\"\n- Instead: \"Put 5 things away in the living room\" or even \"gather cleaning supplies\"\n\n**A strategy specifically for you:**\n\nSince deadlines work, try **creating artificial mini-deadlines** for those tiny steps. \"By 3pm, I'll have the outline done\" (not the whole report\u2014just the outline).\n\n**The resistance you're feeling is normal.** Part of you doesn't believe it'll work because you're used to the adrenaline-fueled last-minute approach. That's familiar, even if it's stressful.\n\nWhat would happen if you picked just *one* task this week to experiment with\u2014break it absurdly small and see what happens? No pressure for it to solve everything.",
+    "usage": {
+      "prompt_tokens": 475,
+      "completion_tokens": 346,
+      "total_tokens": 821,
+      "cost": 0.006615,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001425,
+        "upstream_inference_completions_cost": 0.00519
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:21:01.662862",
+    "response_time_ms": 12492.05207824707
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "That skepticism you're feeling? **Completely valid.** You've been stuck in this pattern for a while, so of course a small shift feels insufficient. Your brain is basically saying \"we've tried things before, why would this be different?\"\n\nAnd honestly\u2014it might *not* be a magic solution. But here's what I want to highlight:\n\n**You're willing to experiment anyway.** That's actually the most important part. You're not waiting until you feel confident it'll work or until the resistance disappears. You're trying it *despite* the doubt.\n\nA few things as you experiment this week:\n\n- **Expect the resistance.** It won't magically vanish. The goal isn't to feel motivated\u2014it's to start anyway, even when it feels weird or forced.\n\n- **Notice what happens** without judging it. Did you meet your mini-deadline? Miss it? Start and then stop? All of that is useful information.\n\n- **One task, one week** is the right scope. You're testing, not overhauling your entire life.\n\nThe weirdness you're feeling about trusting a small change? That's actually a good sign\u2014it means you're doing something different from your usual pattern.\n\nI'm curious what you'll discover. And if it doesn't work perfectly, that's data too\u2014we can adjust from there.\n\nWhat task are you thinking of trying this with?",
+    "usage": {
+      "prompt_tokens": 900,
+      "completion_tokens": 307,
+      "total_tokens": 1207,
+      "cost": 0.007305,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0027,
+        "upstream_inference_completions_cost": 0.004605
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:21:14.360473",
+    "response_time_ms": 10111.186027526855
+  },
+  "turn2_user_response": "I think I avoid tasks that feel really big or important, like writing a report or cleaning the whole house. Even when I know I should start, it just feels so overwhelming. I do sometimes manage to start if I have a deadline looming, but it's usually a last-minute scramble. I'll try the 2-minute start and breaking things into smaller steps, but I'm still not sure it will be enough to get me going.",
+  "turn3_user_response": "I can see how breaking things down into smaller steps might help, but it still feels like it won't be enough to overcome that initial resistance. I think I'll try the artificial mini-deadlines for one of my bigger tasks this week and see how it goes. It feels a bit weird to trust such a small change, but I'm willing to give it a shot.",
+  "created_at": "2026-01-02 23:21:14.360531"
+}

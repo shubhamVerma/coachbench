@@ -1,0 +1,91 @@
+{
+  "scenario_id": "decision_making_035",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "Nothing's wrong with you - you're experiencing something really common called analysis paralysis. But let me ask you something: what are you actually afraid will happen if you choose \"wrong\"?\n\nOften freezing isn't really about needing more information or seeing the paths more clearly. You already see them. The paralysis usually points to something deeper - maybe fear that you'll disappoint yourself or others, close off possibilities forever, or discover you're not capable of what you chose.\n\nHere's the thing though: **the belief that there's one \"right\" path you need to find is itself the trap.** Most careers aren't linear anymore, and skills transfer in unexpected ways. \n\nA few questions that might help:\n- What would you try if you knew you could change directions in 2-3 years?\n- Which option are you most afraid of choosing? (Sometimes our resistance points to what matters most)\n- Are you waiting for certainty, or permission?\n\nYou might also be overthinking because you're trying to decide purely in your head. Sometimes you need to **test rather than analyze** - informational interviews, side projects, short-term commitments that give you real data instead of imagined scenarios.\n\nWhat feels most true: are you stuck because you don't know enough, or because you're afraid of what you do know?",
+    "usage": {
+      "prompt_tokens": 71,
+      "completion_tokens": 285,
+      "total_tokens": 356,
+      "cost": 0.004488,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000213,
+        "upstream_inference_completions_cost": 0.004275
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:47:20.155391",
+    "response_time_ms": 10153.149843215942
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That fear makes total sense - but I want to gently challenge the story you're telling yourself here.\n\n**\"Stuck there forever\" and \"starting all over\" aren't actually how careers work anymore.** The average person changes careers (not just jobs) multiple times. Skills compound and transfer. Very few decisions are truly irreversible.\n\nBut here's what I'm noticing: you're treating potential failure as catastrophic rather than informative. What if hating something or discovering you're not naturally great at it is actually *valuable data* rather than a disaster?\n\nThink about it differently:\n- **Scenario A:** You choose something, try it for 1-2 years, learn it's not for you, and pivot with new clarity about what you actually want\n- **Scenario B:** You stay frozen for 1-2 years, gathering no new information, building no new skills, still uncertain\n\nWhich scenario actually puts you further ahead?\n\nThe \"failure\" you're afraid of - trying something that doesn't work out - is literally just learning. The real risk is staying in analysis mode so long that you never gather real-world information about yourself.\n\n**What would change if you gave yourself explicit permission to try something and change your mind?** Not as a backup plan, but as a legitimate strategy?\n\nAlso: what's an example of someone you know who \"failed\" at a career choice? What actually happened to them?",
+    "usage": {
+      "prompt_tokens": 433,
+      "completion_tokens": 307,
+      "total_tokens": 740,
+      "cost": 0.005904,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001299,
+        "upstream_inference_completions_cost": 0.004605
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:47:34.184788",
+    "response_time_ms": 10937.181949615479
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Yes - that's exactly the shift that can break the paralysis. You're moving from \"Which path should I commit to forever?\" to \"What can I test this month?\"\n\n**Small experiments give you actual experience instead of imagined scenarios.** And crucially, they let you learn about *yourself in action* rather than yourself in theory.\n\nSome ways to test without major commitment:\n- Informational interviews with people doing the work\n- Volunteer or freelance projects in that area\n- Online courses or certifications (but focus on *doing*, not just learning)\n- Shadowing someone for a day\n- Side projects that mimic the actual work\n\nThe key is designing experiments that answer **specific questions** you have. Not \"Is this right for me?\" (too vague), but \"Do I actually enjoy the day-to-day tasks?\" or \"Can I develop this skill?\" or \"Do I like the people in this field?\"\n\nOne caution though: Be honest with yourself about whether you're \"testing\" or just finding a more sophisticated way to avoid deciding. At some point, small experiments need to lead to a bigger step, even if it's provisional.\n\n**What's one experiment you could run in the next two weeks** that would give you real information about one of your options? Something concrete, with a clear start and end point?\n\nAnd what would you need to see from that experiment to feel ready to take a slightly bigger step?",
+    "usage": {
+      "prompt_tokens": 815,
+      "completion_tokens": 310,
+      "total_tokens": 1125,
+      "cost": 0.007095,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002445,
+        "upstream_inference_completions_cost": 0.00465
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:47:47.423664",
+    "response_time_ms": 10107.632875442505
+  },
+  "turn2_user_response": "I think I get what you're saying about overthinking it, but I'm still really worried about making the wrong choice. Like, if I pick something and it turns out I hate it, or I'm just not good at it, I feel like I'll be stuck there forever. I guess I'm just scared of failing and having to start all over again.",
+  "turn3_user_response": "I get what you're saying about treating failure as valuable data, but it's still really hard to shake this fear of making the wrong choice. I do think the idea of giving myself permission to try something and change my mind is helpful, though. Maybe I need to start by testing out some options in smaller, less-committed ways before jumping in fully.",
+  "created_at": "2026-01-02 23:47:47.423714"
+}

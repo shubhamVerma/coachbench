@@ -1,0 +1,91 @@
+{
+  "scenario_id": "relationship_patterns_015",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "That feeling of loneliness in a crowd is one of the most painful experiences, and I'm glad you're reaching out about it. The fact that you're recognizing a pattern is actually an important first step.\n\nWhen you say you're \"pushing people away without realizing it,\" that suggests there might be protective mechanisms at work beneath your awareness. Sometimes we develop these patterns early on as ways to stay safe, but they end up creating the very isolation we're trying to avoid.\n\n**A few questions that might help us understand this better:**\n\n- When you try to connect with people, what does that typically look like for you? What do you find yourself doing or saying?\n\n- Do you notice any feelings that come up *right before* you sense yourself pulling back or things not working out?\n\n- Looking back, were there times in your life when connecting felt unsafe or led to disappointment?\n\n**In the meantime, something to consider:**\n\nThis pattern didn't develop overnight, and it won't shift overnight either\u2014but it *can* shift. Often these cycles continue because there's a part of you that's trying to protect you from something (rejection, vulnerability, being truly seen). Understanding what you're protecting yourself from is key.\n\nWould you be open to exploring what connection has meant to you in the past, or what fears might come up when you imagine letting someone truly close?",
+    "usage": {
+      "prompt_tokens": 66,
+      "completion_tokens": 292,
+      "total_tokens": 358,
+      "cost": 0.004578,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000198,
+        "upstream_inference_completions_cost": 0.00438
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:15:58.965377",
+    "response_time_ms": 8848.37293624878
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That knot in your stomach and the second-guessing\u2014those are really important signals. Your body is telling you something significant is happening in those moments, even if the exact \"why\" feels unclear right now.\n\nThe feeling of being \"forced or inauthentic\" is particularly telling. It sounds like there might be a disconnect between what you're genuinely feeling and what you think you *should* do or say to connect. That gap can make interactions feel hollow, both to you and potentially to others.\n\n**Let's explore this a bit:**\n\nWhen you get that knot and start second-guessing, what kinds of thoughts run through your mind? Are they things like:\n- \"This isn't going to work anyway\"\n- \"They won't really want to hear this\"\n- \"I'm saying the wrong thing\"\n- Something else entirely?\n\nAnd here's another angle: **What would it feel like to show up exactly as you are in that moment**\u2014knot in stomach, uncertainty and all\u2014rather than trying to perform connection? \n\nI'm curious whether the inauthenticity you're sensing comes from trying to be what you think others want, rather than risking being yourself. That's an exhausting way to live, and ironically, it often prevents the genuine connection we're seeking.\n\n**You mentioned not being sure if it's fear of rejection \"or something else.\"** Sometimes it's fear of acceptance\u2014of being truly seen and having to sustain that vulnerability. Does that resonate at all?\n\nWhat feels most true when you sit with that knot?",
+    "usage": {
+      "prompt_tokens": 430,
+      "completion_tokens": 340,
+      "total_tokens": 770,
+      "cost": 0.00639,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00129,
+        "upstream_inference_completions_cost": 0.0051
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:16:11.152247",
+    "response_time_ms": 9726.160287857056
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "This is a really significant realization\u2014that you're afraid of being truly seen, *and* that you want something different. Holding both of those truths at once takes courage.\n\nHere's what often happens: We learn early on that certain parts of us aren't acceptable or safe to show. So we develop a \"performance self\" that we think will be more lovable or acceptable. But then even when people respond positively, it doesn't satisfy that loneliness because deep down we know: *they don't actually know me*. It's a painful trap.\n\n**Breaking this cycle isn't about forcing yourself to suddenly be completely vulnerable with everyone.** That would likely just trigger more of that protective response. Instead, it's more like:\n\n1. **Start noticing the gap** - You're already doing this. When you feel inauthentic, just notice it without judgment.\n\n2. **Small experiments** - Can you share one genuine thing with one person? Not something big necessarily, but something *real*\u2014even \"I'm feeling a bit anxious right now\" or expressing an actual preference instead of going along.\n\n3. **Find the right people** - Not everyone deserves to see you. Who in your life seems capable of holding complexity? Who shows up authentically themselves?\n\n**A crucial question:** What do you imagine would happen if someone truly saw you\u2014the real you, knot in stomach and all? What's the worst-case scenario your mind goes to?\n\nUnderstanding that fear specifically can help us work with it rather than just react to it.",
+    "usage": {
+      "prompt_tokens": 837,
+      "completion_tokens": 335,
+      "total_tokens": 1172,
+      "cost": 0.007536,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002511,
+        "upstream_inference_completions_cost": 0.005025
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:16:25.080647",
+    "response_time_ms": 11367.389917373657
+  },
+  "turn2_user_response": "I think I do try to connect, but it often feels forced or inauthentic. I get a knot in my stomach right before I reach out, and I end up second-guessing myself. I'm not sure if it's fear of rejection or something else. It's hard to pinpoint exactly what's going on.",
+  "turn3_user_response": "I think you're right about the inauthenticity. I often find myself trying to be what I think others want me to be, and that just leaves me feeling more isolated. Sitting with that knot, I realize I'm afraid of being truly seen, but I also want to break this cycle.",
+  "created_at": "2026-01-02 23:16:25.080708"
+}

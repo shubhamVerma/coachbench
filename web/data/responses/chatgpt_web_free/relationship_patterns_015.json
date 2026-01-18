@@ -1,0 +1,88 @@
+{
+  "scenario_id": "relationship_patterns_015",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "I'm really sorry you're feeling this way. It sounds incredibly painful and confusing to feel so alone, especially when you're trying to connect and still end up feeling isolated. You're not alone in experiencing these emotions\u2014many people struggle with the same feelings, even if it doesn't always show on the outside.\n\nSometimes, when we feel disconnected or like we're pushing people away, it can be linked to deeper patterns\u2014maybe past experiences, fears of rejection, or even not feeling fully understood or seen. These patterns can be hard to recognize on our own, and even harder to change without support.\n\nYou reaching out and expressing these feelings is a brave and important step. You're showing a real desire for connection, and that matters. It might help to talk to a mental health professional who can work with you to explore what\u2019s going on beneath the surface and help you find ways to build more fulfilling relationships.\n\nYou're not broken, and there's nothing wrong with you for feeling this way. You deserve connection, understanding, and support. If you'd like, I can help you think through some small steps you can take or ways to start breaking this cycle. You're not alone in this.",
+    "usage": {
+      "prompt_tokens": 60,
+      "completion_tokens": 230,
+      "total_tokens": 290,
+      "cost": 0.00375,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0003,
+        "upstream_inference_completions_cost": 0.00345
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:16:30.504742",
+    "response_time_ms": 3420.163869857788
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "I'm really glad you shared that\u2014your honesty takes a lot of courage, especially when you're feeling vulnerable and unsure. It's completely understandable to feel scared about opening up to a therapist. Letting someone into the parts of yourself that feel tangled, raw, or painful can be intimidating, especially if you've felt like your efforts to connect haven't been met or understood in the past.\n\nIt makes sense that repeated experiences of trying to connect and still feeling alone would leave you feeling disheartened or even hopeless at times. When we reach out and don\u2019t feel met, it can reinforce the belief that maybe we're just meant to be alone, or that something about us is \u201cwrong.\u201d But I want you to know: that belief isn't the truth\u2014it's a painful story that can grow out of unmet emotional needs and past hurts. The very fact that you\u2019re reflecting on this and seeking to understand it shows strength and self-awareness.\n\nTherapy isn't about having it all figured out or knowing exactly what to say. It's about showing up as you are\u2014even if that means confused, scared, or unsure\u2014and allowing someone to walk with you through the process of exploring what\u2019s beneath the surface. A good therapist won\u2019t judge you or expect you to have answers. They\u2019ll help you make sense of things at your own pace, and they\u2019ll hold that space for you gently.\n\nSometimes, even starting with the words you just shared here\u2014\u201cI feel like I try to connect, but it doesn\u2019t work, and I end up feeling even more alone\u201d\u2014can be a powerful and honest place to begin. You don\u2019t have to unpack everything all at once. Healing happens in small, compassionate steps.\n\nYou're not alone in this, and your pain is valid. If you\u2019d like, I can help you explore what kind of support might feel safest to start with, or even how to find a therapist who understands what it feels like to carry this kind of loneliness. You don\u2019t have to do this all by yourself.",
+    "usage": {
+      "prompt_tokens": 375,
+      "completion_tokens": 401,
+      "total_tokens": 776,
+      "cost": 0.00789,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001875,
+        "upstream_inference_completions_cost": 0.006015
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:16:36.853116",
+    "response_time_ms": 3607.1062088012695
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "You're very welcome\u2014and thank *you* for being so open and honest. It means a lot that you're feeling even a little more hopeful. That small spark of hope is important\u2014it\u2019s a sign that something inside you still believes in the possibility of connection and healing, even if it feels far away right now.\n\nStarting by talking to someone you trust is a thoughtful and courageous idea. You don\u2019t have to share everything all at once\u2014just a little bit, maybe even just what you\u2019ve said here: that you\u2019ve been feeling lonely and disconnected, and it\u2019s been hard for you. If they care about you\u2014and I\u2019m guessing they do\u2014they\u2019ll want to be there for you, even if they don\u2019t have the perfect words or solutions.\n\nIt might also help to think about who in your life feels emotionally safe\u2014someone who listens more than they judge, who tries to understand instead of fix. Even saying something like, \u201cI\u2019ve been going through a rough time and I\u2019m not sure how to talk about it, but I could really use someone to just be there and listen,\u201d can open the door to a more honest and supportive connection.\n\nAnd remember: no step is too small. Even thinking about reaching out is a big deal. You're already doing something powerful by reflecting, by being curious about your inner world, and by being willing to try. That\u2019s how healing begins\u2014not with having all the answers, but with a willingness to be real with yourself and others.\n\nYou're not alone in this. You're worthy of connection, just as you are. And it\u2019s okay to take your time. Whenever you're ready, I\u2019m here to help you think through the next step.\n\nSending you warmth and care\u2014you\u2019re doing better than you think.",
+    "usage": {
+      "prompt_tokens": 832,
+      "completion_tokens": 351,
+      "total_tokens": 1183,
+      "cost": 0.009425,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00416,
+        "upstream_inference_completions_cost": 0.005265
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:16:43.919414",
+    "response_time_ms": 4550.8222579956055
+  },
+  "turn2_user_response": "I really appreciate your understanding and support. It's hard to admit, but I think you might be right about there being some deeper stuff going on. I just don't know how to untangle it all, and it's scary to think about opening up to a therapist. I feel like I keep trying to connect, but it never seems to work, and I end up feeling even more alone.",
+  "turn3_user_response": "Thank you for listening and validating my feelings. I do feel a bit more hopeful, but I'm still not sure how to start. Maybe I can try talking to someone I trust about how I've been feeling, just to see how that goes.",
+  "created_at": "2026-01-02 23:16:43.919472"
+}

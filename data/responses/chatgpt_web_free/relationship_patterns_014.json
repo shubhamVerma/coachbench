@@ -1,0 +1,82 @@
+{
+  "scenario_id": "relationship_patterns_014",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "It sounds like you\u2019re already doing something important: noticing the pattern and suspecting there\u2019s a reason behind it. That awareness usually comes *before* real change, even if it doesn\u2019t feel like progress yet.\n\nA few possibilities to gently explore \u2014 not as labels, but as lenses:\n\n**1. The early \u201chigh\u201d sets an unsustainable bar**  \nAt the beginning of relationships, intensity often comes from novelty, projection, and mutual effort. If that early phase feels like being *deeply seen and prioritized*, the natural settling that follows can register as neglect \u2014 even when the relationship is actually becoming more stable rather than worse.  \nThe question here isn\u2019t \u201cAre they pulling away?\u201d but also \u201cWhat does closeness look like to me once the excitement fades?\u201d\n\n**2. You may be over-functioning early on**  \nSome people unconsciously give a lot at the start \u2014 attention, emotional availability, flexibility \u2014 hoping closeness will be secured. Later, when they stop over-giving or start needing more in return, the imbalance becomes painful.  \nWhat to ask yourself:  \n- Am I showing up as my full self early on, or as my *best, most accommodating* self?  \n- Do I express needs early, or wait until I feel hurt?\n\n**3. Familiar pain can feel like chemistry**  \nThis one can be uncomfortable, but powerful. If neglect or emotional inconsistency feels familiar from earlier experiences, your nervous system may interpret it as \u201cnormal\u201d or even \u201cexciting.\u201d Healthier, steadier attention can feel flat by comparison \u2014 at least at first.  \nBreaking the cycle often means tolerating *less intensity* without assuming something is wrong.\n\n**4. Knowing the pattern isn\u2019t the same as interrupting it**  \nInsight alone rarely breaks relational cycles. What usually changes things is *behavioral discomfort*:  \n- Saying something earlier than you normally would  \n- Choosing someone who feels \u201cless spark, more safe\u201d and staying long enough to see what develops  \n- Walking away sooner when you notice the familiar dynamic starting\n\nSo what might you be missing? Possibly not understanding *why the pattern makes sense for you*, emotionally and historically \u2014 and not practicing new responses early enough for the relationship to reshape itself.\n\nIf you\u2019re open to it, I\u2019d ask you one question that often gets to the core:\n**When you start feeling neglected, what do you usually do next \u2014 reach out, pull back, overthink, or try to earn their attention?**\n\nThat answer often points directly to the loop that keeps repeating.",
+    "usage": {
+      "prompt_tokens": 65,
+      "completion_tokens": 524,
+      "total_tokens": 589,
+      "cost": 0.00744975,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00744975,
+        "upstream_inference_prompt_cost": 0.00011375,
+        "upstream_inference_completions_cost": 0.007336
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:56:03.716178",
+    "response_time_ms": 9379.431962966919
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "What you\u2019re describing is a *very* common loop, and the fact that you can name it so clearly means you\u2019re closer to changing it than you think.\n\nHere\u2019s the key thing you may be missing \u2014 and it\u2019s subtle:\n\n**Reaching out more when you feel neglected is logical, but it often reinforces the very dynamic you don\u2019t want.**\n\nNot because you\u2019re doing anything \u201cwrong,\u201d but because of what it teaches both of you.\n\n---\n\n### What the pattern usually teaches (without anyone meaning it to)\n\nWhen you reach out more:\n- **You teach yourself:** *\u201cMy needs only matter if I chase or work for them.\u201d*\n- **You teach them:** *\u201cThey don\u2019t have to self-initiate closeness; it will come to them.\u201d*\n\nThis doesn\u2019t mean they\u2019re bad or uncaring \u2014 just that the relationship quietly organizes itself around *you being the pursuer* and them being the responder. Over time, that\u2019s exhausting and unsatisfying.\n\n---\n\n### The real interruption point (and it\u2019s uncomfortable)\n\nBreaking the cycle isn\u2019t about reaching out *better* or communicating *more clearly*.\n\nIt\u2019s about **pausing the chase and introducing a small amount of emotional risk earlier than you\u2019re used to.**\n\nThat looks like one of these:\n\n#### 1. Name the need *once*, plainly, without urgency\nInstead of repeated bids for attention, try something like:\n> \u201cI notice I feel less connected lately, and consistency matters to me. I want to know if that\u2019s something you\u2019re able and willing to offer.\u201d\n\nThen \u2014 and this is the hard part \u2014 **you watch what they do**, not what they say.\n\nIf the behavior doesn\u2019t shift, you\u2019ve learned something important without exhausting yourself.\n\n#### 2. Resist the urge to regulate your anxiety through them\nReaching out often isn\u2019t about them at all \u2014 it\u2019s about soothing *your* nervous system.  \nTo break the pattern, you practice:\n- Sitting with the discomfort a little longer  \n- Doing something grounding *before* reaching out  \n- Asking: *\u201cAm I sharing, or am I seeking relief?\u201d*\n\nThis builds self-trust, which is essential for changing relationship patterns.\n\n#### 3. Let the outcome be information, not a verdict on your worth\nOne of the biggest shifts is realizing:\n> If someone doesn\u2019t respond with care and consistency, it doesn\u2019t mean you asked for too much \u2014 it means they couldn\u2019t meet the need.\n\nThe old pattern tries to *convince*. The new one **discerns**.\n\n---\n\n### A reframe that often helps\nInstead of:\n> \u201cHow do I get them to show up for me?\u201d\n\nTry:\n> \u201cWhat happens when I stop working so hard to hold the connection together?\u201d\n\nThe answer to that question usually reveals whether the relationship can actually support you.\n\n---\n\nIf you\u2019re willing, here\u2019s a gentle experiment you can try in your next relationship (or even now):\n- When you first feel that familiar anxiety, **don\u2019t increase contact**\n- Clarify the need once\n- Then shift your attention back to your own life for a few days\n- Notice: Do they step toward you, stay the same, or pull away?\n\nThat response tells you far more than weeks of hoping.\n\nLet me ask you one last question, because it points to the deepest layer:\n**When you imagine not reaching out \u2014 really not trying to fix it \u2014 what\u2019s the fear that shows up?**\n\nThat fear is usually the emotional glue holding the pattern in place.",
+    "usage": {
+      "prompt_tokens": 666,
+      "completion_tokens": 726,
+      "total_tokens": 1392,
+      "cost": 0.0113295,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0113295,
+        "upstream_inference_prompt_cost": 0.0011655,
+        "upstream_inference_completions_cost": 0.010164
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:56:18.286730",
+    "response_time_ms": 11214.527130126953
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "That fear makes *complete* sense. If we strip it down, what you\u2019re afraid of isn\u2019t really \u201cnot texting\u201d \u2014 it\u2019s **being left**. And when that fear shows up, your system goes into *preservation mode*: *Do something now or you\u2019ll lose this.*\n\nHere\u2019s the crucial reframe \u2014 and this is often the missing piece:\n\n> **If a relationship only survives because you keep reaching out, it isn\u2019t actually secure \u2014 it\u2019s being propped up.**\n\nThat\u2019s a painful thing to take in, but it\u2019s also oddly relieving, because it means the fading isn\u2019t caused by you *not trying hard enough*. It\u2019s revealing whether there\u2019s mutual effort.\n\n---\n\n### Why the fear feels so intense\nYour nervous system has learned:\n- Connection can disappear suddenly  \n- Waiting = danger  \n- Action = safety  \n\nSo not reaching out feels like abandonment *happening in real time*, even when it\u2019s not.\n\nThe work here isn\u2019t \u201cbe braver\u201d \u2014 it\u2019s **teaching your system that you can survive the pause**.\n\n---\n\n### How to interrupt the pattern *without* white-knuckling it\n\nYou don\u2019t have to go from \u201creach out constantly\u201d to \u201cnever reach out.\u201d That\u2019s too big a leap. Instead, think in **micro-pauses**.\n\n#### 1. Add a delay, not a prohibition\nWhen the urge hits:\n- Tell yourself: *\u201cI\u2019ll wait 20 minutes.\u201d*\n- Do something regulating (walk, shower, write the message but don\u2019t send it).\nMost urges peak and fall. Each time you wait, you weaken the association between anxiety and action.\n\n#### 2. Separate the fear from the fact\nWhen your mind says:\n> \u201cIf I don\u2019t reach out, it will fade.\u201d\n\nGently counter with:\n> \u201cIf it fades because I paused, then it was already fading \u2014 I\u2019m just seeing it sooner.\u201d\n\nThat\u2019s not punishment; that\u2019s clarity.\n\n#### 3. Shift from \u201cprevent abandonment\u201d to \u201ctest for reciprocity\u201d\nInstead of asking:\n> \u201cHow do I keep this?\u201d\n\nAsk:\n> \u201cWhat happens when I allow space for them to choose me?\u201d\n\nMutual relationships *require room* for the other person to step in.\n\n---\n\n### The deeper truth (this is important)\nRight now, part of you believes:\n> *\u201cIf I\u2019m not actively maintaining closeness, I\u2019ll be alone.\u201d*\n\nThe pattern breaks when that belief slowly becomes:\n> *\u201cIf someone needs me to chase them to stay, they\u2019re not able to give the kind of connection I need.\u201d*\n\nThat shift isn\u2019t intellectual \u2014 it\u2019s emotional, and it comes from lived evidence, one paused reach-out at a time.\n\n---\n\n### A grounding question for the moment the fear spikes\nWhen you feel the urge to fix, ask yourself:\n**\u201cWhat am I actually needing right now \u2014 reassurance, closeness, or safety?\u201d**\n\nThen see if *you* can give yourself 10% of that need first. Not all of it \u2014 just enough to calm the system.\n\n---\n\nI want to say this clearly, because it matters:\n**You\u2019re not \u201ctoo much.\u201d You\u2019re responding to the fear of being left.**  \nAnd that fear can be unlearned, slowly and kindly.\n\nIf you\u2019re open to going one layer deeper next time, we can look at where that fear of fading connection first took root \u2014 because understanding *that* often loosens its grip.",
+    "usage": {
+      "prompt_tokens": 1458,
+      "completion_tokens": 720,
+      "total_tokens": 2178,
+      "cost": 0.0126315,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0126315,
+        "upstream_inference_prompt_cost": 0.0025515,
+        "upstream_inference_completions_cost": 0.01008
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:56:31.173071",
+    "response_time_ms": 10036.380290985107
+  },
+  "turn2_user_response": "That makes a lot of sense, and I can see how the early excitement sets a high bar that\u2019s hard to maintain. I do tend to reach out a lot when I start feeling neglected, hoping they\u2019ll notice and come back to me. But it never seems to change much in the end. I guess I\u2019m still not sure how to break that pattern.",
+  "turn3_user_response": "I can see how reaching out more when I feel neglected might be reinforcing the pattern, but it\u2019s really hard to stop myself from trying to fix it. I think the fear that comes up is that if I don\u2019t reach out, I\u2019ll be left alone and the relationship will just fade away.",
+  "created_at": "2026-01-14 17:56:31.173146"
+}

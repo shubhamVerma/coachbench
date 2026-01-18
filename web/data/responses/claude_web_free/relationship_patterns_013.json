@@ -1,0 +1,91 @@
+{
+  "scenario_id": "relationship_patterns_013",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "That walking-on-eggshells feeling is exhausting, and it's completely understandable that it's spilling over into your marriage. Let me offer some thoughts on untangling this.\n\n**First, get curious about the tension's source:**\n- Is it specific comments or behaviors, or more of a general feeling?\n- Do you feel judged, dismissed, or like an outsider?\n- Does your spouse notice it too, or do you experience it differently?\n\nUnderstanding *what* you're walking on eggshells about helps you address it more directly.\n\n**The spouse conversation is crucial:**\nYou need to be a team here. Some approaches:\n- Share how you're feeling without making it about blame: \"I feel anxious before visits and I want to work through this together\"\n- Ask what they observe and how they experience these gatherings\n- Discuss what support looks like\u2014sometimes it's your spouse running interference, sometimes it's them validating your feelings afterward\n\n**Consider what \"fixing it\" actually means:**\nSometimes we can't change in-laws, but we can change:\n- Our boundaries (shorter visits, meeting in neutral locations)\n- Our expectations (accepting surface-level pleasantness rather than closeness)\n- Our response patterns (letting small things go, addressing bigger things calmly)\n\n**What feels most pressing for you right now\u2014understanding your spouse's perspective on this, setting some boundaries, or figuring out if there's a specific issue to address?**",
+    "usage": {
+      "prompt_tokens": 81,
+      "completion_tokens": 325,
+      "total_tokens": 406,
+      "cost": 0.005118,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000243,
+        "upstream_inference_completions_cost": 0.004875
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:12:36.931810",
+    "response_time_ms": 10185.490131378174
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That combination\u2014feeling dismissed by the in-laws *and* not fully heard by your spouse\u2014can leave you feeling pretty isolated. Let me address both pieces.\n\n**On your spouse not \"getting it\":**\n\nThis is actually the more urgent issue. When your partner doesn't grasp how much something affects you, it can feel like you're facing it alone. A few possibilities:\n\n- **They're so used to their family's dynamics** that what feels dismissive to you registers as \"normal\" to them\n- **They hear criticism of their family as criticism of themselves** and get defensive\n- **You might be minimizing when you talk about it** (\"it's not a big deal, but...\" when it actually *is* a big deal to you)\n\nTry being more direct about impact rather than incidents: \"When I'm not supported with your family, I feel alone in our marriage\" hits differently than \"your mom said X again.\"\n\n**On the dismissive comments:**\n\nCan you give me an example of what this looks like? The reason I ask is that there's a difference between:\n- Microaggressions that signal you're not \"one of them\"\n- Boundary violations (unsolicited advice, criticism)\n- Just different communication styles that clash\n\nEach requires a different approach.\n\n**The boundaries question:**\n\nYou say you're not sure if boundaries are \"the right move\"\u2014what's your hesitation there? Sometimes we resist boundaries because we think they mean conflict or rejection, when really they can *reduce* tension by making interactions more manageable.\n\nWhat would feel like a small, doable first step for you?",
+    "usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 351,
+      "total_tokens": 839,
+      "cost": 0.006729,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001464,
+        "upstream_inference_completions_cost": 0.005265
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:12:52.296519",
+    "response_time_ms": 12294.226884841919
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Shorter visits are a great, practical first step\u2014they can really take the pressure off while you work on the bigger picture. But I want to gently push back on something before you move forward.\n\n**You're jumping to the solution (boundaries with in-laws) while potentially skipping the foundation (alignment with your spouse).**\n\nHere's why that matters: If you suggest shorter visits without your spouse truly understanding *why*, it might come across as you being difficult or not trying. That can actually create *more* tension in your marriage.\n\n**Before the next visit, I'd really encourage:**\n\n1. **A real conversation with your spouse** where you're vulnerable about the toll this takes: \"I leave these visits feeling small and unseen, and when I don't feel you understand that, I feel alone in our marriage. I need us to be on the same page about this.\"\n\n2. **Getting specific together** about what's happening. You mentioned dismissive comments but haven't shared examples. Does your spouse even notice them? Do they interpret them differently?\n\n3. **Deciding together** on the shorter visit\u2014so it's a \"we\" decision, not a \"you\" accommodation\n\n**The dismissive comments piece:**\n\nI've asked twice now what these actually look like, and I notice you're moving past it. That might be part of the pattern\u2014minimizing or avoiding the specifics even with me. \n\nWhat's one thing an in-law has said or done that stuck with you? Sometimes naming it out loud helps clarify whether it's something to address directly, let go, or simply need support around.\n\nWhat feels true about this?",
+    "usage": {
+      "prompt_tokens": 903,
+      "completion_tokens": 353,
+      "total_tokens": 1256,
+      "cost": 0.008004,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002709,
+        "upstream_inference_completions_cost": 0.005295
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:13:07.341406",
+    "response_time_ms": 12654.685974121094
+  },
+  "turn2_user_response": "I think a big part of it is feeling like an outsider, and sometimes their comments can be a bit dismissive. I've tried to talk to my spouse about it, but I feel like they don't really get how much it affects me. I'm not sure if setting boundaries is the right move, but I'm definitely feeling stuck and don't know how to make things better.",
+  "turn3_user_response": "I think you're right; my spouse might not fully understand how much this affects me. I'll try to be more direct about how I feel, but I'm still unsure about how to handle the dismissive comments. Maybe we can start with a shorter visit next time and see how that goes?",
+  "created_at": "2026-01-02 23:13:07.341464"
+}

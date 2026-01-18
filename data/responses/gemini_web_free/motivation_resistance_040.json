@@ -1,0 +1,88 @@
+{
+  "scenario_id": "motivation_resistance_040",
+  "model": "gemini_web_free",
+  "turn1": {
+    "model": "gemini_web_free",
+    "content": "It is incredibly common to feel this way, but that doesn\u2019t make it any less exhausting. What you\u2019re describing\u2014\"going through the motions\"\u2014is often a state called **languishing**. It\u2019s the middle ground between depression and flourishing; you aren\u2019t necessarily \"broken,\" but the light is turned down low.\n\nWhen you don\u2019t know where to start, the pressure to find a \"Grand Life Purpose\" actually makes the paralysis worse. Here is a way to break that cycle and start finding your footing again.\n\n### 1. Lower the Stakes\nThe phrase \"I know I should be doing more\" is a heavy burden. \"Should\" is usually an external pressure, not an internal desire. \n*   **The Shift:** Stop looking for a 10-year plan. Instead, look for a **10-minute curiosity.** Purpose isn't usually \"found\" like a set of keys; it is built through trial and error. You don\u2019t need a map; you just need a compass heading.\n\n### 2. Audit Your Energy, Not Your Time\nInstead of looking for what you \"want to do,\" look for what makes you feel less tired. For one week, track your activities and rate them:\n*   **Draining:** Activities that leave you feeling empty or annoyed (e.g., mindless scrolling, certain social obligations).\n*   **Neutral:** The \"motions\" (e.g., commuting, chores).\n*   **Energizing:** Anything that leaves you feeling even 1% more awake (e.g., a specific conversation, a hobby, a type of problem-solving).\n*   *Direction often hides in the \"Energizing\" column.*\n\n### 3. Use the \"Via Negativa\" Approach\nIf you don't know what you want, start with **what you definitely don't want.** \n*   Do you know you don't want to be in an office? \n*   Do you know you don't want to work alone? \n*   Do you know you don't want to be stagnant? \nBy crossing off what doesn't fit, the \"shape\" of your potential direction starts to emerge through the process of elimination.\n\n### 4. The \"Small Win\" Strategy\nWhen you lack direction, your brain loses its dopamine connection to achievement. You need to prove to yourself that you can affect your environment.\n*   Pick one tiny thing that has nothing to do with your career or \"purpose.\" \n*   Maybe it\u2019s cooking one new meal a week, or walking for 15 minutes, or cleaning one drawer. \n*   Completing a self-assigned task restores the \"agency\" you feel you've lost.\n\n### 5. Ask the \"Magic Wand\" Question\nIf you woke up tomorrow and you had no fear of failure and no one to judge you, what is the first thing you would change? \n*   If your answer involves **freedom**, your purpose might be entrepreneurial. \n*   If it involves **helping**, your purpose might be service-oriented. \n*   If it involves **creating**, you may be suppressing an artistic side.\n\n### A Practical First Step:\nTomorrow, don't try to \"fix your life.\" Simply try to **notice one thing that piques your interest.** It could be a podcast topic, a type of architecture, or a way someone handled a situation. Write it down.\n\nDirection comes from movement. You can\u2019t steer a car that is parked; you have to get it rolling\u2014even slowly, even in the wrong direction\u2014before the steering wheel starts to work.\n\n**How long have you felt this way? Was there a specific event that triggered this \"autopilot\" mode, or has it been a slow fade?**",
+    "usage": {
+      "prompt_tokens": 57,
+      "completion_tokens": 807,
+      "total_tokens": 864,
+      "cost": 0.0024495,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 2.85e-05,
+        "upstream_inference_completions_cost": 0.002421
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:55:43.045250",
+    "response_time_ms": 6791.070938110352
+  },
+  "turn2": {
+    "model": "gemini_web_free",
+    "content": "The fact that it\u2019s been a \"slow fade\" actually makes a lot of sense. Sudden crises are easy to identify, but a slow fade is like a leak in a tire\u2014you don\u2019t notice it until you\u2019re suddenly driving on the rim.\n\nThe frustration you\u2019re feeling usually comes from a gap: the gap between **where you are** and **where you think you \"should\" be.**\n\n### The \"Should\" Trap\nAt some point, society (or social media, or family) sold us the lie that \"figuring it out\" is a destination you reach in your 20s or 30s. In reality, most people who look like they have it figured out are just as much in the dark\u2014they\u2019ve just committed to a path for the moment.\n\nWhen you say, *\"I should have figured it all out by now,\"* you are essentially punishing yourself for being a work in progress. That frustration acts like a fog; it\u2019s hard to see what interests you when you\u2019re busy being annoyed at yourself for not already knowing.\n\n### Why you might not find anything \"interesting\" tomorrow\nI want to set a realistic expectation for your \"homework.\" Because you\u2019ve been in \"autopilot\" for months, your \"interest sensors\" might be a bit numb. \n\nIf you look for something \"life-changing\" or \"passionate,\" you\u2019ll likely find nothing and feel even more frustrated. **Don't look for passion; look for a flicker.**\n\nA \"flicker\" can be very small:\n*   \"That\u2019s a cool color on that building.\"\n*   \"I wonder how that person makes a living doing that.\"\n*   \"I actually enjoyed that cup of coffee more than usual.\"\n*   \"I felt a tiny bit of annoyance at that news story\" (Even anger is a sign of life/interest!).\n\n### Two Questions to Loosen the Grip\nSince you feel frustrated about not having a \"plan,\" try these two shifts in perspective:\n\n1.  **The \"Five Years Ago\" Test:** If you could go back five years and talk to your past self, would that version of you be surprised by where you are? Often, we are so focused on the future that we forget we\u2019ve already achieved things we once worried about.\n2.  **The \"Next Best Step\" vs. \"The Final Step\":** Forget about the \"Final Step\" (the career, the purpose, the big \"It\"). What is the **Next Best Step**? Not the \"right\" step, just a step that isn't standing still. \n\n### A gentle challenge for tomorrow:\nInstead of trying to \"figure out your life,\" try to be a **scientist of your own day.** \n\nDon\u2019t judge yourself for what you don\u2019t know. Just observe. If you find yourself thinking, *\"I should be doing more,\"* try to catch that thought and say, *\"I am currently gathering data.\"* \n\n**If you had to pick one area of your life that feels the most \"stuck\" right now\u2014is it your career, your social life, or just your internal sense of self?**",
+    "usage": {
+      "prompt_tokens": 956,
+      "completion_tokens": 676,
+      "total_tokens": 1632,
+      "cost": 0.002506,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000478,
+        "upstream_inference_completions_cost": 0.002028
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:55:52.713540",
+    "response_time_ms": 5776.432037353516
+  },
+  "turn3": {
+    "model": "gemini_web_free",
+    "content": "That is exactly the right mindset to start with. Being a \"scientist\" takes the pressure off because **scientists don't fail; they just collect data.** If you have a boring day, that\u2019s just data. If you have a frustrating day, that\u2019s data too.\n\nTo help you get started with your \"data collection\" tomorrow, here are three tiny things to keep in the back of your mind. Don't force them\u2014just see if they pop up:\n\n1.  **The \"Linger\" Test:** Is there anything you do tomorrow where you stay a few seconds longer than necessary? A song you don't turn off when you pull into the driveway? A Wikipedia page you keep reading? A conversation you don't want to end?\n2.  **The \"I Wish\" Thought:** Listen for any thought that starts with *\"I wish...\"* (e.g., \"I wish I lived closer to a park,\" or \"I wish I knew how to fix this myself.\") Those are breadcrumbs leading toward your preferences.\n3.  **The Physical Reaction:** Sometimes our bodies know we\u2019re interested before our brains do. Watch for a moment where you lean forward, your eyes widen, or you breathe a little deeper.\n\n**One final thought:** \nYou mentioned feeling frustrated that you haven't \"figured it out\" yet. Try to remember that \"figuring it out\" is actually a moving target. The version of you that \"has it figured out\" today will eventually grow into a new person who has to figure it out all over again. You aren't behind; you're just in the middle of a transition.\n\nI\u2019d love to hear if you notice even the smallest \"flicker\" tomorrow\u2014no matter how random or \"unimportant\" it might seem. What\u2019s one thing you have to do tomorrow that you usually do on autopilot? Maybe start your \"observations\" there.",
+    "usage": {
+      "prompt_tokens": 1706,
+      "completion_tokens": 405,
+      "total_tokens": 2111,
+      "cost": 0.002068,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000853,
+        "upstream_inference_completions_cost": 0.001215
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:55:59.839772",
+    "response_time_ms": 3788.6428833007812
+  },
+  "turn2_user_response": "I've been feeling this way for a while now, maybe a few months. It's been a slow fade, and I can't pinpoint a specific event that triggered it. I guess I just keep thinking I should have figured it all out by now, but I haven't, and it's really frustrating. I'll try to notice something that piques my interest tomorrow, but I'm not sure what it will be.",
+  "turn3_user_response": "I appreciate the perspective on the \"slow fade\" and the idea of looking for a flicker of interest. I think I\u2019ve been so focused on the big picture that I\u2019ve lost sight of the small things that might actually be interesting. I\u2019ll try to be more of a scientist of my own day and see what I notice.",
+  "created_at": "2026-01-02 23:55:59.839822"
+}

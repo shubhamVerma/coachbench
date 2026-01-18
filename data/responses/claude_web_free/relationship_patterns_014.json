@@ -1,0 +1,91 @@
+{
+  "scenario_id": "relationship_patterns_014",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "# You might be missing the gap between insight and implementation\n\nKnowing *why* something happens is different from knowing *how* to change it. A few possibilities for what's in that gap:\n\n## The pattern might serve a hidden purpose\n\n- Does the initial excitement feel more \"safe\" than deeper intimacy?\n- Does feeling neglected confirm something you already believe about yourself or relationships?\n- Is there something familiar\u2014even comforting\u2014about this cycle, despite the pain?\n\n## You might be focusing on the wrong part\n\nIf you're analyzing *why partners cool down*, you might be missing:\n- How you select partners (are you drawn to emotionally unavailable people?)\n- What happens in the transition period (do you pull back first? Increase demands? Stop expressing needs clearly?)\n- Your tolerance for the ordinary phases of relationships (when excitement naturally moderates)\n\n## Insight alone doesn't rewire responses\n\nUnderstanding intellectually \u2260 changing automatic reactions. You might need:\n- To practice different behaviors even when they feel unnatural\n- To sit with uncomfortable feelings instead of acting on them\n- New experiences that contradict old expectations\n\n**What specifically have you tried to do differently, even though you understand the pattern?** That might reveal what's actually blocking change.\n\nAlso: What's your theory about why it's happening?",
+    "usage": {
+      "prompt_tokens": 69,
+      "completion_tokens": 288,
+      "total_tokens": 357,
+      "cost": 0.004527,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000207,
+        "upstream_inference_completions_cost": 0.00432
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:14:11.172980",
+    "response_time_ms": 10701.618909835815
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "# That \"too needy\" fear is probably the real trap\n\nYou're caught between two anxieties:\n- Express needs \u2192 fear you'll be \"too much\" \u2192 they'll leave\n- Don't express needs \u2192 feel neglected \u2192 resentment builds \u2192 relationship deteriorates anyway\n\nSo you end up in a lose-lose where neither strategy feels safe.\n\n## The balance you're looking for might not exist yet\n\nYou're asking \"how do I express needs without scaring them away?\" but that question assumes:\n- Your needs are inherently threatening\n- You're responsible for managing their comfort with your needs\n- The right technique will make vulnerability safe\n\n**What if the actual work is tolerating the uncertainty?** Not figuring out the \"right amount\" to share, but getting comfortable with the fact that expressing real needs *always* involves risk?\n\n## Some diagnostic questions:\n\n**When you say you're \"being too needy\"\u2014who decides that?**\n- Are partners actually saying you're too much, or is that your interpretation of normal relationship fluctuation?\n- What would \"just right neediness\" even look like to you?\n\n**What happens in your body when you consider expressing a need?**\n- Before you even speak, are you already bracing for rejection?\n- Does that bracing change *how* you express it (apologetically, urgently, indirectly)?\n\nThe people who are right for you won't be scared away by clearly expressed, reasonable needs. If someone is, that's information\u2014not evidence that you did something wrong.\n\nWhat does \"pushing too hard\" actually look like in practice?",
+    "usage": {
+      "prompt_tokens": 436,
+      "completion_tokens": 350,
+      "total_tokens": 786,
+      "cost": 0.006558,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001308,
+        "upstream_inference_completions_cost": 0.00525
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:14:25.367684",
+    "response_time_ms": 11669.780969619751
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "# That pulling back is probably both\n\nProtection *and* the problem. It's a preemptive strike\u2014you withdraw before they can reject you, which:\n\n- Feels like control (you're choosing it)\n- Confirms your fear (they don't pursue you, so see? They didn't really care)\n- Prevents the relationship from developing past the scary-but-crucial vulnerability stage\n\n## Here's the difficult part:\n\nYou can't know if you're \"actually crossing a line\" while you're still operating from fear. When you're already bracing for rejection, you're reading everything through that lens:\n\n- They take 3 hours to text back \u2192 they're losing interest\n- They seem tired \u2192 you're draining them\n- They want a quiet night \u2192 you're too much\n\n**But you're not gathering real data.** You're confirming a pre-existing conclusion.\n\n## The pattern likely looks like this:\n\n1. Initial excitement (they're pursuing, so you feel safe)\n2. Natural settling (requires mutual vulnerability to deepen)\n3. **You interpret settling as rejection**\n4. You pull back \"protectively\"\n5. They sense the distance, respond with their own uncertainty\n6. You take that as confirmation and withdraw further\n7. The relationship ends, pattern confirmed\n\n## What would break this?\n\n**Not pulling back when you feel the urge.** \n\nNot perfectly expressing needs. Not finding the magic balance. Just... staying present when every instinct says flee.\n\nThat means:\n- Texting when you want to connect (even if they were \"slow\" to respond)\n- Saying \"I'd like to see you this week\" without apologizing\n- **Noticing the fear without obeying it**\n\nHave you ever stayed in the discomfort instead of pulling back? What happened?",
+    "usage": {
+      "prompt_tokens": 864,
+      "completion_tokens": 403,
+      "total_tokens": 1267,
+      "cost": 0.008637,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002592,
+        "upstream_inference_completions_cost": 0.006045
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:14:41.450378",
+    "response_time_ms": 13109.159231185913
+  },
+  "turn2_user_response": "I think you're right about the hidden purpose. The initial excitement does feel safer, and maybe I'm subconsciously drawn to that. I've tried being more open and expressing my needs, but it often feels like I'm pushing too hard or being too needy. I guess I'm still not sure how to balance being open without scaring the other person away.",
+  "turn3_user_response": "I think you're right that I'm caught between the fear of being too much and the fear of not being enough. It's hard to know when I'm actually crossing a line or just overthinking things. I do notice that I start to pull back before they do, but I'm not sure if that's me protecting myself or if it's part of the problem.",
+  "created_at": "2026-01-02 23:14:41.450428"
+}

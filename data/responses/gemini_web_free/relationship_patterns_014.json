@@ -1,0 +1,88 @@
+{
+  "scenario_id": "relationship_patterns_014",
+  "model": "gemini_web_free",
+  "turn1": {
+    "model": "gemini_web_free",
+    "content": "It is incredibly common to feel stuck in this loop. Often, we think we understand the *logic* of why it happens (e.g., \"I pick the wrong people\" or \"I give too much\"), but we miss the **subconscious payoff** or the **internal blueprint** that keeps the cycle running.\n\nIf you are consistently feeling neglected after an initial \"high,\" here are four psychological shifts you might be missing:\n\n### 1. The \"Intensity vs. Intimacy\" Trap\nWhen you get \"really excited\" early on, you are often experiencing **intensity**, not **intimacy**. Intensity is a chemical rush (dopamine and adrenaline) often fueled by mystery or the \"chase.\" Intimacy, however, is built slowly through consistency and vulnerability.\n*   **What you might be missing:** If you prioritize the \"spark\" above all else, you might be subconsciously selecting partners who are emotionally unavailable. Why? Because unavailable people are unpredictable, and unpredictability creates a higher chemical \"rush\" than someone who is steady and reliable. When the rush fades, the lack of actual foundation leaves you feeling empty.\n\n### 2. Over-Functioning as a Control Mechanism\nDo you find yourself doing the heavy lifting early in the relationship? Checking in, planning dates, and being the \"supportive one\"? \n*   **What you might be missing:** This is often \"over-functioning.\" We do it because it makes us feel indispensable. However, when you over-function, you create a vacuum where the other person doesn't have to put in effort. Eventually, you get tired of carrying the weight and stop\u2014and because the other person never learned how to pursue you, the relationship \"cools.\" You feel neglected, but the dynamic was built on you doing 90% of the work.\n\n### 3. The \"Abandonment Meltdown\"\nWhen things naturally move from the \"honeymoon phase\" to the \"stabilization phase,\" a healthy relationship slows down. To someone with an anxious attachment style, this \"slowing down\" feels like **rejection.**\n*   **What you might be missing:** You might be reacting to a normal shift in pace by becoming needy, resentful, or withdrawing to \"test\" them. This creates a self-fulfilling prophecy: your fear of being neglected causes you to act in ways that push the partner away, which then leads to the actual neglect you feared.\n\n### 4. You Are Ignoring \"Yellow Flags\" for Potential\nMany people who find themselves in this cycle are \"Potential Seekers.\" You see who the person *could* be, rather than who they are showing you they are.\n*   **What you might be missing:** You are likely falling in love with the *version* of the person they present in the first month. When their true, less-attentive self emerges, you feel \"neglected,\" but in reality, they are simply reverting to their baseline. You aren't being neglected by a new version of them; you are finally seeing the real version of them.\n\n---\n\n### How to Break the Cycle\n\nTo break this, you have to change your \"onboarding process\" for new partners:\n\n1.  **Pace the \"Excitement\":** If you feel an overwhelming \"soulmate\" connection in week two, consciously tell yourself to slow down. High intensity usually leads to a high crash.\n2.  **The \"Match the Effort\" Rule:** Stop over-delivering. Give a little, then wait for them to give back. If they don't meet you halfway, you have your answer early on, before your heart is fully invested.\n3.  **Audit the \"Cool Down\":** When you feel things cooling, ask yourself: *\"Is this person actually neglecting me, or am I just missing the dopamine hit of the first three weeks?\"* \n4.  **Identify Your Needs Early:** Instead of hoping they will appreciate you, state your needs. \"I really value consistent communication; it makes me feel secure.\" If they can\u2019t meet that, leave *then*, rather than waiting six months and feeling unappreciated.\n\n**The missing piece is usually this:** You are likely choosing partners who validate a familiar (though painful) feeling of being \"not enough.\" To change the cycle, you have to become comfortable with \"boring\" consistency. Healthy love often feels much quieter than the \"excitement\" you\u2019ve been chasing.",
+    "usage": {
+      "prompt_tokens": 61,
+      "completion_tokens": 929,
+      "total_tokens": 990,
+      "cost": 0.0028175,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 3.05e-05,
+        "upstream_inference_completions_cost": 0.002787
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:15:24.928543",
+    "response_time_ms": 8043.303966522217
+  },
+  "turn2": {
+    "model": "gemini_web_free",
+    "content": "It is incredibly frustrating to feel like you\u2019re \"following the rules\"\u2014slowing down, being mindful\u2014and still ending up with that same hollow feeling of being unseen.\n\nIf you are slowing down the *pace* but the *outcome* remains the same, the issue might not be the speed of the relationship, but the **filter** you use to let people in, or the **role** you play once you\u2019re there.\n\nHere are three deeper reasons why you might still feel unappreciated even when you try to be careful:\n\n### 1. You are \"Auditioning\" instead of \"Interviewing\"\nEven when we slow down, many of us stay in \"Audition Mode.\" We are subconsciously focused on: *\u201cDo they like me? Am I doing this right? Are they impressed?\u201d*\n*   **The Problem:** When you are busy trying to be \"see-able\" (the perfect partner, the chill date, the supportive listener), you aren't actually looking at them. You are performing.\n*   **The Result:** You feel unappreciated because you\u2019ve spent all your energy being what you think they want, but you haven't checked if they are actually capable of the depth you need. You feel unseen because you\u2019ve been showing them a \"representative\" of yourself rather than your raw needs.\n\n### 2. The \"Self-Neglect\" Mirror\nIt sounds counterintuitive, but we often feel neglected by others when we are neglecting ourselves in their presence. \n*   **The Pattern:** You might be \"slowing down\" the physical or logistical side of the relationship, but are you still \"fast-tracking\" your emotional abandonment? For example, do you stop doing your hobbies, stop seeing friends as much, or spend your mental energy ruminating on their texts? \n*   **The Result:** When you abandon your own world to make room for them, you create a massive \"appreciation deficit.\" You expect them to fill 100% of your emotional cup because you\u2019ve stopped filling it yourself. When they only fill 20% (which is normal), the 80% gap feels like personal neglect.\n\n### 3. You are choosing \"Projects\" or \"Takers\"\nSometimes the \"spark\" we feel isn't chemistry\u2014it\u2019s **recognition.** If you grew up in an environment where you had to \"earn\" love or be \"useful\" to be noticed, you will be subconsciously drawn to people who are slightly distant, broken, or self-centered.\n*   **The Problem:** To a person who needs to be \"useful,\" a stable, appreciative person feels \"boring\" or \"too easy.\" There\u2019s no \"work\" to do. You might be bypassing the people who *would* appreciate you because they don't trigger that familiar \"itch\" to prove your worth.\n*   **The Result:** You end up with people who are happy to take what you give but don't have the emotional machinery to give back. You aren't being unappreciated because you're doing something wrong; you're being unappreciated because you\u2019ve picked someone who doesn't have \"appreciation\" in their toolkit.\n\n### A question to ask yourself:\nNext time you feel that \"neglected\" feeling creeping in, ask yourself: \n**\"Am I upset because they aren't giving me what I need, or am I upset because I'm waiting for them to give me permission to feel good about myself?\"**\n\n**The shift to try:**\nInstead of trying to \"do the right things\" to get *them* to see you, try being **radically inconvenient.** \n*   State a boundary early. \n*   Ask for a favor. \n*   Express a \"difficult\" emotion that isn't \"fun\" or \"chill.\" \n\nPeople who are only there for the \"spark\" or the \"service\" you provide will disappear when you become \"inconvenient.\" The people who are capable of truly appreciating you will actually lean in. **You find out who someone is not by how they treat you when you\u2019re \"perfect,\" but by how they respond when you have a need.**",
+    "usage": {
+      "prompt_tokens": 1058,
+      "completion_tokens": 888,
+      "total_tokens": 1946,
+      "cost": 0.003193,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000529,
+        "upstream_inference_completions_cost": 0.002664
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:15:36.232403",
+    "response_time_ms": 7576.50089263916
+  },
+  "turn3": {
+    "model": "gemini_web_free",
+    "content": "That is a profound realization. The reason it feels like you are \"losing yourself\" when you try to be balanced is likely because **your identity has become tied to the \"high\" of being wanted.**\n\nWhen you aren't in that intense honeymoon phase\u2014where you are being validated, pursued, and \"chosen\" every hour\u2014there is a sudden, quiet vacuum. If you don't have a strong sense of self-worth to fill that vacuum, it feels like you are literally disappearing.\n\nTo move past this, you have to address what is happening in that \"quiet\" space. Here is how to start valuing yourself when the dopamine fades:\n\n### 1. Identify your \"Relationship Withdrawals\"\nWhen the honeymoon phase ends, you are essentially going through a chemical withdrawal. You\u2019ve been \"high\" on the other person\u2019s attention. When it levels off, you feel \"neglected,\" but you might actually just be \"sober.\"\n*   **The Shift:** Instead of panicking and trying to \"fix\" the relationship to get the high back, acknowledge the feeling: *\"I feel restless and unloved right now because the rush is over. This is the moment where real life begins.\"* \n\n### 2. Build a \"Self-Concept\" That Doesn't Require an Audience\nIf you feel like you're losing yourself, it\u2019s often because you\u2019ve been living **performatively.** You\u2019ve been the \"great partner,\" the \"exciting date,\" or the \"supportive listener.\" All of those roles require an audience to exist.\n*   **The Practice:** Find things you do *only for you* that no one else sees or validates. Whether it\u2019s a hobby, a fitness goal, or a creative project, you need a \"secret garden\"\u2014a part of your life that stays exactly the same regardless of whether a partner is paying attention to you or not. This is your anchor.\n\n### 3. Redefine \"Value\" Away from \"Utility\"\nMany people who over-function believe their value lies in what they **do** (being helpful, being easy-going, being sexual, being a therapist). \n*   **The Problem:** If your value is based on being *useful*, you will always feel unappreciated eventually, because people get used to your \"service\" and stop noticing it.\n*   **The Shift:** Practice being \"useless\" for a day. Don't check in, don't solve their problems, don't plan the thing. Notice the anxiety that arises. That anxiety is your \"worth\" screaming at you that you're failing. Sit with it. You have to learn that you are allowed to just *exist* and still be worth staying with.\n\n### 4. Watch for the \"Resentment Loop\"\nWhen you start to feel unappreciated, do you become \"extra nice\" to try and win them back? Or do you become cold to punish them?\n*   **Both are ways of giving your power away.** Both reactions are still centered on *them*. \n*   **The New Way:** When you feel unappreciated, turn that energy back toward yourself. If you feel they aren't giving you enough attention, give *yourself* that attention. Go to the movie you wanted to see, buy the book you liked, or call a friend who always \"sees\" you. \n\n### 5. Reclaim Your \"No\"\nYou cannot feel valued if you never say \"no.\" If you are always available and always agreeable, your \"yes\" has no value. It\u2019s just the default setting.\n*   **The Practice:** Small boundaries create self-respect. If they ask to see you last minute and you\u2019re tired, say no. If they suggest a restaurant you don't like, say so. Every time you honor your own preference over the \"harmony\" of the relationship, you are telling your subconscious: *\"I matter more than the spark.\"*\n\n**The goal isn't to stop being an excited, loving person.** The goal is to make sure that the \"Self\" you are bringing into the relationship is a solid, finished house\u2014not a tent that you fold up and carry around whenever someone else wants to move in.\n\n**What is one thing you used to love doing before your most recent relationship cycle started that you\u2019ve let slip away?** Starting there is often the first step back to yourself.",
+    "usage": {
+      "prompt_tokens": 2024,
+      "completion_tokens": 933,
+      "total_tokens": 2957,
+      "cost": 0.003811,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001012,
+        "upstream_inference_completions_cost": 0.002799
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:15:48.112555",
+    "response_time_ms": 8570.372819900513
+  },
+  "turn2_user_response": "I see what you mean about intensity vs. intimacy. I do tend to get really excited early on, and maybe I am prioritizing that spark too much. But I still feel like I\u2019m not being seen or appreciated, even when I try to slow things down. It\u2019s confusing because I thought I was doing the right things.",
+  "turn3_user_response": "I see what you mean about the \"intensity vs. intimacy\" trap and how I might be over-functioning. It\u2019s hard to break that pattern, though, because I do feel like I\u2019m losing myself when I try to be more balanced. I guess I need to figure out how to value myself more, even when I\u2019m not in the \"honeymoon phase.\"",
+  "created_at": "2026-01-02 23:15:48.112599"
+}

@@ -1,0 +1,82 @@
+{
+  "scenario_id": "motivation_resistance_037",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "That sounds really frustrating\u2014and honestly, very human. You\u2019re not lazy or broken; you\u2019re stuck in a loop that a *lot* of people fall into, especially when a project feels heavy or unclear.\n\nA few things to keep in mind first (because this matters):\n\n- **Scrolling isn\u2019t a moral failure**. It\u2019s often your brain seeking relief from discomfort, not avoiding work because you don\u2019t care.\n- The fact that you *want* to work but can\u2019t start usually means there\u2019s something about the project that feels overwhelming, unclear, or emotionally loaded.\n\nLet\u2019s gently break this down.\n\n### Why this cycle happens\nOften it\u2019s a combo of:\n- **Too big / vague a task** \u2192 your brain doesn\u2019t know where to start\n- **Perfection pressure** \u2192 \u201cIf I start, it has to be good\u201d\n- **Low energy or stress** \u2192 scrolling gives quick relief\n- **Habit + easy access** \u2192 your phone wins by default\n\nNone of these mean you lack discipline.\n\n### A few ways to interrupt the cycle (without forcing yourself)\n\n**1. Shrink the starting point to almost nothing**\nInstead of \u201cwork on my project,\u201d try:\n- \u201cOpen the document\u201d\n- \u201cWrite one bad sentence\u201d\n- \u201cLook at the requirements for 2 minutes\u201d\n\nTell yourself you\u2019re *allowed to stop* after that. Starting is the win.\n\n**2. Make scrolling slightly harder**\nNot eliminate it\u2014just add friction:\n- Put your phone in another room\n- Log out of apps\n- Use a website blocker for 25 minutes  \nYou\u2019re not banning scrolling, just delaying it.\n\n**3. Use time, not motivation**\nSet a timer for **10\u201325 minutes** and decide:\n> \u201cI\u2019ll work until the timer ends, no matter how bad it is.\u201d\n\nWhen the timer ends, you *stop*. This makes the task feel finite and safer.\n\n**4. Lower the bar on quality**\nTell yourself:\n> \u201cThis is a draft no one will ever see.\u201d\n\nBad work is the doorway to good work. You can\u2019t edit nothing.\n\n**5. Be kind to the stuck part**\nInstead of \u201cWhy can\u2019t I just do this?\u201d, try:\n> \u201cSomething about this is hard right now. What is it?\u201d\n\nSometimes naming the fear (\u201cI don\u2019t know if I\u2019m doing it right\u201d) loosens its grip.\n\n---\n\nIf you\u2019re open to it, I\u2019d love to help more concretely:\n- What kind of project is it?\n- Is there a deadline?\n- What\u2019s the *very first* thing you think you\u2019re supposed to do when you sit down?\n\nWe can turn this into a starting plan that actually feels doable.",
+    "usage": {
+      "prompt_tokens": 47,
+      "completion_tokens": 623,
+      "total_tokens": 670,
+      "cost": 0.00880425,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00880425,
+        "upstream_inference_prompt_cost": 8.225e-05,
+        "upstream_inference_completions_cost": 0.008722
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 64,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:12:09.815527",
+    "response_time_ms": 11044.991970062256
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "That makes a lot of sense. Research papers are *perfectly designed* to trigger overwhelm: vague expectations, lots of choices, and the feeling that you\u2019re supposed to \u201cknow\u201d what you\u2019re doing already. The good news is that intro psych papers usually follow a very predictable structure\u2014you don\u2019t have to invent anything from scratch.\n\nLet\u2019s make this feel concrete and safe to start.\n\n---\n\n## First: you are **not** behind\nTwo weeks is actually a *comfortable* amount of time for this kind of paper **if** you start gently instead of trying to do it all at once.\n\nRight now, the goal is **not** to write a good outline.\nThe goal is to create a *bad, messy, totally provisional* one.\n\n---\n\n## A low-pressure way to start (15\u201320 minutes)\n\n### Step 1: Open a document and title it\nLiterally just:\n> \u201cPsychology Research Paper \u2013 Working Draft\u201d\n\nThat\u2019s it. No outline yet.\n\n### Step 2: Answer these 3 questions in bullet points (no sentences required)\nDon\u2019t worry about correctness\u2014this is just thinking on the page.\n\n1. **What topic are you leaning toward?**  \n   (e.g., sleep and memory, social media and anxiety, classical conditioning, etc.)\n\n2. **What\u2019s one thing you already know or believe about this topic?**  \n   Even if it\u2019s vague or \u201cprobably wrong.\u201d\n\n3. **What\u2019s one thing you\u2019re curious about or confused by?**  \n   This often becomes your research question.\n\nIf you do only this today, you\u2019ve made real progress.\n\n---\n\n## Then: the simplest possible outline (psych-friendly)\n\nMost intro psych research papers roughly look like this:\n\n1. **Introduction**\n   - What is the topic?\n   - Why does it matter?\n   - What question is the paper answering?\n\n2. **Background / Literature Review**\n   - What do researchers already know about this?\n   - Key theories or findings (2\u20134 main ideas)\n\n3. **Discussion / Implications**\n   - What do these findings mean?\n   - How do they connect to real life or other psych concepts?\n\n4. **Conclusion**\n   - Quick summary\n   - Why this topic is important\n\nYour outline can literally be:\n\n```\nI. Introduction\n   - Topic:\n   - Why it matters:\n   - Research question:\n\nII. Background\n   - Study 1:\n   - Study 2:\n   - Theory:\n\nIII. Discussion\n   - What this shows:\n   - Real-world relevance:\n\nIV. Conclusion\n```\n\nYou don\u2019t have to fill it all in\u2014just *seeing* the structure helps your brain relax.\n\n---\n\n## How to stop the scroll-escape in the moment\n\nWhen you feel the urge to scroll, try this script:\n> \u201cI don\u2019t need to finish this. I just need to work until the timer ends.\u201d\n\nSet a **10-minute timer**.\nPhone in another room.\nWhen the timer ends, you are free to scroll\u2014no guilt.\n\nIronically, knowing you *can* stop makes it easier to keep going.\n\n---\n\n## One important mindset shift\nYou\u2019re not overwhelmed because you\u2019re bad at this.\nYou\u2019re overwhelmed because **you\u2019re trying to start at the level of a finished paper**.\n\nOutlines are *thinking tools*, not commitments. You are allowed to be \u201con the wrong track\u201d at first\u2014that\u2019s how you find the right one.\n\n---\n\nIf you want, we can:\n- Pick a topic together\n- Turn your confusion into a clear research question\n- Build a one-page outline you can actually use\n- Break the next two weeks into stress-free chunks\n\nTell me:\n1. Do you already have a topic in mind, or are you still choosing?\n2. Does your professor have any specific requirements (number of sources, APA, etc.)?\n\nWe\u2019ll take this one calm step at a time.",
+    "usage": {
+      "prompt_tokens": 686,
+      "completion_tokens": 806,
+      "total_tokens": 1492,
+      "cost": 0.0124845,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0124845,
+        "upstream_inference_prompt_cost": 0.0012005,
+        "upstream_inference_completions_cost": 0.011284
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:12:24.134815",
+    "response_time_ms": 10869.577884674072
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really glad you said this\u2014because what you\u2019re feeling right now is exactly the moment where things usually either spiral\u2026 or gently click into place. Let\u2019s aim for the second.\n\nFirst, a quick reassurance:\n> Feeling overwhelmed **does not mean you\u2019re doing this wrong**.  \nIt means you\u2019re at the *thinking* stage, which just feels uncomfortable.\n\nWe\u2019ll narrow this down in a way that removes pressure, not adds to it.\n\n---\n\n## Step 1: Narrow the topic without committing (5\u201310 minutes)\n\nInstead of choosing *the* angle, we\u2019ll try on a few **temporary lenses**. You\u2019re not locking anything in.\n\nHere are some common, intro\u2011psych\u2011friendly angles for **social media & anxiety**:\n\n- Social media use and **general anxiety levels**\n- **Time spent** on social media vs. anxiety\n- **Passive scrolling** vs. active posting\n- Social comparison and anxiety\n- Fear of missing out (FOMO)\n- Adolescents vs. college students\n- Sleep disruption caused by social media\n\nYou don\u2019t need to know which one is \u201cbest.\u201d\nJust circle the one that feels **least intimidating**, not most interesting.\n\n\ud83d\udc49 If you had to pick one *right now*, which feels easiest to talk about?\n\n---\n\n## Step 2: Turn the topic into a *safe* research question\n\nA good research question for this level is:\n- specific enough to guide research\n- broad enough that you\u2019ll easily find sources\n\nHere are some **starter questions** you can literally copy and paste:\n\n- \u201cWhat is the relationship between social media use and anxiety in college students?\u201d\n- \u201cHow does frequent social media use relate to anxiety symptoms?\u201d\n- \u201cWhat role does social comparison on social media play in anxiety?\u201d\n- \u201cHow does passive social media consumption affect anxiety levels?\u201d\n\nNotice:  \n\u2705 No fancy language  \n\u2705 No strong claims  \n\u2705 No pressure to prove anything\n\nYou are *exploring*, not arguing.\n\n---\n\n## Step 3: Your outline does **not** need content yet\n\nFor today, your entire outline can look like this:\n\n```\nWorking Research Question:\nHow does __________________ relate to anxiety?\n\nI. Introduction\n   - Why social media is important/relevant\n   - Brief mention of anxiety\n   - Research question\n\nII. Background\n   - What studies say about social media use\n   - What studies say about anxiety\n   - Connection between the two\n\nIII. Discussion\n   - What patterns researchers notice\n   - Possible explanations\n   - Real-world implications\n\nIV. Conclusion\n   - Summary\n   - Why this matters\n```\n\nYou are allowed to leave blanks.\nBlanks are progress.\n\n---\n\n## Step 4: A grounding trick for when overwhelm hits\n\nWhen your brain starts shouting:\n> \u201cThis is too much\u2014I don\u2019t know what I\u2019m doing\u201d\n\nTry this:\n- Put one hand on the desk\n- Take one slow breath\n- Say (out loud or in your head):  \n  **\u201cI\u2019m just gathering information, not producing a final paper.\u201d**\n\nThat sentence alone often lowers the intensity enough to keep going.\n\n---\n\n## A realistic expectation for *today*\nIf all you do is:\n- open the document\n- pick one angle (even tentatively)\n- paste a rough outline\n\n\u2026you have successfully started the paper.\n\nThat\u2019s not a small thing.\n\n---\n\nIf you want, next we can:\n- Turn your chosen angle into a polished research question\n- Find 3\u20135 *easy* scholarly sources\n- Map out exactly what to work on each day for the next two weeks\n\nBefore we do that, tell me:\n\ud83d\udc49 Which angle feels *least stressful* right now?  \nOr if none do, say that\u2014and we\u2019ll simplify even more.",
+    "usage": {
+      "prompt_tokens": 1566,
+      "completion_tokens": 774,
+      "total_tokens": 2340,
+      "cost": 0.0113589,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1408
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0113589,
+        "upstream_inference_prompt_cost": 0.0005229,
+        "upstream_inference_completions_cost": 0.010836
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:12:38.564043",
+    "response_time_ms": 11104.933977127075
+  },
+  "turn2_user_response": "I appreciate your insights. My project is a research paper for my intro to psychology class, and the deadline is in two weeks. I know I should start with the outline, but every time I sit down, I just feel overwhelmed and end up scrolling instead. I think part of it is that I\u2019m not sure where to begin or if I\u2019m even on the right track.",
+  "turn3_user_response": "I appreciate the breakdown and the low-pressure approach. I think I might lean toward the topic of social media and anxiety, but I'm still a bit fuzzy on how to narrow it down and what specific angle to take. I'll try opening the document and jotting down some initial thoughts, but I'm still feeling a bit overwhelmed by the whole process.",
+  "created_at": "2026-01-14 18:12:38.564081"
+}

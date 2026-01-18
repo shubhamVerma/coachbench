@@ -1,0 +1,88 @@
+{
+  "scenario_id": "identity_perception_029",
+  "model": "gemini_web_free",
+  "turn1": {
+    "model": "gemini_web_free",
+    "content": "What you are experiencing is a common psychological phenomenon often referred to as an **Identity Transition Crisis.** When we base our identity on external pillars\u2014like a specific job title, a familiar social circle, or a routine\u2014and those pillars are removed, the \"self\" can feel like it is collapsing.\n\nHowever, the person you were hasn't disappeared; they have simply lost their \"mirrors.\" In your old life, your colleagues, friends, and environment reflected your reliability and hard work back to you. In a new city, no one knows your history, so those traits feel invisible.\n\nHere is how to reconcile your past self with your current reality:\n\n### 1. Distinguish Between \"State\" and \"Trait\"\nRight now, you are likely confusing a temporary **state** (being overwhelmed, out of your depth, or lonely) with a permanent **trait** (being unreliable or incompetent).\n*   **The Old You:** Hardworking (Trait).\n*   **The Current You:** Struggling to navigate a new workflow (State).\nStruggling with a new system doesn't mean you\u2019ve lost your work ethic; it means you are in a learning curve. Remind yourself: *\u201cI am a hardworking person currently navigating a period of high friction.\u201d*\n\n### 2. Audit Your \"Portable Identity\"\nIdentity is often tied to *what* we do, but it is actually defined by *how* we do it. Make a list of your core values that don't require a specific location to exist.\n*   Does \"reliability\" require your old office, or is it how you handle your email inbox today?\n*   Does \"hardworking\" require your old boss\u2019s approval, or is it how you showed up this morning despite feeling discouraged?\nBy focusing on **portable traits**, you realize that the \"vessel\" has changed, but the \"liquid\" inside is the same.\n\n### 3. Forgive the \"Competence Gap\"\nIn your old job, you had \"unconscious competence\"\u2014you were so good you didn't have to think about it. Now, you are likely in a state of \"conscious incompetence\"\u2014you are painfully aware of everything you don't know yet.\nThis gap is where your identity feels most threatened. You feel like an imposter because you aren't performing at your previous peak. Reconcile this by accepting that **reliability looks different during a transition.** Being reliable right now might just mean showing up and asking the right questions, rather than having all the answers.\n\n### 4. Collect \"Evidence\"\nYour brain is currently biased toward noticing your struggles. You need to manually override this by keeping a \"Small Wins\" log. \n*   Did you figure out the new filing system? *That\u2019s the hardworking professional at work.*\n*   Did you find a new route to the grocery store? *That\u2019s the capable adult.*\n*   Did you meet a deadline despite the move? *That\u2019s the reliable employee.*\nConcrete evidence helps your brain bridge the gap between \"who I was\" and \"who I am now.\"\n\n### 5. Allow for \"Identity Expansion\"\nInstead of trying to force your old self into this new life, ask: **What can this new version of me do that the old one couldn't?**\nTransitions are painful because they require shedding an old skin. Perhaps your old identity was *too* tied to work. This move is an opportunity to add new layers to who you are\u2014perhaps a version of you that is more resilient, more adventurous, or more patient with yourself.\n\n### A Final Thought\nYou are currently in the \"liminal space\"\u2014the hallway between two rooms. It\u2019s uncomfortable because you\u2019ve left the old room but haven't fully entered the new one. \n\nThe person you thought you were didn't exist *because* of your old job; they existed *through* it. You are the engine; the job and the city were just the road. The road has changed, but the engine is still there\u2014it just needs a moment to adjust to the new terrain.",
+    "usage": {
+      "prompt_tokens": 69,
+      "completion_tokens": 866,
+      "total_tokens": 935,
+      "cost": 0.0026325,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 3.45e-05,
+        "upstream_inference_completions_cost": 0.002598
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:38:44.827656",
+    "response_time_ms": 7283.340930938721
+  },
+  "turn2": {
+    "model": "gemini_web_free",
+    "content": "It is completely understandable that you feel overwhelmed. Even when you understand the logic behind a transition, the **emotional weight** of it is still heavy. You are essentially grieving your old life while trying to build a new one simultaneously, which is an enormous mental load.\n\nWhen things feel this overwhelming, the best strategy is to **shrink your world.** Here is how to manage that \"out of place\" feeling while you wait for your new life to settle:\n\n### 1. Lower the \"Performance Bar\"\nYou are likely trying to be the 100% version of your \"old self\" in an environment where you only have 20% of the context. That creates a massive deficit.\n*   **The Rule:** For the first 90 days in a new city or job, \"success\" isn't being the best; success is **consistency.** \n*   If you showed up, stayed through the day, and learned one person's name, you won. Give yourself permission to be \"average\" while you are a novice in this new environment.\n\n### 2. Create an \"Anchor\"\nWhen everything is changing, the brain craves one thing that stays the same. Find a small, repeatable ritual that belongs only to you\u2014not your job or your move.\n*   It could be a specific coffee shop you go to every Saturday morning.\n*   It could be a 15-minute walk while listening to a familiar podcast.\n*   It could be a specific candle you light when you get home.\nThese are **sensory anchors.** They tell your nervous system, *\"I am still me, and I am safe in this moment,\"* regardless of what city you are in.\n\n### 3. Stop Comparing Your \"Inside\" to Everyone Else\u2019s \"Outside\"\nIn your new city, you see people walking around looking confident and settled. In your new job, your colleagues seem to know exactly what they are doing.\n*   You are comparing your **internal chaos** to their **external highlight reel.** \n*   Remember: They have the \"home-field advantage.\" They aren't smarter or more \"together\" than you; they just have the benefit of time and familiarity. You are playing an away game right now.\n\n### 4. Use the \"Three-Month Rule\"\nHuman beings are remarkably adaptable, but it takes about 90 days for the \"new\" to become \"normal.\" \n*   In the first month, you are in **survival mode.** \n*   In the second month, you are in **observation mode.** \n*   In the third month, you begin **integration mode.**\nRight now, you are likely in the survival/observation phase. It\u2019s okay to feel like a stranger in your own life for a little while. \n\n### 5. Talk to Your \"Old Mirrors\"\nSince you\u2019ve lost the daily reflections of who you are, call the people who know you best. Not to complain (though you can do that too), but just to exist in a space where you don't have to explain yourself. \n*   A 20-minute call with an old friend who says, *\"Classic you!\"* or *\"I knew you'd handle it that way\"* can do wonders for reinforcing your identity. It reminds you that the \"Reliable, Hardworking Professional\" is still very much alive in the minds of those who know you.\n\n**How has the first week or two been at the new job specifically? Is there one particular thing that\u2019s making you feel most \"unlike yourself\"?** Sometimes naming the specific \"friction point\" makes it feel less like a total identity crisis and more like a specific problem to solve.",
+    "usage": {
+      "prompt_tokens": 1006,
+      "completion_tokens": 784,
+      "total_tokens": 1790,
+      "cost": 0.002855,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000503,
+        "upstream_inference_completions_cost": 0.002352
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:38:54.518984",
+    "response_time_ms": 7019.999027252197
+  },
+  "turn3": {
+    "model": "gemini_web_free",
+    "content": "That feeling of \"I should be doing better\" is the **Perfectionist\u2019s Trap.** Because you are a hardworking, reliable person, your standard for yourself is \"High Competence.\" When you can't hit that standard immediately, your brain interprets it as a personal failure rather than a logistical reality.\n\nThe \"feeling of being behind\" is particularly cruel because it's a moving target. Behind *whom*? Behind *what*? Usually, it\u2019s behind an imaginary version of yourself that doesn't need time to learn.\n\nTo get your feet back under you, we need to move from the abstract \"identity\" talk into **tactical ground control.** Here is how to handle the lack of routine and that \"behind\" feeling:\n\n### 1. Build a \"Micro-Routine\" (The 30-Minute Bookends)\nWhen your middle-of-the-day is chaotic and unpredictable, you need to reclaim the beginning and the end. Don't try to schedule your whole life; just \"bookend\" it.\n*   **The Morning Bookend:** Pick three things that happen every morning, no matter what (e.g., make the bed, drink a glass of water, read for 10 minutes). \n*   **The Evening Bookend:** Pick three things for the night (e.g., lay out clothes, write down the \"Top 3\" tasks for tomorrow, 5 minutes of stretching).\n*   **Why this works:** Routine is the \"skin\" of our identity. When you have a routine, you feel contained. These bookends provide a sense of agency that the workday is currently stealing from you.\n\n### 2. Redefine \"Productive\" for the Transition Phase\nIn your old job, \"productive\" probably meant finishing big projects. In a new job, \"productive\" looks different. \n*   **Old Productive:** Closing a deal or finishing a report.\n*   **New Productive:** Finding where the spare toner is kept, or learning how the boss prefers to be briefed.\nIf you use your old definition of productivity, you will *always* feel behind. Start counting **\"Context Gathering\"** as work. It is the most important work you can do right now.\n\n### 3. The \"Two-Task\" Rule\nThe feeling of being overwhelmed often comes from a long, blurry to-do list. When you feel that \"I'm behind\" panic rising:\n*   Stop. \n*   Pick **only two things** that must happen in the next three hours. \n*   Ignore everything else. \nCompleting two small things creates a \"dopamine hit\" that reinforces your identity as a capable person. Being \"reliable\" doesn't mean doing 100 things poorly; it means doing two things well.\n\n### 4. The \"New City\" Tax\nMoving is a massive cognitive drain. You are currently paying a \"brain tax\" on everything\u2014finding the right lane to turn in, figuring out which grocery store has the good produce, remembering where you put your scissors.\n*   Estimates suggest that moving is as stressful as a divorce or a major illness. \n*   You aren't \"underperforming\"; you are performing while carrying a 50lb backpack of \"New Life Logistics.\" \n*   **The Fix:** Acknowledge the tax. Tell yourself: *\"I\u2019m not slow; I\u2019m just navigating a new map.\"*\n\n### 5. Ask for a \"Calibration Meeting\"\nIf you feel behind at work, the worst thing you can do is suffer in silence. It fuels the \"imposter\" feeling. \n*   Ask your manager: *\"I've been here for [X] weeks. I want to make sure I'm hitting the right marks. From your perspective, what should my priorities be right now?\"*\n*   90% of the time, the manager will say, *\"You're doing great, just keep learning.\"* \n*   Hearing that external validation will help silence the internal critic that says you should be doing more.\n\n**Try this today:** What are two \"Micro-Routine\" actions you can do tonight and tomorrow morning to give yourself a sense of control? Even something as small as \"putting my keys in the same spot\" can help you feel like the person who has their life together.",
+    "usage": {
+      "prompt_tokens": 1876,
+      "completion_tokens": 927,
+      "total_tokens": 2803,
+      "cost": 0.003719,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000938,
+        "upstream_inference_completions_cost": 0.002781
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:39:06.600788",
+    "response_time_ms": 7884.330034255981
+  },
+  "turn2_user_response": "That makes a lot of sense. I can see how I\u2019ve been confusing my state with my traits. But it\u2019s still hard to feel like myself when everything around me is so different. I\u2019ll try to focus on those portable traits and keep a log of my small wins. It\u2019s just a bit overwhelming right now, you know?",
+  "turn3_user_response": "I appreciate the insights about the \"state\" versus \"trait\" and the idea of a \"portable identity.\" It makes sense, but I still feel a bit lost. I think the biggest thing that's making me feel \"unlike myself\" is the lack of routine and the constant feeling of being behind. I know it's a transition, but it's hard to shake the feeling that I should be doing better.",
+  "created_at": "2026-01-02 23:39:06.600848"
+}

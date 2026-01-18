@@ -1,0 +1,82 @@
+{
+  "scenario_id": "relationship_patterns_015",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really glad you shared this. What you\u2019re describing sounds deeply painful, and it makes sense that you\u2019d feel worn down by it. Feeling alone *even when you\u2019re with people* can be one of the most isolating experiences there is.\n\nIt sounds like you\u2019re caught in a pattern that you don\u2019t fully understand yet\u2014wanting connection, trying for it, and then ending up feeling disconnected anyway. That can lead to a lot of self\u2011doubt, especially when it feels like you\u2019re \u201cpushing people away\u201d without meaning to. That doesn\u2019t mean there\u2019s something wrong with you; often it means there are habits, fears, or protective behaviors that developed for good reasons, even if they\u2019re no longer helping.\n\nA few gentle reflections\u2014see if any of these resonate:\n- Sometimes we keep a part of ourselves guarded because being fully seen once hurt, and the guard stays up even when we want closeness.\n- Sometimes we connect on the surface but don\u2019t feel safe enough to show what\u2019s really going on inside, which can leave us feeling invisible.\n- Sometimes we expect rejection so strongly that we pull back first, almost automatically.\n\nYou don\u2019t have to have the answers right now. Understanding tends to come in layers.\n\nIf you\u2019re open to it, a couple of questions you might sit with (no need to answer me unless you want to):\n- When you\u2019re around people but feel disconnected, what do you notice happening inside you\u2014emotionally or physically?\n- Are there moments when you feel the urge to pull back, go quiet, or put on a \u201cversion\u201d of yourself?\n- Have there been times in your life when connection felt safer or more natural, even briefly?\n\nOne small, non\u2011overwhelming step can be practicing connection in *very* low\u2011pressure ways\u2014like being a little more honest than usual with one person, or naming a feeling instead of hiding it (\u201cI\u2019m actually feeling a bit distant today\u201d). Real connection often grows from tiny risks, not big ones.\n\nAnd just to be clear: the fact that you\u2019re reflecting on this and wanting to understand it tells me you\u2019re not broken or incapable of connection. You\u2019re someone who cares deeply about it\u2014and that matters.\n\nIf you want, we can explore this together more slowly: the patterns, where they might come from, or how to experiment with connection in ways that feel safer to you. You don\u2019t have to figure this out alone, even if it feels that way right now.",
+    "usage": {
+      "prompt_tokens": 59,
+      "completion_tokens": 513,
+      "total_tokens": 572,
+      "cost": 0.00728525,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00728525,
+        "upstream_inference_prompt_cost": 0.00010325,
+        "upstream_inference_completions_cost": 0.007182
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:56:43.746600",
+    "response_time_ms": 10567.215919494629
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "Thank you for answering so honestly. What you\u2019re describing actually makes a lot of sense\u2014and it doesn\u2019t sound like \u201coverthinking\u201d in the way people often mean that.\n\nThat tightness in your chest and sense of being on guard are important clues. Those are signs of anxiety in the body, not just in your thoughts. When your nervous system feels threatened (even subtly), it can shift into protection mode without you consciously deciding to. Going quiet, pulling back, monitoring yourself\u2014those are very common *protective responses*, not personal failures.\n\nSo rather than \u201csomething you\u2019re doing wrong,\u201d it may be more accurate to say:\n> Your system is trying to keep you safe, even when you want connection.\n\nA few things to gently consider:\n\n**1. Pulling back doesn\u2019t mean pushing people away on purpose.**  \nWhen anxiety shows up, your body may be prioritizing safety over connection. That can look like silence, emotional distance, or self\u2011editing. From the inside, it feels like tension and vigilance. From the outside, others might read it as disinterest\u2014but that doesn\u2019t mean that\u2019s what you intend or who you are.\n\n**2. Anxiety often comes *before* the thoughts.**  \nYou might notice the tight chest first, then the questioning (\u201cAm I being weird?\u201d \u201cShould I say something?\u201d). That\u2019s a sign this isn\u2019t just mental overanalysis\u2014it\u2019s a physical response that learned, somewhere along the way, that closeness can be risky.\n\n**3. The guard usually exists for a reason.**  \nMany people develop this pattern after experiences like:\n- being misunderstood or dismissed\n- feeling like \u201ctoo much\u201d or \u201cnot enough\u201d\n- past rejection, even subtle or repeated\nYou don\u2019t have to know the exact origin yet for this to be valid.\n\nIf you\u2019re open to experimenting, here are a few *very gentle* ways to work with this\u2014no forcing, no fixing:\n\n- **Name it internally:** When the tightness shows up, try silently saying, *\u201cI\u2019m feeling guarded right now.\u201d* Not judging it, just noticing. Often that alone reduces its intensity.\n- **Stay present in your body:** Press your feet into the floor, slow your exhale, or relax your shoulders slightly. You\u2019re signaling safety to your nervous system, not trying to talk yourself out of anxiety.\n- **Tiny authenticity:** Instead of pushing yourself to \u201cbe more social,\u201d try one small truth, like asking a genuine question or sharing a mild feeling. Connection builds through small, safe steps.\n\nOne more question you might reflect on (again, only if you want):\n- When you go quiet, what are you most afraid might happen if you *did* speak or stay engaged?\n\nThere\u2019s nothing about what you\u2019ve shared that suggests you\u2019re broken or incapable of connection. It sounds like you\u2019re someone who wants closeness but learned to protect yourself along the way. That\u2019s not a flaw\u2014it\u2019s something that can be understood and softened over time.\n\nIf you\u2019d like, we can explore how to tell the difference between anxiety-driven withdrawal and your genuine needs, or how to feel safer with people without forcing yourself to change who you are. I\u2019m here with you.",
+    "usage": {
+      "prompt_tokens": 656,
+      "completion_tokens": 661,
+      "total_tokens": 1317,
+      "cost": 0.010402,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.010402,
+        "upstream_inference_prompt_cost": 0.001148,
+        "upstream_inference_completions_cost": 0.009254
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:56:58.126005",
+    "response_time_ms": 11174.502849578857
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really glad that landed for you. And it\u2019s completely okay that you\u2019re still confused\u2014understanding this isn\u2019t something that suddenly clicks all at once. What matters is that you\u2019re starting to notice it with curiosity instead of self\u2011blame. That\u2019s a big shift.\n\nOne gentle thing to keep in mind: your body doesn\u2019t need a *clear story* to react. It learns through experience, not logic. If at some point in your life closeness, attention, or being yourself felt risky\u2014even in small, repeated ways\u2014your nervous system may have quietly learned, *\u201cBetter be alert here.\u201d* It does that automatically, long before your thinking mind gets involved.\n\nWhen you notice that tightness, you\u2019re not trying to make it go away. You\u2019re just acknowledging it, almost like saying:\n> \u201cI see you. You\u2019re trying to protect me.\u201d\n\nThat alone can soften the reaction over time, because your body feels recognized instead of fought against.\n\nIf it helps, you might try this very simple check\u2011in when it happens:\n- **Name:** \u201cThis is anxiety / guarding.\u201d\n- **Ground:** Feel one physical sensation that\u2019s neutral or steady (your feet, the chair, your breath).\n- **Allow:** Remind yourself, \u201cI don\u2019t have to perform or fix anything right now.\u201d\n\nNo pressure to be more open. No pressure to connect \u201cbetter.\u201d Safety comes first.\n\nAnd just to say this out loud: the fact that you\u2019re willing to notice, reflect, and try something new tells me there\u2019s a lot of strength and self\u2011awareness in you\u2014even if it doesn\u2019t always feel that way from the inside.\n\nIf you ever want, we can talk about:\n- how to build a sense of safety *with* people rather than against yourself  \n- how to recognize moments when connection actually feels okay  \n- or how to be kinder to yourself when the guarding shows up  \n\nYou\u2019re not alone in this, even while you\u2019re learning how to feel less alone. I\u2019m really glad you\u2019re here and sharing.",
+    "usage": {
+      "prompt_tokens": 1399,
+      "completion_tokens": 424,
+      "total_tokens": 1823,
+      "cost": 0.00838425,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00838425,
+        "upstream_inference_prompt_cost": 0.00244825,
+        "upstream_inference_completions_cost": 0.005936
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:57:07.676031",
+    "response_time_ms": 6605.039119720459
+  },
+  "turn2_user_response": "Thanks for listening and for the questions. I guess when I'm around people, I often feel a tightness in my chest and a sense of anxiety, like I\u2019m on guard. I do find myself pulling back or going quiet sometimes, but I\u2019m not sure why. It\u2019s hard to know if I\u2019m just overthinking things or if there\u2019s really something I\u2019m doing that pushes people away.",
+  "turn3_user_response": "Thank you for breaking it down like that. It helps to know it\u2019s not just me overthinking things. I\u2019m still a bit confused about why my body reacts this way, but when you say it\u2019s trying to keep me safe, it makes some sense. I\u2019ll try to pay more attention to that tightness in my chest and see if I can name it when it happens.",
+  "created_at": "2026-01-14 17:57:07.676117"
+}

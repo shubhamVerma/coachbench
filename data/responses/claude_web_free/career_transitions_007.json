@@ -1,0 +1,91 @@
+{
+  "scenario_id": "career_transitions_007",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "I'm really sorry you're going through this. Layoffs from restructuring rarely reflect your performance\u2014they're business decisions that can blindside even excellent employees. What you're feeling is completely normal.\n\nHere's a practical framework to help you move forward:\n\n**Immediate priorities (next few days):**\n- Get clarity on your severance package, benefits continuation, unused PTO, and final paycheck timeline\n- File for unemployment if eligible\u2014there's no shame in this; you've paid into it\n- Take a breath. Give yourself permission to process this without immediately having all the answers\n\n**Short-term steps (next 2-4 weeks):**\n- Update your resume while your recent work is fresh\n- Reach out to trusted colleagues/mentors\u2014not necessarily for jobs yet, but to reconnect\n- Review your finances and create a temporary budget\n- Consider what you actually want next (sometimes unexpected changes create opportunities to reassess)\n\n**One thing that might help now:**\nInstead of questioning everything about your abilities, could you list 2-3 specific accomplishments from this role? Restructuring doesn't erase what you achieved or learned.\n\nWhat feels most overwhelming to you right now\u2014the financial uncertainty, the identity shift, or the practical job search ahead? Sometimes naming the biggest stressor helps us tackle things in order rather than all at once.",
+    "usage": {
+      "prompt_tokens": 59,
+      "completion_tokens": 293,
+      "total_tokens": 352,
+      "cost": 0.004572,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000177,
+        "upstream_inference_completions_cost": 0.004395
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:03:01.221649",
+    "response_time_ms": 10074.948072433472
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "Financial uncertainty hits hard because it's so immediate and concrete. Let's break this down into manageable pieces.\n\n**First, get your full financial picture:**\n- Calculate your severance (if any) + savings + final paycheck\n- List your absolute essential expenses (housing, utilities, food, insurance, minimum debt payments)\n- This gives you your \"runway\"\u2014how many months you can cover basics\n\n**Quick wins to extend your runway:**\n- File for unemployment *this week* (benefits often take 2-3 weeks to start)\n- Contact your health insurance about COBRA or marketplace options\u2014you typically have 60 days to decide on COBRA, so don't pay immediately if funds are tight\n- Call credit card companies, loan servicers, landlord/mortgage holder\u2014many have hardship programs you can activate *before* you miss payments\n- Pause subscriptions, negotiate bills (internet, phone, insurance)\n\n**Income bridge options:**\n- Freelance/contract work in your field (often faster to land than full-time roles)\n- Temporary work through staffing agencies\n- Part-time work that covers basics while you job search strategically\n\n**One important mindset shift:**\nThis isn't about perfect decisions\u2014it's about buying yourself time to make good ones. A temporary cost-cutting measure or bridge job doesn't define your career trajectory.\n\nHow many months could you cover essentials with what you have now? And do you have severance coming, or are you working with savings alone? The answer shapes which strategies to prioritize first.",
+    "usage": {
+      "prompt_tokens": 398,
+      "completion_tokens": 337,
+      "total_tokens": 735,
+      "cost": 0.006249,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001194,
+        "upstream_inference_completions_cost": 0.005055
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:03:15.558697",
+    "response_time_ms": 12183.604955673218
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "That's a really insightful observation about the identity piece. The fact that you can name it shows good self-awareness, even when you're in the thick of it.\n\nThe identity struggle is real\u2014especially if you've invested significant time and energy in this role. Work often provides structure, purpose, and community all at once, so losing it can feel disorienting beyond just the job itself.\n\n**That accomplishments list you mentioned is a smart move** because it:\n- Grounds you in evidence of your actual capabilities\n- Gives you concrete material for interviews and networking\n- Reminds you that your skills and contributions exist independently of any single employer\n\n**As you navigate the identity piece:**\n- Notice if you're defining yourself by what you *were* versus what you *can do*\u2014your skills and value didn't disappear with the position\n- This transition period, however uncomfortable, is temporary. Identity shifts take time to process\n- Many people later describe layoffs as unexpected pivots that led somewhere better (not minimizing the pain now, just noting you can't see the full picture yet)\n\n**Moving forward:**\nThose two action items\u2014financial runway + accomplishments\u2014are exactly the right starting points. They address both the practical pressure and help rebuild your sense of capability.\n\nIf the identity struggle intensifies or you find it's interfering with your job search momentum, talking with a therapist who specializes in career transitions can be really valuable.\n\nYou're asking the right questions and taking constructive steps. That counts for a lot right now.",
+    "usage": {
+      "prompt_tokens": 813,
+      "completion_tokens": 331,
+      "total_tokens": 1144,
+      "cost": 0.007404,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002439,
+        "upstream_inference_completions_cost": 0.004965
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:03:29.690269",
+    "response_time_ms": 11467.671871185303
+  },
+  "turn2_user_response": "I appreciate the support and the practical steps. Honestly, the financial uncertainty is the most overwhelming right now. I\u2019m trying to wrap my head around how to make ends meet while I figure out my next move.",
+  "turn3_user_response": "I appreciate the practical steps you've outlined\u2014it's helping me see the situation more clearly. I'm still struggling with the identity shift, though. It's hard to separate the job loss from feeling like I've lost a part of myself. I'll start by calculating my financial runway and listing some accomplishments from my last role, just to remind myself of my value.",
+  "created_at": "2026-01-02 23:03:29.690325"
+}

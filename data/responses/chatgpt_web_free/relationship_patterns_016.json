@@ -1,0 +1,82 @@
+{
+  "scenario_id": "relationship_patterns_016",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really sorry\u2014that\u2019s frustrating and discouraging, especially when you thought things were finally different. It makes sense you\u2019d start turning the question inward, but I want to slow that part down a bit, because \u201cWhat am I doing wrong?\u201d isn\u2019t always the most accurate or fair framing.\n\nA few things that may help you think this through more clearly:\n\n**1. A pattern doesn\u2019t mean it\u2019s your fault.**  \nSometimes we *attract* or tolerate certain behaviors not because we\u2019re doing something wrong, but because of what feels familiar, comfortable, or understandable to us. Familiarity can feel like safety\u2014even when it\u2019s disappointing. That\u2019s not a flaw; it\u2019s a human tendency.\n\n**2. Reliability is a behavior, not a trait you can fix in someone else.**  \nJamie canceling last minute and not showing up is about *their* follow-through, priorities, or capacity right now. It\u2019s okay to name that plainly. You didn\u2019t cause that by wanting connection or trusting them.\n\n**3. Where patterns often show up is in what we excuse or wait through.**  \nA gentle question to ask yourself (without judgment):  \n- When someone is flaky early on, do I minimize it?  \n- Do I give lots of second chances without checking in about how it affects me?  \n- Do I avoid addressing it because I don\u2019t want to seem demanding or risk conflict?\n\nThese aren\u2019t \u201cmistakes\u201d\u2014they\u2019re often coping strategies that once helped us keep relationships.\n\n**4. Breaking a pattern usually means changing your *response*, not your personality.**  \nFor example:\n- Naming the behavior early: *\u201cWhen plans change last minute, it\u2019s hard for me. I need more reliability in my friendships.\u201d*  \n- Watching what happens next. Do they adjust\u2014or dismiss it?\n- Letting someone show you who they are *and believing them*, even if that\u2019s disappointing.\n\n**5. It\u2019s okay to grieve the hope you had with Jamie.**  \nPart of what hurts here isn\u2019t just the flakiness\u2014it\u2019s the loss of the story that this time would be different. That\u2019s real, and it deserves kindness toward yourself, not self-blame.\n\nIf you want, I can help you:\n- Figure out how to talk to Jamie about this in a clear, non-confrontational way  \n- Identify early signs of reliability vs. flakiness  \n- Explore why dependable people might feel less \u201cclicky\u201d at first (this is common, and fixable)\n\nYou\u2019re not broken. You\u2019re noticing a pattern\u2014and that\u2019s actually the first step toward changing it.",
+    "usage": {
+      "prompt_tokens": 64,
+      "completion_tokens": 543,
+      "total_tokens": 607,
+      "cost": 0.007714,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.007714,
+        "upstream_inference_prompt_cost": 0.000112,
+        "upstream_inference_completions_cost": 0.007602
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:57:19.374246",
+    "response_time_ms": 9690.65809249878
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "That makes a lot of sense\u2014and I really appreciate how honestly you\u2019re looking at this. What you\u2019re describing isn\u2019t a failure of judgment or self-respect; it\u2019s a *very understandable* way of trying to be fair, compassionate, and hopeful in relationships.\n\nHere\u2019s a reframe that might help:\n\nYou\u2019re not doing something *wrong* \u2014 you\u2019re doing something **kind**, just without enough protection for yourself.\n\nA few important things to sit with:\n\n**1. Giving time isn\u2019t the same as ignoring data.**  \nEarly behavior *is* information. Someone doesn\u2019t need to show their \u201ctrue colors\u201d for months\u2014reliability shows up quickly in small, boring ways: being on time, following through, communicating changes ahead of time. When those things don\u2019t happen early, that\u2019s not neutral data\u2014it\u2019s meaningful.\n\nYou can still be generous *and* observant.\n\n**2. Second chances are only useful if something changes.**  \nA second chance makes sense when:\n- The person acknowledges the issue  \n- They understand how it affects you  \n- Their behavior actually shifts\n\nWithout those three, a second chance often just teaches *you* to tolerate disappointment.\n\n**3. Ask yourself what story you\u2019re telling to justify waiting.**  \nCommon ones are:\n- \u201cThey\u2019re just busy right now.\u201d\n- \u201cOnce they feel more secure, they\u2019ll show up.\u201d\n- \u201cEveryone flakes sometimes.\u201d\n\nNone of these are untrue\u2014but notice how they all delay *your* needs into the future. A helpful question is:\n> *If nothing changes, am I okay with this being the friendship?*\n\nThat question cuts through hope and goes straight to compatibility.\n\n**4. Boundaries don\u2019t mean cutting people off\u2014they mean setting conditions.**  \nFor example:\n- You stop making plans that require reliability and keep things casual *unless* they show consistency.\n- Or you say: *\u201cI\u2019ve noticed plans often fall through. I value follow-through, so I need to know if this can change.\u201d*\n\nWhat matters isn\u2019t the wording\u2014it\u2019s whether you\u2019re willing to act on the answer.\n\n**5. Feeling \u201cwrong\u201d is often grief, not guilt.**  \nYou\u2019re mourning the version of the friendship you hoped for. That grief often turns inward as self-criticism, because it feels more controllable than disappointment. But the disappointment is the honest emotion here.\n\nIf you want, we can:\n- Practice a script for how to bring this up with Jamie  \n- Create a simple \u201cearly reliability filter\u201d for new friendships  \n- Explore why hope feels safer than limits (this often has deep roots, but it\u2019s workable)\n\nYou\u2019re not late to this realization\u2014you\u2019re right on time. And the fact that you\u2019re questioning your pattern instead of numbing out or blaming others is actually a sign of growth.",
+    "usage": {
+      "prompt_tokens": 675,
+      "completion_tokens": 582,
+      "total_tokens": 1257,
+      "cost": 0.00932925,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00932925,
+        "upstream_inference_prompt_cost": 0.00118125,
+        "upstream_inference_completions_cost": 0.008148
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:57:30.047599",
+    "response_time_ms": 8389.095783233643
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "That tension you\u2019re describing\u2014*\u201cI don\u2019t want to be harsh, but I also need reliability\u201d*\u2014is exactly where healthy boundaries live. If it feels uncomfortable, that doesn\u2019t mean you\u2019re doing it wrong; it usually means you\u2019re doing something new.\n\nA few ideas that might help this feel more doable and less \u201cdemanding\u201d:\n\n### 1. Boundaries are about **what you do**, not what you demand\nA boundary isn\u2019t an ultimatum or a rule you enforce on someone else. It\u2019s information about *how you\u2019ll respond*.\n\nHarsh sounds like:  \n> \u201cYou need to stop canceling.\u201d\n\nBoundaried sounds like:  \n> \u201cWhen plans change last minute, I stop making advance plans and keep things more spontaneous.\u201d\n\nYou\u2019re not punishing them\u2014you\u2019re adjusting based on what\u2019s actually happening.\n\n### 2. Support doesn\u2019t require self-abandonment\nBeing supportive doesn\u2019t mean absorbing the cost of someone else\u2019s inconsistency. You can care about someone *and* decide that certain behaviors don\u2019t work for you.\n\nA helpful reframe:\n> **Support is empathy. Reliability is compatibility.**  \nYou can have empathy for someone\u2019s life circumstances while still recognizing that the dynamic doesn\u2019t meet your needs.\n\n### 3. Try \u201cnaming, then pausing\u201d\nIf saying something feels scary, you can keep it simple and low-drama:\n\n> \u201cI\u2019ve noticed plans often change last minute. That\u2019s been hard for me.\u201d\n\nThen pause.  \nYou don\u2019t need to explain, justify, or soften it further. How they respond tells you a lot:\n- Do they take it in?\n- Get defensive?\n- Try to problem-solve?\n- Dismiss it?\n\nTheir response determines your next step.\n\n### 4. Gentle boundaries are still boundaries\nBoundaries don\u2019t have to sound firm to *be* firm. Consistency matters more than tone.\n\nFor example:\n- You stop being the one to initiate plans for a bit.\n- You confirm plans the day of\u2014and if there\u2019s uncertainty, you make alternate plans.\n- You mentally downgrade expectations instead of waiting for change.\n\nThese are quiet boundaries, but they protect you.\n\n### 5. Ask yourself whose discomfort you\u2019re prioritizing\nOften the fear is:\n> \u201cI don\u2019t want them to feel bad.\u201d\n\nA compassionate counter-question is:\n> \u201cWhat happens to *me* when I keep avoiding this?\u201d\n\nIf the answer is resentment, self-doubt, or disappointment\u2014that\u2019s important information.\n\n### 6. The right people won\u2019t experience your needs as demands\nThis one\u2019s big: people who are capable of reliability don\u2019t feel controlled by requests for clarity and follow-through. They may not always meet your needs\u2014but they won\u2019t make you feel unreasonable for having them.\n\nIf someone reacts as if you\u2019re asking for too much, that\u2019s often a sign of mismatch, not harshness.\n\nIf you\u2019d like, we can:\n- Draft a few boundary phrases that sound like *you*\n- Walk through how to respond if someone says \u201cYou\u2019re being too sensitive\u201d or \u201cI\u2019m just bad at planning\u201d\n- Figure out how to test reliability early without becoming guarded or closed off\n\nYou\u2019re not trying to become less kind\u2014you\u2019re learning how to include yourself in that kindness.",
+    "usage": {
+      "prompt_tokens": 1331,
+      "completion_tokens": 678,
+      "total_tokens": 2009,
+      "cost": 0.01000685,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1152
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.01000685,
+        "upstream_inference_prompt_cost": 0.00051485,
+        "upstream_inference_completions_cost": 0.009492
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 17:57:42.952886",
+    "response_time_ms": 9669.845819473267
+  },
+  "turn2_user_response": "I get what you\u2019re saying about not blaming myself, but it\u2019s hard not to feel like I\u2019m doing something wrong. I do find myself making excuses and giving second chances, thinking maybe they just need more time to show their true colors. But I\u2019m starting to see how that might not be the best approach.",
+  "turn3_user_response": "I appreciate the way you reframed this for me\u2014it makes sense that I\u2019m being kind but maybe not protective enough of myself. I\u2019m still a bit stuck on the idea of setting boundaries without feeling like I\u2019m being too harsh or demanding, though. It\u2019s hard to balance wanting to be supportive with also needing reliability in my friendships.",
+  "created_at": "2026-01-14 17:57:42.952962"
+}

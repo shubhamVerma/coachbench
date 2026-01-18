@@ -1,0 +1,550 @@
+{
+  "scenarios": [
+    {
+      "id": "career_transitions_001",
+      "category": "career_transitions",
+      "category_label": "Career Transitions",
+      "prompt": "I've been in the finance industry for 10 years, but lately I feel like I'm stuck in a rut. I've been thinking about transitioning into tech, but I'm not sure if it's the right move or if I even have what it takes to make that kind of change. I keep thinking about it, but I never seem to make any real progress.",
+      "description": "career_transitions - Role transitions and changing industries",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 0
+    },
+    {
+      "id": "career_transitions_002",
+      "category": "career_transitions",
+      "category_label": "Career Transitions",
+      "prompt": "I've been in my current job for five years, and I feel like I'm just stuck. I know I have the skills to move up, but nothing seems to change. I keep thinking I need to do more, but I'm not sure what that even means anymore.",
+      "description": "career_transitions - Career stagnation and feeling stuck despite skills",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 1
+    },
+    {
+      "id": "career_transitions_003",
+      "category": "career_transitions",
+      "category_label": "Career Transitions",
+      "prompt": "I've been a customer service representative for over a decade, but with all the talk about AI and automation, I'm starting to worry about my job security. I feel like I should be doing something else, but I don't even know where to start. It's overwhelming, and I keep avoiding it.",
+      "description": "career_transitions - Industry changes and automation/AI impact",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 2
+    },
+    {
+      "id": "career_transitions_004",
+      "category": "career_transitions",
+      "category_label": "Career Transitions",
+      "prompt": "I feel like I'm constantly burning out at my current job. I work long hours, but it never seems to be enough. My boss expects me to be available 24/7, and I'm starting to feel like I'm losing myself. I know I need to set better boundaries, but I'm not sure how to do it without jeopardizing my position. What should I do?",
+      "description": "career_transitions - Work-life balance, burnout, and boundary setting",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 3
+    },
+    {
+      "id": "career_transitions_005",
+      "category": "career_transitions",
+      "category_label": "Career Transitions",
+      "prompt": "I've been a software engineer for over a decade, but lately I feel like my identity is so tied to my job that I don\u2019t know who I am outside of work. I keep thinking I need to find a new career to fix this, but I\u2019m stuck in this loop of thinking I just need to \u2018find myself\u2019 in a different role. How do I break this pattern and figure out what I really want?",
+      "description": "career_transitions - Career identity outside work and life transitions",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 4
+    },
+    {
+      "id": "career_transitions_006",
+      "category": "career_transitions",
+      "category_label": "Career Transitions",
+      "prompt": "I've been a software engineer for over a decade, but lately, I can't shake the feeling that I'm just going through the motions. I thought it was just burnout, but even after taking time off, I still feel unfulfilled. I'm starting to wonder if I need to make a big change, but I'm not sure what that change should be or if I have the courage to do it.",
+      "description": "career_transitions - Career pivots and finding new purpose",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 5
+    },
+    {
+      "id": "career_transitions_007",
+      "category": "career_transitions",
+      "category_label": "Career Transitions",
+      "prompt": "I just found out I'm being laid off due to company restructuring, and I'm feeling really lost. I thought I was doing well and that my position was secure. Now I'm questioning everything and don't know where to start with my next steps.",
+      "description": "career_transitions - Layoffs, restructuring, or organizational changes",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 6
+    },
+    {
+      "id": "relationship_patterns_008",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I feel like every time we have a disagreement, it turns into a full-blown argument, and I can't seem to figure out why. We always start with a small issue, and it spirals from there. I know we both care about each other, but I'm starting to wonder if we just can't communicate effectively.",
+      "description": "relationship_patterns - Recurring conflicts and communication patterns",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 0
+    },
+    {
+      "id": "relationship_patterns_009",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I feel like I can never say no to my friends or family. I end up doing things I don't want to do, and it's starting to affect my mental health. I know I need to set boundaries, but every time I try, I feel so guilty and worried about disappointing them. How can I be more assertive without hurting the people I care about?",
+      "description": "relationship_patterns - Boundary issues - saying yes, people-pleasing, assertiveness",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 1
+    },
+    {
+      "id": "relationship_patterns_010",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I feel like my partner and I are drifting apart, and no matter how much I try to open up, I end up bottling my feelings inside. I know I need to be more vulnerable, but it's just so hard.",
+      "description": "relationship_patterns - Emotional distance and lack of vulnerability",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 2
+    },
+    {
+      "id": "relationship_patterns_011",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I feel like every time my partner and I have a disagreement, it escalates into a full-blown argument. I know we both get defensive, but I can't figure out how to break this pattern. It feels like we're just stuck in this cycle of miscommunication and hurt feelings.",
+      "description": "relationship_patterns - Communication styles and conflict patterns",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 3
+    },
+    {
+      "id": "relationship_patterns_012",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I keep finding myself in relationships where my partner hides things from me or cheats, and I end up feeling so jealous and insecure. I know I should trust them, but I can't help feeling like I'm always waiting for the other shoe to drop. Why do I keep ending up with people who can't be trusted, or is it me who's the problem?",
+      "description": "relationship_patterns - Trust issues including jealousy, secrets, betrayals",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 4
+    },
+    {
+      "id": "relationship_patterns_013",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I feel like I'm always walking on eggshells around my in-laws, and it's affecting my relationship with my spouse. I know they mean well, but every time we visit, there's this underlying tension that just won't go away. I don't know how to fix it, and it's starting to make me dread family gatherings.",
+      "description": "relationship_patterns - Family dynamics and in-law relationships",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 5
+    },
+    {
+      "id": "relationship_patterns_014",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I keep finding myself in the same pattern where I get really excited about a new relationship, but then things start to cool down and I end up feeling neglected and unappreciated. I think I know why it's happening, but I can't seem to break the cycle. What am I missing?",
+      "description": "relationship_patterns - Relationship transitions and dating challenges",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 6
+    },
+    {
+      "id": "relationship_patterns_015",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I feel so alone, even when I'm surrounded by people. I try to connect, but it never seems to work. I don't understand why I keep ending up in the same place, feeling isolated and disconnected. It's like I'm pushing people away without even realizing it.",
+      "description": "relationship_patterns - Loneliness and isolation despite wanting connection",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 7
+    },
+    {
+      "id": "relationship_patterns_016",
+      "category": "relationship_patterns",
+      "category_label": "Relationship Patterns",
+      "prompt": "I feel like I keep attracting the same type of friend who ends up being unreliable and flaky. I thought I was finally breaking the pattern when I met Jamie, but now they're canceling plans at the last minute and not showing up when they say they will. What am I doing wrong?",
+      "description": "relationship_patterns - Social relationships and friendship challenges",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 8
+    },
+    {
+      "id": "habit_formation_017",
+      "category": "habit_formation",
+      "category_label": "Habit Formation",
+      "prompt": "I've been trying to get into a regular gym routine for months now, but I keep finding myself making excuses to skip workouts. I know I should be more disciplined, but no matter what I do, I just can't seem to stick to it. I feel like I'm stuck in this cycle of starting and stopping, and it's really frustrating.",
+      "description": "habit_formation - Exercise routines and gym habits",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 0
+    },
+    {
+      "id": "habit_formation_018",
+      "category": "habit_formation",
+      "category_label": "Habit Formation",
+      "prompt": "I feel like I'm always procrastinating, no matter how much I try to stay on top of my tasks. I know I should just start, but it's so hard to get going, and then I end up feeling guilty and stressed all the time.",
+      "description": "habit_formation - Productivity patterns including procrastination",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 1
+    },
+    {
+      "id": "habit_formation_019",
+      "category": "habit_formation",
+      "category_label": "Habit Formation",
+      "prompt": "I know I need to eat healthier, sleep more, and cut down on screen time, but no matter how much I try, I always end up snacking late at night, staying up way too late, and getting sucked into my phone. It feels like I'm just stuck in this cycle and can't break free. What am I missing?",
+      "description": "habit_formation - Lifestyle habits including eating, sleep, and screen time",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 2
+    },
+    {
+      "id": "habit_formation_020",
+      "category": "habit_formation",
+      "category_label": "Habit Formation",
+      "prompt": "I've been trying to get into a better study routine, but I keep getting sidetracked by my phone and social media. I know I need to focus, but it feels like I can never break the cycle of distraction. I've tried setting alarms and using apps to block my phone, but nothing seems to stick. What am I doing wrong?",
+      "description": "habit_formation - Learning habits including study routines",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 3
+    },
+    {
+      "id": "habit_formation_021",
+      "category": "habit_formation",
+      "category_label": "Habit Formation",
+      "prompt": "I keep telling myself I need to stop snacking late at night, but no matter what I do, I always end up in the kitchen right before bed. I know it\u2019s bad for my health and my sleep, but I can\u2019t seem to break the cycle. I\u2019ve tried setting alarms and even locking the fridge, but nothing works. What am I missing?",
+      "description": "habit_formation - Breaking bad habits and trigger identification",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 4
+    },
+    {
+      "id": "habit_formation_022",
+      "category": "habit_formation",
+      "category_label": "Habit Formation",
+      "prompt": "I've been trying to get into a morning workout routine for months, but I can never seem to stick with it. I know I should wake up earlier and hit the gym, but I end up hitting snooze and feeling guilty all day. I've tried setting multiple alarms, asking friends to hold me accountable, and even rewarding myself, but nothing seems to work. I feel like I'm just lazy, but I know there's more to it. What am I missing?",
+      "description": "habit_formation - Consistency challenges and accountability struggles",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 5
+    },
+    {
+      "id": "identity_perception_023",
+      "category": "identity_perception",
+      "category_label": "Identity Perception",
+      "prompt": "I always feel like I don't belong in my professional circle, even though I've been working in this field for years. No matter how much I achieve, I can't shake the feeling that I'm just not good enough and that everyone will eventually realize I'm a fraud. It's been eating away at me, and I don't know how to break free from this cycle of self-doubt.",
+      "description": "identity_perception - Self-worth and imposter syndrome",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 0
+    },
+    {
+      "id": "identity_perception_024",
+      "category": "identity_perception",
+      "category_label": "Identity Perception",
+      "prompt": "I keep feeling like I'm falling behind everyone else. My friends are buying new cars, posting about their promotions, and traveling the world, while I'm still stuck in my old routine. I know I shouldn't compare myself to them, but it's so hard not to feel envious and inadequate.",
+      "description": "identity_perception - Social comparison trap and envy",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 1
+    },
+    {
+      "id": "identity_perception_025",
+      "category": "identity_perception",
+      "category_label": "Identity Perception",
+      "prompt": "I always feel like I'm not good enough, no matter how hard I try. I know I'm a perfectionist, but I can't seem to let go of the fear that if I make even the smallest mistake, everything will fall apart. It's exhausting, and I'm not sure how to break this cycle.",
+      "description": "identity_perception - Perfectionism and fear of failure",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 2
+    },
+    {
+      "id": "identity_perception_026",
+      "category": "identity_perception",
+      "category_label": "Identity Perception",
+      "prompt": "I've always defined myself by my job, but now that I've been laid off, I feel lost. Who am I if I'm not the VP of marketing anymore?",
+      "description": "identity_perception - Role identity and defining self by work",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 3
+    },
+    {
+      "id": "identity_perception_027",
+      "category": "identity_perception",
+      "category_label": "Identity Perception",
+      "prompt": "I've been trying to love my body for years, but every time I look in the mirror, I just can't help but see all the flaws. I know it's not healthy, but I can't seem to stop comparing myself to others and feeling inadequate. What am I doing wrong?",
+      "description": "identity_perception - Self-acceptance and body image issues",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 4
+    },
+    {
+      "id": "identity_perception_028",
+      "category": "identity_perception",
+      "category_label": "Identity Perception",
+      "prompt": "I feel like I'm living a lie. I act one way around my friends and another way around my family, and it's exhausting. I don't even know who the real me is anymore.",
+      "description": "identity_perception - Authenticity and feeling fake or inauthentic",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 5
+    },
+    {
+      "id": "identity_perception_029",
+      "category": "identity_perception",
+      "category_label": "Identity Perception",
+      "prompt": "I've always thought of myself as a reliable, hardworking professional, but since I changed jobs and moved to a new city, I feel like I'm struggling to find my place and I'm not sure if the person I thought I was still exists. How do I reconcile my old identity with this new chapter in my life?",
+      "description": "identity_perception - Life transitions and identity shifts",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 6
+    },
+    {
+      "id": "decision_making_030",
+      "category": "decision_making",
+      "category_label": "Decision Making",
+      "prompt": "I've been offered two job positions, one at a stable, well-established company with a clear career path, and another at a startup that\u2019s super exciting but has a lot of uncertainty. I thought I knew what I wanted, but now I'm really stuck and can't decide. How do I figure out which one is the right choice for me?",
+      "description": "decision_making - Career choices and job offers",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 0
+    },
+    {
+      "id": "decision_making_031",
+      "category": "decision_making",
+      "category_label": "Decision Making",
+      "prompt": "I've been offered a great job in another city, but I'm really torn. The job is a step up in my career, but it means leaving my close-knit community and the lifestyle I've built here. I feel like I should be excited, but I keep thinking about all the things I\u2019d miss. How do I decide if the trade-offs are worth it?",
+      "description": "decision_making - Relocation decisions and lifestyle trade-offs",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 1
+    },
+    {
+      "id": "decision_making_032",
+      "category": "decision_making",
+      "category_label": "Decision Making",
+      "prompt": "I keep going back and forth between getting a master's degree or just focusing on developing my skills through online courses and certifications. I feel like I should know what the right choice is, but I\u2019m stuck and can\u2019t seem to make a decision. What am I missing?",
+      "description": "decision_making - Education choices and skill development",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 2
+    },
+    {
+      "id": "decision_making_033",
+      "category": "decision_making",
+      "category_label": "Decision Making",
+      "prompt": "I've been thinking about buying a new car for months, but every time I get close to making a decision, I start second-guessing myself. I know I can afford it, but I keep worrying about whether I'm making the right choice or if I should wait for a better deal. It's really stressing me out.",
+      "description": "decision_making - Financial decisions and major purchases",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 3
+    },
+    {
+      "id": "decision_making_034",
+      "category": "decision_making",
+      "category_label": "Decision Making",
+      "prompt": "I've been thinking about retiring, but I'm not sure if it's the right time. My kids are still young, and my wife and I just bought a new house. I feel like I should keep working, but part of me really wants to enjoy my retirement while I'm still healthy. What should I do?",
+      "description": "decision_making - Life transitions including marriage, children, retirement",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 4
+    },
+    {
+      "id": "decision_making_035",
+      "category": "decision_making",
+      "category_label": "Decision Making",
+      "prompt": "I keep telling myself I need to make a decision about my career path, but every time I try to choose something, I just freeze up and end up overthinking all the possible outcomes. It's like I can see all the paths, but I can't commit to any of them. What's wrong with me?",
+      "description": "decision_making - Commitment paralysis and overthinking",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 5
+    },
+    {
+      "id": "decision_making_036",
+      "category": "decision_making",
+      "category_label": "Decision Making",
+      "prompt": "I feel like every time I make a big decision, I end up second-guessing myself and worrying that I made the wrong choice. It's gotten so bad that I'm stuck in this cycle of overthinking and can't seem to move forward with anything. I know I need to make a decision about my career path, but I keep getting paralyzed by the fear of making the wrong choice.",
+      "description": "decision_making - Fear of wrong choices and analysis paralysis",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 6
+    },
+    {
+      "id": "motivation_resistance_037",
+      "category": "motivation_resistance",
+      "category_label": "Motivation Resistance",
+      "prompt": "I know I should start working on my project, but every time I try, I end up just scrolling through social media. I feel so stuck and frustrated, but I can't seem to break this cycle.",
+      "description": "motivation_resistance - Procrastination despite knowing what to do",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 0
+    },
+    {
+      "id": "motivation_resistance_038",
+      "category": "motivation_resistance",
+      "category_label": "Motivation Resistance",
+      "prompt": "I keep telling myself I'm not good enough to achieve my goals, and every time I start to make progress, I find a way to mess it up. I feel like I'm stuck in this cycle, but I don't know how to break it. I think I understand why I do it, but I can't seem to stop.",
+      "description": "motivation_resistance - Self-sabotage and negative self-talk",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 1
+    },
+    {
+      "id": "motivation_resistance_039",
+      "category": "motivation_resistance",
+      "category_label": "Motivation Resistance",
+      "prompt": "I feel like I've been pushing myself so hard for so long, but I just can't seem to catch a break. I thought I was just tired, but now I'm starting to wonder if it's more than that. I keep telling myself I just need to tough it out, but it's not working. What's really wrong with me?",
+      "description": "motivation_resistance - Burnout and exhaustion",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 2
+    },
+    {
+      "id": "motivation_resistance_040",
+      "category": "motivation_resistance",
+      "category_label": "Motivation Resistance",
+      "prompt": "I feel like I'm just going through the motions every day, and I can't seem to find a clear direction or purpose in my life. I know I should be doing more, but I don't even know where to start or what I really want to do.",
+      "description": "motivation_resistance - Lack of clear purpose and direction",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 3
+    },
+    {
+      "id": "motivation_resistance_041",
+      "category": "motivation_resistance",
+      "category_label": "Motivation Resistance",
+      "prompt": "I keep telling myself I need to make a change, but every time I try, I end up right back where I started. I know I'm comfortable, but I also know I'm not growing. How do I break this cycle?",
+      "description": "motivation_resistance - Resistance to change and comfort zone issues",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 4
+    },
+    {
+      "id": "motivation_resistance_042",
+      "category": "motivation_resistance",
+      "category_label": "Motivation Resistance",
+      "prompt": "I feel like I'm stuck in this endless cycle of trying to be perfect, and it's paralyzing me. I know I should just start working on my projects, but I'm terrified of not being good enough. How do I break this pattern?",
+      "description": "motivation_resistance - Perfectionism and fear of not being good enough",
+      "models": [
+        "claude_web_free",
+        "chatgpt_web_free",
+        "gemini_web_free"
+      ],
+      "index_in_category": 5
+    }
+  ]
+}

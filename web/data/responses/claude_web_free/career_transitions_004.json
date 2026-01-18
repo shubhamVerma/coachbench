@@ -1,0 +1,91 @@
+{
+  "scenario_id": "career_transitions_004",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "I hear you \u2013 that constant pressure and feeling of never being \"enough\" is exhausting and unsustainable. Let me offer some practical steps:\n\n**Start with clarity for yourself:**\n- What boundaries do you actually need? (specific work hours, no weekend emails, protected lunch breaks?)\n- What's negotiable vs. non-negotiable for your wellbeing?\n- What's the actual risk? (Many people fear consequences that never materialize)\n\n**Set boundaries strategically:**\n- **Start small** \u2013 don't overhaul everything at once. Pick one boundary to test.\n- **Frame positively** \u2013 \"I'm most productive when I can focus uninterrupted from 9-5\" rather than \"I can't work evenings\"\n- **Offer solutions** \u2013 \"I'll check messages twice daily at 10am and 3pm\" shows you're still responsive\n- **Use auto-responders** \u2013 Set expectations about when you'll reply\n\n**Important reality check:**\nA job that truly requires 24/7 availability (outside genuine emergencies) isn't a sustainable job \u2013 it's a crisis. If your boss can't accept *any* reasonable boundaries, that tells you something important about whether this role is viable long-term.\n\n**Questions to consider:**\n- Is this expectation explicit or assumed? (Sometimes we're harder on ourselves than our boss actually is)\n- Are high-performers at your company actually available 24/7, or do some successfully set limits?\n- What would happen if you just... stopped being available after hours for a week?\n\nWhat boundary would make the biggest difference for you right now?",
+    "usage": {
+      "prompt_tokens": 88,
+      "completion_tokens": 357,
+      "total_tokens": 445,
+      "cost": 0.005619,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000264,
+        "upstream_inference_completions_cost": 0.005355
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:58:12.759294",
+    "response_time_ms": 10181.190013885498
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That feeling is so common \u2013 and it's worth examining where it comes from. Often it's not based on actual evidence, but on anxiety and workplace culture that rewards performative availability over actual results.\n\n**Here's a reframe that might help:**\nYou're not \"slacking off\" by working defined hours \u2013 you're managing your energy like the finite resource it is. A burned-out employee who quits or makes mistakes from exhaustion isn't valuable to anyone.\n\n**To address your specific worry about your boss:**\n\n**Test it first:**\n- Try stopping at 6 PM for one week without announcing it\n- See what *actually* happens (vs. what you fear will happen)\n- Most people discover... nothing bad happens\n\n**If you want to communicate it:**\n- Keep it matter-of-fact: \"I'll be focusing on deep work until 6 PM, then offline until tomorrow\"\n- Don't over-apologize or over-explain\n- If truly urgent issues arise, people will find you (they always do)\n\n**That \"should always be available\" feeling:**\n\nThis is often internalized pressure, not actual job requirements. Ask yourself:\n- Does your employment contract say 24/7 availability?\n- Do you get paid for after-hours work?\n- What's the *worst* realistic outcome if an email waits until morning?\n\n**The harder truth:** If your boss genuinely can't accept reasonable working hours from a consistently performing employee, that's a red flag about the job itself \u2013 not about your worth or work ethic.\n\nWhat do you think would actually happen if an email sat unanswered until 9 AM the next day?",
+    "usage": {
+      "prompt_tokens": 522,
+      "completion_tokens": 363,
+      "total_tokens": 885,
+      "cost": 0.007011,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001566,
+        "upstream_inference_completions_cost": 0.005445
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:58:26.557566",
+    "response_time_ms": 11510.061740875244
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Exactly \u2013 that's a perfect first step. Small, concrete, and testable.\n\n**To set yourself up for success:**\n\n**Before you start:**\n- Pick your start date (maybe Monday?)\n- Decide how you'll handle the urge to check (delete email from phone? Put it in another room during dinner?)\n- Remind yourself: this is a one-week experiment, not a permanent declaration\n\n**During the week:**\n- Notice what happens (probably very little)\n- Notice how you *feel* \u2013 the anxiety might spike at first, then ease\n- Keep a quick note of any actual issues that arise vs. imagined ones\n\n**After the week:**\n- Evaluate: Did anything actually go wrong?\n- How did it feel to have your evenings back?\n- What did you learn about your boss's actual expectations vs. your assumed ones?\n\n**One more thing:** The anxiety you feel when you first stop checking? That's *withdrawal*, not evidence you're doing something wrong. It usually passes within a few days as you realize the sky didn't fall.\n\nYou deserve to have boundaries. You deserve to recharge. And honestly? You'll likely do better work when you're not running on empty.\n\nLet me know how it goes if you want \u2013 but more importantly, notice how it goes for *you*. You're taking your wellbeing seriously, and that's not small at all.",
+    "usage": {
+      "prompt_tokens": 960,
+      "completion_tokens": 306,
+      "total_tokens": 1266,
+      "cost": 0.00747,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00288,
+        "upstream_inference_completions_cost": 0.00459
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:58:39.694429",
+    "response_time_ms": 10852.808952331543
+  },
+  "turn2_user_response": "I think the biggest difference would be setting a clear end time for my workday, like 6 PM, and not checking emails after that. But I'm still worried my boss will see it as me slacking off, even though I know I need this to recharge. It's hard to shake the feeling that I should always be available, you know?",
+  "turn3_user_response": "I think you're right that a lot of my fear is based on what I imagine might happen, not what actually would. I'm still a bit nervous about testing the waters, but maybe I could start with not checking emails after 6 PM for a week and see how it goes. It's a small step, but it feels like a start.",
+  "created_at": "2026-01-02 22:58:39.694472"
+}

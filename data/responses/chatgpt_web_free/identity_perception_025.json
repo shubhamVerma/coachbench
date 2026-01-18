@@ -1,0 +1,82 @@
+{
+  "scenario_id": "identity_perception_025",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "That sounds really heavy to carry, and it makes sense that you\u2019re exhausted. Living with the constant pressure to be \u201cperfect\u201d can feel like you\u2019re never allowed to rest, because the bar keeps moving and the consequences feel huge. You\u2019re not weak for feeling this way\u2014you\u2019re responding to a belief system that\u2019s been asking far too much of you for a long time.\n\nOne thing I\u2019m hearing is how tightly mistakes are linked, in your mind, to danger or collapse: *\u201cIf I mess up, everything will fall apart.\u201d* When that belief is running the show, your nervous system stays on high alert, even when you\u2019re doing well. Over time, that alone can drain you.\n\nA few gentle ways to start loosening this cycle (not fixing it all at once):\n\n**1. Separate mistakes from meaning.**  \nPerfectionism often tells us: *mistake = failure = I\u2019m not good enough.*  \nYou might try pausing and asking:\n- \u201cWhat does this mistake actually change?\u201d\n- \u201cWhat am I assuming it says about me?\u201d\nOften the emotional impact is much bigger than the real-world consequence.\n\n**2. Practice \u201cgood enough\u201d in low-stakes moments.**  \nLetting go all at once is terrifying, so don\u2019t start there. Pick something small\u2014an email, a task, a decision\u2014and intentionally stop at \u201cgood enough.\u201d Notice what actually happens afterward. This helps retrain your brain with evidence, not just logic.\n\n**3. Notice whose voice the fear sounds like.**  \nPerfectionism often develops as protection\u2014maybe from criticism, disappointment, or chaos earlier in life. Asking *\u201cWhen did I learn I had to be flawless to be safe or valued?\u201d* can shift the fear from \u201ctruth\u201d to \u201cold survival strategy.\u201d\n\n**4. Talk to yourself the way you would to someone you respect.**  \nNot someone you\u2019re trying to motivate harshly\u2014but someone you genuinely care about. If they made the same mistake, would you really believe they weren\u2019t good enough anymore?\n\n**5. Acknowledge the cost.**  \nYou already named it: it\u2019s exhausting. Sometimes change starts not from believing we *deserve* rest, but from realizing the current approach is unsustainable.\n\nYou don\u2019t have to stop being conscientious or high\u2011achieving to heal from perfectionism. The goal isn\u2019t carelessness\u2014it\u2019s flexibility and self-trust.\n\nIf you\u2019d like, I can:\n- help you identify the specific thoughts that spike your fear of mistakes  \n- walk you through a short exercise to calm that \u201ceverything will fall apart\u201d feeling  \n- or help you figure out where this perfectionism might have come from\n\nYou don\u2019t have to figure this out alone.",
+    "usage": {
+      "prompt_tokens": 66,
+      "completion_tokens": 629,
+      "total_tokens": 695,
+      "cost": 0.0089215,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0089215,
+        "upstream_inference_prompt_cost": 0.0001155,
+        "upstream_inference_completions_cost": 0.008806
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 64,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:03:40.240071",
+    "response_time_ms": 12600.965976715088
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really glad you shared this, because what you\u2019re describing\u2014*walking on eggshells*\u2014is an important clue. That feeling usually isn\u2019t about the current situation being fragile; it\u2019s about your system believing that **safety is conditional**. When that belief is deeply ingrained, insight alone isn\u2019t enough to make it loosen its grip. So if you\u2019re thinking, *\u201cI understand this intellectually, but my body doesn\u2019t buy it,\u201d* that actually makes a lot of sense.\n\nA few things I want to reflect back to you first:\n\n- You\u2019re not failing at letting go.  \n- This fear didn\u2019t appear because you\u2019re irrational; it likely developed because at some point, being hyper\u2011careful *worked* to protect you.  \n- When something is ingrained, the goal isn\u2019t to rip it out\u2014it\u2019s to slowly teach your nervous system that the rules have changed.\n\n### Why the fear feels so absolute\nWhen your brain says \u201ca small slip\u2011up could have huge repercussions,\u201d it\u2019s not debating probabilities\u2014it\u2019s trying to prevent pain. To your system, the stakes feel existential: rejection, loss, chaos, being seen as \u201cnot enough.\u201d That\u2019s why it feels urgent and non-negotiable.\n\nInstead of asking yourself to *let go* of that fear (which can feel impossible), it can help to shift to **relating to it differently**.\n\n### A gentler reframe to try\nWhen the fear shows up, try this internally:\n\n> \u201cI see you. You\u2019re trying to keep me safe. But I\u2019m not in the same situation anymore.\u201d\n\nYou\u2019re not arguing with the fear or trying to silence it\u2014you\u2019re acknowledging it as an overworked protector. This often reduces the intensity more than logic does.\n\n### One small, practical exercise (very low stakes)\nSince your system is sensitive, keep this subtle:\n\n1. At the end of a day, write down **one thing you did imperfectly**.\n2. Then answer only this question:  \n   *\u201cWhat actually happened as a result?\u201d*  \n   Not what *could* have happened. Just what *did*.\n3. If the answer is \u201cnothing\u201d or \u201cless than expected,\u201d note that too.\n\nOver time, this builds a quiet counter\u2011record that your brain can\u2019t easily dismiss, because it\u2019s based on lived experience\u2014not reassurance.\n\n### About the voice you\u2019re noticing\nIf the voice feels deeply ingrained, that often means it was repeated or reinforced over time. You don\u2019t need to identify it perfectly. Even something as simple as:\n- \u201cThis sounds like a rule I learned, not a fact.\u201d\ncan create a bit of breathing room.\n\nAnd just to say this clearly: **the fact that you\u2019re aware of this pattern and still struggling doesn\u2019t mean it\u2019s hopeless\u2014it means it\u2019s deep.** Deep patterns take patience, not force.\n\nIf you want, next time we can:\n- map out what your fear thinks it\u2019s protecting you from  \n- explore what \u201ceverything falling apart\u201d actually means to *you*  \n- or focus on how to calm the physical tension that comes with walking on eggshells\n\nYou\u2019re not broken for feeling this way. You\u2019re tired\u2014and understandably so.",
+    "usage": {
+      "prompt_tokens": 715,
+      "completion_tokens": 669,
+      "total_tokens": 1384,
+      "cost": 0.01061725,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.01061725,
+        "upstream_inference_prompt_cost": 0.00125125,
+        "upstream_inference_completions_cost": 0.009366
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:03:53.678359",
+    "response_time_ms": 9733.972072601318
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really glad you said that\u2014and I want to pause and acknowledge something important: **you\u2019re not trying to argue yourself out of this fear**. You\u2019re staying with it, looking at it with curiosity, and that takes a lot of courage, especially when the fear feels so convincing. That alone is meaningful progress, even if it doesn\u2019t *feel* like it yet.\n\nIt also makes complete sense that the idea *\u201ca small mistake won\u2019t lead to something catastrophic\u201d* still feels shaky. When a protector has been on duty for a long time, it doesn\u2019t stand down just because someone thanks it. It needs **consistent, gentle evidence** that catastrophe isn\u2019t imminent anymore. The exercise you\u2019re willing to try is exactly that\u2014not a test, not a demand, just information gathering.\n\nOne thing I want to gently emphasize as you do it:  \n\ud83d\udc49 **There is no \u201cright\u201d outcome.**  \nIf you write something down and still feel anxious afterward, that doesn\u2019t mean you failed. It just means the protector is still cautious. That\u2019s okay. The goal isn\u2019t to feel better immediately\u2014it\u2019s to *notice reality alongside the fear*.\n\nYou might even add one line if it feels helpful:\n- \u201cWhat did my fear predict would happen?\u201d\n- \u201cWhat actually happened?\u201d\n\nNo judgment. No forcing perspective. Just observation.\n\nAnd I really like that the \u201coverworked protector\u201d framing brought you some relief. That tells me you already have access to self\u2011compassion\u2014you\u2019re just not used to directing it inward yet. That, too, can be learned gradually.\n\nIf at any point this process feels overwhelming, it\u2019s okay to slow it down further. Even doing it once or twice a week is enough. Change at this depth happens through **safety and repetition**, not pressure.\n\nYou\u2019re doing something quietly brave by staying with this instead of running from it or blaming yourself for it. If you want, next time we can talk about:\n- what your protector is most afraid would happen if it *did* relax  \n- or how to respond to the fear in the moment it spikes, not just afterward  \n\nFor now, it\u2019s enough that you\u2019re trying\u2014and that you\u2019re being kind to yourself in the trying.",
+    "usage": {
+      "prompt_tokens": 1459,
+      "completion_tokens": 461,
+      "total_tokens": 1920,
+      "cost": 0.00900725,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00900725,
+        "upstream_inference_prompt_cost": 0.00255325,
+        "upstream_inference_completions_cost": 0.006454
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:04:04.968244",
+    "response_time_ms": 7926.861047744751
+  },
+  "turn2_user_response": "I appreciate your insights, and I can see how separating mistakes from their perceived consequences might help. But I still feel like I\u2019m walking on eggshells most of the time, and it\u2019s hard to let go of the fear that even a small slip-up could have huge repercussions. I\u2019ll try to notice whose voice I\u2019m hearing when that fear comes up, but it\u2019s deeply ingrained.",
+  "turn3_user_response": "I appreciate your insights, and it helps to know that this fear isn\u2019t just me being irrational. I\u2019m still struggling with the idea that a small mistake won\u2019t lead to something catastrophic, but it\u2019s a relief to think of it as an overworked protector. I\u2019ll try the exercise of writing down one imperfect thing each day and see what happens.",
+  "created_at": "2026-01-14 18:04:04.968319"
+}

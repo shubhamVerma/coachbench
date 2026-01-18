@@ -1,0 +1,91 @@
+{
+  "scenario_id": "identity_perception_028",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "That exhaustion you're feeling is real - code-switching between different versions of yourself takes genuine emotional energy. But here's something worth considering: the fact that you show up differently in different contexts doesn't necessarily mean you're living a lie.\n\nMost of us adapt somewhat to our environment. The \"you\" who's professional at work, playful with close friends, and respectful with grandparents can all be authentic - just different facets.\n\nThe key questions are:\n- **Are you hiding core parts of yourself that matter to you?** (your values, beliefs, things you care about)\n- **Or are you just adjusting your expression/behavior?** (tone, topics, humor style)\n\nThe first is what creates that \"living a lie\" feeling. The second is pretty normal.\n\n**What might help:**\n- Identify what feels *suppressed* versus what just feels *adapted*\n- Notice moments when you feel most like yourself - what's present then?\n- Consider whether the exhaustion comes from hiding something important, or from believing you *should* be identical in all contexts\n\n**A gentle challenge:** Is it possible the \"real you\" isn't one fixed thing, but rather the person who contains all these different ways of being?\n\nWhat specifically feels most fake or draining? That might point you toward what needs to change.",
+    "usage": {
+      "prompt_tokens": 48,
+      "completion_tokens": 288,
+      "total_tokens": 336,
+      "cost": 0.004464,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000144,
+        "upstream_inference_completions_cost": 0.00432
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:36:18.457878",
+    "response_time_ms": 9376.974105834961
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "Now we're getting to the real issue - and yes, that *is* different from just adapting your tone. Consistently hiding your passions creates a kind of loneliness, even when you're surrounded by people who love you.\n\nThat draining feeling makes sense because you're essentially saying \"this part of me doesn't get to exist here.\" Over time, that splits you in two.\n\n**Some things to consider:**\n\n**Why the hiding?** You say they \"won't get it\" - is that:\n- They'll be confused but generally supportive?\n- They'll be dismissive or critical?\n- They won't engage, so it feels pointless?\n\nThe answer matters because it determines your path forward.\n\n**What's the cost-benefit?**\n- Sharing might mean some awkwardness or lack of enthusiasm from them\n- But continuing to hide means *you* carry all the weight of that disconnection\n\n**Small tests:** You don't have to go from zero to full vulnerability. What if you mentioned something you care about once, briefly, without needing them to \"get it\"? Just to see what happens?\n\nSometimes we pre-reject ourselves based on assumptions. Sometimes our assumptions are correct. Either way, you deserve to know.\n\n**The harder truth:** Even if they never fully understand your passions, you might need to grieve that limitation while still being yourself around them. Not everyone in our lives can meet every need.\n\nWhat are you most afraid would happen if you did share?",
+    "usage": {
+      "prompt_tokens": 399,
+      "completion_tokens": 325,
+      "total_tokens": 724,
+      "cost": 0.006072,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001197,
+        "upstream_inference_completions_cost": 0.004875
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:36:32.912236",
+    "response_time_ms": 11789.959192276001
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "That's a really thoughtful shift - and honestly, trying one small thing is exactly the right approach. You're not committing to overhauling every interaction, just testing the waters.\n\n**A few things that might help as you try this:**\n\n**Pick your moment and topic strategically:**\n- Choose something you care about but maybe not your *most* vulnerable passion for the first attempt\n- Mention it when there's natural space for conversation, not during a tense family dinner\n\n**Manage your expectations:**\n- Best case: they surprise you with interest\n- Likely case: mild confusion or polite nodding\n- Prepare for: awkwardness or a subject change\n\nNone of those outcomes actually say anything about the worth of what you care about.\n\n**Notice what happens inside *you*:**\nThe goal isn't necessarily to get their validation - it's to practice letting that part of yourself exist in the room. Even if they don't engage much, you might feel a small sense of relief from not hiding.\n\n**One important thing:** If they do laugh or dismiss it, that will hurt - but you'll also have real information instead of just fear. And you'll know you were brave enough to show up as yourself.\n\nWhat's one passion you might consider mentioning, even briefly?",
+    "usage": {
+      "prompt_tokens": 808,
+      "completion_tokens": 278,
+      "total_tokens": 1086,
+      "cost": 0.006594,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002424,
+        "upstream_inference_completions_cost": 0.00417
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:36:46.081569",
+    "response_time_ms": 9696.906805038452
+  },
+  "turn2_user_response": "I get what you're saying about adapting, but it still feels like I'm hiding parts of myself. Like, I never talk about my passions with my family because I know they won't get it, and that feels fake. I think that's what's draining me the most.",
+  "turn3_user_response": "I see what you mean about adapting versus hiding. I think I do hide some of my passions, especially with my family, because I'm afraid they'll just not understand or worse, laugh at me. But you're right, that draining feeling is from keeping that part of me locked away. I guess I could try telling them about one thing I care about and see how they react.",
+  "created_at": "2026-01-02 23:36:46.081620"
+}

@@ -1,0 +1,91 @@
+{
+  "scenario_id": "motivation_resistance_037",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "I hear your frustration. That gap between knowing what you should do and actually doing it is genuinely uncomfortable. Let's look at what might be happening here.\n\n**First, get curious instead of critical:**\n- What happens in the moment right before you reach for your phone? Is there a specific feeling\u2014maybe anxiety, boredom, or uncertainty about where to start?\n- Social media often serves as an escape from discomfort. What might you be avoiding?\n\n**Try these practical shifts:**\n\n**Make starting ridiculously small**\n- Instead of \"work on my project,\" try \"open the document\" or \"write one sentence.\" The hardest part is often beginning, and tiny steps bypass that resistance.\n\n**Create friction for distractions**\n- Log out of social media apps\n- Put your phone in another room\n- Use website blockers during work time\n\n**Address the underlying discomfort**\n- If the project feels overwhelming: break it into smaller pieces\n- If you're unclear on next steps: spend 5 minutes just outlining what needs doing\n- If you're afraid of doing it badly: remind yourself that messy progress beats perfect paralysis\n\n**What's one specific thing about this project that makes you want to avoid it?** Understanding that might unlock the whole pattern. Sometimes procrastination is actually valuable information about what needs to change in our approach.",
+    "usage": {
+      "prompt_tokens": 50,
+      "completion_tokens": 296,
+      "total_tokens": 346,
+      "cost": 0.00459,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00015,
+        "upstream_inference_completions_cost": 0.00444
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:50:31.850019",
+    "response_time_ms": 9253.520965576172
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "You've just identified something really important\u2014the overwhelm is the root issue, and scrolling is just the symptom. That's actually progress, because now we can address the real problem.\n\n**Let's break the overwhelm right now:**\n\nWhat is your project? And what's the *very next physical action* you'd need to take\u2014not the whole thing, just the literal next step?\n\n(Example: not \"write the report\" but \"open a blank document and type three bullet points about what sections I need\")\n\n**Here's why this matters:**\nYour brain sees \"big overwhelming project\" as a threat, so it seeks comfort (hello, social media). But it can't feel threatened by \"write three bullet points.\" That's just... doable.\n\n**A simple framework to try:**\n\n1. **Brain dump** (5 min): Write down everything related to this project\u2014no order, no judgment\n2. **Pick ONE thing** from that list that would take 10-15 minutes\n3. **Do just that thing** before allowing yourself to check your phone\n\n**About the scrolling habit:**\nYou're right that understanding it doesn't automatically stop it. Habits have a cue \u2192 routine \u2192 reward loop. Your cue is feeling overwhelmed, routine is scrolling, reward is temporary relief. We need to keep the cue and reward but change the routine to something that *actually* moves you forward.\n\nWhat's your project, and what feels most overwhelming about it specifically?",
+    "usage": {
+      "prompt_tokens": 411,
+      "completion_tokens": 322,
+      "total_tokens": 733,
+      "cost": 0.006063,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001233,
+        "upstream_inference_completions_cost": 0.00483
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:50:46.013947",
+    "response_time_ms": 10724.086046218872
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Perfect\u2014research papers are *classic* overwhelm triggers because they're so open-ended at the start. The brain dump will help a lot.\n\n**Here's a specific sequence to try:**\n\n**Right now (10 minutes):**\n1. Set a timer for 5 minutes\n2. Write down everything swimming in your head about this paper\u2014your topic, questions you have, things you've read, half-formed ideas, what you think you're supposed to include. Messy is good.\n3. Look at what you wrote and circle ONE thing that feels most clear or interesting to you\n\n**Your first tiny action:**\nPick just one of these (whichever feels easiest):\n- Find 2-3 sources on that one circled thing\n- Write 3 sentences explaining why that topic interests you\n- Create a document with basic headers (Intro, Main Points, Conclusion\u2014nothing fancy)\n\n**Then stop.** Seriously. Do that one thing, then take a break. You're building momentum, not finishing the whole paper today.\n\n**The organizing will come:**\nYou don't need to have it all figured out before you start. Research papers typically become clear *through* the process of engaging with them, not before. Most people organize as they go, not upfront.\n\nWhat's the general topic of your paper? And do you have a deadline you're working with? Sometimes knowing the constraints helps us prioritize what actually matters.",
+    "usage": {
+      "prompt_tokens": 799,
+      "completion_tokens": 315,
+      "total_tokens": 1114,
+      "cost": 0.007122,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002397,
+        "upstream_inference_completions_cost": 0.004725
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:51:00.591969",
+    "response_time_ms": 11639.32180404663
+  },
+  "turn2_user_response": "I think I'm just feeling really overwhelmed by the whole project. It seems so big and I'm not sure where to start, so I end up just scrolling through social media to avoid it. I get that it's a way to escape, but I still can't seem to break the habit.",
+  "turn3_user_response": "I see what you mean about the overwhelm being the real issue. My project is a research paper, and the part that feels most overwhelming is just figuring out where to start and how to organize all my thoughts. I'll try the brain dump and see if that helps me pinpoint a small next step.",
+  "created_at": "2026-01-02 23:51:00.592025"
+}

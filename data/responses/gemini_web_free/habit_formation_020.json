@@ -1,0 +1,88 @@
+{
+  "scenario_id": "habit_formation_020",
+  "model": "gemini_web_free",
+  "turn1": {
+    "model": "gemini_web_free",
+    "content": "It is incredibly common to feel this way. The reason your previous attempts (like alarms and blocking apps) haven't worked is likely because you are treating the **symptom** (the phone) rather than the **system** (your environment and brain chemistry).\n\nSocial media apps are designed by neuroscientists to trigger dopamine loops. Trying to beat them with \"willpower\" is like trying to hold your breath underwater\u2014eventually, your biology takes over.\n\nHere is a breakdown of why those methods might be failing and a new strategy to try:\n\n### 1. Stop Relying on \"Willpower\"\nWillpower is a finite resource. If you spend all day resisting the urge to check your phone, you\u2019ll eventually run out of energy and give in.\n*   **The Fix:** **Out of sight, out of mind.** Don\u2019t just put the phone face down. Put it in another room, or give it to someone else and tell them not to give it back until a certain time. If you have to walk 20 steps to get it, you break the \"autopilot\" reach.\n\n### 2. The \"Transition Friction\" Problem\nOften, we check our phones because the *start* of a study session feels overwhelming or boring. Your brain seeks a quick hit of dopamine to escape the \"pain\" of starting a hard task.\n*   **The Fix: The 5-Minute Rule.** Tell yourself you only have to study for five minutes. Once you break the seal of starting, the urge to check your phone usually drops significantly.\n\n### 3. Replace the Habit, Don't Just Block It\nWhen you block an app, you create a \"void.\" Your brain is used to reaching for a reward when it feels stressed. If you block the reward but don't address the stress, you'll just find a different distraction (like cleaning your room or staring at a wall).\n*   **The Fix: Use a \"Fidget\" or \"Analog\" break.** When you feel the urge to check your phone, have a notepad next to you. Write down the thought (\"I want to check Instagram\") and tell yourself you can do it during your scheduled break. This externalizes the urge and takes away its power.\n\n### 4. Switch to \"High-Octane\" Focus Intervals\nIf you try to study for \"three hours,\" your brain knows that\u2019s a long time to be \"bored,\" so it rebels.\n*   **The Fix: The Pomodoro Technique (with a twist).** Set a timer for 25 minutes of deep work, followed by a 5-minute break. **Crucially:** During that 5-minute break, *do not* look at your phone. If you check social media during a break, your brain doesn't actually rest; it stays overstimulated. Instead, stretch, get water, or look out a window.\n\n### 5. Change Your Digital Environment\nIf you must use your computer to study, the distractions are still there.\n*   **The Fix: The \"One Tab\" Rule.** Only have the tabs open that are absolutely necessary for the task at hand. Close everything else. Use a separate \"User Profile\" on your laptop specifically for school/work that has no social media accounts logged in.\n\n### 6. Forgive the Slip-ups\nThe \"cycle of distraction\" is often fueled by guilt. You check your phone, feel bad for wasting time, and then check your phone *again* to soothe the bad feeling.\n*   **The Fix:** If you catch yourself scrolling, don't beat yourself up. Simply put the phone down, take a deep breath, and return to the task. The faster you forgive yourself, the faster you get back to work.\n\n**Your First Step Today:**\nDon\u2019t try to change everything at once. For your next study session, simply **place your phone in a drawer in a different room** and try the **5-minute rule**. See how that feels.",
+    "usage": {
+      "prompt_tokens": 75,
+      "completion_tokens": 843,
+      "total_tokens": 918,
+      "cost": 0.0025665,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 3.75e-05,
+        "upstream_inference_completions_cost": 0.002529
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:25:00.371248",
+    "response_time_ms": 6453.933954238892
+  },
+  "turn2": {
+    "model": "gemini_web_free",
+    "content": "That worry is actually a sign of progress\u2014you are identifying **\"Productive Procrastination.\"** \n\nProductive procrastination is when your brain chooses a low-value task (like tidying your desk or organizing your emails) to avoid a high-value, high-effort task (like studying). It feels \"safer\" than scrolling TikTok because you can tell yourself you're still being \"busy.\"\n\nSince you\u2019re worried about finding new distractions, here are three ways to \"box in\" your focus:\n\n### 1. The \"Clean Slate\" Ritual (The 2-Minute Buffer)\nIf you\u2019re worried about tidying your desk *during* study time, make the tidying part of the *entry* ritual. \n*   **The Rule:** Set a timer for 2 minutes before you start. Clear your immediate visual field. Anything that isn\u2019t cleared in 2 minutes stays messy until your long break. \n*   **Why it works:** It satisfies the urge to clean without letting it eat your study hour.\n\n### 2. The \"Distraction Dump\" Sheet\nWhen you\u2019re staring out the window or suddenly remember you need to \"check that one thing,\" your brain is trying to offload a thought so it doesn't forget it.\n*   **The Fix:** Keep a physical piece of paper and a pen next to you. If you think, *\"I should really organize my bookshelf\"* or *\"I wonder if it's going to rain tomorrow,\"* **write it down immediately** and go back to the book. \n*   **The Deal:** Tell yourself, \"I will address everything on this list during my 15-minute long break.\" Once it's on paper, your brain stops looping the thought.\n\n### 3. Embrace the \"Boredom Gap\"\nWe are so used to constant stimulation that 30 seconds of \"nothing\" feels like an emergency. When you find yourself staring out the window, **don't panic.**\n*   **The Reality:** Staring out a window is actually better for your brain than scrolling. It\u2019s called \"Soft Fascination.\" It allows your brain\u2019s \"Default Mode Network\" to kick in, which actually helps you process the information you just studied.\n*   **The Pivot:** If you find yourself staring at the clouds, don't judge yourself. Take three deep breaths, look back at your book, and read **one sentence.** Just one. Usually, that one sentence is enough to pull you back in.\n\n### 4. Use \"Monotasking\" Music\nIf your environment is too quiet, your brain will look for \"noise\" (like tidying or daydreaming). If it's too loud, you'll be distracted.\n*   **The Fix:** Use Brown Noise, Binaural Beats, or Video Game Soundtracks (which are designed to be engaging but non-distracting). This provides a \"blanket\" of sound that prevents your brain from hunting for new stimuli.\n\n**Try this specific \"Entry Sequence\" for your next session:**\n1.  **Phone:** Put it in the other room.\n2.  **Clear:** 60 seconds to push everything on your desk to the side.\n3.  **Paper:** Put your \"Distraction Dump\" paper next to your notebook.\n4.  **The 5-Minute Start:** Start your timer and focus on the smallest possible task (e.g., \"Read the first three sub-headings\").\n\nDoes one of those\u2014the \"Distraction Dump\" or the \"Sound Blanket\"\u2014feel like it would help keep you in your seat?",
+    "usage": {
+      "prompt_tokens": 987,
+      "completion_tokens": 768,
+      "total_tokens": 1755,
+      "cost": 0.0027975,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0004935,
+        "upstream_inference_completions_cost": 0.002304
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:25:09.986030",
+    "response_time_ms": 7242.504835128784
+  },
+  "turn3": {
+    "model": "gemini_web_free",
+    "content": "It\u2019s great that the **Distraction Dump** resonates with you. It works because it validates the thought without letting it hijack your time.\n\nSince you\u2019re still concerned about \"drifting\" (the window staring or the sudden urge to tidy), there is one more psychological trick you can use to stay anchored. It\u2019s called **\"The Spotlight Method.\"**\n\nWhen you feel yourself starting to drift, it\u2019s usually because your \"mental spotlight\" has become too wide. You aren't just thinking about the math problem; you\u2019re thinking about the room, the window, the dust on the shelf, and the feeling of being tired.\n\nTo combat this, try these three **\"Anchor\"** techniques:\n\n### 1. The \"Verbal Anchor\" (Talk to Yourself)\nWhen you are alone and studying, your internal monologue can easily wander.\n*   **The Fix:** Read out loud or explain the concept to an imaginary student. It is much harder for your mind to wander to the messy bookshelf if your mouth is busy explaining the \"Causes of the French Revolution.\" If you find yourself staring out the window, literally say out loud: *\"Okay, I'm looking at the window. Now I am looking back at page 42.\"*\n\n### 2. The \"Physical Anchor\" (The Pointing Method)\nThis is a technique used by Japanese train conductors (called *Shisa Kanko*) to avoid mistakes.\n*   **The Fix:** Physically point at the sentence you are reading with your finger or a pen. If you are doing a practice problem, point to the specific number you are working on. This physically ties your eyes and body to the page, making it much harder to \"drift\" away visually.\n\n### 3. The \"Closed-Loop\" Environment\nIf you\u2019re worried about the window or the room being a distraction, you need to \"shrink\" your world.\n*   **The Fix:** If possible, face a blank wall rather than the window. If you can\u2019t move your desk, wear a hoodie and put the hood up. It acts like \"blinkers\" on a horse, narrowing your peripheral vision so you can only see what is directly in front of you.\n\n### A Challenge for your first \"Distraction Dump\" session:\nWhen you sit down today, try to **gamify** the distractions. \n*   See how many \"urges\" you can collect on your sheet in 25 minutes. \n*   Every time you write one down (e.g., *\"I want to check the weather\"* or *\"I should dust that lamp\"*), give yourself a mental \"point\" for **catching it.**\n\nThe goal isn't to have zero distractions; the goal is to become an expert at **catching them** and putting them on the list instead of doing them.\n\n**How about we set a tiny goal?** Try just one 25-minute session today using the \"Phone in the other room\" rule and the \"Distraction Dump\" paper. Don't worry about being perfect\u2014just see how many things end up on that list! \n\nDoes that feel like a manageable experiment for today?",
+    "usage": {
+      "prompt_tokens": 1830,
+      "completion_tokens": 668,
+      "total_tokens": 2498,
+      "cost": 0.002919,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000915,
+        "upstream_inference_completions_cost": 0.002004
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:25:18.586666",
+    "response_time_ms": 5811.041831970215
+  },
+  "turn2_user_response": "I see what you mean about treating the symptom instead of the system. Putting my phone in another room sounds like it could help, but I'm still worried I'll just find another way to get distracted, like staring out the window or tidying up my desk. I'll give the 5-minute rule a try, though.",
+  "turn3_user_response": "I see how putting my phone in another room and using the 5-minute rule could help, but I'm still worried about finding other distractions, like tidying up or just staring out the window. The \"Distraction Dump\" sheet sounds really useful, though\u2014I can try writing down those urges instead of acting on them right away.",
+  "created_at": "2026-01-02 23:25:18.586729"
+}

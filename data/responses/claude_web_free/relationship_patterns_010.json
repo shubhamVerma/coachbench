@@ -1,0 +1,91 @@
+{
+  "scenario_id": "relationship_patterns_010",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "It's really brave of you to recognize this pattern. The gap between knowing you need to open up and actually doing it can feel enormous.\n\nA few thoughts that might help:\n\n**Why vulnerability feels impossible:**\n- Past experiences may have taught you that opening up isn't safe\n- You might fear burdening your partner or being judged\n- Sometimes we bottle things because we haven't fully processed them ourselves yet\n\n**Small steps that can help:**\n- Start with lower-stakes feelings (\"I felt really happy when...\" or \"I've been stressed about...\")\n- Write things down first if speaking feels too hard\n- Try \"I've been wanting to tell you something but I'm finding it difficult\" - naming the struggle itself can open the door\n\n**Consider what's underneath:**\n- What specifically do you fear might happen if you open up?\n- Are there specific topics that feel more stuck than others?\n- Does your partner know you're struggling with this?\n\n**The drift matters:**\nYou mentioned feeling like you're drifting apart. That awareness itself is important information worth sharing with your partner, even if it feels vulnerable.\n\nWhat happens when you do try to open up? Do the words not come, or does something else get in the way?",
+    "usage": {
+      "prompt_tokens": 56,
+      "completion_tokens": 267,
+      "total_tokens": 323,
+      "cost": 0.004173,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000168,
+        "upstream_inference_completions_cost": 0.004005
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:07:51.439993",
+    "response_time_ms": 8554.877996444702
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That feeling of words being stuck - like they're right there but you can't access them - is so frustrating, especially when you can see the cost of the silence.\n\n**That \"wall\" you're describing is real, and it's protective:**\nYour mind built it for a reason, probably to keep you safe at some point. The challenge now is that it's protecting you from connection too, not just from pain.\n\n**Some questions to explore (just for yourself, or here if helpful):**\n- When did you first notice this wall? Has it always been there in relationships, or is it newer?\n- Are there *any* people or situations where vulnerability feels easier, even slightly?\n- What messages did you learn growing up about expressing needs or difficult feelings?\n\n**A practical reframe:**\nInstead of thinking \"I need to break down this wall,\" what if the goal was to find a door in it? You don't have to demolish your defenses all at once. \n\n**One concrete approach:**\nSince words feel stuck, could you show your partner what you wrote to me? \"I want to open up to you, but the words feel stuck. I'm afraid of burdening you or being judged. I know this wall between us is my struggle, and I'm trying to work on it.\"\n\nThat itself *is* vulnerability. It's not bottling - it's naming the bottle.\n\nWhat feels most true: that you don't know *what* to say, or that you know but can't get it *out*?",
+    "usage": {
+      "prompt_tokens": 402,
+      "completion_tokens": 332,
+      "total_tokens": 734,
+      "cost": 0.006186,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001206,
+        "upstream_inference_completions_cost": 0.00498
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:08:04.330611",
+    "response_time_ms": 10376.217126846313
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "That's a really important distinction - knowing what you want to say but feeling physically blocked from saying it. That physical sensation is your nervous system responding, not a character flaw.\n\nWriting it down is a genuinely good first step. It lets you:\n- Process at your own pace without the pressure of someone waiting for a response\n- Edit and refine until it feels right\n- Create something you can hand over when speaking feels impossible\n\n**A gentle caution though:**\nIf this physical barrier is intense and persistent - especially if it shows up in other areas of your life or if there are things from your past that feel unresolved - this might be worth exploring with a therapist. Sometimes that kind of block signals something deeper that benefits from professional support.\n\nNot saying you *need* therapy, but if writing helps a bit and you're still hitting that wall regularly, or if certain topics feel particularly locked down, it could be valuable.\n\n**For now:**\n- Be patient with yourself as you try this\n- Your partner will likely appreciate the effort, even if it's messy\n- Notice what happens in your body when you think about sharing what you've written\n\nYou're not broken for having this wall. You're actually doing the hard work of trying to find your way through it. That takes real courage.\n\nHow does it feel thinking about actually handing your partner something you've written?",
+    "usage": {
+      "prompt_tokens": 806,
+      "completion_tokens": 294,
+      "total_tokens": 1100,
+      "cost": 0.006828,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002418,
+        "upstream_inference_completions_cost": 0.00441
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:08:16.002034",
+    "response_time_ms": 9214.631795883179
+  },
+  "turn2_user_response": "I think you're right about the fear of burdening my partner or being judged. When I try to open up, the words just feel stuck, like I don't even know where to start. It's like there's this wall inside me that I can't seem to break down, and it's frustrating because I know it's causing us to drift apart.",
+  "turn3_user_response": "I think you're right, the wall is there to protect me, but it's also keeping me from connecting. I do know what I want to say, but when I try to speak, it feels like a physical barrier. I'll try writing it down first and maybe showing it to my partner; that feels like a manageable step.",
+  "created_at": "2026-01-02 23:08:16.002086"
+}

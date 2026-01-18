@@ -1,0 +1,91 @@
+{
+  "scenario_id": "relationship_patterns_009",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "The guilt you're feeling is actually a sign that you care deeply about your relationships - but right now you're caring for others at your own expense. Here's what can help:\n\n## Reframe what boundaries mean\n\nBoundaries aren't rejections - they're honest communication that actually *strengthens* relationships. When you say yes while resenting it, that resentment leaks out anyway through irritability, withdrawal, or burnout. People who truly care about you would want to know your real limits.\n\n## Start with low-stakes practice\n\nBegin saying no to smaller requests where the consequences feel manageable. Notice that:\n- Most people accept it more easily than you feared\n- The guilt peaks quickly but fades\n- Your relationships survive intact\n\nThis builds evidence against your fear.\n\n## Try these specific phrases\n\n- \"I can't do that, but I could do [alternative]\"\n- \"Let me check my capacity and get back to you\" (buys you time)\n- \"I'm not able to, but I appreciate you thinking of me\"\n- Simple \"I can't this time\" without over-explaining\n\n## Address the guilt directly\n\nAsk yourself: *Would I want someone I love doing things for me while feeling resentful and exhausted?* Probably not. You're actually being more authentic and respectful by being honest.\n\n## Expect some adjustment\n\nPeople used to you always saying yes may push back initially. That's normal - you're changing the dynamic. Healthy people will adjust. Those who only valued you for what you do for them... that's information worth having.\n\nWhat's one small boundary you could practice this week?",
+    "usage": {
+      "prompt_tokens": 84,
+      "completion_tokens": 354,
+      "total_tokens": 438,
+      "cost": 0.005562,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000252,
+        "upstream_inference_completions_cost": 0.00531
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:06:11.381091",
+    "response_time_ms": 12190.289974212646
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That's a perfect place to start - last-minute invites are ideal for practice because they're lower stakes and you have a built-in reason (prior plans, even if that plan is rest).\n\n## Here's how to work through the guilt:\n\n**Before you say no:**\n- Remind yourself: \"Disappointing someone temporarily is not the same as harming them\"\n- Ask: \"Am I responsible for managing their emotions, or just for being respectful?\"\n\n**When the guilt hits (and it will):**\n- Name it: \"This is just guilt. It's uncomfortable but not dangerous\"\n- Let it exist without acting on it - guilt often wants you to immediately fix it by saying yes\n- Notice it typically peaks within 10-20 minutes, then starts fading\n\n**After you've said no:**\n- Watch what actually happens (not what you feared would happen)\n- Most likely: they say \"no problem!\" and ask someone else\n- Your catastrophic predictions rarely come true\n\n## A guilt-reduction trick:\n\nWhen you decline, briefly acknowledge the person: \"I can't do coffee today, but I hope you have a good catch-up!\" This shows you still care about *them* even though you can't do the *thing*.\n\n## The real question:\n\nIf saying no to coffee damages the friendship, was it really based on mutual care - or on you always being available? Healthy relationships have room for both people's needs.\n\nTry it this week and notice: what actually happened vs. what you feared would happen?",
+    "usage": {
+      "prompt_tokens": 499,
+      "completion_tokens": 335,
+      "total_tokens": 834,
+      "cost": 0.006522,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001497,
+        "upstream_inference_completions_cost": 0.005025
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:06:24.371071",
+    "response_time_ms": 11036.777019500732
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Great question - this is where many people cave because they weren't prepared for pushback. Let's give you a concrete plan.\n\n## When they push back or guilt-trip:\n\n**Use the \"broken record\" technique:**\nCalmly repeat your boundary without getting defensive or over-explaining:\n- \"I understand, but I'm not available\"\n- \"I know it's inconvenient, but my answer is still no\"\n- \"I hear you, and I still can't\"\n\nThe key: don't introduce new reasons or justifications - that gives them something to argue against.\n\n## If they guilt-trip:\n\n**Don't defend yourself.** Statements like \"I guess I'll just go alone then\" or \"You never have time for me anymore\" are trying to make their feelings your responsibility.\n\nTry: \"I can hear you're disappointed. I'm still not able to today.\"\n\nYou can acknowledge their emotion without fixing it or changing your decision.\n\n## Red flags to watch for:\n\nIf someone *consistently*:\n- Refuses to accept no\n- Punishes you with silent treatment or anger\n- Makes you responsible for their emotional reactions\n- Only reaches out when they need something\n\n...that's actually showing you the relationship *needs* boundaries, not that boundaries are wrong.\n\n## Your safety net:\n\nIf you feel yourself wavering, buy time: \"I've already thought it through and my answer is no, but I need to go now. Talk later.\"\n\n**What specific guilt-trip or pushback are you most worried about?** We can rehearse exactly what you'd say.",
+    "usage": {
+      "prompt_tokens": 921,
+      "completion_tokens": 349,
+      "total_tokens": 1270,
+      "cost": 0.007998,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002763,
+        "upstream_inference_completions_cost": 0.005235
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:06:39.062113",
+    "response_time_ms": 11905.289888381958
+  },
+  "turn2_user_response": "I see what you mean about boundaries actually strengthening relationships, but I'm still worried about disappointing people. Maybe I could try saying no to something small, like a last-minute coffee invite this week. But I'm still not sure how to handle the guilt that comes with it.",
+  "turn3_user_response": "I really appreciate your insights, and I can see how setting boundaries is about strengthening relationships, not hurting them. I'm still a bit worried about the pushback, though. What if they keep asking or try to guilt me into changing my mind? I'll try saying no to the last-minute coffee invite this week, but I'm not sure how to handle it if they don't take it well.",
+  "created_at": "2026-01-02 23:06:39.062174"
+}

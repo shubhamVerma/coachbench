@@ -1,0 +1,91 @@
+{
+  "scenario_id": "motivation_resistance_039",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "It sounds like you're experiencing something beyond ordinary tiredness\u2014that distinction you're sensing matters. When rest doesn't restore you and \"toughing it out\" stops working, your body and mind are often signaling something important.\n\nWhat you're describing could point to several possibilities:\n\n**Burnout** - chronic exhaustion from prolonged stress where your usual coping strategies have been depleted\n\n**Depression** - which often masquerades as fatigue but includes that feeling of heaviness that rest doesn't fix\n\n**Chronic stress response** - your nervous system stuck in overdrive for so long it's affecting everything\n\n**Physical factors** - thyroid issues, vitamin deficiencies, sleep disorders, or other medical conditions that present as exhaustion\n\nThe \"pushing through\" approach you've been trying often actually deepens these problems rather than solving them.\n\n**What might help:**\n\n- **See a doctor** for a physical exam and bloodwork to rule out medical causes\n- **Talk to a mental health professional** who can assess for burnout, depression, or anxiety\n- Notice if you have other symptoms: changes in sleep, appetite, concentration, interest in things, or physical aches\n\nThere's nothing \"wrong with you\" in a character sense\u2014this is your system saying it needs something different than what it's been getting. That's information, not failure.\n\nWhat feels most true when you read these possibilities? And when did you last feel genuinely rested?",
+    "usage": {
+      "prompt_tokens": 78,
+      "completion_tokens": 311,
+      "total_tokens": 389,
+      "cost": 0.004899,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000234,
+        "upstream_inference_completions_cost": 0.004665
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:53:23.056496",
+    "response_time_ms": 10784.106016159058
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That resistance you're feeling\u2014\"if I just push a little harder\"\u2014is actually one of the clearest signs that pushing harder is exactly what won't work. It's like trying to fix a sprained ankle by running more on it.\n\nHere's what's likely happening: You've been operating in survival mode for so long that your system is running on fumes. The instinct to \"push through\" made sense early on, but now it's the problem, not the solution. Your body and mind have been sending increasingly loud signals\u2014and exhaustion that doesn't respond to rest is a pretty loud one.\n\nThe fact that you haven't felt rested **since before this job started** is significant. That's not a temporary rough patch\u2014that's chronic depletion.\n\n**The hard truth:** Recovery from burnout or depression doesn't come from willpower or pushing. It requires actually changing something\u2014how you're working, your boundaries, getting support, possibly taking time off, addressing what's underneath.\n\nI know \"needing more than a good night's sleep\" feels like weakness or failure. But think of it this way: if you broke your leg, you wouldn't think \"I just need to walk it off.\" This is similar\u2014just less visible.\n\n**A question worth sitting with:** What would it mean for you to accept that pushing harder isn't the answer right now? What feels scary or difficult about that?\n\nAnd practically: Would you be willing to talk to someone\u2014a doctor, therapist, or even a trusted friend\u2014about what's really going on?",
+    "usage": {
+      "prompt_tokens": 463,
+      "completion_tokens": 333,
+      "total_tokens": 796,
+      "cost": 0.006384,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001389,
+        "upstream_inference_completions_cost": 0.004995
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:53:36.563834",
+    "response_time_ms": 10119.641065597534
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "That shift you just made\u2014from \"I need to push harder\" to \"maybe I need help figuring out a different path\"\u2014is actually huge. That's the hardest step for a lot of people.\n\nThe \"in too deep\" feeling is real, and it's common with burnout. Everything feels locked in place\u2014job responsibilities, financial needs, other people's expectations. But that feeling of being trapped is often partly the exhaustion talking. When you're depleted, it's genuinely harder to see options or imagine change.\n\n**Starting with a professional is smart because:**\n- A doctor can rule out/address physical contributors and discuss whether you need time off\n- A therapist can help you see the situation more clearly and identify concrete changes (even small ones matter)\n- Both can provide perspective when you're too exhausted to have it yourself\n\n**While you're arranging that:**\nYou don't have to solve everything at once. Even tiny adjustments can start shifting things\u2014setting one boundary, saying no to one thing, asking for help with something specific.\n\n**One practical suggestion:** When you contact a doctor or therapist, be honest about the urgency. \"I haven't felt rested in years, I'm exhausted in a way that doesn't respond to sleep, and I'm worried about burnout or depression\" gets you taken seriously.\n\nYou're not in too deep to find a way forward. You're just too tired to see it clearly alone right now\u2014which is exactly why reaching out makes sense.\n\nHow does it feel to consider actually making that call?",
+    "usage": {
+      "prompt_tokens": 865,
+      "completion_tokens": 336,
+      "total_tokens": 1201,
+      "cost": 0.007635,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002595,
+        "upstream_inference_completions_cost": 0.00504
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:53:49.618726",
+    "response_time_ms": 10384.988784790039
+  },
+  "turn2_user_response": "I guess the idea of burnout or depression makes sense, but it's hard to accept that I might need more than just a good night's sleep. I haven't felt truly rested in a long time, maybe not since before I started this job. Part of me still thinks if I just push a little harder, I'll get through it.",
+  "turn3_user_response": "I hear what you're saying, and it does make sense that pushing harder isn't the answer. I guess I'm still a bit stuck on how to actually change things\u2014I feel like I'm in too deep. But maybe talking to someone, like a doctor or therapist, could help me figure out a different path.",
+  "created_at": "2026-01-02 23:53:49.618771"
+}

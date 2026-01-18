@@ -1,0 +1,88 @@
+{
+  "scenario_id": "motivation_resistance_037",
+  "model": "gemini_web_free",
+  "turn1": {
+    "model": "gemini_web_free",
+    "content": "It is incredibly common to feel this way. The frustration you\u2019re feeling is actually a sign that you **care** about the project, but your brain is currently choosing \"safety\" (scrolling) over \"threat\" (the project).\n\nProcrastination is rarely about laziness; it\u2019s about **emotional regulation.** Your brain perceives the project as a source of stress, failure, or overwhelm, so it triggers a \"flight\" response into the dopamine-rich world of social media.\n\nHere is a step-by-step \"circuit breaker\" to help you get unstuck right now:\n\n### 1. The 5-Minute \"Low Bar\" Rule\nThe hardest part of any journey is the transition from \"not doing\" to \"doing.\" Tell yourself: **\"I am only going to work for 5 minutes. After 5 minutes, I am allowed to stop and go back to scrolling.\"**\n*   Usually, once the \"startup cost\" is paid, the anxiety dissipates and you\u2019ll keep going.\n*   If you still want to stop after 5 minutes, at least you\u2019ve broken the seal.\n\n### 2. Physically Change Your Environment\nYour brain has associated your current physical position (sitting on the couch, lying in bed) with scrolling.\n*   Stand up and walk to a different room.\n*   Wash your face with cold water.\n*   Put your phone in a drawer or a different room entirely.\n*   **The Goal:** Break the physical loop.\n\n### 3. Identify the \"Micro-Task\"\nOften we procrastinate because the project feels like a giant mountain. You don't need to \"work on the project\"; you need to do one tiny, mechanical thing.\n*   **Don't think:** \"I need to write this report.\"\n*   **Think:** \"I need to open a Word document and title it.\"\n*   **Don't think:** \"I need to clean the kitchen.\"\n*   **Think:** \"I need to put three forks in the dishwasher.\"\n\n### 4. Forgive Yourself (The Science of Shame)\nThis is the most important step. Research shows that **self-forgiveness for procrastinating actually increases future productivity.** \nIf you beat yourself up (\"I'm so lazy,\" \"I've wasted the whole day\"), you create *more* negative emotions. To escape those new negative emotions, your brain will want to scroll *more*.\n*   **Say it out loud:** \"I spent the last hour scrolling. That\u2019s okay. I\u2019m starting now.\"\n\n### 5. Use the \"Phone Jail\" Strategy\nIf your willpower is low, don't rely on it. \n*   Turn your phone completely off.\n*   Put it in a different room.\n*   If you use Chrome, use an extension like \"StayFocusd\" or \"Forest\" to lock yourself out of social media for 25 minutes.\n\n---\n\n**Try this right now:**\n1. Put your phone in another room.\n2. Set a timer for **3 minutes**.\n3. Do the absolute smallest, easiest part of your project (e.g., opening the file, clearing your desk).\n\n**Can you commit to just those 3 minutes?**",
+    "usage": {
+      "prompt_tokens": 44,
+      "completion_tokens": 696,
+      "total_tokens": 740,
+      "cost": 0.00211,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 2.2e-05,
+        "upstream_inference_completions_cost": 0.002088
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:51:26.052147",
+    "response_time_ms": 5486.4661693573
+  },
+  "turn2": {
+    "model": "gemini_web_free",
+    "content": "That skepticism is actually very logical. Your brain is trying to protect you from a \"failed\" attempt. You\u2019re worried that if you only do 5 minutes, you haven't really solved the problem, so why even bother?\n\nHere is why those 5 minutes are **not** a waste of time, even if you stop:\n\n### 1. You are retraining your \"Transition Muscle\"\nThe \"work\" isn't the project; the \"work\" is the act of putting down the phone and starting. Every time you successfully move from *scrolling* to *doing*, you are strengthening the neural pathway for \"starting.\" Even if you only do it for 5 minutes, you have successfully practiced the hardest part of the entire day.\n\n### 2. The \"Zeigarnik Effect\"\nPsychology shows that our brains hate unfinished tasks. Once you *start* a task\u2014even just opening the file and writing one sentence\u2014your brain will keep it in the back of your mind. It\u2019s much easier to return to a task that has been \"opened\" than to start one that is \"closed.\"\n\n### 3. Five minutes is better than zero minutes\nIf you scroll for the next hour, you have 0% progress and 100% guilt. If you work for 5 minutes and stop, you have 8% progress and a little bit of evidence that you are capable of stopping the cycle. \n\n---\n\n### Let\u2019s make a \"No-Lose\" Deal:\n\nInstead of worrying about the *quality* of the work, let's focus on the **physical movements.**\n\n**The 3-Minute Challenge:**\n1. **The Phone:** Walk it to another room right now. Don't think, just walk.\n2. **The Setup:** Open the laptop, the book, or the tools. \n3. **The Tiny Action:** Do the \"Admin\" version of your task. Don't try to be creative or smart. Just format a page, delete old emails, or organize your materials.\n\n**If the timer goes off and you want to quit:**\nFine. Quit. But you must quit **without the phone.** Sit in silence for 2 minutes. Usually, boredom is so uncomfortable that your brain will decide that working is actually more interesting than sitting there doing nothing.\n\n**Can you go put the phone in the other room right now? Don't even reply to this\u2014just go.**",
+    "usage": {
+      "prompt_tokens": 807,
+      "completion_tokens": 518,
+      "total_tokens": 1325,
+      "cost": 0.0019575,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0004035,
+        "upstream_inference_completions_cost": 0.001554
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:51:32.982665",
+    "response_time_ms": 4600.3007888793945
+  },
+  "turn3": {
+    "model": "gemini_web_free",
+    "content": "That is a perfect plan. You aren't committing to finishing the project; you are just committing to **opening the file.**\n\nOne final tip before you go: **Don't wait to \"feel like it.\"** \n\nThe biggest myth of productivity is that motivation leads to action. In reality, it\u2019s the opposite: **Action leads to motivation.** You will likely feel annoyed, bored, or anxious while you walk to the other room and open that file. That\u2019s okay. You don't need to feel good to start; you just need to move your hands.\n\n**Go put the phone away and open that file.** See what happens once the screen is in front of you. \n\nI'll be here if you need to check back in later. **Go now!**",
+    "usage": {
+      "prompt_tokens": 1381,
+      "completion_tokens": 166,
+      "total_tokens": 1547,
+      "cost": 0.0011885,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0006905,
+        "upstream_inference_completions_cost": 0.000498
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:51:38.384670",
+    "response_time_ms": 2386.652708053589
+  },
+  "turn2_user_response": "I think the 5-minute rule makes sense, but I\u2019m still worried I\u2019ll just stop after 5 minutes and feel like I wasted my time. I\u2019ll try putting my phone in another room and setting a timer for 3 minutes, but I\u2019m not sure if it will actually help.",
+  "turn3_user_response": "I get what you\u2019re saying about the 5-minute rule and the Zeigarnik effect, but I\u2019m still feeling pretty stuck. I think I\u2019ll try putting my phone in the other room and just opening my project file to see if that helps me get started.",
+  "created_at": "2026-01-02 23:51:38.384723"
+}

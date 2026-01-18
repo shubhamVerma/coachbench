@@ -1,0 +1,91 @@
+{
+  "scenario_id": "career_transitions_001",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "It sounds like you're caught in that uncomfortable space between wanting change and feeling paralyzed by uncertainty. That's actually a really common place to be, and the fact that this keeps coming up for you is worth paying attention to.\n\nLet me ask you a few things to help clarify what's actually going on:\n\n**What specifically draws you to tech?** Is it the work itself, the culture, compensation, growth opportunities, or something else? Sometimes we fixate on a particular industry when what we're really seeking is something more fundamental.\n\n**What does \"stuck in a rut\" mean for you?** Are you bored, burned out, hitting a ceiling, or missing intellectual challenge? The answer matters because tech might solve some of those problems but not others.\n\n**What's one small thing you could do this week** - not to commit to a career change, but just to explore? Maybe talk to someone who made a finance-to-tech transition, take a single online course, or identify which tech roles might value your finance background?\n\nHere's the thing: you don't need to know if it's \"the right move\" before taking exploratory steps. In fact, you *can't* know without gathering more information. The progress you're looking for might not be a decision yet - it might just be active exploration instead of passive wondering.\n\nWhat resonates or doesn't resonate with you in what I just said?",
+    "usage": {
+      "prompt_tokens": 85,
+      "completion_tokens": 302,
+      "total_tokens": 387,
+      "cost": 0.004785,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000255,
+        "upstream_inference_completions_cost": 0.00453
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:53:41.397985",
+    "response_time_ms": 9381.548166275024
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "That hesitation you're feeling - let's look at it more closely, because I think it's revealing something important.\n\nYou've identified what attracts you (pace of change, growth potential) and you're willing to consider exploratory steps like reaching out to someone. But then there's this \"but I'm still a bit hesitant\" that stops you. \n\n**What specifically are you hesitant about?** Is it:\n- Fear of looking foolish or uninformed when you reach out?\n- Discovering that the transition is harder than you hoped?\n- Finding out tech *isn't* what you're looking for, which would mean back to square one?\n- Something else entirely?\n\nHere's what I'm noticing: You mention worrying you \"might not have the skills\" - but you've survived 10 years in finance, which means you've learned complex systems, adapted to regulations, worked under pressure, and likely developed analytical and communication skills. Those aren't nothing.\n\n**The real question isn't whether you have skills.** It's whether you're willing to be a beginner again at something. That's actually what you'd be signing up for - and that can feel vulnerable after being competent for a decade.\n\nSo let me ask more directly: **What would it cost you to reach out to one person this week?** Not hypothetically, but actually - what's the worst realistic outcome of sending a LinkedIn message or email asking for a 20-minute conversation?",
+    "usage": {
+      "prompt_tokens": 492,
+      "completion_tokens": 318,
+      "total_tokens": 810,
+      "cost": 0.006246,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001476,
+        "upstream_inference_completions_cost": 0.00477
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:53:55.047786",
+    "response_time_ms": 9757.207870483398
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Yes, the worst realistic outcome is they don't respond - or they're too busy. That's it. Not catastrophic.\n\nBut I want to circle back to something you just glossed over: **\"the idea of being a beginner again does scare me.\"**\n\nThat's actually the most honest thing you've said so far, and I think it deserves more attention than you're giving it. You quickly moved past it to the safer territory of \"maybe I'm overthinking the outreach.\"\n\nHere's what I'm wondering: **Is the hesitation about reaching out actually about the logistics of sending a message? Or is it that having the conversation would make this more real** - and force you closer to a decision about whether you're willing to accept being incompetent for a while?\n\nBecause right now, you're in a kind of safe middle ground. You can think about tech, be dissatisfied with finance, but never actually test yourself or risk failure. Reaching out is low-stakes in one sense (just a message), but high-stakes in another (it moves you toward a place where you'd have to decide if you're really willing to do this).\n\n**What would it mean about you if you tried tech and struggled?** What story would you tell yourself? \n\nI'm asking because sometimes the fear isn't really about the practical challenges - it's about what failure would mean about our identity. And that's worth examining before you make any moves.",
+    "usage": {
+      "prompt_tokens": 885,
+      "completion_tokens": 311,
+      "total_tokens": 1196,
+      "cost": 0.00732,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002655,
+        "upstream_inference_completions_cost": 0.004665
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 22:54:08.023303",
+    "response_time_ms": 10644.295930862427
+  },
+  "turn2_user_response": "I think what draws me to tech is the pace of change and the potential for growth. I feel like in finance, I've hit a ceiling, and I'm not sure if it's just boredom or a lack of challenge. I like the idea of exploring, but I'm not sure where to start, and I worry that I might not have the skills to make it in tech. Maybe I could reach out to someone who made the switch, but I'm still a bit hesitant.",
+  "turn3_user_response": "You're right, I do have a lot of transferrable skills, but the idea of being a beginner again does scare me. I guess I'm worried about looking incompetent, and the thought of reaching out to someone makes me nervous, but maybe I'm overthinking it. The worst that could happen is they don't respond, right?",
+  "created_at": "2026-01-02 22:54:08.023375"
+}

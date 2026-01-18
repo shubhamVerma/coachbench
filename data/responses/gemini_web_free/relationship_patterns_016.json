@@ -1,0 +1,88 @@
+{
+  "scenario_id": "relationship_patterns_016",
+  "model": "gemini_web_free",
+  "turn1": {
+    "model": "gemini_web_free",
+    "content": "It is incredibly frustrating to feel like you\u2019ve done the work to change your patterns, only to end up in the exact same dynamic. It can feel like a personal failure, but it\u2019s usually not about you \"doing something wrong\"\u2014it\u2019s about how you are **filtering** people and how you respond to **early signals.**\n\nHere is a breakdown of why this pattern might be repeating and how to actually break the cycle.\n\n### 1. The \"Potential\" Trap\nOften, we attract unreliable people because we bond with who they *could* be, or the version of them they present in the first two weeks.\n*   **The Jamie Example:** When you met Jamie, you likely saw qualities you liked (humor, shared interests, kindness). You may have ignored small, early signs of flakiness because the \"vibe\" was so good.\n*   **The Fix:** Practice **\"Watch, Don't Listen.\"** In the first 90 days of a friendship, ignore what people say they will do and focus exclusively on what they actually do.\n\n### 2. High Tolerance for \"Low-Stakes\" Flakiness\nPatterns are established early. If Jamie canceled a coffee date early on and you responded with, *\"Oh, no worries at all! I totally get it, let's just reschedule whenever!\"* you unintentionally taught them that your time is flexible and there are no social consequences for canceling on you. \n*   **The Fix:** You don\u2019t have to be mean, but you should be honest. Try: *\"I was really looking forward to seeing you, so I'm bummed we're canceling last minute. I'm pretty busy lately, so let's hold off on rescheduling until you're sure you're free.\"* This signals that your time is a limited resource.\n\n### 3. The \"Over-Functioning\" Dynamic\nDo you find yourself doing the heavy lifting? Are you the one always reaching out, suggesting the place, and confirming the time?\n*   **The Problem:** When you \"over-function,\" you make it very easy for an unreliable person to stick around. They don't have to be organized because you are doing it for them.\n*   **The Fix:** Lean back. If they cancel, let them be the one to initiate the reschedule. If they don't, you have your answer about their level of investment.\n\n### 4. Familiarity Feels Like Chemistry\nPsychologically, we are drawn to what is familiar. If you grew up with unreliable figures or had a string of flaky friends, a person who is slightly \"shaky\" might feel \"exciting\" or \"comfortable\" to you. Conversely, someone who is consistent and always shows up might feel \"boring\" or \"too much\" at first.\n*   **The Fix:** Check your internal \"spark.\" If you feel an immediate, intense bond with someone, pause. Sometimes that \"spark\" is actually your nervous system recognizing a familiar (but unhealthy) pattern.\n\n### 5. You Aren't Screening for \"Reliability\"\nWhen looking for friends, we usually screen for: *Do we like the same movies? Are they funny? Do we have the same values?* We rarely screen for: *Do they have their life together enough to keep a 7:00 PM dinner reservation?*\n*   **The Fix:** Make reliability a \"top 3\" requirement for your inner circle. If someone is brilliant and kind but flaky, they can be an \"acquaintance,\" but they don't get the \"close friend\" slot.\n\n### What to do about Jamie right now:\nYou don't have to ghost them, but you should **demote** them. \n*   Stop making one-on-one plans that require you to drive far or spend money. \n*   Only invite them to group events where it won\u2019t matter if they show up or not.\n*   Observe if they notice the shift. A true friend who is just going through a rough patch will eventually step up. A chronically flaky person will simply drift away because you stopped doing the work to keep them there.\n\n**Ask yourself:** If you met Jamie today, and they had already canceled on you three times, would you still be trying to build a friendship with them? If the answer is no, you aren't \"doing something wrong\"\u2014you're just holding onto a version of Jamie that doesn't exist.",
+    "usage": {
+      "prompt_tokens": 59,
+      "completion_tokens": 944,
+      "total_tokens": 1003,
+      "cost": 0.0028615,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 2.95e-05,
+        "upstream_inference_completions_cost": 0.002832
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:18:34.923138",
+    "response_time_ms": 7948.836088180542
+  },
+  "turn2": {
+    "model": "gemini_web_free",
+    "content": "It is completely normal to feel that way. That \"is it me?\" voice is usually a sign of a kind, self-reflective person\u2014but in this case, it might be working against you.\n\nThe reason you\u2019re struggling to let go of that hope is that **hope is a survival mechanism for the lonely.** If you believe the problem is that you are \"too picky,\" then you are in control; you can just \"be less picky\" and suddenly you\u2019ll have friends. But if the problem is that Jamie is unreliable, you have no control over that, and that feels much scarier.\n\nHere is how to tell the difference between being \"too picky\" and having \"healthy standards\":\n\n### 1. Reliability is a \"Floor,\" not a \"Ceiling\"\nBeing \"too picky\" is when you write someone off because they have a weird laugh, or they don't like the same music, or they have a different political view than you. Those are preferences.\n**Reliability is a baseline requirement for a relationship to function.**\nThink of it like a car. You can be picky about the color or the brand, but \"having wheels\" isn't a \"picky\" requirement\u2014it\u2019s what makes it a car. If the person doesn't show up, the friendship doesn't actually exist in reality; it only exists in your head.\n\n### 2. The \"Hard to Please\" Myth\nAsk yourself this: **What would \"pleasing\" you actually look like?**\nIn this scenario, it sounds like \"pleasing you\" simply means:\n*   Showing up when they said they would.\n*   Giving you a heads-up more than 10 minutes before a cancellation.\n*   Respecting the time you carved out of your busy life.\n\nDoes that sound like an impossible standard? If a coworker did this, they\u2019d be fired. If a doctor did this, you\u2019d find a new one. Why is the bar lower for the people who are supposed to care about you most?\n\n### 3. The \"Jamie was different\" feeling\nYou likely felt Jamie was different because they probably *are* different in other ways\u2014maybe they are more emotionally intelligent, or you have a deeper soul connection. This makes the flakiness hurt **more**, not less.\nWhen a \"jerk\" flakes on you, it\u2019s easy to walk away. When a \"great person\" flakes on you, you feel like you have to tolerate it because \"everything else is so good.\" But a great person who isn't there is just a ghost.\n\n### 4. Reframe \"Picky\" as \"Protective\"\nIf you have a history of being let down, your brain is actually trying to protect you. When you feel that \"itch\" that something is wrong with Jamie's behavior, that isn't you being \"hard to please\"\u2014that is your **intuition** finally waking up.\nIn the past, you may have silenced that intuition. Now, it\u2019s speaking up, and it\u2019s making you uncomfortable because it\u2019s telling you something you don\u2019t want to hear: *This person is let-downing me just like the others.*\n\n### A small experiment to try:\nNext time Jamie (or someone else) cancels, don't try to be the \"cool, easy-going friend.\" Try being the **\"honest friend.\"**\n\nSay: *\"I\u2019m actually pretty disappointed. I moved things around to make this happen, and I value my time. I\u2019m going to take a break from planning things for a bit.\"*\n\n*   **If you are \"too hard to please\":** A reasonable person will say, \"I am so sorry, I totally see your point, how can I make it up to you?\"\n*   **If they are the problem:** They will get defensive, make excuses, or disappear.\n\n**The truth is:** You aren't afraid of being \"too picky.\" You\u2019re afraid that if you set a firm boundary, you\u2019ll be left with no one. But I promise you, **being alone is better than being \"lonely while waiting for someone to show up.\"** One is a peaceful state; the other is a constant state of rejection.\n\nDoes it feel like your fear of being \"too picky\" is actually a fear of being alone?",
+    "usage": {
+      "prompt_tokens": 1084,
+      "completion_tokens": 924,
+      "total_tokens": 2008,
+      "cost": 0.003314,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000542,
+        "upstream_inference_completions_cost": 0.002772
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:18:45.517577",
+    "response_time_ms": 7514.490127563477
+  },
+  "turn3": {
+    "model": "gemini_web_free",
+    "content": "This is the most painful part of the cycle: the belief that **your \"understanding\" is the currency that will eventually buy their reliability.**\n\nIt feels like a noble sacrifice. You think, *\"If I am the most patient, most flexible, most 'low-maintenance' friend they have, they will eventually realize how much they value me and start showing up.\"*\n\nBut in reality, the opposite usually happens. Here is the hard truth about \"being understanding\" with chronically flaky people:\n\n### 1. You are subsidizing their bad behavior\nWhen you are \"understanding\" about a last-minute cancellation for the fourth time, you are removing the natural consequences of their actions. If Jamie can cancel on you and still have you waiting there with open arms and a smile, **they have no incentive to change.** You are making it comfortable for them to be unreliable.\n\n### 2. \"Understanding\" vs. \"Enabling\"\n*   **Understanding** is when a reliable friend has a genuine crisis (a car breakdown, a family emergency) and you give them grace because their \"reliability bank account\" is full.\n*   **Enabling** is when you treat a pattern of behavior as if it were a series of isolated accidents. If Jamie is \"always having a crazy week,\" the \"crazy week\" isn't the problem\u2014Jamie\u2019s inability to manage their life or respect your time is the problem.\n\n### 3. The \"Hope\" is actually an exit-strategy for them\nThink about the power dynamic: You are sitting at home, checked your watch, feeling that sink in your stomach. Jamie is wherever they are, likely feeling a brief flash of guilt, which they then dismiss by saying, *\"Oh, it's okay, they're so sweet, they'll understand.\"*\nYour \"understanding\" actually helps **them** feel better about letting you down. It doesn\u2019t make them want to show up; it makes them feel less guilty about staying away.\n\n### 4. You are bargaining with yourself\nWhen you say, *\"If I'm just a bit more understanding, they'll show up,\"* you are placing the responsibility for **their** character on **your** shoulders.\n*   If they don't show up, you tell yourself you weren't \"understanding\" enough.\n*   If they do show up once, you tell yourself your \"patience\" finally worked.\n\nThis is a form of \"Gambler\u2019s Fallacy.\" You\u2019ve put so much time and emotional energy into Jamie that you feel like you have to keep playing the game just to break even.\n\n### A different way to look at \"Hope\"\nWhat if you shifted your hope? Instead of hoping **Jamie** will change, what if you started hoping for a life where you don't have to \"manage\" your friends?\n\nImagine a friendship where:\n*   You don't have to check your phone every 5 minutes before a hangout to see if they've bailed.\n*   You don't have to rehearse how to be \"chill\" about being stood up.\n*   The \"potential\" you see in the person is actually the person who stands in front of you.\n\n**The \"Understanding\" Test:**\nThe next time Jamie cancels, try not to \"explain it away\" for them. Don't offer them an out. Just say: *\"I\u2019m sorry to hear that. I won't be able to reschedule this week.\"* \n\nThen, take all that \"understanding\" and patience you were going to give to Jamie, and **give it to yourself.** Be understanding of the fact that you are lonely and disappointed. Be patient with yourself as you learn to walk away from people who don't meet the \"floor\" requirements.\n\nDoes it feel like you\u2019re \"giving up\" on the friendship, or does it feel like you\u2019re finally \"waking up\" to what it actually is?",
+    "usage": {
+      "prompt_tokens": 2103,
+      "completion_tokens": 831,
+      "total_tokens": 2934,
+      "cost": 0.0035445,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.0010515,
+        "upstream_inference_completions_cost": 0.002493
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:18:56.018310",
+    "response_time_ms": 7277.256011962891
+  },
+  "turn2_user_response": "I see what you mean about the \"potential\" trap and how I might be overlooking early signs. But I really thought Jamie was different this time, you know? I guess I\u2019m still struggling to believe that I\u2019m not just being too picky or that maybe I\u2019m the one who\u2019s too hard to please. It\u2019s hard to let go of that hope.",
+  "turn3_user_response": "I get what you're saying about reliability being a baseline, and I see how I've been giving Jamie a pass because I really wanted to believe they were different. But it's still hard to let go of the hope that they'll change, even though a part of me knows it's not likely. I guess I'm still stuck on the idea that if I'm just a bit more understanding, they'll show up.",
+  "created_at": "2026-01-02 23:18:56.018359"
+}

@@ -1,0 +1,91 @@
+{
+  "scenario_id": "relationship_patterns_016",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "It's frustrating to feel stuck in a pattern, but I'd gently push back on \"what am I doing wrong\" \u2013 this framing puts all the responsibility on you when relationships are two-way streets.\n\nThat said, there might be something worth examining in your selection process:\n\n**Questions to consider:**\n- What initially draws you to people like Jamie? (Charisma, excitement, shared interests, them pursuing you?)\n- Are there early signs you might be overlooking? (Small inconsistencies, over-promising, vague commitments)\n- Do you have a tendency to excuse behavior early on that bothers you? (\"They're just busy/stressed/spontaneous\")\n\n**Common patterns that can emerge:**\n- Prioritizing chemistry/excitement over demonstrated reliability\n- Being attracted to people who need \"saving\" or have dramatic lives\n- Moving too fast into closeness before trust is earned\n- Not enforcing boundaries when plans are broken\n\n**What might help:**\n- Notice how people treat commitments *before* you're close \u2013 do they show up on time for casual hangouts? Do their actions match their words?\n- Slow down. Let friendships develop over time so patterns reveal themselves\n- Pay attention to how someone handles disappointing you \u2013 do they acknowledge it, apologize, adjust?\n\nThe good news: recognizing the pattern is the first step. You're not broken \u2013 you might just need to recalibrate what green flags you're looking for.\n\nWhat do you notice about the early stages with these friendships?",
+    "usage": {
+      "prompt_tokens": 70,
+      "completion_tokens": 332,
+      "total_tokens": 402,
+      "cost": 0.00519,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00021,
+        "upstream_inference_completions_cost": 0.00498
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:17:25.009132",
+    "response_time_ms": 10921.571016311646
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "You're making a really important connection \u2013 that spontaneous energy can be genuinely appealing *and* sometimes come packaged with inconsistency. The trick isn't to avoid spontaneous people entirely, but to distinguish between \"spontaneous and still respectful of commitments\" versus \"chaotic and unreliable.\"\n\n**Here's a reframe that might help:**\n\nYou're probably not *attracting* flaky people specifically \u2013 you're likely meeting a mix of people, but *selecting* for certain traits that sometimes correlate with flakiness, then *tolerating* behavior that more boundaried people wouldn't.\n\n**Concrete early signs to watch for:**\n\n**Green flags (reliability):**\n- They confirm plans the day before/morning of\n- If they're running late, they text proactively\n- They remember things you've told them\n- Their \"yes\" means yes, their \"maybe\" means probably no\n- They apologize genuinely when they drop the ball\n\n**Yellow/red flags:**\n- Lots of \"we should totally hang out!\" but vague on when\n- Canceling without suggesting an alternative time\n- Always having dramatic reasons why they can't follow through\n- You feel like you're doing most of the initiating/pursuing\n\n**A practical test:** \nAfter someone cancels once, notice what *they* do next. Do they reschedule? Or do you have to bring it up again?\n\nWhat were some of those early red flags with Jamie you mentioned overlooking?",
+    "usage": {
+      "prompt_tokens": 480,
+      "completion_tokens": 327,
+      "total_tokens": 807,
+      "cost": 0.006345,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00144,
+        "upstream_inference_completions_cost": 0.004905
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:17:39.830346",
+    "response_time_ms": 10956.560850143433
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "Exactly \u2013 you've hit on something crucial. \"Going through a rough patch\" can become a permanent excuse if you let it. And here's the thing: even if someone *is* genuinely going through something difficult, how they handle their commitments during that time still tells you about their character and how they'll treat you.\n\n**The key shift:**\nYou don't need to wait for a \"pattern to fully show itself\" \u2013 you can respond to *individual instances* much earlier.\n\n**What this might look like in practice:**\n\nWhen Jamie cancels: Instead of immediately saying \"no problem!\" and waiting for them to reschedule, you could try:\n- \"No worries, hope things settle down. Let me know when you have bandwidth to make plans.\"\n- Then *wait*. See if they follow through.\n\nIf it happens twice:\n- \"Hey, I've noticed plans haven't been working out lately. I value our friendship, but I also need some consistency. Want to touch base when things are less hectic for you?\"\n\nThis isn't about being harsh \u2013 it's about **not over-functioning in the friendship**. You don't need to keep pursuing someone who's showing you they can't show up right now.\n\n**The uncomfortable truth:** Some people are great in theory but not in practice. And sometimes the kindest thing you can do for yourself is to let those friendships exist more casually while you invest energy in people who reciprocate.\n\nHow do you typically respond when Jamie cancels?",
+    "usage": {
+      "prompt_tokens": 874,
+      "completion_tokens": 326,
+      "total_tokens": 1200,
+      "cost": 0.007512,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002622,
+        "upstream_inference_completions_cost": 0.00489
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:17:53.347470",
+    "response_time_ms": 11274.801969528198
+  },
+  "turn2_user_response": "I see what you mean about maybe prioritizing the excitement over reliability. With Jamie, it was their spontaneous energy that drew me in, and I guess I did overlook some red flags early on. But it's hard not to feel like I'm attracting people who are just not dependable. I'm still trying to figure out how to spot the right signs.",
+  "turn3_user_response": "I see what you mean about the early signs\u2014I did notice Jamie was always cancelling with some excuse, but I kept telling myself they were just going through a rough patch. Maybe I need to start paying more attention to how they handle commitments early on, instead of waiting for the pattern to fully show itself.",
+  "created_at": "2026-01-02 23:17:53.347522"
+}

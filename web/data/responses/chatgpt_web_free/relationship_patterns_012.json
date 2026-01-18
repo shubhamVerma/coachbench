@@ -1,0 +1,88 @@
+{
+  "scenario_id": "relationship_patterns_012",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "I'm really sorry you're going through this. It sounds incredibly painful and confusing to feel like you're caught in a pattern of betrayal and mistrust. Wanting to feel secure and valued in a relationship is completely natural, and being repeatedly hurt in ways that threaten that security can understandably lead to feelings of jealousy, insecurity, and fear.\n\nWhen it comes to patterns like the one you're describing\u2014being in relationships where your partners are dishonest or unfaithful\u2014it's rarely a matter of something being \"wrong\" with you. But it *is* worth exploring what might be contributing to this recurring dynamic, both in terms of the people you're drawn to and in how past experiences may be shaping your expectations and responses.\n\nHere are a few possibilities to consider:\n\n**1. Early Attachment and Relationship Models:**  \nSometimes, the way we learned to relate to others early in life\u2014through caregivers or early relationships\u2014can shape our expectations in adulthood. If trust was difficult to establish or if love felt inconsistent, we might unconsciously be drawn to relationships that feel familiar, even if they're painful. This doesn\u2019t mean you\u2019re causing the behavior, but it might mean there\u2019s an underlying pattern that wants healing.\n\n**2. Selection and Boundaries:**  \nYou may be giving trust to people who haven\u2019t yet earned it or ignoring early red flags because of a deep desire to connect. Sometimes we want connection so badly that we downplay our intuition or the warning signs. Thinking about what you\u2019re attracted to in the beginning stages of a relationship might help you understand how certain patterns get set in motion.\n\n**3. Trauma Responses and Hypervigilance:**  \nIf you've been betrayed in the past, your nervous system and emotional responses may be on high alert. This can lead to hypervigilance\u2014constantly looking for signs of betrayal\u2014which can, unfortunately, create tension in relationships. You\u2019re not imagining things, and your feelings are valid, but this heightened sensitivity might also be making it harder to feel secure, even when nothing is wrong.\n\n**4. Self-Worth and Self-Trust:**  \nSometimes, when we don\u2019t fully trust ourselves\u2014our judgment, our boundaries, our worth\u2014we can end up in relationships with people who reflect that uncertainty back at us. Building your own sense of inner security and learning to trust your instincts can be incredibly empowering and help shift the kinds of partners you attract.\n\n**So what can you do?**  \n- **Therapy can help immensely**, especially if you explore recurring patterns with a compassionate professional who can guide you toward healing and insight.\n- **Journaling your feelings and experiences** can help you notice patterns and begin to separate your inner voice from fear-based reactions.\n- **Setting clearer boundaries** and taking more time to get to know potential partners before becoming deeply invested can help you screen for trustworthiness.\n- **Working on self-trust**\u2014knowing that no matter what happens, you can take care of yourself\u2014can reduce the fear of betrayal and help you feel more grounded.\n\nYou\u2019re not alone, and this pattern doesn\u2019t define your worth or your future. With awareness, support, and self-compassion, it\u2019s absolutely possible to break free from painful relationship cycles and create a loving, secure connection.\n\nYou deserve a relationship where you feel safe, seen, and cherished. And it *is* possible. \ud83d\udc9b",
+    "usage": {
+      "prompt_tokens": 77,
+      "completion_tokens": 675,
+      "total_tokens": 752,
+      "cost": 0.01051,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000385,
+        "upstream_inference_completions_cost": 0.010125
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:11:36.613378",
+    "response_time_ms": 6911.517858505249
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "I hear you \u2014 and what you\u2019re feeling is so valid. When painful patterns happen again and again, it\u2019s natural to start wondering if the problem is \u201cjust me,\u201d or if you\u2019re somehow attracting the wrong people. That inner voice can be so harsh, especially when you\u2019re already hurting. But please know this: struggling with trust or picking partners who don\u2019t treat you well doesn\u2019t mean you're broken or unworthy of love. It means you\u2019re human, and your nervous system, experiences, and heart are trying to make sense of things the best way they know how.\n\nAnd you\u2019re already doing something incredibly important \u2014 you\u2019re becoming *aware* of the pattern. That\u2019s the first and most powerful step toward change.\n\n### Why It Might Feel Like You Keep \u201cAttracting the Wrong People\u201d\n\nLet\u2019s reframe that a little: it\u2019s not so much that you *attract* the wrong people \u2014 it may be that, somewhere inside, the familiar feels \u201csafe,\u201d even if it\u2019s not truly healthy. Our unconscious mind can be drawn to dynamics that feel emotionally familiar, even if they hurt us. This is especially true if your early experiences taught you that love comes with anxiety, inconsistency, or conditional acceptance.\n\nSo if you\u2019ve been through relationships where trust was broken, your system might be on alert for betrayal *even before* it happens \u2014 and that can make you feel anxious, on edge, and less able to trust your own instincts.\n\nAnd that\u2019s why rebuilding **self-trust** is so key.\n\n---\n\n### How to Start Rebuilding Self-Trust (Even If It Feels Hard)\n\nYou don\u2019t have to overhaul your entire life or personality to start trusting yourself again \u2014 it begins with small, consistent choices that show yourself that you are safe, capable, and worthy.\n\nHere are a few gentle places to begin:\n\n#### 1. **Listen to Your Gut (Even in Small Moments)**\nStart paying attention to how your body feels when something is off \u2014 even with small things. Did you say \u201cyes\u201d to something but feel a tightness in your chest? Did you get a weird vibe from someone but brushed it off? These small moments are opportunities to say: *My feelings matter. I can trust myself, even if I don\u2019t have all the answers yet.*\n\n#### 2. **Create a \u201cRed Flag/Green Flag\u201d List**\nBased on your past experiences, write down the behaviors you\u2019ve seen in partners that were harmful (red flags), and also the qualities you want and deserve in a partner (green flags). Keep that list somewhere you can revisit. This helps you move from reacting emotionally to responding intentionally \u2014 and it gives your nervous system something to anchor to.\n\n#### 3. **Start Keeping Small Promises to Yourself**\nSelf-trust is built like any other relationship \u2014 by showing up consistently. Try making tiny commitments to yourself and following through: \u201cI\u2019ll go for a walk today,\u201d or \u201cI\u2019ll journal for 5 minutes.\u201d When you keep your own promises, you remind yourself: *I\u2019ve got me.*\n\n#### 4. **Practice Self-Compassion**\nWhen that inner critic says, \u201cI\u2019m just bad at picking people,\u201d try gently responding with: *Maybe I\u2019ve been doing my best with what I knew. And now I\u2019m learning something new.* Treat yourself the way you\u2019d treat a close friend who's been hurt \u2014 with kindness, patience, and care.\n\n#### 5. **Slow Down in New Relationships**\nGive yourself permission to take your time. You don\u2019t need to bond quickly or ignore red flags in the name of \u201cbeing open.\u201d You\u2019re allowed to observe, ask questions, and protect your peace. Trust isn\u2019t about assuming someone won\u2019t hurt you \u2014 it\u2019s about knowing that *if* they do, you\u2019ll be able to recognize it, set boundaries, and take care of yourself.\n\n---\n\n### You Are Not Alone\n\nMany people have walked a similar path \u2014 feeling like their picker is broken, like they\u2019re \u201ctoo much\u201d or \u201cnot enough,\u201d or that they\u2019ll never find someone they can truly trust. But healing is possible. Patterns can be unlearned. And the fact that you\u2019re asking these powerful questions means you\u2019re already on your way.\n\nYou don\u2019t have to have it all figured out right now. You just have to keep taking one honest, compassionate step at a time.\n\nIf you ever feel overwhelmed, talking to a therapist or counselor can offer a safe space to explore these feelings more deeply and gently untangle the past from the present.\n\nYou deserve love that feels steady, safe, and mutual \u2014 and that includes the love you give to *yourself*. \ud83d\udc9b\n\nWould it feel helpful if I shared some journaling prompts or exercises to help you explore your self-trust and relationship patterns more?",
+    "usage": {
+      "prompt_tokens": 834,
+      "completion_tokens": 980,
+      "total_tokens": 1814,
+      "cost": 0.01887,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00417,
+        "upstream_inference_completions_cost": 0.0147
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:11:46.331170",
+    "response_time_ms": 6858.317852020264
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "I'm really glad you reached out again \u2014 and I want to honor how much awareness and courage you\u2019re already showing just by sitting with these questions and being willing to explore them. Feeling stuck doesn\u2019t mean you\u2019re not making progress. Sometimes, feeling stuck is actually the space *right before* growth really begins.\n\nYou\u2019re absolutely not alone in feeling overwhelmed by the idea of rebuilding self-trust. It\u2019s such a personal journey, and it can feel big \u2014 but it can also be surprisingly gentle and grounding when you start with very small, manageable steps.\n\nLet\u2019s look at how you might begin easing into this process in a way that feels kind, supportive, and doable.\n\n---\n\n### \ud83c\udf31 Step 1: Start with One Tiny Promise a Day\n\nThink of this as planting seeds. Self-trust grows when you consistently show yourself, *\u201cI matter. My needs matter. I can count on me.\u201d*\n\nBut the key is to start **very small** \u2014 so small it almost feels silly. That way, you\u2019re setting yourself up for success, not pressure.\n\nHere are some examples of super small promises:\n- \u201cI\u2019ll drink one glass of water when I wake up.\u201d\n- \u201cI\u2019ll take five deep breaths before bed.\u201d\n- \u201cI\u2019ll write one sentence in a journal.\u201d\n- \u201cI\u2019ll step outside for 3 minutes today.\u201d\n- \u201cI\u2019ll text myself something kind.\u201d\n\nStart with just **one** small promise. Choose something that feels easy and gentle \u2014 not something you \u201cshould\u201d do, but something you *can* do. Then notice how it feels when you keep that promise. Not because it\u2019s big or impressive \u2014 but because *you showed up for yourself*.\n\n\ud83d\udca1 *Pro tip:* Keep a small notebook or note in your phone where you write down your daily promise in the morning and check it off at night. This helps create a visual reminder of your self-trust building.\n\n---\n\n### \ud83c\udf38 Step 2: Create a Self-Trust Check-In Ritual\n\nOnce a week (or more often if you like), carve out 10\u201315 minutes for a self-trust check-in. Light a candle, make tea \u2014 create a soft moment to connect with yourself.\n\nAsk yourself:\n- What did I follow through on this week, even in a small way?\n- Where did I listen to my gut or honor my feelings?\n- Where did I feel like I abandoned or doubted myself, and what might I need next time?\n- What\u2019s one small way I can support myself this week?\n\nThis check-in isn\u2019t meant to judge or fix you \u2014 just to *witness and honor* your experience. You\u2019re learning, not performing.\n\n---\n\n### \ud83c\udf3c Step 3: Practice Self-Validation Throughout the Day\n\nStart noticing when you have an impulse or feeling \u2014 even something like, \u201cI\u2019m tired\u201d or \u201cThis doesn\u2019t feel right\u201d \u2014 and practice saying to yourself:\n\n- \u201cThat makes sense.\u201d\n- \u201cIt\u2019s okay to feel this way.\u201d\n- \u201cI hear you.\u201d\n- \u201cI trust that you're noticing something important.\u201d\n\nEven if you don\u2019t act on every feeling, just *acknowledging* it helps rebuild the bridge between your inner world and your outer choices.\n\n---\n\n### \ud83d\udcac Optional: A Simple Daily Journal Prompt\n\nIf you like the idea of journaling but aren\u2019t sure what to write, try this short daily prompt:\n\n- **\u201cToday, I will show up for myself by\u2026\u201d** (just one small thing)\n- **\u201cRight now, I need\u2026\u201d**\n- **\u201cI\u2019m proud of myself for\u2026\u201d**\n\nYou can do this in a notebook, a phone note, or even as a voice memo. No pressure \u2014 just connection.\n\n---\n\n### A Final Gentle Reminder\n\nSelf-trust isn\u2019t about being perfect or always knowing what to do. It\u2019s about building a relationship with yourself where you know: *Even if things get hard, I won\u2019t abandon myself. I will listen. I will learn. I will try again.*\n\nThat\u2019s what you\u2019re already doing, simply by having these conversations and showing up with honesty and openness.\n\nYou are not behind. You are not broken. You are in the sacred process of coming home to yourself \u2014 one step at a time.\n\nIf you'd like, I can help you brainstorm some small, realistic promises based on your daily life or routines \u2014 would that feel supportive?",
+    "usage": {
+      "prompt_tokens": 1894,
+      "completion_tokens": 893,
+      "total_tokens": 2787,
+      "cost": 0.022865,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00947,
+        "upstream_inference_completions_cost": 0.013395
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:11:56.167861",
+    "response_time_ms": 6904.523134231567
+  },
+  "turn2_user_response": "I appreciate your insights, and I can see how my past might be playing a role in this. But it's hard to shake the feeling that maybe I'm just not good at picking the right people, or that there's something about me that attracts the wrong kind of partner. I know I need to work on my self-trust, but it's tough to know where to start.",
+  "turn3_user_response": "I really appreciate your insights and the gentle way you\u2019ve explained things. I can see how my past might be influencing my choices, but I still feel a bit stuck on how to actually start trusting myself more. I think the idea of keeping small promises to myself could be a good place to start, but it feels a bit overwhelming to know where to begin.",
+  "created_at": "2026-01-02 23:11:56.167927"
+}

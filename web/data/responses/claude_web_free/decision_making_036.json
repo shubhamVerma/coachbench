@@ -1,0 +1,91 @@
+{
+  "scenario_id": "decision_making_036",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "What you're describing is really common, and the fact that you recognize the pattern is actually a good starting point. Let me share a few perspectives that might help:\n\n**The myth of the \"perfect\" decision:**\nThere's rarely one objectively \"right\" choice in major life decisions. Most paths have trade-offs, and different options could work out well in different ways. The paralysis often comes from believing there's a perfect answer you might miss.\n\n**What might help:**\n\n- **Reframe \"wrong\" choices**: Instead of right/wrong, think about what you'll learn or gain from each path. Most career decisions aren't permanent dead-ends\u2014they're more like forks in a road that can loop back around.\n\n- **Set a decision deadline**: Give yourself permission to gather information until a specific date, then commit to choosing. Unlimited deliberation rarely produces better outcomes than thoughtful, time-bound reflection.\n\n- **Try the \"10-10-10\" rule**: How will you feel about this decision in 10 days? 10 months? 10 years? Often the anxiety is loudest in the short term, but the long-term impact is less dramatic than it feels right now.\n\n- **Small experiments**: Can you test aspects of your options before fully committing? Informational interviews, side projects, or trial periods can reduce uncertainty.\n\n**What's driving the second-guessing?** Is it fear of disappointing others, losing opportunities, or something else? Understanding the root often helps address it more directly.\n\nWhat feels most paralyzing about your current career decision specifically?",
+    "usage": {
+      "prompt_tokens": 90,
+      "completion_tokens": 345,
+      "total_tokens": 435,
+      "cost": 0.005445,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.00027,
+        "upstream_inference_completions_cost": 0.005175
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:48:52.147208",
+    "response_time_ms": 11196.609020233154
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "You've identified something really important here\u2014the weight of others' expectations can be heavier than the actual decision itself. This adds a whole extra layer because you're not just choosing a path, you're managing relationships and your sense of identity.\n\n**A crucial distinction:**\nThere's a difference between *considering* others' input (which can be valuable) and *outsourcing* your decision to their expectations. Right now it sounds like their standards might be drowning out your own voice.\n\n**Some questions to sit with:**\n\n- **Whose life is this?** In 10-20 years, you'll be living with this choice daily\u2014not your parents or mentors. If they're disappointed initially but you're fulfilled, versus you're resentful but they're pleased, which scenario serves you better long-term?\n\n- **What are you actually afraid of?** Is it their literal disappointment, or losing their love/respect? Often our parents/mentors are more flexible than we imagine, especially when they see us genuinely thriving\u2014even on an unexpected path.\n\n- **What do *you* want?** This might sound obvious, but when was the last time you asked yourself what *you* actually want, separate from what you *should* want? Sometimes the paralysis is because we haven't given ourselves permission to even know.\n\n**On \"living up to standards\":**\nWhose standards define a successful life? Meeting someone else's definition of success while feeling hollow inside is its own form of failure. The people who truly care about you generally want you to be fulfilled, even if the path surprises them.\n\n**A gentle challenge:** What would you choose if disappointing others wasn't a factor at all?",
+    "usage": {
+      "prompt_tokens": 525,
+      "completion_tokens": 367,
+      "total_tokens": 892,
+      "cost": 0.00708,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001575,
+        "upstream_inference_completions_cost": 0.005505
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:49:06.343163",
+    "response_time_ms": 12095.514059066772
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "You've just articulated something really profound: **you can't make an authentic decision when you don't yet know what your authentic preference is.** The paralysis makes complete sense\u2014you're trying to choose between paths when you haven't had the space to discover what you actually value.\n\n**This might be the real work right now:**\n\nBefore you can make a good decision *about* your career, you might need to do some foundational work *on* separating your voice from the internalized voices of others.\n\n**Some practices that might help:**\n\n- **The \"silly\" question exercise**: If no one would ever know, and you couldn't fail, what would you try? Sometimes our real desires feel too vulnerable or \"unrealistic\" to admit, even to ourselves.\n\n- **Notice your language**: When you think about options, listen to whether you're saying \"I should...\" or \"I want...\" The \"shoulds\" often come from outside; the \"wants\" are more genuinely yours.\n\n- **Journal without an audience**: Write about your options as if no one will ever read it\u2014not your parents, not mentors, not even your future self judging you. What comes up?\n\n**On the fear of disappointing others:**\n\nHere's something to consider: Healthy relationships can withstand disappointment. If someone's love or respect is *conditional* on you following their script for your life, that's not actually about you\u2014it's about their need for control.\n\nMost parents and mentors, when they see you struggling under the weight of their expectations, would be horrified. They likely want your happiness more than they want their specific vision realized.\n\n**A possibility to explore:**\n\nWhat if you're not actually stuck on the decision itself, but stuck on *giving yourself permission to want something different*? \n\nWould it help to spend some time just exploring what you want, without the pressure of deciding yet?",
+    "usage": {
+      "prompt_tokens": 969,
+      "completion_tokens": 408,
+      "total_tokens": 1377,
+      "cost": 0.009027,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002907,
+        "upstream_inference_completions_cost": 0.00612
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:49:22.809516",
+    "response_time_ms": 12809.888124465942
+  },
+  "turn2_user_response": "I appreciate those perspectives, especially the idea of reframing \"wrong\" choices. But I still find myself really worried about disappointing others, like my parents and mentors, who have certain expectations. It's hard to shake the feeling that if I make the wrong choice, I'll let them down and miss out on big opportunities. I guess what feels most paralyzing is the fear of not living up to their standards.",
+  "turn3_user_response": "I can see how reframing \"wrong\" choices as learning opportunities might help, but I still feel a lot of pressure from what others expect of me. I guess part of me is afraid of disappointing them, but I also want to be true to myself. It's hard to imagine what I really want when I've been so focused on meeting their standards.",
+  "created_at": "2026-01-02 23:49:22.809580"
+}

@@ -1,0 +1,82 @@
+{
+  "scenario_id": "decision_making_036",
+  "model": "chatgpt_web_free",
+  "turn1": {
+    "model": "chatgpt_web_free",
+    "content": "That sounds really exhausting, and honestly, very human. When big decisions feel loaded with \u201cthis will define my future,\u201d it\u2019s common for the mind to go into overdrive trying to prevent regret. The problem is that the strategy meant to protect you\u2014overthinking\u2014ends up keeping you stuck.\n\nA few things stand out in what you shared:\n\n**1. You\u2019re not afraid of choosing \u2014 you\u2019re afraid of choosing *wrong*.**  \nThat usually means you care deeply about your life and want to do it well. That\u2019s a strength, not a flaw. But it also sets up an impossible standard: *there must be a perfect choice*. In reality, most career paths are not right-or-wrong; they\u2019re **workable or unworkable**, and many become \u201cright\u201d because we invest in them.\n\n**2. Overthinking creates the illusion of progress.**  \nRunning scenarios, researching endlessly, replaying decisions \u2014 it feels productive, but it\u2019s actually a way of avoiding the emotional risk of committing. Clarity often comes *after* action, not before it.\n\n**3. Decisions don\u2019t lock you in as much as your fear tells you they do.**  \nCareers are rarely straight lines anymore. Most people pivot multiple times. Choosing a path now isn\u2019t a life sentence \u2014 it\u2019s a **direction**, not a destination.\n\nHere are a few gentle ways to break the cycle:\n\n### Reframe the decision\nInstead of asking:\n- *\u201cWhat\u2019s the right choice?\u201d*\n\nTry:\n- *\u201cWhich option helps me learn, grow, or move forward in the next 1\u20133 years?\u201d*\n\nYou\u2019re choosing a **next step**, not your forever.\n\n### Shrink the stakes\nYour brain is treating this like a once-in-a-lifetime gamble. Try turning the decision into an **experiment**:\n- \u201cI\u2019ll commit to this path for 6\u201312 months and reassess.\u201d\nThis gives your nervous system an exit, which reduces paralysis.\n\n### Decide based on values, not predictions\nYou can\u2019t accurately predict which choice will make you happiest. But you *can* ask:\n- Which option aligns more with my values right now (security, creativity, impact, flexibility, learning, etc.)?\n- Which discomfort would I rather live with?\n\nEvery choice has trade-offs \u2014 avoiding them is the real trap.\n\n### Practice self-trust, not certainty\nConfidence doesn\u2019t come from making the \u201cright\u201d decision.  \nIt comes from trusting yourself to **handle the outcome**, even if it\u2019s messy.\n\nYou might try telling yourself:\n> \u201cI don\u2019t need to get this perfect. I need to get it moving.\u201d\n\nIf you\u2019re open to it, I can help you:\n- Clarify your values\n- Compare options without overanalyzing\n- Turn your career decision into a low-risk experiment\n\nYou\u2019re not broken or behind \u2014 you\u2019re just stuck in a loop that many thoughtful people fall into. And loops *can* be exited.",
+    "usage": {
+      "prompt_tokens": 84,
+      "completion_tokens": 615,
+      "total_tokens": 699,
+      "cost": 0.008757,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.008757,
+        "upstream_inference_prompt_cost": 0.000147,
+        "upstream_inference_completions_cost": 0.00861
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:11:28.908939",
+    "response_time_ms": 11178.807020187378
+  },
+  "turn2": {
+    "model": "chatgpt_web_free",
+    "content": "That fear you\u2019re describing \u2014 *\u201cWhat if this is the mistake I can\u2019t undo?\u201d* \u2014 is a powerful one, and it usually doesn\u2019t come from logic alone. It comes from a deeper need for safety and self\u2011protection. So if reframing hasn\u2019t fully helped, that tells me this isn\u2019t just a thinking problem \u2014 it\u2019s an **emotional risk problem**.\n\nLet\u2019s slow this down and look at what might be underneath.\n\n---\n\n## 1. Let\u2019s name the fear clearly\nOften when people say \u201ca mistake I can\u2019t come back from,\u201d what they really mean is one (or more) of these:\n\n- \u201cI\u2019ll waste years of my life.\u201d\n- \u201cI\u2019ll ruin my future options.\u201d\n- \u201cI\u2019ll disappoint myself or others.\u201d\n- \u201cIt will prove something bad about me.\u201d\n- \u201cI won\u2019t be able to forgive myself.\u201d\n\nIf you had to guess \u2014 which one feels closest to the core fear?\n\n(You don\u2019t have to answer out loud if you don\u2019t want to \u2014 just notice it.)\n\n---\n\n## 2. The brain is treating this like a *threat*, not a choice\nWhen the nervous system senses threat, it shuts down access to nuance and creativity. That\u2019s why no amount of rational reframing feels like enough \u2014 your system is asking:\n> \u201cCan you guarantee I\u2019ll be safe?\u201d\n\nAnd the honest answer is: **no choice can offer that guarantee**. So your brain keeps you frozen instead.\n\nThis isn\u2019t a personal failure. It\u2019s a survival response.\n\n---\n\n## 3. The missing piece is often *self-permission*\nMany people who get stuck here grew up learning (explicitly or implicitly):\n- Mistakes are costly  \n- You should have known better  \n- There isn\u2019t much room to recover  \n\nSo the unspoken rule becomes:\n> \u201cI\u2019m only allowed to move forward if I\u2019m sure.\u201d\n\nBut certainty is not something humans actually get before action.\n\nWhat *is* possible is self\u2011permission:\n> \u201cEven if this doesn\u2019t work, I\u2019m allowed to change course.\u201d\n\nIf that sentence feels emotionally false \u2014 that\u2019s important information.\n\n---\n\n## 4. A grounding question that cuts through the spiral\nInstead of \u201cWhat if I choose wrong?\u201d try asking:\n> **\u201cWhat would make this mistake *recoverable*?\u201d**\n\nExamples:\n- Skills that transfer\n- Savings buffer\n- A timeline to reassess\n- Keeping one foot in another field\n- Mentors or networks you don\u2019t let go of\n\nYou\u2019re not trying to avoid mistakes \u2014 you\u2019re **designing resilience**.\n\n---\n\n## 5. There *are* very few truly irreversible career mistakes\nThey exist, but they\u2019re rare \u2014 and usually obvious (burning bridges, illegal behavior, ignoring health). Most \u201cwrong choices\u201d don\u2019t close doors; they clarify which ones you don\u2019t want.\n\nA hard truth, said gently:\n> Not choosing is also a choice \u2014 and it often carries the same risks you\u2019re trying to avoid, plus regret.\n\n---\n\n## 6. A small but powerful exercise (no decision required)\nTake 10 minutes and write:\n- The decision you\u2019re avoiding\n- The **worst realistic outcome** (not catastrophic, just plausible)\n- What you would *actually* do if that happened\n\nMost people discover they\u2019re more capable than their fear suggests.\n\n---\n\nIf you want, we can:\n- Map your specific career options and identify which ones are *most reversible*\n- Build a \u201csafety net plan\u201d so your nervous system can relax\n- Figure out where this fear originally came from, so it stops running the show\n\nYou\u2019re not missing something because you\u2019re incapable \u2014 you\u2019re missing **felt safety**. And that *can* be built.",
+    "usage": {
+      "prompt_tokens": 768,
+      "completion_tokens": 774,
+      "total_tokens": 1542,
+      "cost": 0.01218,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.01218,
+        "upstream_inference_prompt_cost": 0.001344,
+        "upstream_inference_completions_cost": 0.010836
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:11:42.268248",
+    "response_time_ms": 10548.317193984985
+  },
+  "turn3": {
+    "model": "chatgpt_web_free",
+    "content": "I\u2019m really glad you noticed that connection \u2014 fear, safety, worth. That\u2019s not a small insight. And the fact that the feeling *still* won\u2019t loosen actually makes a lot of sense.\n\nWhat you\u2019re describing is often what happens when a belief lives **below the level of logic**. You don\u2019t just *think* you need to get it right the first time \u2014 your system believes it. So reassurance bounces off.\n\nLet\u2019s talk to *that* part.\n\n---\n\n## 1. \u201cI need to get this right the first time\u201d is usually a rule you learned, not a truth\nMost people who feel this way absorbed a message like:\n- \u201cThere\u2019s no room for error.\u201d\n- \u201cYou\u2019re only valued when you succeed.\u201d\n- \u201cYou don\u2019t get many chances.\u201d\n- \u201cIf you mess up, it says something about who you are.\u201d\n\nEven if no one said this outright, it can form through experience.\n\nSo when you face a career decision, it\u2019s not just about the job \u2014 it\u2019s about **your worth being on trial**.\n\nThat\u2019s why the pressure feels unbearable.\n\n---\n\n## 2. The goal is not to *remove* the belief \u2014 it\u2019s to *loosen its authority*\nRight now that belief sounds like:\n> \u201cYou must get this right.\u201d\n\nA more achievable step is:\n> \u201cI hear this rule \u2014 and I don\u2019t have to obey it completely.\u201d\n\nYou\u2019re not trying to feel fearless. You\u2019re learning to act **without needing the fear to disappear first**.\n\n---\n\n## 3. A question that bypasses perfectionism\nInstead of asking:\n- \u201cWhat\u2019s the right decision?\u201d\n\nAsk:\n> **\u201cWhat decision would I make if my worth were not on the line?\u201d**\n\nEven imagining that scenario can be revealing. Often there\u2019s a quieter, simpler answer underneath the noise.\n\n---\n\n## 4. Practice separating *identity* from *outcome*\nThis is subtle but powerful:\n\n- A bad decision does **not** mean:\n  - You are careless  \n  - You are behind  \n  - You are less capable  \n\nIt means:\n- You made the best choice you could with the information you had.\n\nYou are allowed to update your choices as you gain more information. That\u2019s not failure \u2014 that\u2019s competence.\n\n---\n\n## 5. Try this grounding exercise (2 minutes)\nPut one hand on your chest, slow your breath, and say (even if it feels awkward):\n> \u201cI am allowed to learn by trying. My worth does not depend on getting this right.\u201d\n\nNotice what comes up \u2014 resistance, sadness, relief. Whatever shows up is information, not a problem.\n\n---\n\n## 6. The paradox\nPeople who seem confident in their careers are rarely the ones who \u201cgot it right the first time.\u201d\nThey are the ones who:\n- Trusted themselves to recover  \n- Let experience teach them  \n- Didn\u2019t confuse mistakes with identity  \n\nThe skill you\u2019re building right now isn\u2019t decision\u2011making.\nIt\u2019s **self\u2011trust**.\n\nAnd self\u2011trust is built *after* imperfect action.\n\n---\n\nIf you\u2019d like, next we can:\n- Gently trace where this \u201cfirst time\u201d rule came from\n- Create a decision framework that protects your sense of worth\n- Or work with a specific career choice you\u2019re facing and take some pressure off it\n\nYou\u2019re not broken for feeling this way.  \nYou\u2019re standing at the edge of growth \u2014 and that edge is uncomfortable by definition.",
+    "usage": {
+      "prompt_tokens": 1598,
+      "completion_tokens": 714,
+      "total_tokens": 2312,
+      "cost": 0.0105749,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1408
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0105749,
+        "upstream_inference_prompt_cost": 0.0005789,
+        "upstream_inference_completions_cost": 0.009996
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-14 18:11:56.764669",
+    "response_time_ms": 10835.77275276184
+  },
+  "turn2_user_response": "That makes a lot of sense, and I do care a lot about making the right choices. But even when I try to reframe it as a next step or an experiment, I still feel like I\u2019m missing something. I guess I\u2019m just really worried about making a big mistake that I can\u2019t come back from.",
+  "turn3_user_response": "I appreciate the perspective you\u2019ve given me. I can see that my fear of making the wrong choice is more about feeling safe and proving my worth, but I\u2019m still struggling to shake the feeling that I need to get this right the first time.",
+  "created_at": "2026-01-14 18:11:56.764711"
+}

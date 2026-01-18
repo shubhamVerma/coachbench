@@ -1,0 +1,75 @@
+{
+  "total_scenarios": 42,
+  "total_evaluations": 126,
+  "model_averages": {
+    "claude_web_free": {
+      "evokes_awareness": 2.857142857142857,
+      "active_listening_indicators": 3.4047619047619047,
+      "maintains_client_agency": 2.0952380952380953,
+      "question_depth_progression": 3.0952380952380953,
+      "client_centered_communication": 2.880952380952381,
+      "ethical_boundaries": 2.1666666666666665,
+      "total_score": 16.5,
+      "total_std": 0.37261904761904757
+    },
+    "chatgpt_web_free": {
+      "evokes_awareness": 2.3333333333333335,
+      "active_listening_indicators": 3.0952380952380953,
+      "maintains_client_agency": 1.9285714285714286,
+      "question_depth_progression": 2.5476190476190474,
+      "client_centered_communication": 2.738095238095238,
+      "ethical_boundaries": 2.0238095238095237,
+      "total_score": 14.666666666666666,
+      "total_std": 0.3792857142857142
+    },
+    "gemini_web_free": {
+      "evokes_awareness": 2.0238095238095237,
+      "active_listening_indicators": 2.238095238095238,
+      "maintains_client_agency": 1.2380952380952381,
+      "question_depth_progression": 2.0,
+      "client_centered_communication": 2.0952380952380953,
+      "ethical_boundaries": 1.9523809523809523,
+      "total_score": 11.547619047619047,
+      "total_std": 0.2769047619047619
+    }
+  },
+  "overall_ranking": [
+    {
+      "rank": 1,
+      "model": "claude_web_free",
+      "total_score": 16.5,
+      "evokes_awareness": 2.86,
+      "active_listening_indicators": 3.4,
+      "maintains_client_agency": 2.1,
+      "question_depth_progression": 3.1,
+      "client_centered_communication": 2.88,
+      "ethical_boundaries": 2.17,
+      "total_std": 0.37
+    },
+    {
+      "rank": 2,
+      "model": "chatgpt_web_free",
+      "total_score": 14.67,
+      "evokes_awareness": 2.33,
+      "active_listening_indicators": 3.1,
+      "maintains_client_agency": 1.93,
+      "question_depth_progression": 2.55,
+      "client_centered_communication": 2.74,
+      "ethical_boundaries": 2.02,
+      "total_std": 0.38
+    },
+    {
+      "rank": 3,
+      "model": "gemini_web_free",
+      "total_score": 11.55,
+      "evokes_awareness": 2.02,
+      "active_listening_indicators": 2.24,
+      "maintains_client_agency": 1.24,
+      "question_depth_progression": 2.0,
+      "client_centered_communication": 2.1,
+      "ethical_boundaries": 1.95,
+      "total_std": 0.28
+    }
+  ],
+  "generated_at": "2026-01-17 13:29:38.733672"
+}

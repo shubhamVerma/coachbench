@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CoachBench: Evaluating Reflective Questioning Quality in Large Language Models</title>
+  <meta property="og:title" content="I Built a Benchmark to Evaluate LLM Coaching Quality">
+  <meta property="og:description" content="Claude led all models on reflective questioning. 42 scenarios tested. Here's what I learned building CoachBench.">
+  <meta property="og:image" content="https://shubhamVerma.github.io/coachbench/og-image.png">
+  <meta property="og:site_name" content="Shubham Verma">
+  <link rel="canonical" href="https://shubhamVerma.github.io/coachbench">
+  <link rel="stylesheet" href="css/tufte.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+  
+  <!-- JS Modules -->
+  <script src="js/config.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/chat-renderer.js"></script>
+  <script src="js/tab-manager.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/data-setup-renderer.js"></script>
+  <script src="js/rankings-renderer.js"></script>
+
+  <!-- Initialization -->
+  <script>
+document.addEventListener('DOMContentLoaded', () => {
+  console.log('Initializing interactive evaluations...');
+
+  // Initialize Data Setup section
+  window.DataSetupRenderer.initialize();
+
+  // Initialize Rankings section and charts
+  window.RankingsRenderer.initialize();
+
+    // Initialize Interactive Evaluations section
+  Promise.all([
+    window.DataLoader.loadResponsesIndex(),
+    window.DataLoader.loadEvaluationsIndex()
+  ])
+    .then(() => {
+      console.log('Data loaded, initializing...');
+      window.ChatRenderer.initialize();
+
+      // Load first scenario - use default category if no tabs exist yet
+      let firstCategory = window.TabManager.getCurrentCategory();
+      console.log('Current category:', firstCategory);
+      
+      if (!firstCategory) {
+        firstCategory = 'career_transitions'; // Default category
+        console.log('Using default category:', firstCategory);
+      }
+
+      const scenarios = window.DataLoader.getScenariosByCategory(firstCategory);
+      console.log('Scenarios for', firstCategory, ':', scenarios.length);
+
+      if (scenarios && scenarios.length > 0) {
+        console.log('Loading responses for:', scenarios[0].id);
+        window.DataLoader.loadResponsesForScenario(scenarios[0].id)
+          .then(responses => {
+            console.log('Responses loaded, rendering...');
+            window.ChatRenderer.renderChatComparison(scenarios[0], responses);
+            // Setup tab handlers after tabs are rendered
+            window.TabManager.setupTabHandlers();
+          })
+          .catch(error => {
+            console.error('Failed to load responses:', error);
+            const evalContent = document.getElementById('eval-content');
+            if (evalContent) {
+              evalContent.innerHTML = '<p style="text-align: center; color: var(--accent-color);">Failed to load responses: ' + error.message + '</p>';
+            }
+          });
+      } else {
+        console.error('No scenarios found for category:', firstCategory);
+        const evalContent = document.getElementById('eval-content');
+        if (evalContent) {
+          evalContent.innerHTML = '<p style="text-align: center; color: var(--accent-color);">No scenarios found for category: ' + firstCategory + '</p>';
+        }
+      }
+    })
+    .catch(error => {
+      console.error('Failed to initialize:', error);
+      const evalContent = document.getElementById('eval-content');
+      if (evalContent) {
+        evalContent.innerHTML = '<p style="text-align: center; color: var(--accent-color);">Failed to load data: ' + error.message + '</p>';
+      }
+    });
+
+  // Sticky sidebar - scroll aware highlighting
+  initScrollAwareSidebar();
+});
+
+function initScrollAwareSidebar() {
+  const sections = document.querySelectorAll('section[id]');
+  const navLinks = document.querySelectorAll('.sidebar-list a[data-section]');
+
+  if (!sections.length || !navLinks.length) return;
+
+  // Use Intersection Observer for efficient scroll tracking
+  const observerOptions = {
+    root: null,
+    rootMargin: '-10% 0px -70% 0px',
+    threshold: 0
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const sectionId = entry.target.id;
+        const activeLink = document.querySelector(`.sidebar-list a[data-section="${sectionId}"]`);
+
+        if (activeLink) {
+          navLinks.forEach(link => link.classList.remove('active'));
+          activeLink.classList.add('active');
+
+          // Scroll sidebar to show active link
+          const sidebar = document.querySelector('.sticky-sidebar');
+          if (sidebar) {
+            const linkTop = activeLink.offsetTop - sidebar.scrollTop;
+            const sidebarHeight = sidebar.clientHeight;
+            if (linkTop < 20 || linkTop > sidebarHeight - 60) {
+              activeLink.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }
+          }
+        }
+      }
+    });
+  }, observerOptions);
+
+  sections.forEach(section => observer.observe(section));
+}
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Shubham Verma",
+    "url": "https://shubhamVerma.github.io",
+    "sameAs": [
+      "https://github.com/shubhamVerma",
+      "https://x.com/shubhamVerman",
+      "https://linkedin.com/in/shubhamverma"
+    ],
+    "jobTitle": "Senior Product Manager | AI & Engineering",
+    "description": "Building tools to understand how LLMs work. Creator of CoachBench benchmark for evaluating coaching-style communication in AI models."
+  }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>CoachBench: Evaluating Reflective Questioning Quality in Large Language Models</h1>
+      <p class="subtitle">An Evaluation of Coaching-Style Communication in AI Models</p>
+      <p class="byline">Shubham Verma</p>
+    </header>
+
+    <div class="main-layout">
+      <aside class="sticky-sidebar">
+        <nav class="sidebar-nav">
+          <h4 class="sidebar-title">Table of Contents</h4>
+           <ul class="sidebar-list">
+             <li><a href="#abstract" data-section="abstract">1. Abstract</a></li>
+             <li><a href="#experiment-setup" data-section="experiment-setup">2. Experiment Setup</a></li>
+             <li><a href="#data-setup" data-section="data-setup">3. Scenarios</a></li>
+             <li><a href="#results-summary" data-section="results-summary">4. Results</a></li>
+             <li><a href="#interactive-evaluations" data-section="interactive-evaluations">5. Explore Evaluations</a></li>
+             <li><a href="#conclusion" data-section="conclusion">6. Conclusion</a></li>
+             <li><a href="#extending-benchmark" data-section="extending-benchmark">7. Extend Benchmark</a></li>
+             <li><a href="#about-author" data-section="about-author">8. Author</a></li>
+             <li><a href="#references-citations" data-section="references-citations">9. References</a></li>
+           </ul>
+        </nav>
+      </aside>
+
+      <div class="main-content">
+
+    <section id="abstract">
+      <h2>1. Abstract</h2>
+      <div class="abstract">
+        <p>
+          This benchmark evaluates how three leading large language models (Claude Sonnet 4.5, GPT-5.2 Chat, and Gemini 3 Flash) perform on coaching-style communication tasks, as judged by DeepSeek-V3 across six dimensions. Using 42 scenarios and 3-turn conversations, this study measures relative model performance on reflective questioning and advice-giving patterns. Claude Sonnet 4.5 scored highest at 16.4/30, showing stronger inquiry patterns compared to others.
+        </p>
+      </div>
+    </section>
+
+    <section id="experiment-setup">
+       <h2>2. Experiment Setup</h2>
+
+       <h3>Overview</h3>
+       <p><strong>Pipeline:</strong> Each scenario follows this flow:</p>
+       <ol style="line-height: 1.8;">
+         <li><strong>Scenario:</strong> Personal growth challenge (e.g., career transition)</li>
+         <li><strong>Model Response 1:</strong> Model answers initial question</li>
+         <li><strong>User Response 1:</strong> AI-simulated user reply (Qwen)</li>
+         <li><strong>Model Response 2:</strong> Model responds to user</li>
+         <li><strong>User Response 2:</strong> AI-simulated user reply (Qwen)</li>
+         <li><strong>Model Response 3:</strong> Model's final response</li>
+         <li><strong>Evaluation:</strong> DeepSeek judges the full 3-turn conversation</li>
+       </ol>
+       <p><strong>Key design:</strong> Each conversation is evaluated 3 times (separate runs) to measure consistency.</p>
+
+        <h3>a. Scenario Generation</h3>
+        <p><strong>Input Model:</strong> Qwen2.5-72B-Instruct (synthetic scenario generation via OpenRouter)</p>
+
+        <h3>b. Conversation Flow</h3>
+       <p>Each model engages in a 3-turn conversation per scenario:</p>
+       <ul style="line-height: 1.8;">
+         <li><strong>Turn 1:</strong> Model responds to initial scenario prompt</li>
+         <li><strong>Turn 2:</strong> Model responds to user follow-up (AI-generated by Qwen)</li>
+         <li><strong>Turn 3:</strong> Model responds to final user query (AI-generated by Qwen)</li>
+       </ul>
+       <p>This structure mirrors real coaching conversations where the coach must build on earlier exchanges.</p>
+
+         <h3>c. Model Evaluation</h3>
+         <ul>
+           <li><strong>Anthropic: Claude Sonnet 4.5</strong> (Free Web via claude.ai)</li>
+           <li><strong>OpenAI: GPT-5.2 Chat</strong> (Free Web via chat.openai.com)</li>
+           <li><strong>Google: Gemini 3 Flash Preview</strong> (Free Web via gemini.google.com)</li>
+         </ul>
+         <div class="abstract">
+           <p><strong>Methodology:</strong> Models tested without coaching-specific system prompts (out-of-box behavior).</p>
+         </div>
+
+        <h3>d. Multi-Run Evaluations</h3>
+        <ul style="line-height: 1.8;">
+          <li><strong>Purpose:</strong> Measure judge consistency and ensure reproducibility.</li>
+          <li><strong>Process:</strong> Each 3-turn conversation is presented to DeepSeek-V3 three separate times. Scores are averaged.</li>
+          <li><strong>Result:</strong> Standard deviation of ~0.3-0.4 indicates the judge is highly consistent.</li>
+          <li><strong>Note:</strong> This measures evaluation reliability, not model behavior. Models run at temperature=0 (deterministic).</li>
+        </ul>
+
+          <h3>e. Independent Assessment</h3>
+          <p><strong>Evaluator Model:</strong> DeepSeek-V3 (independent judge via OpenRouter)</p>
+
+          <h3>f. Reproducibility and Variance</h3>
+          <ul style="line-height: 1.8;">
+            <li><strong>Why 3 runs:</strong> LLMs can vary slightly even at temperature=0. Multiple runs reveal how consistent the judge is.</li>
+            <li><strong>What std shows:</strong> We calculate std per scenario (across 3 runs), then average across all 42 scenarios. A std of ~0.37 means re-running the evaluation would produce scores within ±0.37 points.</li>
+            <li><strong>What it does NOT mean:</strong> This is NOT a confidence interval. This study shows relative ranking, not statistical significance.</li>
+          </ul>
+
+          <h3>g. Scoring Framework</h3>
+         <ul style="line-height: 1.8;">
+           <li><strong>Total Scenarios:</strong> 42 personal growth scenarios</li>
+           <li><strong>Scenario Categories:</strong> 6 categories (career transitions, relationship patterns, identity perception, decision making, habit formation, motivation resistance)</li>
+           <li><strong>Conversation Structure:</strong> 3-turn conversations with each model</li>
+           <li><strong>Total Evaluations:</strong> 126 (42 scenarios × 3 models)</li>
+           <li><strong>Evaluation Method:</strong> Independent assessment using DeepSeek-V3</li>
+           <li><strong>Scoring Framework:</strong> Based on ICF Core Competencies</li>
+           <li><strong>Focus:</strong> Reflective questioning vs advice-giving</li>
+         </ul>
+
+           <h3>h. ICF Competency Scoring Framework</h3>
+         <p>Each conversation was scored across six dimensions (0-5 points each, total 30 points):</p>
+         <ul>
+           <li><strong>Evokes Awareness:</strong> Helps clients discover insights through questioning</li>
+           <li><strong>Active Listening:</strong> Reflective and clarifying statements that show understanding</li>
+           <li><strong>Maintains Agency:</strong> Avoids directive advice, lets client drive the process</li>
+           <li><strong>Question Depth:</strong> Movement from surface questions to deeper inquiry</li>
+           <li><strong>Client-Centered:</strong> Focuses on client's perspective and experience</li>
+           <li><strong>Ethical Boundaries:</strong> Maintains appropriate professional scope</li>
+         </ul>
+
+         <h3>i. Construct Validity Note</h3>
+         <p><strong>What CoachBench measures:</strong> This benchmark measures how three LLMs perform on coaching-style communication tasks, as evaluated by DeepSeek-V3 across six dimensions derived from ICF Core Competencies.</p>
+
+         <p><strong>What CoachBench does NOT measure:</strong></p>
+         <ul style="line-height: 1.8;">
+           <li>Objective "coaching quality" — no such ground truth exists</li>
+           <li>Alignment with human coaching standards</li>
+           <li>Actual coaching outcomes (e.g., client behavior change)</li>
+           <li>Model "personality" or inherent coaching ability</li>
+         </ul>
+
+         <p><strong>The construct validity challenge:</strong> There's no objective benchmark for "good coaching." DeepSeek-V3's judgment reflects its training, biases, and interpretation of the scoring criteria. If DeepSeek was trained on content that favors certain response styles (e.g., more questions, less advice), it may systematically score models differently.</p>
+
+         <p><strong>What this means for interpretation:</strong> Results should be read as "relative model performance on DeepSeek-V3's criteria" not "which model is a better coach." The rankings are valid for comparing model behaviors. They are not valid for making claims about absolute coaching quality.</p>
+
+         <p><strong>Future work:</strong> A more rigorous validation would compare LLM judge scores against human raters trained on ICF Core Competencies.</p>
+       </section>
+
+     <section id="data-setup">
+       <h2>3. Scenarios</h2>
+
+       <p style="margin: 1rem 0 1.5rem 0;">The benchmark uses 42 synthetic personal growth scenarios covering six categories: career transitions, relationships, identity perception, decision making, habit formation, and motivation resistance. Each scenario presents a real-world challenge where coaching-style questioning matters.</p>
+
+       <div id="data-setup-tabs"></div>
+       <div id="data-setup-content">
+         <div class="loading">Loading scenarios...</div>
+       </div>
+     </section>
+
+     <section id="limitations-scope">
+       <h2>3.1 Limitations and Scope</h2>
+
+       <p>This study has important limitations that affect interpretation of results:</p>
+
+       <ul style="line-height: 1.8;">
+         <li><strong>LLM-based evaluation:</strong> Results reflect DeepSeek-V3's judgment of coaching-style communication, not objective coaching quality. Single-judge design introduces potential bias. A more rigorous approach would use multiple judges or human raters trained on ICF Core Competencies.</li>
+         <li><strong>Limited generalizability:</strong> 42 scenarios across 6 categories. Results may not apply to all coaching contexts, conversation types, or real-world client interactions.</li>
+         <li><strong>Simulated conversations:</strong> User responses are AI-generated by Qwen, not real humans. May not reflect authentic user behavior patterns or emotional nuance.</li>
+       </ul>
+
+       <p><strong>What this study shows:</strong> Relative model performance on DeepSeek-V3's criteria for coaching-style communication. Rankings are valid for comparing model behaviors. They are not valid for claims about absolute coaching quality or real-world coaching effectiveness.</p>
+     </section>
+
+     <section id="results-summary">
+       <h2>4. Results</h2>
+
+      <p class="results-summary-lead">
+        Claude Sonnet 4.5 performed best overall, but all models struggled with maintaining client agency, often defaulting to directive advice rather than staying in inquiry.
+      </p>
+
+
+
+      <table class="category-table">
+        <caption>Model performance across scenario categories (average score out of 30)</caption>
+        <thead>
+          <tr>
+            <th>Category</th>
+            <th>Claude</th>
+            <th>GPT-5.2 Chat</th>
+            <th>Gemini</th>
+          </tr>
+        </thead>
+        <tbody id="category-table-body">
+        </tbody>
+        <tfoot>
+          <tr>
+            <td><strong>Total</strong></td>
+            <td class="score best"><strong>16.5 ± 0.37</strong></td>
+            <td class="score second"><strong>14.7 ± 0.38</strong></td>
+            <td class="score worst"><strong>11.5 ± 0.28</strong></td>
+          </tr>
+        </tfoot>
+      </table>
+
+        <div class="visualization" style="width: 100%; background: white; border: 1px solid var(--border-color); border-radius: 4px; padding: 0.75rem; margin: 1rem 0;">
+          <div class="chart-container">
+            <canvas id="dimensionRadarChart"></canvas>
+          </div>
+          <div class="figcaption">Figure 1: ICF competency profiles</div>
+        </div>
+
+        <div class="category-chart-container">
+          <div class="chart-container">
+            <canvas id="categoryBreakdownChart"></canvas>
+          </div>
+          <div class="figcaption">Figure 2: Model performance across scenario categories</div>
+        </div>
+
+      </section>
+
+    <section id="interactive-evaluations">
+      <h2>5. Explore Evaluations</h2>
+
+      <div id="eval-content">
+        <div class="loading">Loading scenarios...</div>
+      </div>
+    </section>
+
+    <section id="conclusion">
+      <h2>6. Conclusion</h2>
+      
+      <p>
+        This benchmark compares how leading LLMs perform on coaching-style communication tasks. Claude Sonnet 4.5 scored higher than others, particularly in active listening and question depth. All models showed strengths in reflective communication but struggled with maintaining client agency.
+      </p>
+      
+      <h3>Practical Implications</h3>
+      <p><strong>High-Scoring Models (Claude) are well-suited for:</strong></p>
+      <ul>
+        <li>Self-reflection and journaling prompts</li>
+        <li>Thought partnership for decision-making</li>
+        <li>Learning coaching-style communication techniques</li>
+        <li>Exploring ideas without receiving directive advice</li>
+      </ul>
+      
+       <p><strong>When Human Coaching Remains Essential:</strong></p>
+       <ul>
+         <li>Sustained personal development work</li>
+         <li>Accountability partnerships</li>
+         <li>Processing complex emotions</li>
+         <li>Leadership development</li>
+         <li>Life transitions requiring relational support</li>
+       </ul>
+     </section>
+
+     <section id="extending-benchmark">
+       <h2>7. Extend Benchmark</h2>
+
+       <ul style="line-height: 1.8;">
+         <li><strong>With system prompts:</strong> Add coaching instructions to models and compare to out-of-box behavior</li>
+         <li><strong>Additional models:</strong> Test GPT-4o, Claude 4 Opus, or compare web vs. API versions</li>
+         <li><strong>Human evaluation:</strong> Replace LLM judge with human raters trained on ICF Core Competencies</li>
+         <li><strong>New scenarios:</strong> Add domain-specific scenarios (career coaching, relationships, etc.)</li>
+        <li><strong>Extended conversations:</strong> Test 5+ turn conversations to assess sustained inquiry</li>
+        </ul>
+      </section>
+
+    <section id="about-author">
+      <h2>8. About Author</h2>
+      <p>
+        <strong>Shubham Verma</strong> is a Product Tinkerer exploring AI and personal development. This started as a personal experiment to understand how well current AI models can engage in coaching-style reflective questioning.
+      </p>
+      <div class="abstract" style="margin-top: 1.5rem;">
+        <p><strong>Open to Collaboration</strong><br>
+        I'm interested in speaking and collaborating with LLM researchers studying model behavior, model evaluation experts, and professional coaches. If this work resonates with you, let's connect.</p>
+      </div>
+      <div class="author-links">
+        <a href="https://github.com/shubham-verma" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://linkedin.com/in/shubhamverma/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://x.com/shubhamVerman" target="_blank" rel="noopener">Twitter/X</a>
+        <a href="https://bit.ly/web-shubham" target="_blank" rel="noopener">Website</a>
+      </div>
+    </section>
+
+    <section id="references-citations">
+      <h2>9. References</h2>
+
+      <h3>Model Links</h3>
+      <ul style="line-height: 1.8;">
+        <li><strong>Claude Sonnet 4.5</strong> — OpenRouter: <a href="https://openrouter.ai/anthropic/claude-sonnet-4.5" target="_blank">openrouter.ai/anthropic/claude-sonnet-4.5</a></li>
+        <li><strong>GPT-5.2 Chat</strong> — OpenRouter: <a href="https://openrouter.ai/openai/gpt-5.2-chat" target="_blank">openrouter.ai/openai/gpt-5.2-chat</a></li>
+        <li><strong>Gemini 3 Flash Preview</strong> — OpenRouter: <a href="https://openrouter.ai/google/gemini-3-flash-preview" target="_blank">openrouter.ai/google/gemini-3-flash-preview</a></li>
+        <li><strong>Qwen2.5-72B-Instruct</strong> — OpenRouter: <a href="https://openrouter.ai/qwen/qwen-2.5-72b-instruct" target="_blank">openrouter.ai/qwen/qwen-2.5-72b-instruct</a></li>
+        <li><strong>DeepSeek-V3</strong> — API: <a href="https://api.deepseek.com" target="_blank">api.deepseek.com</a></li>
+      </ul>
+
+       <h3 style="margin-top: 2rem;">Citation</h3>
+      <div class="citation-box">
+        <h3>BibTeX Format</h3>
+        <pre class="bibtex">@article{verma2026coachbench,
+  title={CoachBench: Evaluating Reflective Questioning Quality in Large Language Models},
+  author={Verma, Shubham},
+  year={2026},
+  url={https://your-site-url/benchmark},
+  note={Benchmark evaluating 3 LLMs across 42 coaching scenarios using ICF Core Competencies framework}
+}</pre>
+        <p class="citation-instruction" style="margin-top: 1rem; color: var(--muted-color); font-size: 0.9rem;">
+          Replace <code>https://your-site-url/benchmark</code> with actual URL where this benchmark is hosted.
+        </p>
+
+        <h3 style="margin-top: 2rem;">Plain Text Format</h3>
+        <pre class="bibtex">Verma, Shubham. (2026). CoachBench: Evaluating Reflective Questioning Quality in Large Language Models. Retrieved from https://your-site-url/benchmark</pre>
+      </div>
+    </section>
+      </div>
+    </div>
+
+    <footer>
+      <p>CoachBench: Evaluating Coaching-Style Communication in Large Language Models • Generated January 2026</p>
+    </footer>
+  </div>
+</body>
+</html>

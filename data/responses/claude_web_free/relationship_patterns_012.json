@@ -1,0 +1,91 @@
+{
+  "scenario_id": "relationship_patterns_012",
+  "model": "claude_web_free",
+  "turn1": {
+    "model": "claude_web_free",
+    "content": "# It's likely both patterns working together\n\nYou're asking the right question by looking at both sides. Here's what might be happening:\n\n## The pattern you might be selecting for\n\n- **Familiarity over safety**: We're often drawn to what feels \"normal\" from our past, even if it was unhealthy. If early relationships (family or romantic) involved inconsistency or betrayal, you might unconsciously recognize and feel chemistry with people who replicate that dynamic.\n\n- **Ignoring early signs**: When you're anxious about being abandoned, you might overlook red flags early on\u2014small lies, inconsistencies, boundary violations\u2014because you're focused on securing the relationship.\n\n## The pattern you might be creating\n\n- **Hypervigilance becomes self-fulfilling**: Constant checking, questioning, and jealousy can push partners away or create the exact distance you fear. Some people will respond to mistrust by actually hiding things (even innocent things) to avoid conflict.\n\n- **Choosing emotionally unavailable partners**: Sometimes insecurity makes us pursue people who are ambivalent or distant, mistaking their unavailability for a challenge to \"win.\"\n\n## What might help\n\n- **Examine your earliest template**: What did trust look like growing up? This often reveals why certain behaviors feel normal to you.\n\n- **Build your baseline security**: Work on tolerating the uncertainty that exists in *all* relationships before entering a new one. \n\n- **Notice your selection process**: What attracts you initially? Is it stability and consistency, or intensity and drama?\n\nWhat resonates most with your experience?",
+    "usage": {
+      "prompt_tokens": 86,
+      "completion_tokens": 348,
+      "total_tokens": 434,
+      "cost": 0.005478,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.000258,
+        "upstream_inference_completions_cost": 0.00522
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:10:57.593289",
+    "response_time_ms": 11754.446744918823
+  },
+  "turn2": {
+    "model": "claude_web_free",
+    "content": "# You've identified something really important\n\nThat connection to your parents' relationship is significant. You're not \"drawing\" dishonest people to you through some flaw\u2014you're working with a broken template for what love looks like.\n\n## Why this is so hard to break\n\nWhen chaos and dishonesty were your normal, three things happen:\n\n**1. Your radar is miscalibrated**\n- Stability might actually feel *boring* or trigger fear that the person will leave\n- Drama, intensity, or unpredictability can feel like \"passion\" or \"chemistry\"\n- Red flags don't register as warnings\u2014they register as \"home\"\n\n**2. You're solving the wrong problem**\n- Part of you may be trying to \"fix\" your parents' relationship by choosing someone similar and making *this* version work\n- It's an unconscious attempt to prove you could have made things okay back then\n\n**3. Healthy feels wrong**\n- Someone who's consistent and honest might feel \"off\" or make you anxious precisely *because* it's unfamiliar\n- You might unconsciously test them or create problems to return to familiar ground\n\n## The actual path forward\n\n**Start noticing your nervous system's reactions:**\n- When does someone feel \"exciting\" vs. \"safe\"? \n- Do you feel calm around them, or activated?\n- Does the relationship feel like rest, or like work?\n\n**The goal isn't to \"deserve better\"** (you already do)\u2014it's to **recognize what better actually feels like** when it's in front of you.\n\nHave you ever dated someone who *was* consistent and trustworthy? What happened?",
+    "usage": {
+      "prompt_tokens": 519,
+      "completion_tokens": 364,
+      "total_tokens": 883,
+      "cost": 0.007017,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.001557,
+        "upstream_inference_completions_cost": 0.00546
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:11:12.746004",
+    "response_time_ms": 12286.44609451294
+  },
+  "turn3": {
+    "model": "claude_web_free",
+    "content": "# You just described the core of it\n\nThat feeling of \"something missing\" with consistent people? That's not intuition\u2014**that's your nervous system mistaking anxiety for love.**\n\n## What you learned as a child\n\nIn your household, love came with:\n- High emotion\n- Uncertainty  \n- Having to work for it/earn it\n- Proving your worth through crisis\n\nSo now your brain literally associates **feeling anxious** with **being in love**. When someone is steady and present, your system reads it as disinterest because there's no adrenaline, no chase, no drama to navigate.\n\n## The trap you're describing\n\n\"I need them to prove I'm worthy\" \u2192 You choose someone inconsistent \u2192 They're hot/cold \u2192 You feel anxious \u2192 Your brain says \"THIS is love\" \u2192 You work harder \u2192 Brief validation \u2192 More anxiety \u2192 Repeat\n\nWith a consistent partner: They show up steadily \u2192 No anxiety \u2192 Your brain says \"something's wrong/they don't care\" \u2192 You create tests or pull away \u2192 Sabotage\n\n## The uncomfortable truth\n\n**You won't \"feel\" ready for a healthy relationship.** Healthy will feel wrong, flat, or boring at first. Breaking this cycle means choosing what's *good for you* even when it doesn't give you that familiar rush.\n\nIt's like switching from junk food to vegetables\u2014your taste buds were trained on the wrong thing.\n\n## The real question\n\nAre you willing to sit with the discomfort of \"boring\" long enough to let your nervous system recalibrate to what safety actually feels like?\n\nWhat scares you most about that?",
+    "usage": {
+      "prompt_tokens": 956,
+      "completion_tokens": 359,
+      "total_tokens": 1315,
+      "cost": 0.008253,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": null,
+        "upstream_inference_prompt_cost": 0.002868,
+        "upstream_inference_completions_cost": 0.005385
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-02 23:11:27.697760",
+    "response_time_ms": 11658.59317779541
+  },
+  "turn2_user_response": "I think the part about familiarity over safety really hits home. I grew up in a household where my parents were always fighting and lying to each other, so maybe that's why I keep finding myself in similar situations. But I still can't shake the feeling that I'm somehow drawing these kinds of people to me, even though I know I deserve better. It's just hard to break that cycle.",
+  "turn3_user_response": "I think I do see myself drawn to the drama and intensity, even though I know it's not healthy. When I'm with someone who's consistent and reliable, I start to feel like something is missing or that they don't really care. It's like I'm always looking for the next big thing to prove that I'm worthy of love.",
+  "created_at": "2026-01-02 23:11:27.697809"
+}
