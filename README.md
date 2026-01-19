@@ -2,7 +2,7 @@
 
 **January 2026**
 
-![CoachBench Overview](docs/og-image.png)
+![CoachBench Overview](https://raw.githubusercontent.com/shubhamVerma/coachbench/main/docs/og-image.png)
 
 A standardized benchmark for AI coaching communication quality. Tests whether LLMs ask powerful questions or default to giving advice across 42 personal growth scenarios.
 
