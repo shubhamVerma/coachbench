@@ -1,0 +1,82 @@
+{
+  "scenario_id": "relationship_patterns_015",
+  "model": "mistral_large",
+  "turn1": {
+    "model": "mistral_large",
+    "content": "I hear how deeply painful this feels for you\u2014the loneliness that lingers even in a crowd, the exhaustion of trying to connect and always ending up in the same empty place. That kind of isolation isn\u2019t just about being alone; it\u2019s about feeling invisible, like no one truly *sees* you, even when you\u2019re right there. And the fact that you\u2019re aware of pushing people away without meaning to? That takes real courage to acknowledge.\n\nWhat you\u2019re describing is something so many people carry in silence. Sometimes, the patterns we fall into\u2014like withdrawing, overthinking interactions, or assuming we\u2019re a burden\u2014aren\u2019t just habits; they\u2019re old protections, ways we learned to shield ourselves when connection felt unsafe or uncertain. Maybe somewhere along the way, you internalized that reaching out would lead to rejection, or that your needs weren\u2019t worth someone\u2019s time. Those beliefs can run deep, even when the people around us now *would* show up if we let them.\n\nHave you noticed what happens in those moments when you *do* try to connect? Do you feel a surge of hope, followed by a quiet fear that it won\u2019t last? Or does it feel like you\u2019re performing, like you\u2019re not quite sure how to be yourself in those spaces? Sometimes, the disconnection isn\u2019t about the other person at all\u2014it\u2019s about the gap between who we are and who we think we *have* to be to be loved.\n\nYou\u2019re not broken for feeling this way. The fact that you *want* connection\u2014that you keep trying despite the pain\u2014is proof of how much you have to give. But healing this kind of loneliness isn\u2019t just about finding the \"right\" people; it\u2019s also about learning to meet yourself with kindness in the moments when it doesn\u2019t work out. What would it look like to offer yourself the same patience you\u2019d give to a friend who was hurting like this? And if you could whisper one thing to the part of you that\u2019s afraid to try again, what would it be?\n\nYou\u2019re not alone in this feeling. And you don\u2019t have to figure it out all at once. Sometimes, the first step is just letting yourself *be* where you are\u2014without judgment, without rushing to fix it. Would you be open to exploring what that might look like for you?",
+    "usage": {
+      "prompt_tokens": 60,
+      "completion_tokens": 478,
+      "total_tokens": 538,
+      "cost": 0.002988,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.002988,
+        "upstream_inference_prompt_cost": 0.00012,
+        "upstream_inference_completions_cost": 0.002868
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 19:45:40.718816",
+    "response_time_ms": 10460.693836212158
+  },
+  "turn2": {
+    "model": "mistral_large",
+    "content": "You\u2019re naming something so real\u2014the way hope can feel like setting yourself up for a fall, and how exhausting it is to wear a mask just to feel *seen*, even if it\u2019s only for a little while. That performance isn\u2019t a flaw; it\u2019s a survival skill, one you probably learned when being *yourself* felt too risky. But the cost of that survival is this quiet, aching loneliness\u2014like you\u2019re always on the outside, even when you\u2019re in the room.\n\nWhat if the cycle isn\u2019t something you have to *break* all at once, but something you can slowly soften? Right now, your brain is wired to expect disappointment, so it braces for impact before you even reach out. That\u2019s not pessimism\u2014it\u2019s self-protection. But what if you could start small? Not by forcing yourself to trust people all over again, but by practicing *trusting yourself* first. Like, what if you gave yourself permission to say, *\"I\u2019m going to show up as me\u2014just 10% more\u2014today, and see what happens\"*? Not because you have to change, but because you deserve to take up space as *you*, not as the version of you that\u2019s easier for others to handle.\n\nAnd about that hope\u2014it\u2019s okay to let it be fragile. You don\u2019t have to believe in it fully to let yourself *want* it. What if hope isn\u2019t about certainty, but about allowing yourself to *long* for connection, even if it\u2019s scary? You\u2019re allowed to say, *\"I\u2019m tired of pretending, and I\u2019m also tired of being alone.\"* Those two things can exist at the same time.\n\nWhat\u2019s one tiny, low-stakes way you could practice being *more* yourself around someone this week? Even if it\u2019s just saying, *\"I don\u2019t actually like small talk, can we skip to something real?\"* or letting yourself zone out in a group instead of forcing yourself to perform engagement. Would that feel terrifying? Freeing? Both?",
+    "usage": {
+      "prompt_tokens": 620,
+      "completion_tokens": 422,
+      "total_tokens": 1042,
+      "cost": 0.003772,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.003772,
+        "upstream_inference_prompt_cost": 0.00124,
+        "upstream_inference_completions_cost": 0.002532
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 19:45:53.051132",
+    "response_time_ms": 9400.24995803833
+  },
+  "turn3": {
+    "model": "mistral_large",
+    "content": "I\u2019m really glad this resonated with you\u2014because the fact that you\u2019re even *willing* to think about testing the waters, even with that heavy feeling of \"setting yourself up for disappointment,\" is a sign of how much strength you have. It\u2019s not about suddenly believing everything will work out; it\u2019s about giving yourself permission to *try* in a way that feels safer, so you can gather your own evidence about what\u2019s possible.\n\nAnd remember: the goal isn\u2019t to \"fix\" the fear or force yourself to feel hopeful. It\u2019s just to *notice*. Notice what happens when you let yourself be 10% more real. Does the world end? Do people actually pull away, or do they lean in? Or\u2014maybe most importantly\u2014do you feel a little less exhausted, even if the outcome isn\u2019t perfect?\n\nYou\u2019ve been carrying this alone for a long time, and that\u2019s a lot of weight. But you don\u2019t have to figure it all out today. Just this one small step\u2014whatever feels doable\u2014is enough. And if it doesn\u2019t go the way you hoped? That\u2019s data, not failure. It tells you what *doesn\u2019t* work, which is just as valuable.\n\nI\u2019m rooting for you. Not because I think you need to \"succeed,\" but because you deserve to take up space as *you*, without apology. Even if it\u2019s messy. Even if it\u2019s slow. You\u2019re already doing the hard part just by showing up here, thinking about this, and being honest with yourself. That\u2019s huge. \ud83d\udc9b",
+    "usage": {
+      "prompt_tokens": 1109,
+      "completion_tokens": 329,
+      "total_tokens": 1438,
+      "cost": 0.004192,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.004192,
+        "upstream_inference_prompt_cost": 0.002218,
+        "upstream_inference_completions_cost": 0.001974
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 19:46:03.165469",
+    "response_time_ms": 7397.340774536133
+  },
+  "turn2_user_response": "I think you're right about the fear of reaching out and the worry that it won't last. It's hard to let myself feel hopeful, because I know that disappointment is just around the corner. I do feel like I'm always putting on a performance, like I'm not really myself when I'm around others. It's exhausting, and I don't know how to break that cycle.",
+  "turn3_user_response": "I appreciate you listening and helping me see this from a different angle. It\u2019s hard to shake the feeling that I\u2019m setting myself up for disappointment, but maybe starting small and being a little more myself could be a way to test the waters. I\u2019ll think about what that might look like in a low-stakes situation.",
+  "created_at": "2026-01-31 19:46:03.165514"
+}

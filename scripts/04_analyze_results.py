@@ -36,13 +36,13 @@ def main():
 
     # Copy summary.json to web/data/ for interactive HTML charts
     import shutil
-    web_summary_path = Path(__file__).parent.parent / "web" / "data" / "summary.json"
+    web_summary_path = Path(__file__).parent.parent / "docs" / "data" / "summary.json"
     web_summary_path.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy("results/summary.json", web_summary_path)
     print(f"📁 Copied summary.json to web/data/ for interactive HTML")
 
     # Copy evaluations.json to web/data/ for interactive evaluations
-    web_eval_path = Path(__file__).parent.parent / "web" / "data" / "evaluations.json"
+    web_eval_path = Path(__file__).parent.parent / "docs" / "data" / "evaluations.json"
     shutil.copy("data/evaluations.json", web_eval_path)
     print(f"📁 Copied evaluations.json to web/data/ for interactive HTML")
 

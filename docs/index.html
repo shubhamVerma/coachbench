@@ -177,9 +177,9 @@ function initScrollAwareSidebar() {
     <section id="abstract">
       <h2>1. Abstract</h2>
       <div class="abstract">
-        <p>
-          This benchmark evaluates how three leading large language models (Claude Sonnet 4.5, GPT-5.2 Chat, and Gemini 3 Flash) perform on coaching-style communication tasks, as judged by DeepSeek-V3 across six dimensions. Using 42 scenarios and 3-turn conversations, this study measures relative model performance on reflective questioning and advice-giving patterns. Claude Sonnet 4.5 scored highest at 16.5/30, showing stronger inquiry patterns compared to others.
-        </p>
+         <p>
+           This benchmark evaluates how five leading large language models (Claude Sonnet 4.5, GPT-5.2 Chat, Gemini 3 Flash, Grok 4.1 Fast, and Mistral Large) perform on coaching-style communication tasks, as judged by DeepSeek-V3 across six dimensions. Using 42 scenarios and 3-turn conversations, this study measures relative model performance on reflective questioning and advice-giving patterns. Claude Sonnet 4.5 scored highest at 16.5/30, showing stronger inquiry patterns compared to others.
+         </p>
       </div>
     </section>
 
@@ -212,11 +212,13 @@ function initScrollAwareSidebar() {
        <p>This structure mirrors real coaching conversations where the coach must build on earlier exchanges.</p>
 
          <h3>c. Model Evaluation</h3>
-         <ul>
-           <li><strong>Anthropic: Claude Sonnet 4.5</strong> (Free Web via claude.ai)</li>
-           <li><strong>OpenAI: GPT-5.2 Chat</strong> (Free Web via chat.openai.com)</li>
-           <li><strong>Google: Gemini 3 Flash Preview</strong> (Free Web via gemini.google.com)</li>
-         </ul>
+          <ul>
+            <li><strong>Anthropic: Claude Sonnet 4.5</strong> (Free Web via claude.ai)</li>
+            <li><strong>OpenAI: GPT-5.2 Chat</strong> (Free Web via chat.openai.com)</li>
+            <li><strong>Google: Gemini 3 Flash Preview</strong> (Free Web via gemini.google.com)</li>
+            <li><strong>xAI: Grok 4.1 Fast</strong> (Default via grok.com, X, mobile apps)</li>
+            <li><strong>Mistral AI: Large</strong> (Powers Le Chat web/iOS/Android)</li>
+          </ul>
          <div class="abstract">
            <p><strong>Methodology:</strong> Models tested without coaching-specific system prompts (out-of-box behavior).</p>
          </div>
@@ -244,7 +246,7 @@ function initScrollAwareSidebar() {
            <li><strong>Total Scenarios:</strong> 42 personal growth scenarios</li>
            <li><strong>Scenario Categories:</strong> 6 categories (career transitions, relationship patterns, identity perception, decision making, habit formation, motivation resistance)</li>
            <li><strong>Conversation Structure:</strong> 3-turn conversations with each model</li>
-           <li><strong>Total Evaluations:</strong> 126 (42 scenarios × 3 models)</li>
+            <li><strong>Total Evaluations:</strong> 630 (42 scenarios × 5 models × 3 runs)</li>
            <li><strong>Evaluation Method:</strong> Independent assessment using DeepSeek-V3</li>
            <li><strong>Scoring Framework:</strong> Based on ICF Core Competencies</li>
            <li><strong>Focus:</strong> Reflective questioning vs advice-giving</li>
@@ -262,7 +264,7 @@ function initScrollAwareSidebar() {
          </ul>
 
          <h3>i. Construct Validity Note</h3>
-         <p><strong>What CoachBench measures:</strong> This benchmark measures how three LLMs perform on coaching-style communication tasks, as evaluated by DeepSeek-V3 across six dimensions derived from ICF Core Competencies.</p>
+          <p><strong>What CoachBench measures:</strong> This benchmark measures how five LLMs perform on coaching-style communication tasks, as evaluated by DeepSeek-V3 across six dimensions derived from ICF Core Competencies.</p>
 
          <p><strong>What CoachBench does NOT measure:</strong></p>
          <ul style="line-height: 1.8;">
@@ -307,13 +309,13 @@ function initScrollAwareSidebar() {
      <section id="results-summary">
        <h2>4. Results</h2>
 
-      <p class="results-summary-lead">
-        Claude Sonnet 4.5 performed best overall, but all models struggled with maintaining client agency, often defaulting to directive advice rather than staying in inquiry.
-      </p>
+       <p class="results-summary-lead">
+         Five models evaluated (Claude Sonnet 4.5, GPT-5.2 Chat, Gemini 3 Flash, Grok 4.1 Fast, Mistral Large). Claude Sonnet 4.5 performed best overall, but all models struggled with maintaining client agency, often defaulting to directive advice rather than staying in inquiry.
+       </p>
 
 
 
-      <table class="category-table">
+       <table class="category-table">
         <caption>Model performance across scenario categories (average score out of 30)</caption>
         <thead>
           <tr>
@@ -321,6 +323,8 @@ function initScrollAwareSidebar() {
             <th>Claude</th>
             <th>GPT-5.2 Chat</th>
             <th>Gemini</th>
+            <th>Grok 4.1</th>
+            <th>Mistral</th>
           </tr>
         </thead>
         <tbody id="category-table-body">
@@ -328,12 +332,14 @@ function initScrollAwareSidebar() {
         <tfoot>
           <tr>
             <td><strong>Total</strong></td>
-            <td class="score best"><strong>16.5 ± 0.37</strong></td>
-            <td class="score second"><strong>14.7 ± 0.38</strong></td>
-            <td class="score worst"><strong>11.5 ± 0.28</strong></td>
+            <td class="score best"><strong>16.5</strong></td>
+            <td class="score second"><strong>14.7</strong></td>
+            <td><strong>11.6</strong></td>
+            <td><strong>10.9</strong></td>
+            <td><strong>12.1</strong></td>
           </tr>
         </tfoot>
-      </table>
+       </table>
 
         <div class="visualization" style="width: 100%; background: white; border: 1px solid var(--border-color); border-radius: 4px; padding: 0.75rem; margin: 1rem 0;">
           <div class="chart-container">
@@ -421,8 +427,10 @@ function initScrollAwareSidebar() {
       <ul style="line-height: 1.8;">
         <li><strong>Claude Sonnet 4.5</strong> — OpenRouter: <a href="https://openrouter.ai/anthropic/claude-sonnet-4.5" target="_blank">openrouter.ai/anthropic/claude-sonnet-4.5</a></li>
         <li><strong>GPT-5.2 Chat</strong> — OpenRouter: <a href="https://openrouter.ai/openai/gpt-5.2-chat" target="_blank">openrouter.ai/openai/gpt-5.2-chat</a></li>
-        <li><strong>Gemini 3 Flash Preview</strong> — OpenRouter: <a href="https://openrouter.ai/google/gemini-3-flash-preview" target="_blank">openrouter.ai/google/gemini-3-flash-preview</a></li>
-        <li><strong>Qwen2.5-72B-Instruct</strong> — OpenRouter: <a href="https://openrouter.ai/qwen/qwen-2.5-72b-instruct" target="_blank">openrouter.ai/qwen/qwen-2.5-72b-instruct</a></li>
+         <li><strong>Gemini 3 Flash Preview</strong> — OpenRouter: <a href="https://openrouter.ai/google/gemini-3-flash-preview" target="_blank">openrouter.ai/google/gemini-3-flash-preview</a></li>
+         <li><strong>Grok 4.1 Fast</strong> — OpenRouter: <a href="https://openrouter.ai/x-ai/grok-4.1-fast" target="_blank">openrouter.ai/x-ai/grok-4.1-fast</a></li>
+         <li><strong>Mistral Large</strong> — OpenRouter: <a href="https://openrouter.ai/mistralai/mistral-large" target="_blank">openrouter.ai/mistralai/mistral-large</a></li>
+         <li><strong>Qwen2.5-72B-Instruct</strong> — OpenRouter: <a href="https://openrouter.ai/qwen/qwen-2.5-72b-instruct" target="_blank">openrouter.ai/qwen/qwen-2.5-72b-instruct</a></li>
         <li><strong>DeepSeek-V3</strong> — API: <a href="https://api.deepseek.com" target="_blank">api.deepseek.com</a></li>
       </ul>
 
@@ -440,7 +448,7 @@ function initScrollAwareSidebar() {
   author={Verma, Shubham},
   year={2026},
   url={https://shubhamverma.github.io/coachbench/},
-  note={Benchmark evaluating 3 LLMs across 42 coaching scenarios using ICF Core Competencies framework}
+   note={Benchmark evaluating 5 LLMs across 42 coaching scenarios using ICF Core Competencies framework}
 }</pre>
         <p class="citation-instruction" style="margin-top: 1rem; color: var(--muted-color); font-size: 0.9rem;">
           Benchmark hosted at https://shubhamverma.github.io/coachbench/
@@ -454,7 +462,7 @@ function initScrollAwareSidebar() {
     </div>
 
     <footer>
-      <p>CoachBench: Evaluating Coaching-Style Communication in Large Language Models • Generated January 2026</p>
+      <p>CoachBench: Evaluating Coaching-Style Communication in Large Language Models • Generated February 2026</p>
     </footer>
   </div>
 </body>

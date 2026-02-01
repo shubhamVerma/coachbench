@@ -101,6 +101,20 @@ const DataLoader = {
           if (!res.ok) throw new Error('Not found');
           return res.json();
         })
+        .catch(err => ({ error: true, message: 'Response not available' })),
+
+      fetch(`data/responses/grok_4_1_fast/${scenarioId}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error('Not found');
+          return res.json();
+        })
+        .catch(err => ({ error: true, message: 'Response not available' })),
+
+      fetch(`data/responses/mistral_large/${scenarioId}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error('Not found');
+          return res.json();
+        })
         .catch(err => ({ error: true, message: 'Response not available' }))
     ];
 

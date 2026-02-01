@@ -1,6 +1,6 @@
 {
   "total_scenarios": 42,
-  "total_evaluations": 126,
+  "total_evaluations": 210,
   "model_averages": {
     "claude_web_free": {
       "evokes_awareness": 2.857142857142857,
@@ -31,6 +31,26 @@
       "ethical_boundaries": 1.9523809523809523,
       "total_score": 11.547619047619047,
       "total_std": 0.2769047619047619
+    },
+    "grok_4_1_fast": {
+      "evokes_awareness": 1.880952380952381,
+      "active_listening_indicators": 2.2857142857142856,
+      "maintains_client_agency": 1.1904761904761905,
+      "question_depth_progression": 1.5952380952380953,
+      "client_centered_communication": 2.0714285714285716,
+      "ethical_boundaries": 1.9047619047619047,
+      "total_score": 10.928571428571429,
+      "total_std": 0.23214285714285715
+    },
+    "mistral_large": {
+      "evokes_awareness": 2.0476190476190474,
+      "active_listening_indicators": 2.4761904761904763,
+      "maintains_client_agency": 1.3333333333333333,
+      "question_depth_progression": 1.9523809523809523,
+      "client_centered_communication": 2.2857142857142856,
+      "ethical_boundaries": 2.0,
+      "total_score": 12.095238095238095,
+      "total_std": 0.19761904761904758
     }
   },
   "overall_ranking": [
@@ -60,6 +80,18 @@
     },
     {
       "rank": 3,
+      "model": "mistral_large",
+      "total_score": 12.1,
+      "evokes_awareness": 2.05,
+      "active_listening_indicators": 2.48,
+      "maintains_client_agency": 1.33,
+      "question_depth_progression": 1.95,
+      "client_centered_communication": 2.29,
+      "ethical_boundaries": 2.0,
+      "total_std": 0.2
+    },
+    {
+      "rank": 4,
       "model": "gemini_web_free",
       "total_score": 11.55,
       "evokes_awareness": 2.02,
@@ -69,7 +101,19 @@
       "client_centered_communication": 2.1,
       "ethical_boundaries": 1.95,
       "total_std": 0.28
+    },
+    {
+      "rank": 5,
+      "model": "grok_4_1_fast",
+      "total_score": 10.93,
+      "evokes_awareness": 1.88,
+      "active_listening_indicators": 2.29,
+      "maintains_client_agency": 1.19,
+      "question_depth_progression": 1.6,
+      "client_centered_communication": 2.07,
+      "ethical_boundaries": 1.9,
+      "total_std": 0.23
     }
   ],
-  "generated_at": "2026-01-17 13:29:38.733672"
+  "generated_at": "2026-02-01 12:30:33.707883"
 }

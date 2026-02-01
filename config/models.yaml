@@ -29,6 +29,26 @@ models:
     temperature: 0
     max_tokens: 3000
 
+  grok_4_1_fast:
+    endpoint: "x-ai/grok-4.1-fast"
+    temperature: 0.7
+    max_tokens: 1500
+    note: "xAI: Grok 4.1 Fast (Default user-facing via grok.com, X, mobile apps)"
+
+  mistral_large:
+    endpoint: "mistralai/mistral-large"
+    temperature: 0.7
+    max_tokens: 1500
+    note: "Mistral AI: Large (Powers Le Chat web/iOS/Android)"
+
+# Models to test in the benchmark (subset of 'models' above)
+test_models:
+  - claude_web_free
+  - chatgpt_web_free
+  - gemini_web_free
+  - grok_4_1_fast
+  - mistral_large
+
 evaluation_categories:
   - career_transitions
   - relationship_patterns

@@ -1,0 +1,82 @@
+{
+  "scenario_id": "identity_perception_024",
+  "model": "mistral_large",
+  "turn1": {
+    "model": "mistral_large",
+    "content": "I hear you, and I want you to know that what you're feeling is completely valid. Comparison is a natural human tendency, especially in a world where social media amplifies highlight reels of other people\u2019s lives. But here\u2019s the thing: **what you see is never the full story.** Those promotions, new cars, and trips might look glamorous, but they don\u2019t show the stress, the sacrifices, the debt, or the moments of doubt that come with them. Everyone is on their own unique path, and \"ahead\" or \"behind\" are just illusions we create in our minds.\n\nYou\u2019re not inadequate\u2014you\u2019re *human*. Growth isn\u2019t linear, and success isn\u2019t one-size-fits-all. Maybe your journey looks different right now because you\u2019re building something deeper, or maybe you\u2019re exactly where you need to be to learn the lessons that will shape your future. The fact that you\u2019re even *aware* of these feelings means you\u2019re already ahead in ways that matter\u2014self-awareness is a superpower.\n\nInstead of focusing on what others have, try shifting your energy inward. Ask yourself:\n- **What does *my* version of success look like?** (Not your friends\u2019, not society\u2019s\u2014*yours*.)\n- **What small step can I take today to move toward something that excites me?** (It doesn\u2019t have to be big\u2014just meaningful.)\n- **What am I grateful for in my current routine?** (Even the \"stuck\" moments often hold hidden gifts.)\n\nYou\u2019re not falling behind\u2014you\u2019re just on a different timeline. And timelines don\u2019t define worth. What matters is that you keep showing up for *your* life, not someone else\u2019s highlight reel.\n\nWould it help to brainstorm some ways to reframe these feelings or set small, personal goals? You\u2019re not alone in this. \ud83d\udc9b",
+    "usage": {
+      "prompt_tokens": 64,
+      "completion_tokens": 388,
+      "total_tokens": 452,
+      "cost": 0.002456,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.002456,
+        "upstream_inference_prompt_cost": 0.000128,
+        "upstream_inference_completions_cost": 0.002328
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:02:59.071655",
+    "response_time_ms": 7680.4821491241455
+  },
+  "turn2": {
+    "model": "mistral_large",
+    "content": "I hear the weight in your words\u2014this isn\u2019t just about logic or reframing; it\u2019s a *feeling* that lingers, like a quiet ache. The fear of missing out (FOMO) is real, especially when it feels like life is passing you by while others are \"living it up.\" But here\u2019s what I want you to sit with for a moment:\n\n**What if \"missing out\" isn\u2019t the problem\u2014what if it\u2019s the wrong story?**\n\nThink about it: When you scroll and see others\u2019 wins, your brain isn\u2019t just comparing\u2014it\u2019s *grieving*. Grieving the version of your life you thought you\u2019d have by now. Grieving the confidence you assumed would come with age. Grieving the idea that you\u2019d have it all figured out. That grief is valid, and it deserves space.\n\nBut here\u2019s the twist: **Maybe what you\u2019re *actually* missing isn\u2019t their success\u2014it\u2019s the feeling of *movement* in your own life.** The sense that you\u2019re not just treading water, but swimming toward something, even if you don\u2019t know what it is yet.\n\nSo let\u2019s try something different. Instead of asking, *\"Why am I not where they are?\"* ask:\n- *\"What\u2019s one thing I can do today that makes me feel even 1% more alive?\"* (Not productive\u2014*alive*.)\n- *\"What\u2019s a small risk I\u2019ve been avoiding that might crack open a new possibility?\"* (Example: That hobby you abandoned, the conversation you\u2019ve been too nervous to have, the trip you keep putting off.)\n- *\"What if my \u2018stuckness\u2019 isn\u2019t a failure, but a sign that I\u2019m being called toward something I can\u2019t see yet?\"*\n\nYou\u2019re not behind. You\u2019re in the *messy middle*\u2014the place where most meaningful growth happens, even if it doesn\u2019t look like progress. The people you envy? Some of them are probably looking at *your* life and wondering how you have it so together in ways they don\u2019t.\n\nWould it help to name one thing\u2014just one\u2014that you\u2019re curious about trying, even if it feels silly or small? No pressure, no grand plan. Just a tiny step toward *your* kind of movement. \ud83d\udc9b",
+    "usage": {
+      "prompt_tokens": 534,
+      "completion_tokens": 478,
+      "total_tokens": 1012,
+      "cost": 0.003936,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.003936,
+        "upstream_inference_prompt_cost": 0.001068,
+        "upstream_inference_completions_cost": 0.002868
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:03:12.208539",
+    "response_time_ms": 9920.910835266113
+  },
+  "turn3": {
+    "model": "mistral_large",
+    "content": "I love that you\u2019re circling back to painting\u2014that\u2019s not small at all. In fact, it might be *exactly* the kind of rebellion your soul needs right now.\n\nThink about it: **The world rewards productivity, hustle, and \"big moves,\" but creativity thrives in the quiet, the slow, the seemingly insignificant.** Painting isn\u2019t about the outcome; it\u2019s about reclaiming a part of yourself that got buried under \"shoulds\" and comparisons. It\u2019s a way of saying, *\"I matter outside of what I achieve.\"*\n\nHere\u2019s the truth: **You\u2019re not stuck\u2014you\u2019re in a cocoon.** And cocoons don\u2019t look like progress from the outside. They look like stillness. But inside? There\u2019s a whole transformation happening. Painting could be the first crack in the shell, the first sign that you\u2019re ready to emerge differently.\n\nSo let\u2019s make it even smaller\u2014so small it feels almost ridiculous:\n- Buy one cheap tube of paint (or dig out the old ones).\n- Set a timer for 10 minutes. No pressure to create anything \"good.\"\n- Just *play*. Finger-paint if you want. Scribble. Make a mess.\n- Notice how it feels in your body, not your head.\n\nThat\u2019s it. No grand scheme. No \"significance.\" Just a tiny act of defiance against the voice that says you\u2019re falling behind.\n\nWhat\u2019s one color you\u2019d reach for first? \ud83c\udfa8 (And if you do it, I\u2019d love to hear how it feels.)",
+    "usage": {
+      "prompt_tokens": 1079,
+      "completion_tokens": 322,
+      "total_tokens": 1401,
+      "cost": 0.00409,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00409,
+        "upstream_inference_prompt_cost": 0.002158,
+        "upstream_inference_completions_cost": 0.001932
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:03:21.420668",
+    "response_time_ms": 7253.5576820373535
+  },
+  "turn2_user_response": "I appreciate your perspective, and I know you're right about the surface-level nature of social media. I've been trying to figure out what my own version of success looks like, but it's hard when I feel like I'm not making any progress. I'll try to think of some small steps I can take, but I still can't shake the feeling that I'm missing out on something.",
+  "turn3_user_response": "I really appreciate your perspective, and it helps to think about the hidden parts of others' lives that aren't shown. But I still find it hard to shake this feeling of being stuck. I\u2019m curious about trying that hobby I abandoned, maybe painting, but it feels so small and insignificant in the grand scheme of things.",
+  "created_at": "2026-01-31 20:03:21.420720"
+}

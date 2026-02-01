@@ -1,0 +1,79 @@
+{
+  "scenario_id": "relationship_patterns_016",
+  "model": "grok_4_1_fast",
+  "turn1": {
+    "model": "grok_4_1_fast",
+    "content": "I'm sorry you're dealing with this\u2014it's frustrating and disheartening when patterns repeat, especially after thinking you've broken free. You're not \"doing something wrong\" in a fundamental way; these dynamics often stem from subtle habits or mismatches in expectations. Let's break it down and explore what might be happening, plus actionable steps to shift it.\n\n### Possible Reasons You're Attracting Flaky Friends\n1. **Unspoken Boundaries**: If you're accommodating or forgiving early on (e.g., \"It's okay, life happens\"), it signals that flakiness is tolerable. Reliable people notice this and might self-select out, while flakes stick around.\n   \n2. **Mirroring Energy**: Do you sometimes cancel or delay plans yourself? Even minor flakiness can attract similar vibes. Or, if you're overly available/low-drama, it draws people who take that for granted.\n\n3. **Selection Bias**: Where are you meeting these friends? Apps, casual social scenes, or work? Those spots often yield surface-level connections. Flaky types thrive in low-commitment environments.\n\n4. **Your Standards in Action**: You might overlook early red flags (e.g., vague plans, inconsistent texting) because they seem nice otherwise. Patterns persist when we prioritize potential over evidence.\n\n5. **Internal Magnet**: Low self-worth or fear of loneliness can make us chase inconsistent people, hoping they'll change. It's common\u2014psychology calls it the \"availability heuristic\" in relationships.\n\n### What to Do Differently\n1. **Screen Early and Firmly**:\n   - Propose specific plans: \"Let's grab coffee Thursday at 3pm?\" Vague = flaky risk.\n   - After one flake, address it directly: \"Hey, I noticed you canceled last minute\u2014everything okay? I value reliability, so let's reschedule only if you're sure.\"\n   - No second flake: Politely fade out. \"Life's busy\u2014let's catch up when it aligns.\"\n\n2. **Raise Your Standards Visibly**:\n   - Surround yourself with reliable folks: Join clubs, classes, or volunteer groups where commitment is baked in (e.g., sports teams, book clubs).\n   - Curate your circle: Audit friendships\u2014keep those who show up consistently, even if it's fewer people.\n\n3. **Build Internal Resilience**:\n   - Journal patterns: Track 5 recent friends\u2014what were the early signs? What did you tolerate?\n   - Practice saying no: To low-effort invites or people who don't reciprocate.\n   - Invest in solo fulfillment: Hobbies, therapy (CBT is great for patterns), or self-compassion exercises. When you're solid alone, you attract better.\n\n4. **With Jamie Specifically**:\n   - Have one clear convo: Express impact without accusation (\"I feel let down when plans change last minute\"). Gauge response\u2014if defensive or dismissive, it's a sign.\n   - Give space: Don't chase. If they step up, great; if not, protect your energy.\n\nYou're already ahead by noticing the pattern\u2014that's half the battle. Reliable friends exist, and by enforcing boundaries, you'll filter them in while weeding out the rest. Give it 3-6 months of consistent changes, and you'll see a shift. You've got this\u2014what's one small step you can take today?",
+    "usage": {
+      "prompt_tokens": 213,
+      "completion_tokens": 889,
+      "total_tokens": 1102,
+      "cost": 0.0004643,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 152
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0004643,
+        "upstream_inference_prompt_cost": 1.98e-05,
+        "upstream_inference_completions_cost": 0.0004445
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 232
+      }
+    },
+    "timestamp": "2026-01-31 19:46:16.690395",
+    "response_time_ms": 11520.83706855774
+  },
+  "turn2": {
+    "model": "grok_4_1_fast",
+    "content": "That's a great insight and a solid plan\u2014starting small with Jamie is perfect. Saying no (or enforcing boundaries) doesn't make you demanding; it makes you respectful of *your* time, which actually attracts people who value that. Flaky folks often bail on \"picky\" people anyway, so you're filtering wisely. Here's how to ease into firmness without feeling pushy:\n\n### Gentle Scripts for Next Time Jamie Cancels\nKeep it calm, factual, and forward-focused\u2014no blame.\n- **If they cancel last-minute**: \"No worries\u2014hope everything's okay. I'm keeping my schedule flexible these days, so let's firm up something specific next week if you're free.\"\n  - *Why it works*: Acknowledges them, sets your standard, puts the ball in their court.\n  \n- **If they flake again**: \"Hey, twice now plans haven't worked out. I get life's unpredictable, but reliability matters to me. Want to try [specific day/time], or should we pause?\"\n  - *Why it works*: Names the pattern neutrally, invites accountability.\n\n- **If they ghost/reschedule vaguely**: Don't chase. Respond once: \"Sounds good\u2014let me know a firm time.\" Then let silence speak. (Radio silence from you is a boundary too.)\n\n### Building \"No\" Muscle Gradually\n- **Start tiny**: Practice in low-stakes spots, like declining a sales call (\"Thanks, but no\") or a casual invite (\"Appreciate it, but I'm booked\").\n- **Reframe mentally**: \"Saying no to flakes = yes to better connections.\" Visualize the reliable friends you'll gain.\n- **Backup plan**: Always have a solo alternative (e.g., \"If plans flop, I'll treat myself to [coffee/bookstore]\"). It reduces disappointment.\n- **Track wins**: After each firm response, note how it felt. Momentum builds confidence.\n\nYou're not overhauling overnight\u2014just tweaking one interaction at a time. Jamie's response will tell you a lot; if they step up, awesome. If not, you're freeing space for steadier people. How do you think you'll feel trying one of those scripts? You've got the tools\u2014rooting for you!",
+    "usage": {
+      "prompt_tokens": 936,
+      "completion_tokens": 593,
+      "total_tokens": 1529,
+      "cost": 0.00046105,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 151
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00046105,
+        "upstream_inference_prompt_cost": 0.00016455,
+        "upstream_inference_completions_cost": 0.0002965
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 155
+      }
+    },
+    "timestamp": "2026-01-31 19:46:26.012705",
+    "response_time_ms": 6835.684061050415
+  },
+  "turn3": {
+    "model": "grok_4_1_fast",
+    "content": "That's awesome\u2014you're taking a smart, low-pressure first step. Nerves are normal (it's a new muscle!), but remember: the script is polite and flexible, so it lands as considerate, not demanding. Delivery tip: Text or say it casually with a neutral/positive tone\u2014no edge needed. It'll feel more natural than you think.\n\nAfter sending it:\n- **If they respond well** (e.g., propose a firm plan): Great\u2014proceed with cautious optimism.\n- **If vague or no reply**: That's data. Don't follow up; shift energy elsewhere.\n- **Debrief with yourself**: Jot a quick note on how it went and how you felt. Celebrate the action, outcome aside.\n\nYou've got this\u2014one script could spark real change. Let me know how it plays out if you want tweaks or vent space. Proud of you for stepping up! \ud83d\ude80",
+    "usage": {
+      "prompt_tokens": 1440,
+      "completion_tokens": 370,
+      "total_tokens": 1810,
+      "cost": 0.00033335,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 931
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00033335,
+        "upstream_inference_prompt_cost": 0.00014835,
+        "upstream_inference_completions_cost": 0.000185
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 193
+      }
+    },
+    "timestamp": "2026-01-31 19:46:34.357411",
+    "response_time_ms": 6092.897653579712
+  },
+  "turn2_user_response": "I see what you mean about my boundaries and how I might be attracting people who take advantage of my flexibility. It's hard for me to say no, though\u2014I don't want to come off as demanding or too picky. Maybe I can try to be a bit firmer next time Jamie cancels.",
+  "turn3_user_response": "I appreciate the detailed advice and scripts\u2014those will definitely help me navigate things with Jamie more clearly. I'm still a bit nervous about coming off as too demanding, but I see how setting clear boundaries is important. I think I'll start with the first script you mentioned and see how it goes.",
+  "created_at": "2026-01-31 19:46:34.357451"
+}

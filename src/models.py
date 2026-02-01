@@ -10,6 +10,8 @@ class ModelName(str, Enum):
     GEMINI_WEB_FREE = "gemini_web_free"
     QWEN_72B = "qwen_72b"
     DEEPSEEK_V3 = "deepseek-v3"
+    GROK_4_1_FAST = "grok_4_1_fast"
+    MISTRAL_LARGE = "mistral_large"
 
 
 class ScenarioCategory(str, Enum):
@@ -82,6 +84,7 @@ class Evaluation(BaseModel):
     model: ModelName
     scenario_id: str
     scores: EvaluationScores
+    total_score: int = Field(ge=6, le=30)  # Sum of 6 dimensions (1-5 each)
     coaching_vs_advice_moments: CoachingVsAdviceMoments
     qualitative_assessment: str
     strong_examples: List[str]

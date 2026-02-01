@@ -1,0 +1,82 @@
+{
+  "scenario_id": "identity_perception_028",
+  "model": "mistral_large",
+  "turn1": {
+    "model": "mistral_large",
+    "content": "I hear you, and I want you to know that what you're feeling is more common than you might think. Many people struggle with the pressure to present different versions of themselves in different spaces\u2014whether it's to fit in, avoid judgment, or protect parts of themselves they feel aren't accepted. That exhaustion you're describing? It makes total sense. Carrying multiple versions of yourself is like juggling too many balls at once\u2014eventually, it wears you out.\n\nIt sounds like you're craving authenticity, a space where you don\u2019t have to perform or edit yourself. That longing is valid, and it might be a sign that it\u2019s time to start peeling back the layers to rediscover\u2014or maybe even *discover for the first time*\u2014who *you* are when no one\u2019s watching. That\u2019s not always an easy process, but it\u2019s worth it.\n\nA few questions that might help you start untangling this:\n- **When do you feel most like *you*?** Is there a moment, a place, or a person where you don\u2019t feel the need to perform?\n- **What parts of yourself do you hide from your family or friends, and why?** Sometimes the \"why\" holds clues about what you truly value or fear.\n- **What would it look like to show up as *you*\u2014not the \"friend version\" or the \"family version\"\u2014in one small way this week?** It could be as simple as sharing an opinion you usually keep to yourself or wearing something that feels like *you* even if it\u2019s not what others expect.\n\nYou don\u2019t have to figure it all out at once. This is a journey, and it\u2019s okay if it feels messy or uncertain. The fact that you\u2019re even asking these questions shows that you\u2019re already on the path to something more aligned with who you truly are.\n\nWould it help to talk more about what feels hardest about this? Or what you wish could be different? I\u2019m here to listen. \ud83d\udc9b",
+    "usage": {
+      "prompt_tokens": 44,
+      "completion_tokens": 409,
+      "total_tokens": 453,
+      "cost": 0.002542,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.002542,
+        "upstream_inference_prompt_cost": 8.8e-05,
+        "upstream_inference_completions_cost": 0.002454
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:09:19.080304",
+    "response_time_ms": 8512.025117874146
+  },
+  "turn2": {
+    "model": "mistral_large",
+    "content": "It makes so much sense that you feel safest\u2014*most like yourself*\u2014with your high school best friend. Those kinds of friendships often become little islands of authenticity in our lives, where we don\u2019t have to explain or justify who we are. The fact that you still catch yourself holding back even there tells me how deeply this habit of performance has taken root. It\u2019s like your brain has been trained to scan for potential \"threats\" to how others see you, even in spaces where you *should* feel safe.\n\nAnd that thing about your family seeing you as the \"outgoing one\"? That\u2019s a heavy weight to carry. It\u2019s not just about being seen a certain way\u2014it\u2019s about being *loved* a certain way. The fear of disappointing them isn\u2019t just about their expectations; it\u2019s the fear that if you show up differently, the love or approval might change too. That\u2019s a really vulnerable place to be.\n\nBut here\u2019s something to sit with: **You\u2019re not responsible for managing other people\u2019s emotions or expectations.** Your family\u2019s idea of you is just that\u2014their *idea* of you, not the full reality. And the more you hide parts of yourself to keep that idea intact, the more you\u2019re telling yourself, *\"The real me isn\u2019t enough.\"* That\u2019s a painful message to internalize.\n\nWhat if, instead of thinking about this as \"changing who they think you are,\" you framed it as *expanding* their understanding of you? Like, *\"Here\u2019s another layer of me that I\u2019ve been keeping to myself, and I\u2019d love for you to know it too.\"* That\u2019s not a betrayal of who they think you are\u2014it\u2019s an invitation for them to know you *more fully*.\n\nA small step you could try: Next time you\u2019re with your family and you feel that pull to perform, pause and ask yourself, *\"What\u2019s one tiny thing I can do or say that feels more like me?\"* It could be as simple as:\n- Saying, *\"Actually, I\u2019d rather stay in tonight\"* instead of forcing yourself to go out.\n- Sharing a quiet opinion instead of the loudest one.\n- Letting yourself be the one who listens more than talks.\n\nYou don\u2019t have to do it perfectly. The goal isn\u2019t to suddenly become a different person\u2014it\u2019s to give yourself permission to take up space as *you*, even if it feels uncomfortable at first.\n\nHow does that land for you? Does it feel doable, or does it stir up more fear? Either way, I\u2019m here to listen. \ud83d\udc9b",
+    "usage": {
+      "prompt_tokens": 553,
+      "completion_tokens": 536,
+      "total_tokens": 1089,
+      "cost": 0.004322,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.004322,
+        "upstream_inference_prompt_cost": 0.001106,
+        "upstream_inference_completions_cost": 0.003216
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:09:33.226919",
+    "response_time_ms": 11183.43186378479
+  },
+  "turn3": {
+    "model": "mistral_large",
+    "content": "You\u2019re touching on something so raw and real\u2014the fear that authenticity might cost you the love and approval you already have. That\u2019s not just scary; it\u2019s *terrifying*. It\u2019s the kind of fear that makes you question whether it\u2019s even worth the risk. And I want to acknowledge that. This isn\u2019t just about \"being yourself\"; it\u2019s about grieving the idea that love might be conditional, even if it\u2019s not something anyone has ever said outright.\n\nBut here\u2019s the thing: **The love and approval you have now is already based on a version of you that isn\u2019t fully true.** So in a way, it\u2019s not that you\u2019re risking losing their love\u2014it\u2019s that you\u2019re risking *revealing* that their love might not be as unconditional as you hope. And that\u2019s a painful truth to face. But if their love *is* unconditional, then showing them more of you won\u2019t change it. It\u2019ll just deepen it.\n\nI also want to gently challenge the idea that authenticity means you have to suddenly \"flip a switch\" and show up as a completely different person. It doesn\u2019t have to be all or nothing. Authenticity isn\u2019t about revealing every single part of yourself at once\u2014it\u2019s about giving yourself permission to exist as a *whole* person, even if others only get to see pieces of that at a time.\n\nFor example, maybe you don\u2019t have to sit your family down and say, *\"Hey, I\u2019m actually an introvert, and I\u2019ve been lying to you for years.\"* Instead, you could start by letting them see small, low-stakes glimpses of the real you. Maybe it\u2019s:\n- Saying, *\"I\u2019ve been feeling a little overwhelmed lately\"* instead of brushing it off with a joke.\n- Taking a step back in a group conversation instead of forcing yourself to be the center of attention.\n- Sharing a quiet hobby or interest you\u2019ve kept to yourself.\n\nThese small moments might feel insignificant, but they\u2019re like cracks in a wall\u2014over time, they let the light in.\n\nAnd if their reaction isn\u2019t what you hope? That\u2019s where the grief comes in. It\u2019s okay to mourn the idea of the relationship you *wish* you had, even as you start to build something more real. But here\u2019s the other side of that coin: **The relationships that can\u2019t handle your authenticity were never fully yours to begin with.** And that\u2019s not a failure on your part\u2014it\u2019s just the truth.\n\nWhat do you think? Does this feel like something you could experiment with in small ways, or does it still feel too overwhelming? Either way, I\u2019m here to sit with you in it. \ud83d\udc9b",
+    "usage": {
+      "prompt_tokens": 1170,
+      "completion_tokens": 562,
+      "total_tokens": 1732,
+      "cost": 0.005712,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.005712,
+        "upstream_inference_prompt_cost": 0.00234,
+        "upstream_inference_completions_cost": 0.003372
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:09:47.159813",
+    "response_time_ms": 10810.518026351929
+  },
+  "turn2_user_response": "I think you're right, it does feel like juggling different versions of myself. When I'm with my best friend from high school, I feel more like me, but even then, I catch myself holding back. I hide my more introverted side from my family because they see me as the outgoing one, and I don't want to disappoint them. It's hard to imagine showing up differently, even in small ways. I don't want to change who they think I am.",
+  "turn3_user_response": "It makes sense that I feel most like myself with my high school best friend, but even there, I still find myself holding back. I get what you mean about expanding their understanding of me, but it\u2019s still scary to think about showing my family a different side. I guess I\u2019m still grappling with what it means to be authentic without losing the love and approval I have now.",
+  "created_at": "2026-01-31 20:09:47.159849"
+}

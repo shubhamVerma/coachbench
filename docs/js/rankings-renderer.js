@@ -7,7 +7,9 @@ const RankingsRenderer = {
     models: {
       claude: '#e67e22',      // Orange
       chatgpt: '#27ae60',     // Green
-      gemini: '#2c5282'       // Deep Blue
+      gemini: '#2c5282',      // Deep Blue
+      grok: '#6b7280',        // Gray
+      mistral: '#8b5cf6'      // Purple
     },
     // Dimension colors (ColorBrewer-style categorical palette)
     dimensions: {
@@ -39,7 +41,9 @@ const RankingsRenderer = {
   modelNames: {
     'claude_web_free': 'Claude Sonnet 4.5',
     'chatgpt_web_free': 'GPT-5.2 Chat',
-    'gemini_web_free': 'Gemini 3 Flash'
+    'gemini_web_free': 'Gemini 3 Flash',
+    'grok_4_1_fast': 'Grok 4.1 Fast',
+    'mistral_large': 'Mistral Large'
   },
 
   categoryNames: {
@@ -117,9 +121,11 @@ const RankingsRenderer = {
         categoryScores[category] = {
           claude_web_free: [],
           chatgpt_web_free: [],
-          gemini_web_free: []
+          gemini_web_free: [],
+          grok_4_1_fast: [],
+          mistral_large: []
         };
-        categoryCounts[category] = { claude_web_free: 0, chatgpt_web_free: 0, gemini_web_free: 0 };
+        categoryCounts[category] = { claude_web_free: 0, chatgpt_web_free: 0, gemini_web_free: 0, grok_4_1_fast: 0, mistral_large: 0 };
       }
 
       if (categoryScores[category][eval.model]) {
@@ -137,7 +143,7 @@ const RankingsRenderer = {
       let bestModel = null;
       let bestAvg = -1;
 
-      ['claude_web_free', 'chatgpt_web_free', 'gemini_web_free'].forEach(model => {
+      ['claude_web_free', 'chatgpt_web_free', 'gemini_web_free', 'grok_4_1_fast', 'mistral_large'].forEach(model => {
         const scores = categoryScores[category][model];
         if (scores && scores.length > 0) {
           const avg = scores.reduce((a, b) => a + b, 0) / scores.length;
@@ -170,23 +176,27 @@ const RankingsRenderer = {
       const scores = [
         { model: 'claude_web_free', value: data.claude_web_free },
         { model: 'chatgpt_web_free', value: data.chatgpt_web_free },
-        { model: 'gemini_web_free', value: data.gemini_web_free }
+        { model: 'gemini_web_free', value: data.gemini_web_free },
+        { model: 'grok_4_1_fast', value: data.grok_4_1_fast },
+        { model: 'mistral_large', value: data.mistral_large }
       ].filter(s => s.value !== null).sort((a, b) => b.value - a.value);
 
-      const claudeScore = data.claude_web_free ? data.claude_web_free.toFixed(1) : '-';
-      const chatgptScore = data.chatgpt_web_free ? data.chatgpt_web_free.toFixed(1) : '-';
-      const geminiScore = data.gemini_web_free ? data.gemini_web_free.toFixed(1) : '-';
-
-      const claudeClass = data.claude_web_free === scores[0]?.value ? 'best' : (scores[2]?.value === data.claude_web_free ? 'worst' : 'second');
-      const chatgptClass = data.chatgpt_web_free === scores[0]?.value ? 'best' : (scores[2]?.value === data.chatgpt_web_free ? 'worst' : 'second');
-      const geminiClass = data.gemini_web_free === scores[0]?.value ? 'best' : (scores[2]?.value === data.gemini_web_free ? 'worst' : 'second');
+      const scoreDisplay = (value) => value !== null ? value.toFixed(1) : '-';
+      const getClass = (modelVal, scores) => {
+        if (modelVal === null) return '';
+        if (modelVal === scores[0]?.value) return 'best';
+        if (modelVal === scores[scores.length - 1]?.value) return 'worst';
+        return 'second';
+      };
 
       html += `
         <tr>
           <td>${categoryName}</td>
-          <td class="score ${claudeClass}">${claudeScore}</td>
-          <td class="score ${chatgptClass}">${chatgptScore}</td>
-          <td class="score ${geminiClass}">${geminiScore}</td>
+          <td class="score ${getClass(data.claude_web_free, scores)}">${scoreDisplay(data.claude_web_free)}</td>
+          <td class="score ${getClass(data.chatgpt_web_free, scores)}">${scoreDisplay(data.chatgpt_web_free)}</td>
+          <td class="score ${getClass(data.gemini_web_free, scores)}">${scoreDisplay(data.gemini_web_free)}</td>
+          <td class="score ${getClass(data.grok_4_1_fast, scores)}">${scoreDisplay(data.grok_4_1_fast)}</td>
+          <td class="score ${getClass(data.mistral_large, scores)}">${scoreDisplay(data.mistral_large)}</td>
         </tr>
       `;
     });
@@ -199,9 +209,7 @@ const RankingsRenderer = {
     if (!container) return;
 
     // Find patterns
-    let claudeBestCount = 0;
-    let chatgptBestCount = 0;
-    let geminiBestCount = 0;
+    let modelBestCounts = { claude_web_free: 0, chatgpt_web_free: 0, gemini_web_free: 0, grok_4_1_fast: 0, mistral_large: 0 };
     let overallBest = null;
     let overallWorst = null;
     let overallBestScore = -1;
@@ -209,33 +217,34 @@ const RankingsRenderer = {
 
     Object.keys(categoryData).forEach(category => {
       const data = categoryData[category];
-      if (data.best === 'claude_web_free') claudeBestCount++;
-      if (data.best === 'chatgpt_web_free') chatgptBestCount++;
-      if (data.best === 'gemini_web_free') geminiBestCount++;
+      if (data.best) modelBestCounts[data.best]++;
 
-      const avgScore = (data.claude_web_free + data.chatgpt_web_free + data.gemini_web_free) / 3;
-      if (avgScore > overallBestScore) {
-        overallBestScore = avgScore;
-        overallBest = category;
-      }
-      if (avgScore < overallWorstScore) {
-        overallWorstScore = avgScore;
-        overallWorst = category;
+      const scores = [data.claude_web_free, data.chatgpt_web_free, data.gemini_web_free, data.grok_4_1_fast, data.mistral_large].filter(s => s !== null);
+      if (scores.length > 0) {
+        const avgScore = scores.reduce((a, b) => a + b, 0) / scores.length;
+        if (avgScore > overallBestScore) {
+          overallBestScore = avgScore;
+          overallBest = category;
+        }
+        if (avgScore < overallWorstScore) {
+          overallWorstScore = avgScore;
+          overallWorst = category;
+        }
       }
     });
 
     const insights = [];
 
-    if (claudeBestCount >= 4) {
-      insights.push(`Claude Sonnet 4.5 performed best in ${claudeBestCount} out of 6 categories.`);
+    // Best performer
+    const bestModel = Object.entries(modelBestCounts).reduce((a, b) => a[1] > b[1] ? a : b);
+    if (bestModel[1] > 0) {
+      const modelLabel = this.modelNames[bestModel[0]];
+      insights.push(`${modelLabel} performed best in ${bestModel[1]} out of 6 categories.`);
     }
 
+    // Most challenging category
     if (overallWorst) {
       insights.push(`${this.categoryNames[overallWorst]} was the most challenging category for all models.`);
-    }
-
-    if (chatgptBestCount === 0 && geminiBestCount === 0) {
-      insights.push(`Claude led in every category, with gaps ranging from 1.5 to 5 points.`);
     }
 
     container.innerHTML = insights.map(i => `<p>• ${i}</p>`).join('');
@@ -246,9 +255,9 @@ const RankingsRenderer = {
     if (!ctx) return;
 
     const categories = Object.keys(categoryData).map(c => this.categoryNames[c]);
-    const models = ['claude_web_free', 'chatgpt_web_free', 'gemini_web_free'];
-    const modelLabels = ['Claude Sonnet 4.5', 'GPT-5.2 Chat', 'Gemini 3 Flash'];
-    const colors = [this.colors.models.claude, this.colors.models.chatgpt, this.colors.models.gemini];
+    const models = ['claude_web_free', 'chatgpt_web_free', 'gemini_web_free', 'grok_4_1_fast', 'mistral_large'];
+    const modelLabels = ['Claude Sonnet 4.5', 'GPT-5.2 Chat', 'Gemini 3 Flash', 'Grok 4.1 Fast', 'Mistral Large'];
+    const colors = [this.colors.models.claude, this.colors.models.chatgpt, this.colors.models.gemini, this.colors.models.grok, this.colors.models.mistral];
 
     const datasets = models.map((model, i) => ({
       label: modelLabels[i],
@@ -341,9 +350,8 @@ const RankingsRenderer = {
     const scores = summary.overall_ranking.map(r => r.total_score);
     const stds = summary.overall_ranking.map(r => r.total_std);
     const colors = summary.overall_ranking.map(r => {
-      if (r.model === 'claude_web_free') return this.colors.models.claude;
-      if (r.model === 'chatgpt_web_free') return this.colors.models.chatgpt;
-      return this.colors.models.gemini;
+      const colorMap = { claude_web_free: 'claude', chatgpt_web_free: 'chatgpt', gemini_web_free: 'gemini', grok_4_1_fast: 'grok', mistral_large: 'mistral' };
+      return this.colors.models[colorMap[r.model]];
     });
 
     new Chart(ctx, {
@@ -407,13 +415,17 @@ const RankingsRenderer = {
     const modelColors = {
       'claude_web_free': 'rgba(230, 126, 34, 0.2)',
       'chatgpt_web_free': 'rgba(39, 174, 96, 0.2)',
-      'gemini_web_free': 'rgba(44, 82, 130, 0.2)'
+      'gemini_web_free': 'rgba(44, 82, 130, 0.2)',
+      'grok_4_1_fast': 'rgba(107, 114, 128, 0.2)',
+      'mistral_large': 'rgba(139, 92, 246, 0.2)'
     };
 
     const modelBorderColors = {
       'claude_web_free': 'rgba(230, 126, 34, 1)',
       'chatgpt_web_free': 'rgba(39, 174, 96, 1)',
-      'gemini_web_free': 'rgba(44, 82, 130, 1)'
+      'gemini_web_free': 'rgba(44, 82, 130, 1)',
+      'grok_4_1_fast': 'rgba(107, 114, 128, 1)',
+      'mistral_large': 'rgba(139, 92, 246, 1)'
     };
 
     const datasets = summary.overall_ranking.map(r => ({

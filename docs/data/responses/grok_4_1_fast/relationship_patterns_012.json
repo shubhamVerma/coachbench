@@ -1,0 +1,79 @@
+{
+  "scenario_id": "relationship_patterns_012",
+  "model": "grok_4_1_fast",
+  "turn1": {
+    "model": "grok_4_1_fast",
+    "content": "I'm sorry you're going through this\u2014it's a painful cycle that leaves you feeling vulnerable and exhausted. You're not alone; many people experience repeated patterns in relationships that echo past hurts. The good news is that recognizing it is the first step toward breaking it. Let's break this down thoughtfully.\n\n### Is It You, Them, or Both?\nIt's rarely just one or the other. Often, it's a mix of **your patterns** (unconscious choices or reactions) and **their behaviors** (red flags you might overlook). Here's why this might keep happening:\n\n1. **Attachment Styles and Past Experiences**:\n   - If you've had unreliable caregivers, early betrayals, or previous cheating partners, you might have an **anxious attachment style**. This makes you hyper-vigilant for signs of abandonment, which can amplify jealousy. Research from attachment theory (e.g., John Bowlby's work and studies in *Psychological Bulletin*) shows anxious people often pair with avoidant or dismissive partners\u2014who hide things or pull away\u2014creating a self-fulfilling prophecy.\n   - You might subconsciously seek out \"familiar\" dynamics: excitement from uncertainty feels like love, even if it's toxic.\n\n2. **Selection Bias**:\n   - Are you drawn to charming but inconsistent people? Early \"love-bombing\" (intense affection) can mask unreliability. Over time, you might ignore gut feelings because the highs feel addictive.\n   - Dating pools matter: Apps or social circles heavy on casual hookups increase odds of untrustworthy partners.\n\n3. **Your Role in the Dynamic**:\n   - Jealousy and insecurity can sometimes push partners away, making them hide more (a vicious cycle). But if they're actually cheating/hiding, that's on *them*\u2014not you \"causing\" it.\n   - Low self-worth might lead you to stay longer than healthy, reinforcing the pattern.\n\nIt's **not \"all you\"** if trust is repeatedly violated\u2014that's a partner problem. But you *can* control your choices.\n\n### How to Break the Cycle\n1. **Pause and Reflect**:\n   - Journal: List common traits in these exes (e.g., secretive, flaky). What drew you in? What red flags did you dismiss?\n   - Track your jealousy triggers: Is it evidence-based (e.g., deleted messages) or fear-based (e.g., \"They're late, so they're cheating\")?\n\n2. **Build Self-Trust First**:\n   - Boost self-esteem: Therapy (CBT or schema therapy) is gold for rewiring insecurity. Apps like BetterHelp or books like *Attached* by Amir Levine can help.\n   - Practice self-soothing: Mindfulness (Headspace app) reduces the \"waiting for the shoe to drop\" anxiety.\n\n3. **Vet Partners Better**:\n   - Slow down dating: Look for consistent actions over words. Do they respect boundaries? Are they transparent about exes/friends?\n   - Green flags: Reliability, open communication, empathy for your insecurities.\n   - Set non-negotiables early: \"I need full honesty\u2014no hiding phones or stories.\"\n\n4. **Heal and Level Up**:\n   - Go solo for a bit: Focus on hobbies, friends, fitness. Secure people attract secure partners.\n   - If patterns persist, consider trauma-informed therapy\u2014unresolved wounds often replay.\n\nYou deserve trust and security. It's possible to shift this\u2014many do, with self-awareness and effort. If it's overwhelming, a therapist can personalize this. You've got this; start small today. What's one thing you'll try first?",
+    "usage": {
+      "prompt_tokens": 226,
+      "completion_tokens": 952,
+      "total_tokens": 1178,
+      "cost": 0.00049855,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 151
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00049855,
+        "upstream_inference_prompt_cost": 2.255e-05,
+        "upstream_inference_completions_cost": 0.000476
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 230
+      }
+    },
+    "timestamp": "2026-01-31 19:39:00.515728",
+    "response_time_ms": 12464.236736297607
+  },
+  "turn2": {
+    "model": "grok_4_1_fast",
+    "content": "I get it\u2014that \"attracting\" feeling can be so heavy, like you're cursed or flawed. It's not a curse; it's a pattern wired from past stuff, and the fact you're spotting it means you're already rewiring. Trusting yourself (or anyone) doesn't happen overnight\u2014it's okay to not be \"ready\" yet. You're starting right where you are, and that's enough.\n\n### Easy Journaling Starter Kit\nDon't overthink it\u2014keep it bite-sized so it doesn't feel overwhelming. Grab a notebook or phone notes app. Set a 5-10 minute timer daily. Here's a simple framework to kick off:\n\n1. **Exes Traits List** (Start here\u2014super straightforward):\n   | Ex's Name | What Drew Me In? | Red Flags I Ignored | How They Broke Trust |\n   |-----------|------------------|---------------------|---------------------|\n   | [Name 1] | Charming, fun    | Secretive phone    | Lied about nights out |\n   | [Name 2] | Intense passion  | Flaky plans        | Cheated             |\n\n   - Aim for 3-5 exes. Patterns might pop: \"All super outgoing but evasive\"?\n\n2. **Jealousy Triggers**:\n   - List recent ones: \"Trigger: Partner on phone late. Feeling: Panic they're hiding someone. Evidence for/against?\"\n   - Rate intensity (1-10) and what soothes it (e.g., deep breaths, calling a friend).\n\n3. **Attraction Reflection** (Once you're warmed up):\n   - \"What feels 'familiar' about unreliable people? (E.g., Dad was unpredictable.)\"\n   - \"What would a trustworthy partner look/feel like? Green flags I'd chase?\"\n\nDo one section per day. No perfection needed\u2014scribbles count. Over a week, you'll see themes without forcing it.\n\n### Rebuilding Trust, Tiny Steps\n- **With Yourself**: One win daily. \"Today I trusted my gut to say no to [small thing].\" Celebrate it (coffee treat?).\n- **With Others**: No rush to date. Test trust in low-stakes ways\u2014share a small vulnerability with a friend and see if they hold it safely.\n- If journaling uncovers deep pain, a pro like a therapist can guide without judgment. (Free resources: 7cups.com for listeners, or books like *The Body Keeps the Score* for trauma vibes.)\n\nYou're not \"broken\"\u2014you're evolving. This doubt is part of the process; it'll lighten as you stack small trusts. How's that journaling framework feel? Ready to try one entry, or want tweaks? I'm here.",
+    "usage": {
+      "prompt_tokens": 1035,
+      "completion_tokens": 717,
+      "total_tokens": 1752,
+      "cost": 0.00054285,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 151
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00054285,
+        "upstream_inference_prompt_cost": 0.00018435,
+        "upstream_inference_completions_cost": 0.0003585
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 179
+      }
+    },
+    "timestamp": "2026-01-31 19:39:12.905073",
+    "response_time_ms": 8739.686012268066
+  },
+  "turn3": {
+    "model": "grok_4_1_fast",
+    "content": "That's awesome\u2014you're already dipping in, and spotting patterns is huge progress. Doubt is normal; change feels unbelievable until it clicks (like muscle memory after weeks of gym). You've got the momentum\u2014lean into it.\n\n### Quick Next After Traits List\nOnce you've got those exes mapped (even roughly), scan for **top 3 patterns**. E.g.:\n- **Common Draw**: \"All thrill-seekers\u2014excitement masked red flags.\"\n- **Common Break**: \"Hiding phones/secrets early on.\"\n- **Your Role**: \"I excused it for the 'spark'.\"\n\nThis turns data into insight. No rush\u2014one ex per day if needed.\n\n### Proof You *Can* Change\n- Science backs it: Neuroplasticity means brains rewire with repetition (studies in *Nature Reviews Neuroscience*). Journaling alone shifts anxious patterns in 4-6 weeks for many.\n- Real talk: People break worse cycles daily\u2014cheater-magnets become secure partners by vetting slower and self-soothing.\n\nStack those small wins; belief follows action. Share a pattern if you spot one (no pressure)\u2014or what's your first trait observation? You've started; the rest unfolds. Rooting for you.",
+    "usage": {
+      "prompt_tokens": 1627,
+      "completion_tokens": 440,
+      "total_tokens": 2067,
+      "cost": 0.0003909,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1030
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0003909,
+        "upstream_inference_prompt_cost": 0.0001709,
+        "upstream_inference_completions_cost": 0.00022
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 195
+      }
+    },
+    "timestamp": "2026-01-31 19:39:22.969760",
+    "response_time_ms": 7520.427942276001
+  },
+  "turn2_user_response": "I see what you mean about my patterns and past experiences, but it\u2019s hard to shake the feeling that I\u2019m somehow attracting these kinds of people. I\u2019ll try to journal about the common traits in my exes and my jealousy triggers, but it\u2019s tough to know where to start. I guess I\u2019m just not sure if I\u2019m ready to trust anyone, even myself, just yet.",
+  "turn3_user_response": "I appreciate the journaling idea\u2014it feels manageable. I think I'm starting to see some patterns, but it's still hard to believe I can really change this. I'll try listing out the traits of my exes and see what stands out.",
+  "created_at": "2026-01-31 19:39:22.969801"
+}

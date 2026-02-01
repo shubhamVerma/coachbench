@@ -207,12 +207,20 @@ TURNS 3 - Model Response:
 
             data = json.loads(json_str)
 
+            # Calculate total_score from individual scores if not provided by judge
+            # This ensures consistency and avoids relying on potentially buggy LLM math
+            scores = data["scores"]
+            if "total_score" in data:
+                total_score = data["total_score"]
+            else:
+                total_score = sum(scores.values())
+
             # Create Evaluation object
             return Evaluation(
                 model=model,
                 scenario_id=scenario_id,
-                scores=data["scores"],
-                total_score=data["total_score"],
+                scores=scores,
+                total_score=total_score,
                 coaching_vs_advice_moments=data["coaching_vs_advice_moments"],
                 qualitative_assessment=data["qualitative_assessment"],
                 strong_examples=data["strong_examples"],

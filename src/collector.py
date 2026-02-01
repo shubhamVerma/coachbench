@@ -3,6 +3,7 @@ import asyncio
 import sys
 from pathlib import Path
 from typing import List
+import yaml
 
 # Add project root to Python path
 project_root = Path(__file__).parent.parent
@@ -13,15 +14,19 @@ from api_client import client
 from models import ModelName, Scenario, ScenarioCategory, Message, Conversation, ModelResponse
 
 
+def load_config():
+    """Load configuration from YAML file"""
+    config_path = Path(__file__).parent.parent / "config" / "models.yaml"
+    with open(config_path, "r") as f:
+        return yaml.safe_load(f)
+
+
 class ConversationCollector:
     """Collects 3-turn conversations from test models"""
-    
+
     def __init__(self):
-        self.test_models = [
-            ModelName.CLAUDE_WEB_FREE,
-            ModelName.CHATGPT_WEB_FREE,
-            ModelName.GEMINI_WEB_FREE
-        ]
+        config = load_config()
+        self.test_models = [ModelName(m) for m in config["test_models"]]
         self.generator_model = ModelName.QWEN_72B
     
     async def generate_turn2_user_response(

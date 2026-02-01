@@ -1,0 +1,82 @@
+{
+  "scenario_id": "motivation_resistance_037",
+  "model": "mistral_large",
+  "turn1": {
+    "model": "mistral_large",
+    "content": "It sounds like you're stuck in a really common but frustrating cycle\u2014one where the gap between *wanting* to work and *actually* working feels huge. That tension between knowing what you *should* do and what you *end up* doing can be exhausting. You're not alone in this, and the good news is that there are ways to gently nudge yourself out of it.\n\n### First, acknowledge the resistance without judgment.\nInstead of beating yourself up (\"Why can\u2019t I just do this?!\"), try asking: *\"What\u2019s making this feel so hard right now?\"* Sometimes the resistance isn\u2019t laziness\u2014it might be fear (of failure, of not doing it \"perfectly\"), overwhelm (not knowing where to start), or even just fatigue (your brain is craving a break). Naming it can take some of its power away.\n\n### Try the \"2-minute rule\" to lower the barrier.\nTell yourself: *\"I\u2019ll just open the project file and look at it for 2 minutes.\"* Often, starting is the hardest part, and once you\u2019re *in* it, momentum kicks in. If after 2 minutes you still want to scroll, that\u2019s okay\u2014at least you showed up. (But you\u2019ll often find yourself continuing.)\n\n### Remove the \"scrolling escape hatch.\"\nSocial media is designed to hijack your attention, so make it harder to access:\n- **Delete apps** from your phone (or use app blockers like Freedom or Cold Turkey).\n- **Move your phone to another room** while working.\n- **Use a separate device** (like a tablet or old laptop) *only* for work, with no social media logged in.\n\n### Reframe the task to make it feel less daunting.\n- **Break it into absurdly small steps**: Instead of \"work on project,\" try \"open the document and write one sentence\" or \"sketch one idea.\"\n- **Give yourself permission to do it \"badly\"**: Tell yourself, *\"I\u2019ll just do a messy first draft\u2014it doesn\u2019t have to be good.\"* Perfectionism often paralyzes us.\n- **Pair it with something enjoyable**: Listen to music, a podcast, or an audiobook *only* while working. Your brain will start associating the task with that reward.\n\n### Ask: *\"What\u2019s the smallest thing I can do to feel like I made progress?\"*\nProgress\u2014even tiny\u2014creates momentum. Did you outline one section? Great. Did you fix one typo? That counts. Celebrate those micro-wins.\n\n### Check in with your \"why.\"\nSometimes we procrastinate because the project doesn\u2019t feel meaningful *right now*. Ask:\n- *Why does this project matter to me?*\n- *How will I feel once it\u2019s done?*\n- *What\u2019s one small part of it that excites me?*\nReconnecting with the bigger picture can reignite motivation.\n\n### Lastly, be kind to yourself.\nYou\u2019re not \"failing\"\u2014you\u2019re human. The fact that you *want* to work on this but feel stuck means you care. That\u2019s a strength, not a weakness. Try one of these strategies, and if it doesn\u2019t work, adjust and try another. Progress isn\u2019t linear.\n\nWould it help to brainstorm a specific first step for your project? Sometimes just verbalizing it can make it feel more manageable. You\u2019ve got this.",
+    "usage": {
+      "prompt_tokens": 45,
+      "completion_tokens": 708,
+      "total_tokens": 753,
+      "cost": 0.004338,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.004338,
+        "upstream_inference_prompt_cost": 9e-05,
+        "upstream_inference_completions_cost": 0.004248
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:27:19.054936",
+    "response_time_ms": 13632.580995559692
+  },
+  "turn2": {
+    "model": "mistral_large",
+    "content": "You\u2019re so welcome! Overwhelm is *the worst*\u2014it turns even small tasks into this big, amorphous blob that feels impossible to tackle. The 2-minute rule is a great starting point because it\u2019s all about tricking your brain into thinking, *\"Oh, this isn\u2019t so bad.\"* Once you\u2019re in it, you might find yourself thinking, *\"Okay, I can do a little more.\"*\n\nSince you mentioned not knowing where to start, here\u2019s a quick way to break it down even further (if the 2-minute rule feels too vague):\n\n### **The \"One Tiny Thing\" Method**\n1. **Ask yourself:** *\"What\u2019s the smallest, easiest thing I can do right now to move this forward?\"*\n   - Examples:\n     - Open the project file and *just* rename it (e.g., \"Project Draft 1\" instead of \"Untitled\").\n     - Write *one* bullet point of what the project is about.\n     - Google *one* thing you\u2019re unsure about (e.g., \"how to structure a [project type]\").\n     - Set a timer for 5 minutes and *just* brain-dump all your ideas (no editing, no judgment).\n\n2. **Do that one thing.** That\u2019s it. No pressure to do more.\n\n3. **Pause and ask:** *\"Do I want to keep going?\"*\n   - If yes, great! Ride that momentum.\n   - If no, that\u2019s fine too. You\u2019ve already done *something*, and that\u2019s progress.\n\n### **Why This Works**\n- It removes the pressure of \"starting perfectly.\"\n- It gives your brain a clear, *doable* action (no more staring at a blank screen).\n- It builds confidence: *\"Hey, I did that! Maybe I can do a little more.\"*\n\nAnd if you\u2019re still feeling stuck, try this:\n- **Set a \"worst-case scenario\" timer:** Tell yourself, *\"I\u2019ll work on this for 10 minutes, and if it\u2019s terrible, I can stop.\"* Often, the fear of doing it badly is worse than actually doing it.\n\nYou\u2019ve already taken a big step by acknowledging the overwhelm and trying to work through it. That\u2019s huge. Keep going\u2014one tiny step at a time. You\u2019ve got this! \ud83d\udcaa\n\n(And if you want, you can share what your project is about\u2014I\u2019m happy to help brainstorm even smaller steps!)",
+    "usage": {
+      "prompt_tokens": 811,
+      "completion_tokens": 503,
+      "total_tokens": 1314,
+      "cost": 0.00464,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00464,
+        "upstream_inference_prompt_cost": 0.001622,
+        "upstream_inference_completions_cost": 0.003018
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:27:31.449971",
+    "response_time_ms": 10138.547897338867
+  },
+  "turn3": {
+    "model": "mistral_large",
+    "content": "That\u2019s the spirit! **Opening the file and renaming it is already a win**\u2014it\u2019s like showing up to the gym and just putting on your workout clothes. The hardest part is often just *starting*, and you\u2019re already doing that.\n\nIf you\u2019re still feeling overwhelmed after that, here\u2019s a gentle next step:\n- **After renaming the file, write *one* sentence** (even if it\u2019s just *\"This is my project about [topic]\"*).\n- Then close it. That\u2019s it. You\u2019ve made progress.\n\nThe key is to **stop before it feels like a chore**. That way, your brain won\u2019t associate the project with dread, and you\u2019ll be more likely to come back to it later.\n\nYou\u2019re doing great\u2014keep going at your own pace. \ud83d\udcaa Let me know how it goes!",
+    "usage": {
+      "prompt_tokens": 1369,
+      "completion_tokens": 174,
+      "total_tokens": 1543,
+      "cost": 0.003782,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.003782,
+        "upstream_inference_prompt_cost": 0.002738,
+        "upstream_inference_completions_cost": 0.001044
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "timestamp": "2026-01-31 20:27:39.294323",
+    "response_time_ms": 4143.893003463745
+  },
+  "turn2_user_response": "Thanks for the tips, they make a lot of sense. I think I'm just really overwhelmed and not sure where to even start, which makes me want to avoid it altogether. I'll try the 2-minute rule and see if that helps me get a bit of momentum.",
+  "turn3_user_response": "I appreciate the ideas, especially the \"One Tiny Thing\" method. I think I\u2019ll try opening the project file and renaming it, but I\u2019m still a bit overwhelmed by the whole thing. I\u2019ll give it a shot and see where it takes me.",
+  "created_at": "2026-01-31 20:27:39.294360"
+}

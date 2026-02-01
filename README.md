@@ -1,6 +1,6 @@
 # CoachBench: Evaluating Reflective Questioning Quality in Large Language Models
 
-**January 2026**
+**February 2026**
 
 ![CoachBench Overview](https://raw.githubusercontent.com/shubhamVerma/coachbench/main/docs/og-image.png)
 
@@ -21,15 +21,17 @@ python scripts/03_run_evaluation.py
 python scripts/04_analyze_results.py
 ```
 
-## Results (Jan 2026)
+## Results (Feb 2026)
 
 | Model | Score (mean ± SD) | Rank |
 |-------|-------------------|------|
 | Claude Sonnet 4.5 | 16.5 ± 0.37 | 🥇 |
 | GPT-5.2 Chat | 14.7 ± 0.38 | 🥈 |
-| Gemini 3 Flash | 11.5 ± 0.28 | 🥉 |
+| Mistral Large | 12.1 ± 0.20 | 🥉 |
+| Gemini 3 Flash | 11.6 ± 0.28 | 4 |
+| Grok 4.1 Fast | 10.9 ± 0.23 | 5 |
 
-42 scenarios, 126 conversations, 3 evaluations per conversation (DeepSeek-V3 judge, temperature=0).
+42 scenarios, 210 conversations, 3 evaluations per conversation (DeepSeek-V3 judge, temperature=0).
 
 ## Data
 
@@ -39,6 +41,20 @@ python scripts/04_analyze_results.py
 | `data/responses/{model}/` | Model responses for each scenario |
 | `data/evaluations.json` | Judge scores (DeepSeek-V3) |
 | `docs/data/summary.json` | Aggregated results for web UI |
+
+## Changelog
+
+### v2.0 (Feb 2026)
+- Added Grok 4.1 Fast and Mistral Large models
+- Total models: 3 → 5
+- Configurable test_models via config/models.yaml
+- Fixed evaluator to calculate total_score when missing from judge
+
+### v1.0 (Jan 2026)
+- Initial release with 3 models (Claude, ChatGPT, Gemini)
+- 42 personal growth scenarios across 6 categories
+- 126 conversations evaluated by DeepSeek-V3 judge
+- Multi-run evaluation (3 runs per conversation)
 
 ## Prompts
 
@@ -60,7 +76,7 @@ python scripts/04_analyze_results.py
   author={Verma, Shubham},
   year={2026},
   url={https://shubhamverma.github.io/coachbench/},
-  note={Benchmark evaluating 3 LLMs across 42 coaching scenarios using ICF Core Competencies framework}
+  note={Benchmark evaluating 5 LLMs across 42 coaching scenarios using ICF Core Competencies framework}
 }
 ```
 

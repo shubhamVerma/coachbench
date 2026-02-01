@@ -4,7 +4,7 @@
 
 - **Total Scenarios**: 42
 - **Total Evaluations**: N/A
-- **Evaluation Date**: 2026-01-17 13:29:38
+- **Evaluation Date**: 2026-02-01 12:30:33
         - **Methodology**: 3 runs per evaluation at temperature=0 for reproducibility
 
 ## Model Rankings
@@ -13,7 +13,9 @@
 |------|-------|---------------|------------------|------------------|------------------|----------------|-----------------|-------------------|
 | 1 | Anthropic: Claude Sonnet-4.5 (Free Web via claude.ai) | 16.5 ± 0.37 | 2.9 | 3.4 | 2.1 | 3.1 | 2.9 | 2.2 |
 | 2 | OpenAI: GPT-5.2 Chat (Free Web via chat.openai.com) | 14.7 ± 0.38 | 2.3 | 3.1 | 1.9 | 2.5 | 2.7 | 2.0 |
-| 3 | Google: Gemini 3 Flash Preview (Free Web via gemini.google.com) | 11.6 ± 0.28 | 2.0 | 2.2 | 1.2 | 2.0 | 2.1 | 1.9 |
+| 3 | Mistral AI: Large (Powers Le Chat web/iOS/Android) | 12.1 ± 0.20 | 2.0 | 2.5 | 1.3 | 1.9 | 2.3 | 2.0 |
+| 4 | Google: Gemini 3 Flash Preview (Free Web via gemini.google.com) | 11.6 ± 0.28 | 2.0 | 2.2 | 1.2 | 2.0 | 2.1 | 1.9 |
+| 5 | xAI: Grok 4.1 Fast (Default user-facing via grok.com, X, mobile apps) | 10.9 ± 0.23 | 1.9 | 2.3 | 1.2 | 1.6 | 2.1 | 1.9 |
 
 ## Key Findings
 

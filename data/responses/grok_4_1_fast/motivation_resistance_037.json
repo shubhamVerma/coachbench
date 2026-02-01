@@ -1,0 +1,79 @@
+{
+  "scenario_id": "motivation_resistance_037",
+  "model": "grok_4_1_fast",
+  "turn1": {
+    "model": "grok_4_1_fast",
+    "content": "I get it\u2014procrastination fueled by social media is a brutal loop. It's designed to hijack your attention with endless dopamine hits, making real work feel like climbing a mountain. The good news? You can break it with some targeted strategies. Here's a step-by-step plan to get unstuck:\n\n### 1. **Acknowledge and Reset (5 minutes)**\n   - Close all tabs/apps right now. Put your phone in another room or use airplane mode.\n   - Do a 2-minute brain dump: Write down exactly what your project entails (e.g., \"Research topic X\" or \"Write intro paragraph\"). This clears mental clutter.\n\n### 2. **Shrink the Task (The 2-Minute Rule)**\n   - Don't aim for \"work on project.\" Commit to **just 2 minutes** of the tiniest step: Open your doc, read one sentence, or outline one bullet. Momentum often kicks in after that.\n   - Why it works: Your brain resists big tasks but can't argue with 2 minutes.\n\n### 3. **Use the Pomodoro Technique**\n   - Set a timer for 25 minutes of focused work (no phone, no tabs). Use a site like tomato-timer.com.\n   - After, take a 5-minute break **not on social media**\u2014stretch, drink water, or stare out a window.\n   - Repeat 4x, then a longer 15-30 min break. Apps like Focus@Will or Forest gamify this.\n\n### 4. **Block the Distractions**\n   - Install a blocker: \n     | Platform | Tool |\n     |----------|------|\n     | Browser | StayFocusd (Chrome) or LeechBlock (Firefox) \u2013 limit sites to 10 min/day. |\n     | Phone | Freedom or AppBlock \u2013 schedule \"work mode.\" |\n     | All | Cold Turkey \u2013 nuclear option, locks you out. |\n   - Change your environment: Work in a different spot, or use a \"work-only\" browser profile.\n\n### 5. **Hack the Reward System**\n   - Replace social media highs: After a Pomodoro, reward with something small (coffee, quick walk).\n   - Track wins: Use a habit app like Habitica or a simple streak calendar. Seeing \"Day 1 done\" builds pride.\n   - Dig deeper: Ask why you're avoiding it (fear of sucking? Overwhelm?). Journal for 3 minutes: \"What's the worst that could happen if I start?\"\n\n### 6. **Build Long-Term Armor**\n   - Schedule your project first thing (e.g., 9 AM), before willpower fades.\n   - Accountability: Tell a friend, post on Reddit (r/GetMotivatedBuddies), or use StickK to bet money on completion.\n   - Limit social media to 30 min/day total via phone settings.\n\nStart with **one Pomodoro today**\u2014right after reading this. You'll feel the frustration lift. You've got this; the cycle breaks when you interrupt it. How's your project going, or what's the first 2-minute step?",
+    "usage": {
+      "prompt_tokens": 197,
+      "completion_tokens": 888,
+      "total_tokens": 1085,
+      "cost": 0.00046075,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 151
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00046075,
+        "upstream_inference_prompt_cost": 1.675e-05,
+        "upstream_inference_completions_cost": 0.000444
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 257
+      }
+    },
+    "timestamp": "2026-01-31 20:26:47.490397",
+    "response_time_ms": 10735.01181602478
+  },
+  "turn2": {
+    "model": "grok_4_1_fast",
+    "content": "That's a solid choice\u2014the 2-minute rule is perfect for when overwhelm hits because it's basically impossible to fail at it. Feeling stuck is totally normal; it's your brain's way of protecting you from perceived \"big scary tasks,\" but starting tiny rewires that.\n\nJust pick **one micro-step** (e.g., \"Open the file\" or \"Type the title\") and time it. If momentum doesn't carry you further, no biggie\u2014close it and call it a win. You've already interrupted the scroll cycle by committing here.\n\nYou've got the momentum starting. How'd that first 2 minutes go, or what's the tiniest step for your project? Rooting for you! \ud83d\ude80",
+    "usage": {
+      "prompt_tokens": 895,
+      "completion_tokens": 353,
+      "total_tokens": 1248,
+      "cost": 0.0003327,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 152
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0003327,
+        "upstream_inference_prompt_cost": 0.0001562,
+        "upstream_inference_completions_cost": 0.0001765
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 214
+      }
+    },
+    "timestamp": "2026-01-31 20:26:54.961398",
+    "response_time_ms": 4325.597047805786
+  },
+  "turn3": {
+    "model": "grok_4_1_fast",
+    "content": "Awesome progress\u2014opening the file **is** a win! That's momentum you didn't have 10 minutes ago. Overwhelm often creeps back because our brains lump tasks into \"monsters,\" so breaking it down further is spot-on. Outlining one section at a time? Perfect pivot.\n\n### Quick Breakdown Boost:\n1. **Pick ONE section only** (e.g., \"Intro\" or \"Section 1\"). Ignore the rest\u2014hide other parts of the doc if needed.\n2. **Micro-outline it** (under 2 minutes):\n   - Bullet 1: Main idea.\n   - Bullet 2: Key point A.\n   - Bullet 3: Key point B.\n   - Done. That's it\u2014no full sentences yet.\n3. **If stuck, use prompts**:\n   | Feeling | Prompt |\n   |---------|--------|\n   | Blank page | \"What do I already know about this?\" |\n   | Overwhelm | \"3 words that describe this section.\" |\n   | Perfectionism | \"Good enough for now\u2014edit later.\" |\n\nSet a timer for that one outline, then stop and reward (e.g., 5-min stretch). Stack a few like this, and the project assembles itself.\n\nYou're chipping away at the cycle\u2014one section closer. How'd that first outline go, or what's the one section you're tackling next? You've got the tools; keep crushing it! \ud83d\udcaa",
+    "usage": {
+      "prompt_tokens": 1108,
+      "completion_tokens": 478,
+      "total_tokens": 1586,
+      "cost": 0.0003271,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 890
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0003271,
+        "upstream_inference_prompt_cost": 8.81e-05,
+        "upstream_inference_completions_cost": 0.000239
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 189
+      }
+    },
+    "timestamp": "2026-01-31 20:27:03.418801",
+    "response_time_ms": 5838.649034500122
+  },
+  "turn2_user_response": "I appreciate the plan, and it makes sense, but I still feel a bit overwhelmed. I think I'll try the 2-minute rule and see if I can get started that way, but I'm not sure if it will be enough to break the cycle. I'll give it a shot, though.",
+  "turn3_user_response": "I really appreciate the step-by-step plan you laid out. I tried the 2-minute rule and managed to open my project file, but I still found myself feeling a bit overwhelmed after that. I think I need to work on breaking down the tasks even more. Maybe I should start with just outlining one section at a time.",
+  "created_at": "2026-01-31 20:27:03.418851"
+}

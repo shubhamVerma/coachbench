@@ -9,7 +9,9 @@ const ChatRenderer = {
   modelConfig: {
     claude: { key: 'claude', name: 'Claude', color: '#2c5282', shortName: 'Claude' },
     chatgpt: { key: 'chatgpt', name: 'GPT-5.2 Chat', color: '#d62728', shortName: 'GPT-5.2' },
-    gemini: { key: 'gemini', name: 'Gemini', color: '#e74c3c', shortName: 'Gemini' }
+    gemini: { key: 'gemini', name: 'Gemini', color: '#e74c3c', shortName: 'Gemini' },
+    grok: { key: 'grok', name: 'Grok 4.1 Fast', color: '#6b7280', shortName: 'Grok' },
+    mistral: { key: 'mistral', name: 'Mistral Large', color: '#8b5cf6', shortName: 'Mistral' }
   },
 
   getScenariosByCategory(category) {
@@ -180,7 +182,9 @@ const ChatRenderer = {
     const scores = [
       { key: 'claude', score: modelScores.claude },
       { key: 'chatgpt', score: modelScores.chatgpt },
-      { key: 'gemini', score: modelScores.gemini }
+      { key: 'gemini', score: modelScores.gemini },
+      { key: 'grok', score: modelScores.grok },
+      { key: 'mistral', score: modelScores.mistral }
     ].filter(m => m.score !== 'N/A');
 
     const winner = scores.reduce((max, m) => {
@@ -232,9 +236,9 @@ const ChatRenderer = {
           </button>
         </div>
 
-        <div class="control-group models-row">
-          <div class="model-tabs-container">
-            ${['claude', 'chatgpt', 'gemini'].map(key => {
+          <div class="control-group models-row">
+            <div class="model-tabs-container">
+              ${['claude', 'chatgpt', 'gemini', 'grok', 'mistral'].map(key => {
               const config = this.modelConfig[key];
               const score = modelScores[key] || 'N/A';
               const isWinner = winner && winner.key === key;
@@ -299,7 +303,9 @@ const ChatRenderer = {
     const responseMap = {
       claude: responses[0],
       chatgpt: responses[1],
-      gemini: responses[2]
+      gemini: responses[2],
+      grok: responses[3],
+      mistral: responses[4]
     };
 
     return responseMap[modelKey] || { error: true, message: 'Response not available' };
@@ -309,7 +315,9 @@ const ChatRenderer = {
     const modelKeyMap = {
       'claude': 'claude_web_free',
       'chatgpt': 'chatgpt_web_free',
-      'gemini': 'gemini_web_free'
+      'gemini': 'gemini_web_free',
+      'grok': 'grok_4_1_fast',
+      'mistral': 'mistral_large'
     };
 
     const scores = {};
@@ -407,7 +415,9 @@ const ChatRenderer = {
     const modelKeyMap = {
       'claude': 'claude_web_free',
       'chatgpt': 'chatgpt_web_free',
-      'gemini': 'gemini_web_free'
+      'gemini': 'gemini_web_free',
+      'grok': 'grok_4_1_fast',
+      'mistral': 'mistral_large'
     };
 
     const modelKey = modelKeyMap[this.currentModel];
